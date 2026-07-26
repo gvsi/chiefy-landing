@@ -215,7 +215,7 @@
   "draftShowcase": {
     "ariaLabel": "AI penyusunan email dan pembuatan balasan",
     "badge": "Penyusunan",
-    "title": "Draf duet dalam suara Anda",
+    "title": "Draf Chiefy dalam suara Anda",
     "subtitle": "Chiefy mempelajari cara Anda menulis dan menyusun balasan yang sesuai dengan nada bicara Anda. Tinjau, sesuaikan jika perlu, dan kirim dalam hitungan detik.",
     "windowTitle": "Pesan Baru",
     "fieldLabels": {
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Dasar",
+        "name": "Basic",
         "description": "Bagi siapa pun yang penasaran seperti apa rasanya inbox yang lebih cerdas. Tidak diperlukan komitmen.",
-        "priceLabel": "Bebas",
+        "priceLabel": "Gratis",
         "features": [
           {
             "title": "Ringkasan Instan",
@@ -394,7 +394,7 @@
             "description": "Coba asisten AI"
           }
         ],
-        "ctaLabel": "Pilih Gmail atau Outlook"
+        "ctaLabel": "Mulai gratis"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Manusia nyata, respon cepat"
           }
         ],
-        "ctaLabel": "Pilih Gmail atau Outlook",
+        "ctaLabel": "Mulai uji coba gratis",
         "featured": true
       },
       {
-        "name": "Perusahaan",
+        "name": "Enterprise",
         "description": "Untuk organisasi yang memerlukan skala tingkat perusahaan, dukungan khusus, dan alur kerja khusus. Terbaik untuk tim beranggotakan 50+ orang.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Paket Dasar",
+        "name": "Paket Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Paket gratis dengan ringkasan instan, draf AI, dan inbox cerdas"
@@ -688,7 +688,6 @@
         "question": "Bisakah saya menggunakan Chiefy dengan penyedia email lain?",
         "answer": "Chiefy mendukung Gmail, Google Workspace, dan Microsoft Outlook. Masuk dengan akun Google atau Microsoft Anda untuk memulai."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

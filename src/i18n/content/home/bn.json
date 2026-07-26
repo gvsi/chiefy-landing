@@ -57,7 +57,7 @@
         "from": "মার্কেটিং",
         "avatarLetter": "M",
         "subject": "প্রচারাভিযানের ফলাফল প্রস্তুত",
-        "pill": "FYI"
+        "pill": "জ্ঞাতার্থে"
       },
       {
         "from": "Shopify",
@@ -198,7 +198,7 @@
         "from": "ডিজাইন দল",
         "avatarLetter": "D",
         "subject": "নতুন ব্র্যান্ড নির্দেশিকা প্রকাশিত হয়েছে",
-        "pill": "FYI"
+        "pill": "জ্ঞাতার্থে"
       },
       {
         "from": "Stripe",
@@ -219,7 +219,7 @@
     "subtitle": "Chiefy শিখে যে আপনি কীভাবে লেখেন এবং আপনার সুরের সাথে মেলে এমন উত্তরগুলি খসড়া করেন৷ পর্যালোচনা করুন, প্রয়োজনে সামঞ্জস্য করুন এবং সেকেন্ডের মধ্যে পাঠান।",
     "windowTitle": "নতুন বার্তা",
     "fieldLabels": {
-      "to": "To:",
+      "to": "প্রাপক:",
       "subject": "বিষয়:"
     },
     "draft": {
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "মৌলিক",
+        "name": "Basic",
         "description": "একটি স্মার্ট ইনবক্স কেমন লাগে সে সম্পর্কে আগ্রহী যে কেউ। কোন প্রতিশ্রুতি প্রয়োজন.",
-        "priceLabel": "Free",
+        "priceLabel": "বিনামূল্যে",
         "features": [
           {
             "title": "তাত্ক্ষণিক সারাংশ",
@@ -394,7 +394,7 @@
             "description": "AI সহকারী ব্যবহার করে দেখুন"
           }
         ],
-        "ctaLabel": "Gmail বা Outlook বেছে নিন"
+        "ctaLabel": "বিনামূল্যে শুরু করুন"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "বাস্তব মানুষ, দ্রুত প্রতিক্রিয়া"
           }
         ],
-        "ctaLabel": "Gmail বা Outlook বেছে নিন",
+        "ctaLabel": "বিনামূল্যে ট্রায়াল শুরু করুন",
         "featured": true
       },
       {
-        "name": "এন্টারপ্রাইজ",
+        "name": "Enterprise",
         "description": "যে সংস্থাগুলির জন্য এন্টারপ্রাইজ-গ্রেড স্কেল, ডেডিকেটেড সমর্থন এবং কাস্টম ওয়ার্কফ্লো প্রয়োজন। 50+ দলের জন্য সেরা।",
         "priceByBilling": {
           "annual": "49.99",
@@ -627,7 +627,7 @@
     "lossSuffix": "/মা চলে গেছে",
     "dividerLabel": "বনাম",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/মাস"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "বেসিক প্ল্যান",
+        "name": "Basic প্ল্যান",
         "price": "0",
         "priceCurrency": "USD",
         "description": "তাৎক্ষণিক সারাংশ, AI ড্রাফট এবং স্মার্ট ইনবক্সসহ ফ্রি প্ল্যান"
@@ -688,7 +688,6 @@
         "question": "আমি কি অন্যান্য ইমেল প্রদানকারীদের সাথে Chiefy ব্যবহার করতে পারি?",
         "answer": "Chiefy, Gmail, Google Workspace, এবং Microsoft Outlook সমর্থন করে। শুরু করার জন্য আপনার Google বা Microsoft অ্যাকাউন্ট দিয়ে সাইন ইন করুন।"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Perus",
+        "name": "Basic",
         "description": "Kaikille, jotka haluavat tietää, miltä älykkäämpi postilaatikko tuntuu. Ei vaadi sitoutumista.",
         "priceLabel": "Maksuton",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Kokeile AI-avustajaa"
           }
         ],
-        "ctaLabel": "Valitse Gmail tai Outlook"
+        "ctaLabel": "Aloita ilmaiseksi"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Todelliset ihmiset, nopeat vastaukset"
           }
         ],
-        "ctaLabel": "Valitse Gmail tai Outlook",
+        "ctaLabel": "Aloita ilmainen kokeilu",
         "featured": true
       },
       {
@@ -626,7 +626,7 @@
     "narrativeTemplate": "{pricePerBooking} per {bookingUnit}, menettäen vain {lostPerMonth}:n hitaille vastauksille =",
     "lossSuffix": "/fi/mo gone",
     "dividerLabel": "vs",
-    "duetLabel": "Chiefy ti",
+    "duetLabel": "Chiefy",
     "duetPrice": "$30/mo"
   },
   "jsonLd": {
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "-perussuunnitelma",
+        "name": "Basic-tilaus",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Ilmainen paketti, jossa on välittömät yhteenvedot, AI-luonnokset ja älykäs postilaatikko"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro-tilaus",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "Voinko käyttää Chiefy:tä muiden sähköpostipalveluntarjoajien kanssa?",
         "answer": "Chiefy tukee Gmail-, Google Workspace- ja Microsoft Outlook -malleja. Aloita kirjautumalla sisään Google- tai Microsoft-tililläsi."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

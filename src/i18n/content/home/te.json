@@ -57,7 +57,7 @@
         "from": "మార్కెటింగ్",
         "avatarLetter": "M",
         "subject": "ప్రచార ఫలితాలు సిద్ధంగా ఉన్నాయి",
-        "pill": "FYI"
+        "pill": "సమాచారం కోసం"
       },
       {
         "from": "Shopify",
@@ -158,7 +158,7 @@
         "description": "స్మార్ట్ వర్గీకరణ మీ అత్యంత ముఖ్యమైన ఇమెయిల్‌లను ముందుగా చూపుతుంది మరియు ఇమెయిల్‌లను అంశాలకు వర్గీకరిస్తుంది. ఇమెయిల్ నిర్వహణ ఎప్పుడూ సులభం కాదు.",
         "ariaLabel": "ముఖ్యమైన వాటిపై దృష్టి పెట్టండి",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "విశ్లేషిస్తోంది"
         }
       }
     ]
@@ -198,7 +198,7 @@
         "from": "డిజైన్ బృందం",
         "avatarLetter": "D",
         "subject": "కొత్త బ్రాండ్ మార్గదర్శకాలు ప్రచురించబడ్డాయి",
-        "pill": "FYI"
+        "pill": "సమాచారం కోసం"
       },
       {
         "from": "Stripe",
@@ -364,8 +364,8 @@
     "billingAnnual": "వార్షిక",
     "billingMonthly": "నెలవారీ",
     "savingsTag": "33% ఆదా చేయండి",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/నెల",
+    "perUserSuffix": "/వినియోగదారు",
     "annualBillingSuffix": "(సంవత్సరానికి బిల్లు)",
     "trustItems": [
       "Stripe ద్వారా సురక్షిత చెక్అవుట్",
@@ -394,7 +394,7 @@
             "description": "AI అసిస్టెంట్‌ని ప్రయత్నించండి"
           }
         ],
-        "ctaLabel": "Gmail లేదా Outlookని ఎంచుకోండి"
+        "ctaLabel": "ఉచితంగా ప్రారంభించండి"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "నిజమైన మానవులు, వేగవంతమైన ప్రతిస్పందనలు"
           }
         ],
-        "ctaLabel": "Gmail లేదా Outlookని ఎంచుకోండి",
+        "ctaLabel": "ఉచిత ట్రయల్ ప్రారంభించండి",
         "featured": true
       },
       {
@@ -477,7 +477,7 @@
     "headingPrefix": "సాధారణ ప్రశ్నలు, ",
     "headingAccent": "సమాధానమిచ్చాడు",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
+    "contactLabel": "సంప్రదించండి",
     "contactHeading": "ఇంకా ప్రశ్నలు ఉన్నాయా?",
     "contactCta": "సంప్రదించండి →",
     "footerBrand": "CHIEFY",
@@ -624,10 +624,10 @@
     "ariaLabel": "పెట్టుబడి మీద రాబడి",
     "label": "గణితం",
     "narrativeTemplate": "{bookingUnit}కి {pricePerBooking} వద్ద, ప్రత్యుత్తరాలను నెమ్మదించడానికి కేవలం {lostPerMonth}ని కోల్పోతారు =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/నెల నష్టం",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/నెల"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "ప్రాథమిక ప్రణాళిక",
+        "name": "Basic ప్లాన్",
         "price": "0",
         "priceCurrency": "USD",
         "description": "తక్షణ సారాంశాలు, AI డ్రాఫ్ట్‌లు మరియు స్మార్ట్ ఇన్‌బాక్స్‌తో ఉచిత ప్లాన్"
@@ -688,7 +688,6 @@
         "question": "నేను ఇతర ఇమెయిల్ ప్రొవైడర్‌లతో Chiefyని ఉపయోగించవచ్చా?",
         "answer": "Chiefy Gmail, Google Workspace మరియు Microsoft Outlookకి మద్దతు ఇస్తుంది. ప్రారంభించడానికి మీ Google లేదా Microsoft ఖాతాతో సైన్ ఇన్ చేయండి."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

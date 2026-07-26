@@ -57,7 +57,7 @@
         "from": "ግብይት",
         "avatarLetter": "M",
         "subject": "የዘመቻ ውጤቶች ተዘጋጅተዋል።",
-        "pill": "FYI"
+        "pill": "ለመረጃ"
       },
       {
         "from": "Shopify",
@@ -198,7 +198,7 @@
         "from": "የንድፍ ቡድን",
         "avatarLetter": "D",
         "subject": "አዲስ የምርት መመሪያዎች ታትመዋል",
-        "pill": "FYI"
+        "pill": "ለመረጃ"
       },
       {
         "from": "Stripe",
@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "መሰረታዊ",
+        "name": "Basic",
         "description": "ብልህ የሆነ የገቢ መልእክት ሳጥን ምን እንደሚሰማው ለማወቅ ለሚፈልግ ለማንኛውም ሰው። ቁርጠኝነት አያስፈልግም።",
         "priceLabel": "ነፃ",
         "features": [
@@ -394,7 +394,7 @@
             "description": "የAI ረዳትን ይሞክሩ"
           }
         ],
-        "ctaLabel": "Gmail ወይም Outlook ን ይምረጡ"
+        "ctaLabel": "በነጻ ይጀምሩ"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "እውነተኛ ሰዎች ፣ ፈጣን ምላሾች"
           }
         ],
-        "ctaLabel": "Gmail ወይም Outlook ን ይምረጡ",
+        "ctaLabel": "ነጻ ሙከራ ይጀምሩ",
         "featured": true
       },
       {
-        "name": "ድርጅት",
+        "name": "Enterprise",
         "description": "የድርጅት ደረጃ ልኬት፣ ልዩ ድጋፍ እና ብጁ የስራ ፍሰት ለሚፈልጉ ድርጅቶች። ከ50+ በላይ ለሆኑ ቡድኖች ምርጥ።",
         "priceByBilling": {
           "annual": "49.99",
@@ -516,7 +516,7 @@
     "secondaryCta": "በOutlook ይጀምሩ",
     "note": "የ14-ቀን ነጻ ሙከራ · በማንኛውም ጊዜ ይሰርዙ",
     "trustItems": [
-      "Google CASA-assessed",
+      "በGoogle CASA የተገመገመ",
       "በማከማቻ ጊዜ የተመሰጠረ",
       "ደህንነቱ የተጠበቀ OAuth 2.0"
     ]
@@ -606,12 +606,12 @@
             "external": true
           },
           {
-            "label": "ኢንስታግራም",
+            "label": "Instagram",
             "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
-            "label": "የጅምር ዝና",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -624,10 +624,10 @@
     "ariaLabel": "ወደ ኢንቨስትመንት መመለስ",
     "label": "ሒሳብ",
     "narrativeTemplate": "በ{pricePerBooking} በ{bookingUnit}፣ ለዘገየ ምላሾች {lostPerMonth} ማጣት =",
-    "lossSuffix": "/ mo ጠፍቷል",
+    "lossSuffix": "/ወር ጠፍቷል",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/ወር"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "መሰረታዊ እቅድ",
+        "name": "Basic እቅድ",
         "price": "0",
         "priceCurrency": "USD",
         "description": "ነፃ እቅድ በቅጽበት ማጠቃለያዎች፣ AI ረቂቆች እና ብልጥ የገቢ መልእክት ሳጥን"
@@ -659,7 +659,7 @@
         "description": "ሙሉ መዳረሻ ከብልጥ የገቢ መልእክት ሳጥን ምድብ ፣ AI ረቂቆች ፣ ረዳት እና የቀን መቁጠሪያ ውህደት ጋር"
       }
     ],
-    "operatingSystem": "ድር",
+    "operatingSystem": "Web",
     "browserRequirements": "JavaScript ያስፈልገዋል። ከGmail፣ Google Workspace እና Microsoft Outlook ጋር ይሰራል።",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "ከሌሎች የኢሜይል አቅራቢዎች ጋር Chiefy መጠቀም እችላለሁ?",
         "answer": "Chiefy Gmail፣ Google Workspace እና Microsoft Outlookን ይደግፋል። ለመጀመር በGoogle ወይም Microsoft መለያ ይግቡ።"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

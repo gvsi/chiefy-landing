@@ -37,7 +37,7 @@
       "10:05 AM",
       "நேற்று"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "தானியங்கு வரைவு",
     "emails": [
       {
         "from": "Alex Rivera",
@@ -54,10 +54,10 @@
         "pill": "கூட்டம்"
       },
       {
-        "from": "Marketing",
+        "from": "மார்க்கெட்டிங்",
         "avatarLetter": "M",
         "subject": "பிரச்சார முடிவுகள் தயார்",
-        "pill": "FYI"
+        "pill": "தகவலுக்கு"
       },
       {
         "from": "Shopify",
@@ -195,10 +195,10 @@
         "pill": "கூட்டம்"
       },
       {
-        "from": "Design Team",
+        "from": "வடிவமைப்புக் குழு",
         "avatarLetter": "D",
         "subject": "புதிய பிராண்ட் வழிகாட்டுதல்கள் வெளியிடப்பட்டன",
-        "pill": "FYI"
+        "pill": "தகவலுக்கு"
       },
       {
         "from": "Stripe",
@@ -206,7 +206,7 @@
         "pill": "பதவி உயர்வுகள்"
       },
       {
-        "from": "Newsletter",
+        "from": "செய்திமடல்",
         "subject": "வாராந்திர செரிமானம்",
         "pill": "பதவி உயர்வுகள்"
       }
@@ -219,7 +219,7 @@
     "subtitle": "Chiefy நீங்கள் எப்படி எழுதுகிறீர்கள் என்பதைக் கற்றுக்கொள்கிறது மற்றும் உங்கள் தொனியுடன் பொருந்தக்கூடிய பதில்களை வரைகிறது. மதிப்பாய்வு செய்து, தேவைப்பட்டால் சரிசெய்து, நொடிகளில் அனுப்பவும்.",
     "windowTitle": "புதிய செய்தி",
     "fieldLabels": {
-      "to": "To:",
+      "to": "பெறுநர்:",
       "subject": "பொருள்:"
     },
     "draft": {
@@ -394,7 +394,7 @@
             "description": "AI உதவியாளரை முயற்சிக்கவும்"
           }
         ],
-        "ctaLabel": "Gmail அல்லது Outlook ஐ தேர்வு செய்யவும்"
+        "ctaLabel": "இலவசமாகத் தொடங்கவும்"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "உண்மையான மனிதர்கள், விரைவான பதில்கள்"
           }
         ],
-        "ctaLabel": "Gmail அல்லது Outlook ஐ தேர்வு செய்யவும்",
+        "ctaLabel": "இலவச சோதனையைத் தொடங்கவும்",
         "featured": true
       },
       {
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Basic திட்டம்",
         "price": "0",
         "priceCurrency": "USD",
         "description": "உடனடி சுருக்கங்கள், AI வரைவுகள் மற்றும் ஸ்மார்ட் இன்பாக்ஸுடன் இலவச திட்டம்"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro திட்டம்",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "ஸ்மார்ட் இன்பாக்ஸ் வகைப்படுத்தல், AI வரைவுகள், உதவியாளர் மற்றும் காலண்டர் ஒருங்கிணைப்புடன் முழு அணுகல்"
       }
     ],
-    "operatingSystem": "இணையம்",
+    "operatingSystem": "Web",
     "browserRequirements": "JavaScript தேவை. Gmail, Google Workspace மற்றும் Microsoft Outlook உடன் வேலை செய்கிறது.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "நான் மற்ற மின்னஞ்சல் வழங்குநர்களுடன் Chiefy ஐப் பயன்படுத்தலாமா?",
         "answer": "Chiefy Gmail, Google Workspace மற்றும் Microsoft Outlook ஆகியவற்றை ஆதரிக்கிறது. தொடங்குவதற்கு உங்கள் Google அல்லது Microsoft கணக்கில் உள்நுழையவும்."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

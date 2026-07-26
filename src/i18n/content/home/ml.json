@@ -364,8 +364,8 @@
     "billingAnnual": "വാർഷികം",
     "billingMonthly": "പ്രതിമാസം",
     "savingsTag": "33% ലാഭിക്കൂ",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/മാസം",
+    "perUserSuffix": "/ഉപയോക്താവ്",
     "annualBillingSuffix": "(വാർഷികം ബിൽ ചെയ്യുന്നു)",
     "trustItems": [
       "Stripe വഴി സുരക്ഷിതമായ ചെക്ക്ഔട്ട്",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "അടിസ്ഥാനപരമായ",
+        "name": "Basic",
         "description": "ഒരു മികച്ച ഇൻബോക്സ് എങ്ങനെയിരിക്കും എന്നതിനെക്കുറിച്ച് ജിജ്ഞാസയുള്ള ആർക്കും. പ്രതിബദ്ധത ആവശ്യമില്ല.",
-        "priceLabel": "സൗ ജന്യം",
+        "priceLabel": "സൗജന്യം",
         "features": [
           {
             "title": "തൽക്ഷണ സംഗ്രഹങ്ങൾ",
@@ -394,7 +394,7 @@
             "description": "AI അസിസ്റ്റന്റ് പരീക്ഷിച്ചു നോക്കൂ"
           }
         ],
-        "ctaLabel": "Gmail അല്ലെങ്കിൽ Outlook തിരഞ്ഞെടുക്കുക"
+        "ctaLabel": "സൗജന്യമായി ആരംഭിക്കുക"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "യഥാർത്ഥ മനുഷ്യർ, വേഗത്തിലുള്ള പ്രതികരണങ്ങൾ"
           }
         ],
-        "ctaLabel": "Gmail അല്ലെങ്കിൽ Outlook തിരഞ്ഞെടുക്കുക",
+        "ctaLabel": "സൗജന്യ ട്രയൽ ആരംഭിക്കുക",
         "featured": true
       },
       {
-        "name": "എന്റർപ്രൈസ്",
+        "name": "Enterprise",
         "description": "എന്റർപ്രൈസ്-ഗ്രേഡ് സ്കെയിൽ, സമർപ്പിത പിന്തുണ, ഇഷ്ടാനുസൃത വർക്ക്ഫ്ലോകൾ എന്നിവ ആവശ്യമുള്ള സ്ഥാപനങ്ങൾക്ക്. 50+ പേരുടെ ടീമുകൾക്ക് ഏറ്റവും അനുയോജ്യം.",
         "priceByBilling": {
           "annual": "49.99",
@@ -624,10 +624,10 @@
     "ariaLabel": "നിക്ഷേപത്തിൽ നിന്നുള്ള വരുമാനം",
     "label": "ഗണിതം",
     "narrativeTemplate": "{pricePerBooking} ന് {bookingUnit}, മന്ദഗതിയിലുള്ള മറുപടികൾ കാരണം {lostPerMonth} മാത്രം നഷ്ടപ്പെട്ടു =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/മാസം നഷ്ടം",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/മാസം"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "അടിസ്ഥാന പ്ലാൻ",
+        "name": "Basic പ്ലാൻ",
         "price": "0",
         "priceCurrency": "USD",
         "description": "തൽക്ഷണ സംഗ്രഹങ്ങൾ, AI ഡ്രാഫ്റ്റുകൾ, സ്മാർട്ട് ഇൻബോക്സ് എന്നിവയുള്ള സൗജന്യ പ്ലാൻ."
@@ -659,7 +659,7 @@
         "description": "സ്മാർട്ട് ഇൻബോക്സ് വർഗ്ഗീകരണം, AI ഡ്രാഫ്റ്റുകൾ, അസിസ്റ്റന്റ്, കലണ്ടർ സംയോജനം എന്നിവയിലൂടെ പൂർണ്ണ ആക്‌സസ്."
       }
     ],
-    "operatingSystem": "വെബ്",
+    "operatingSystem": "Web",
     "browserRequirements": "ജാവാസ്ക്രിപ്റ്റ് ആവശ്യമാണ്. Gmail, Google വർക്ക്‌സ്‌പെയ്‌സ്, Microsoft Outlook എന്നിവയിൽ പ്രവർത്തിക്കുന്നു.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "എനിക്ക് മറ്റ് ഇമെയിൽ ദാതാക്കളോടൊപ്പം Chiefy ഉപയോഗിക്കാനാകുമോ?",
         "answer": "Chiefy, Gmail, Google വർക്ക്‌സ്‌പെയ്‌സ്, Microsoft Outlook എന്നിവയെ പിന്തുണയ്ക്കുന്നു. ആരംഭിക്കാൻ നിങ്ങളുടെ Google അല്ലെങ്കിൽ Microsoft അക്കൗണ്ട് ഉപയോഗിച്ച് സൈൻ ഇൻ ചെയ്യുക."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

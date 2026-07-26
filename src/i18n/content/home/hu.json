@@ -252,7 +252,7 @@
     "ariaLabel": "AI e-mail intelligencia és asszisztens",
     "badge": "Intelligencia",
     "title": "Kérdezz bármit az e-maileddel kapcsolatban",
-    "subtitle": "Kérje meg a Duetet, hogy keresse meg az e-maileket, ellenőrizze a naptárát, vagy válaszvázlatot készítsen. Megérti a beérkezett üzeneteket, és azonnal válaszol.",
+    "subtitle": "Kérje meg a Chiefyt, hogy keresse meg az e-maileket, ellenőrizze a naptárát, vagy válaszvázlatot készítsen. Megérti a beérkezett üzeneteket, és azonnal válaszol.",
     "windowTitle": "Chiefy ügynök",
     "onlineLabel": "Online",
     "initialUserMessage": "Megtalálod a Számvitel által küldött Stripe számlát?",
@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Alapvető",
+        "name": "Basic",
         "description": "Mindenkinek, aki kíváncsi arra, milyen érzés egy okosabb postafiók. Nem szükséges kötelezettség.",
         "priceLabel": "Ingyenes",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Próbáld ki az AI-asszisztenst"
           }
         ],
-        "ctaLabel": "Válassza a Gmail vagy a Outlook lehetőséget"
+        "ctaLabel": "Kezdje ingyen"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Igazi emberek, gyors válaszok"
           }
         ],
-        "ctaLabel": "Válassza a Gmail vagy a Outlook lehetőséget",
+        "ctaLabel": "Kezdje az ingyenes próbaverziót",
         "featured": true
       },
       {
-        "name": "Vállalkozás",
+        "name": "Enterprise",
         "description": "Olyan szervezetek számára, amelyeknek nagyvállalati szintű skálára, dedikált támogatásra és egyedi munkafolyamatokra van szükségük. A legjobb 50 év feletti csapatok számára.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Alapterv",
+        "name": "Basic csomag",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Ingyenes csomag azonnali összefoglalókkal, mesterséges intelligencia-vázlatokkal és intelligens postafiókkal"
       },
       {
-        "name": "Pro terv",
+        "name": "Pro csomag",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "Használhatom a Chiefy-t más e-mail szolgáltatókkal?",
         "answer": "A Chiefy támogatja a Gmail, Google Workspace és Microsoft Outlook fájlokat. A kezdéshez jelentkezzen be Google vagy Microsoft fiókjával."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

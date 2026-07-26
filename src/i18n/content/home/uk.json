@@ -54,7 +54,7 @@
         "pill": "Зустріч"
       },
       {
-        "from": "Marketing",
+        "from": "Маркетинг",
         "avatarLetter": "M",
         "subject": "Результати кампанії готові",
         "pill": "До відома"
@@ -195,7 +195,7 @@
         "pill": "Зустріч"
       },
       {
-        "from": "Design Team",
+        "from": "Команда дизайну",
         "avatarLetter": "D",
         "subject": "Опубліковано нові бренд-гайдлайни",
         "pill": "До відома"
@@ -206,7 +206,7 @@
         "pill": "Промоакції"
       },
       {
-        "from": "Newsletter",
+        "from": "Розсилка",
         "subject": "Щотижневий дайджест",
         "pill": "Промоакції"
       }
@@ -279,7 +279,7 @@
       "processingDraft": "Генерую чернетку...",
       "processingCalendar": "Перевіряю доступність...",
       "draftIntro": "Ось чернетка відповіді для бухгалтерії:",
-      "draftHeader": "Draft: accounting@company.com",
+      "draftHeader": "Чернетка: accounting@company.com",
       "draftLines": [
         "Привіт, команда,",
         "У вкладенні інвойс Stripe за жовтень ($29.00).",
@@ -394,7 +394,7 @@
             "description": "Спробуйте AI-асистента"
           }
         ],
-        "ctaLabel": "Вибрати Gmail або Outlook"
+        "ctaLabel": "Почати безкоштовно"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Реальні люди, швидкі відповіді"
           }
         ],
-        "ctaLabel": "Вибрати Gmail або Outlook",
+        "ctaLabel": "Почати безкоштовний пробний період",
         "featured": true
       },
       {
@@ -627,7 +627,7 @@
     "lossSuffix": "/міс втрачено",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/міс."
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "План Basic",
+        "name": "Тариф Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Безкоштовний план із миттєвими підсумками, AI-чернетками та розумними вхідними"
       },
       {
-        "name": "План Pro",
+        "name": "Тариф Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "Чи можу я використовувати Chiefy з іншими поштовими провайдерами?",
         "answer": "Chiefy підтримує Gmail, Google Workspace і Microsoft Outlook. Увійдіть через свій обліковий запис Google або Microsoft, щоб почати."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

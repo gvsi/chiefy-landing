@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Pamata",
+        "name": "Basic",
         "description": "Ikvienam, kurš vēlas izmēģināt, kāda ir gudrāka iesūtne. Bez saistībām.",
-        "priceLabel": "Free",
+        "priceLabel": "Bez maksas",
         "features": [
           {
             "title": "Tūlītēji kopsavilkumi",
@@ -394,7 +394,7 @@
             "description": "Izmēģiniet AI asistentu"
           }
         ],
-        "ctaLabel": "Izvēlieties Gmail vai Outlook"
+        "ctaLabel": "Sākt bez maksas"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Īsti cilvēki, ātras atbildes"
           }
         ],
-        "ctaLabel": "Izvēlieties Gmail vai Outlook",
+        "ctaLabel": "Sākt bezmaksas izmēģinājumu",
         "featured": true
       },
       {
-        "name": "Uzņēmumiem",
+        "name": "Enterprise",
         "description": "Organizācijām, kurām nepieciešama uzņēmuma līmeņa mērogojamība, specializēts atbalsts un pielāgotas darbplūsmas. Vislabāk komandām ar 50+ cilvēkiem.",
         "priceByBilling": {
           "annual": "49.99",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup slava",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Pamata plāns",
+        "name": "Basic plāns",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Bezmaksas plāns ar tūlītējiem kopsavilkumiem, AI melnrakstiem un viedo iesūtni"
@@ -659,7 +659,7 @@
         "description": "Pilna piekļuve ar viedu iesūtnes kategorizēšanu, AI melnrakstiem, asistentu un kalendāra integrāciju"
       }
     ],
-    "operatingSystem": "Tīmeklis",
+    "operatingSystem": "Web",
     "browserRequirements": "Nepieciešams JavaScript. Darbojas ar Gmail, Google Workspace un Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Vai varu izmantot Chiefy ar citiem e-pasta pakalpojumu sniedzējiem?",
         "answer": "Chiefy atbalsta Gmail, Google Workspace un Microsoft Outlook. Lai sāktu, pierakstieties ar savu Google vai Microsoft kontu."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

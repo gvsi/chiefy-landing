@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Grundläggande",
+        "name": "Basic",
         "description": "För alla som är nyfikna på hur en smartare inkorg känns. Inget åtagande krävs.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratis",
         "features": [
           {
             "title": "Omedelbara sammanfattningar",
@@ -394,7 +394,7 @@
             "description": "Prova AI-assistenten"
           }
         ],
-        "ctaLabel": "Välj Gmail eller Outlook"
+        "ctaLabel": "Kom igång gratis"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Riktiga människor, snabba svar"
           }
         ],
-        "ctaLabel": "Välj Gmail eller Outlook",
+        "ctaLabel": "Starta gratis provperiod",
         "featured": true
       },
       {
-        "name": "Företag",
+        "name": "Enterprise",
         "description": "För organisationer som behöver skala i företagsklass, dedikerad support och anpassade arbetsflöden. Bäst för lag på 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Grundplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Gratis plan med omedelbara sammanfattningar, AI-utkast och smart inkorg"
@@ -659,7 +659,7 @@
         "description": "Full åtkomst med smart inkorgskategorisering, AI-utkast, assistent och kalenderintegrering"
       }
     ],
-    "operatingSystem": "Webb",
+    "operatingSystem": "Web",
     "browserRequirements": "Kräver JavaScript. Fungerar med Gmail, Google Workspace och Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Kan jag använda Chiefy med andra e-postleverantörer?",
         "answer": "Chiefy stöder Gmail, Google Workspace och Microsoft Outlook. Logga in med ditt Google- eller Microsoft-konto för att komma igång."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

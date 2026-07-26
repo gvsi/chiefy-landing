@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Essenziale",
+        "name": "Basic",
         "description": "Per chiunque sia curioso di sapere cosa significhi una casella di posta più intelligente. Nessun impegno richiesto.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratis",
         "features": [
           {
             "title": "Riepiloghi istantanei",
@@ -394,7 +394,7 @@
             "description": "Prova l'assistente IA"
           }
         ],
-        "ctaLabel": "Scegli Gmail o Outlook"
+        "ctaLabel": "Inizia gratis"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Umani veri, risposte veloci"
           }
         ],
-        "ctaLabel": "Scegli Gmail o Outlook",
+        "ctaLabel": "Inizia la prova gratuita",
         "featured": true
       },
       {
-        "name": "Impresa",
+        "name": "Enterprise",
         "description": "Per le organizzazioni che necessitano di scalabilità di livello aziendale, supporto dedicato e flussi di lavoro personalizzati. Ideale per squadre di oltre 50 persone.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Piano di base",
+        "name": "Piano Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Piano gratuito con riepiloghi istantanei, bozze IA e casella di posta intelligente"
@@ -659,7 +659,7 @@
         "description": "Accesso completo con categorizzazione intelligente della casella di posta, bozze IA, assistente e integrazione del calendario"
       }
     ],
-    "operatingSystem": "Rete",
+    "operatingSystem": "Web",
     "browserRequirements": "Richiede JavaScript. Funziona con Gmail, Google Workspace e Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Posso utilizzare Chiefy con altri provider di posta elettronica?",
         "answer": "Chiefy supporta Gmail, Google Workspace e Microsoft Outlook. Accedi con il tuo account Google o Microsoft per iniziare."
       }
-    ],
-    "alternateName": "Chiefy - capo di staff IA per Gmail e Outlook"
+    ]
   }
 }

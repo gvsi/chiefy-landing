@@ -57,7 +57,7 @@
         "from": "マーケティング",
         "avatarLetter": "M",
         "subject": "キャンペーン結果の準備完了",
-        "pill": "FYI"
+        "pill": "参考"
       },
       {
         "from": "ショッピファイ",
@@ -198,7 +198,7 @@
         "from": "デザインチーム",
         "avatarLetter": "D",
         "subject": "新しいブランドガイドラインを公開",
-        "pill": "FYI"
+        "pill": "参考"
       },
       {
         "from": "Stripe",
@@ -214,12 +214,12 @@
   },
   "draftShowcase": {
     "ariaLabel": "AI 電子メールの作成と返信の生成",
-    "badge": "製図",
+    "badge": "下書き",
     "title": "あなたの声でChiefyドラフト",
     "subtitle": "Chiefy はあなたの書き方を学習し、あなたの口調に合った返信の下書きを作成します。 確認して必要に応じて調整し、数秒で送信します。",
     "windowTitle": "新しいメッセージ",
     "fieldLabels": {
-      "to": "に：",
+      "to": "宛先:",
       "subject": "主題："
     },
     "draft": {
@@ -364,8 +364,8 @@
     "billingAnnual": "年間",
     "billingMonthly": "毎月",
     "savingsTag": "33% 割引",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/月",
+    "perUserSuffix": "/ユーザー",
     "annualBillingSuffix": "(毎年請求されます)",
     "trustItems": [
       "Stripe による安全なチェックアウト",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "基本",
+        "name": "Basic",
         "description": "よりスマートな受信トレイがどのようなものかを知りたい人向け。 コミットメントは必要ありません。",
-        "priceLabel": "Free",
+        "priceLabel": "無料",
         "features": [
           {
             "title": "インスタントサマリー",
@@ -394,7 +394,7 @@
             "description": "AI アシスタントを試してみる"
           }
         ],
-        "ctaLabel": "Gmail または Outlook を選択してください"
+        "ctaLabel": "無料で始める"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "本物の人間、素早い反応"
           }
         ],
-        "ctaLabel": "Gmail または Outlook を選択してください",
+        "ctaLabel": "無料トライアルを始める",
         "featured": true
       },
       {
-        "name": "企業",
+        "name": "Enterprise",
         "description": "エンタープライズ グレードの規模、専用のサポート、カスタム ワークフローを必要とする組織向け。 50 名以上のチームに最適です。",
         "priceByBilling": {
           "annual": "49.99",
@@ -477,7 +477,7 @@
     "headingPrefix": "よくある質問、 ",
     "headingAccent": "答えた",
     "contactDecorative": "?",
-    "contactLabel": "接触",
+    "contactLabel": "お問い合わせ",
     "contactHeading": "まだ質問がありますか?",
     "contactCta": "お問い合わせ→",
     "footerBrand": "CHIEFY",
@@ -596,7 +596,7 @@
             "href": "/ja/blog"
           },
           {
-            "label": "リンクトイン",
+            "label": "LinkedIn",
             "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
@@ -606,12 +606,12 @@
             "external": true
           },
           {
-            "label": "インスタグラム",
+            "label": "Instagram",
             "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
-            "label": "スタートアップの名声",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -627,7 +627,7 @@
     "lossSuffix": "/mo",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "月額$30"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "基本プラン",
+        "name": "Basic プラン",
         "price": "0",
         "priceCurrency": "USD",
         "description": "即時要約、AI 下書き、スマート受信箱を備えた無料プラン"
       },
       {
-        "name": "Pro 計画",
+        "name": "Pro プラン",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "Chiefy を他の電子メール プロバイダーで使用できますか?",
         "answer": "Chiefy は、Gmail、Google Workspace、および Microsoft Outlook をサポートします。 開始するには、Google または Microsoft アカウントでサインインしてください。"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

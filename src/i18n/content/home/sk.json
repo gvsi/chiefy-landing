@@ -394,7 +394,7 @@
             "description": "Vyskúšajte AI asistenta"
           }
         ],
-        "ctaLabel": "Vyberte si Gmail alebo Outlook"
+        "ctaLabel": "Začať zdarma"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Skutoční ľudia, rýchle odpovede"
           }
         ],
-        "ctaLabel": "Vyberte si Gmail alebo Outlook",
+        "ctaLabel": "Začať skúšobnú verziu zdarma",
         "featured": true
       },
       {
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Plán Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Bezplatný plán s okamžitými súhrnmi, AI konceptmi a smart inbox"
       },
       {
-        "name": "Pro Plan",
+        "name": "Plán Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "Môžem používať Chiefy s inými poskytovateľmi e-mailu?",
         "answer": "Chiefy podporuje Gmail, Google Workspace a Microsoft Outlook. Na začiatok sa prihláste pomocou svojho Google alebo Microsoft účtu."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

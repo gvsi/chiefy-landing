@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Pagrindinis",
+        "name": "Basic",
         "description": "Visiems, kuriems įdomu, kaip atrodo išmanesnis pašto dėžutė. Įsipareigojimų nereikia.",
-        "priceLabel": "Free",
+        "priceLabel": "Nemokamai",
         "features": [
           {
             "title": "Momentinės santraukos",
@@ -394,7 +394,7 @@
             "description": "Išbandykite AI asistentą"
           }
         ],
-        "ctaLabel": "Pasirinkite Gmail arba Outlook"
+        "ctaLabel": "Pradėkite nemokamai"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Tikri žmonės, greiti atsakymai"
           }
         ],
-        "ctaLabel": "Pasirinkite Gmail arba Outlook",
+        "ctaLabel": "Pradėkite nemokamą bandomąją versiją",
         "featured": true
       },
       {
-        "name": "Įmonė",
+        "name": "Enterprise",
         "description": "Organizacijoms, kurioms reikia įmonės lygio masto, specialaus palaikymo ir tinkintų darbo eigų. Geriausiai tinka 50+ komandoms.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Pagrindinis planas",
+        "name": "Basic planas",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Nemokamas planas su momentinėmis suvestinėmis,AI juodraščiais ir išmaniaisiais gautaisiais"
       },
       {
-        "name": "Pro Planas",
+        "name": "Pro planas",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "Visiška prieiga su išmaniųjų gautųjų kategorizavimu,AI juodraščiais, asistentu ir kalendoriaus integravimu"
       }
     ],
-    "operatingSystem": "Žiniatinklis",
+    "operatingSystem": "Web",
     "browserRequirements": "Reikia JavaScript. Veikia su Gmail, Google Workspace ir Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Ar galiu naudoti Chiefy su kitais el. pašto paslaugų teikėjais?",
         "answer": "Chiefy palaiko Gmail, Google Workspace ir Microsoft Outlook. Jei norite pradėti, prisijunkite naudodami savo Google arba Microsoft paskyrą."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

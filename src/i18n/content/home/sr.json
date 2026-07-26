@@ -44,7 +44,7 @@
         "avatarLetter": "A",
         "subject": "Re: Vremenska linija lansiranja proizvoda",
         "preview": "Hej! Želeo sam da proverim sredstva za lansiranje. Da li smo još na pravom putu za sledeću nedelju...",
-        "pill": "To Respond"
+        "pill": "Za odgovor"
       },
       {
         "from": "Emma Park",
@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Osnovni",
+        "name": "Basic",
         "description": "Za sve one koji su znatiželjni o tome kako izgleda pametnije prijemno sanduče. Nije potrebna obaveza.",
         "priceLabel": "Besplatno",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Probajte pomoćnika AI"
           }
         ],
-        "ctaLabel": "Izaberite Gmail ili Outlook"
+        "ctaLabel": "Počnite besplatno"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Pravi ljudi, brzi odgovori"
           }
         ],
-        "ctaLabel": "Izaberite Gmail ili Outlook",
+        "ctaLabel": "Počnite besplatnu probnu verziju",
         "featured": true
       },
       {
-        "name": "Preduzeće",
+        "name": "Enterprise",
         "description": "Za organizacije kojima je potreban nivo preduzeća, posvećena podrška i prilagođeni tokovi posla. Najbolje za timove od 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Osnovni plan",
+        "name": "Basic plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Besplatan plan sa trenutnim rezimeima, AI nacrta i pametnim prijemnim sandučetom"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro plan",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "Potpun pristup sa pametnom kategorizacijom prijemnog sandučeta, AI nacrtima, pomoćnikom i integracijom kalendara"
       }
     ],
-    "operatingSystem": "Veb",
+    "operatingSystem": "Web",
     "browserRequirements": "Zahteva JavaScript. Radi sa Gmail, Google Workspace i Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Mogu li da koristim Chiefy sa drugim provajderima e-pošte?",
         "answer": "Chiefy podržava Gmail, Google Workspace i Microsoft Outlook. Prijavite se pomoću naloga Google ili Microsoft da biste započeli."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

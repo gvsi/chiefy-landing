@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "De bază",
+        "name": "Basic",
         "description": "Pentru oricine este curios despre cum se simte o căsuță de e-mail mai inteligentă. Nu este necesar niciun angajament.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratuit",
         "features": [
           {
             "title": "Rezumate instant",
@@ -394,7 +394,7 @@
             "description": "Încercați asistentul AI"
           }
         ],
-        "ctaLabel": "Alegeți Gmail sau Outlook"
+        "ctaLabel": "Începeți gratuit"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Oameni reali, răspunsuri rapide"
           }
         ],
-        "ctaLabel": "Alegeți Gmail sau Outlook",
+        "ctaLabel": "Începeți proba gratuită",
         "featured": true
       },
       {
-        "name": "Întreprindere",
+        "name": "Enterprise",
         "description": "Pentru organizațiile care au nevoie de o scară de nivel enterprise, asistență dedicată și fluxuri de lucru personalizate. Cel mai bun pentru echipe de peste 50 de ani.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Plan de bază",
+        "name": "Planul Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Plan gratuit cu rezumate instantanee, schițe AI și căsuță de e-mail inteligentă"
@@ -688,7 +688,6 @@
         "question": "Pot folosi Chiefy cu alți furnizori de e-mail?",
         "answer": "Chiefy acceptă Gmail, Google Workspace și Microsoft Outlook. Conectați-vă cu contul dvs. Google sau Microsoft pentru a începe."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

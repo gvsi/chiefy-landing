@@ -54,10 +54,10 @@
         "pill": "ಸಭೆ"
       },
       {
-        "from": "Marketing",
+        "from": "ಮಾರ್ಕೆಟಿಂಗ್",
         "avatarLetter": "M",
         "subject": "ಪ್ರಚಾರದ ಫಲಿತಾಂಶಗಳು ಸಿದ್ಧವಾಗಿವೆ",
-        "pill": "FYI"
+        "pill": "ಮಾಹಿತಿಗಾಗಿ"
       },
       {
         "from": "Shopify",
@@ -195,10 +195,10 @@
         "pill": "ಸಭೆ"
       },
       {
-        "from": "Design Team",
+        "from": "ವಿನ್ಯಾಸ ತಂಡ",
         "avatarLetter": "D",
         "subject": "ಹೊಸ ಬ್ರ್ಯಾಂಡ್ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ಪ್ರಕಟಿಸಲಾಗಿದೆ",
-        "pill": "FYI"
+        "pill": "ಮಾಹಿತಿಗಾಗಿ"
       },
       {
         "from": "Stripe",
@@ -206,7 +206,7 @@
         "pill": "ಪ್ರಚಾರಗಳು"
       },
       {
-        "from": "Newsletter",
+        "from": "ಸುದ್ದಿಪತ್ರ",
         "subject": "ಸಾಪ್ತಾಹಿಕ ಡೈಜೆಸ್ಟ್",
         "pill": "ಪ್ರಚಾರಗಳು"
       }
@@ -364,8 +364,8 @@
     "billingAnnual": "ವಾರ್ಷಿಕ",
     "billingMonthly": "ಮಾಸಿಕ",
     "savingsTag": "33% ಉಳಿಸಿ",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/ತಿಂಗಳು",
+    "perUserSuffix": "/ಬಳಕೆದಾರ",
     "annualBillingSuffix": "(ವಾರ್ಷಿಕ ಬಿಲ್)",
     "trustItems": [
       "Stripe ಮೂಲಕ ಸುರಕ್ಷಿತ ಚೆಕ್ಔಟ್",
@@ -394,7 +394,7 @@
             "description": "AI ಸಹಾಯಕವನ್ನು ಪ್ರಯತ್ನಿಸಿ"
           }
         ],
-        "ctaLabel": "Gmail ಅಥವಾ Outlook ಆಯ್ಕೆಮಾಡಿ"
+        "ctaLabel": "ಉಚಿತವಾಗಿ ಪ್ರಾರಂಭಿಸಿ"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "ನಿಜವಾದ ಮಾನವರು, ವೇಗದ ಪ್ರತಿಕ್ರಿಯೆಗಳು"
           }
         ],
-        "ctaLabel": "Gmail ಅಥವಾ Outlook ಆಯ್ಕೆಮಾಡಿ",
+        "ctaLabel": "ಉಚಿತ ಪ್ರಯೋಗ ಪ್ರಾರಂಭಿಸಿ",
         "featured": true
       },
       {
@@ -624,10 +624,10 @@
     "ariaLabel": "ಹೂಡಿಕೆಯ ಮೇಲಿನ ಲಾಭ",
     "label": "ಗಣಿತ",
     "narrativeTemplate": "ಪ್ರತಿ {bookingUnit} ಗೆ {pricePerBooking} ನಲ್ಲಿ, ನಿಧಾನವಾದ ಪ್ರತ್ಯುತ್ತರಗಳಿಗೆ ಕೇವಲ {lostPerMonth} ಅನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತದೆ =",
-    "lossSuffix": "/mo gone",
+    "lossSuffix": "/ತಿಂಗಳು ನಷ್ಟ",
     "dividerLabel": "ವಿರುದ್ಧ",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/ತಿಂಗಳು"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Basic ಯೋಜನೆ",
         "price": "0",
         "priceCurrency": "USD",
         "description": "ತ್ವರಿತ ಸಾರಾಂಶಗಳು, AI ಡ್ರಾಫ್ಟ್‌ಗಳು ಮತ್ತು ಸ್ಮಾರ್ಟ್ ಇನ್‌ಬಾಕ್ಸ್‌ನೊಂದಿಗೆ ಉಚಿತ ಯೋಜನೆ"
       },
       {
-        "name": "Pro Plan",
+        "name": "Pro ಯೋಜನೆ",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "ಸ್ಮಾರ್ಟ್ ಇನ್‌ಬಾಕ್ಸ್ ವರ್ಗೀಕರಣ, AI ಡ್ರಾಫ್ಟ್‌ಗಳು, ಸಹಾಯಕ ಮತ್ತು ಕ್ಯಾಲೆಂಡರ್ ಏಕೀಕರಣದೊಂದಿಗೆ ಪೂರ್ಣ ಪ್ರವೇಶ"
       }
     ],
-    "operatingSystem": "ವೆಬ್",
+    "operatingSystem": "Web",
     "browserRequirements": "ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಅಗತ್ಯವಿದೆ. Gmail, Google Workspace, ಮತ್ತು Microsoft ಔಟ್‌ಲುಕ್‌ನೊಂದಿಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "ನಾನು ಇತರ ಇಮೇಲ್ ಪೂರೈಕೆದಾರರೊಂದಿಗೆ Chiefy ಅನ್ನು ಬಳಸಬಹುದೇ?",
         "answer": "Chiefy Gmail, Google Workspace, ಮತ್ತು Microsoft ಔಟ್ಲುಕ್ ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ. ಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ Google ಅಥವಾ Microsoft ಖಾತೆಯೊಂದಿಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

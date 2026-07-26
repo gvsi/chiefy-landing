@@ -54,7 +54,7 @@
         "pill": "ประชุม"
       },
       {
-        "from": "Marketing",
+        "from": "การตลาด",
         "avatarLetter": "M",
         "subject": "ผลแคมเปญพร้อมแล้ว",
         "pill": "แจ้งให้ทราบ"
@@ -195,7 +195,7 @@
         "pill": "ประชุม"
       },
       {
-        "from": "Design Team",
+        "from": "ทีมออกแบบ",
         "avatarLetter": "D",
         "subject": "เผยแพร่แนวทางแบรนด์ใหม่แล้ว",
         "pill": "แจ้งให้ทราบ"
@@ -206,7 +206,7 @@
         "pill": "โปรโมชัน"
       },
       {
-        "from": "Newsletter",
+        "from": "จดหมายข่าว",
         "subject": "สรุปประจำสัปดาห์",
         "pill": "โปรโมชัน"
       }
@@ -253,7 +253,7 @@
     "badge": "ความฉลาด",
     "title": "ถามอะไรก็ได้เกี่ยวกับอีเมลของคุณ",
     "subtitle": "ให้ Chiefy ช่วยหาอีเมล เช็กปฏิทิน หรือร่างคำตอบ มันเข้าใจกล่องจดหมายของคุณและตอบได้ทันที",
-    "windowTitle": "Chiefy Agent",
+    "windowTitle": "เอเจนต์ Chiefy",
     "onlineLabel": "ออนไลน์",
     "initialUserMessage": "ช่วยหาใบแจ้งหนี้ Stripe ที่ฝ่ายบัญชีส่งมาได้ไหม?",
     "processingText": "กำลังค้นหากล่องจดหมาย...",
@@ -375,7 +375,7 @@
       {
         "name": "Basic",
         "description": "สำหรับใครก็ตามที่อยากรู้ว่ากล่องจดหมายที่ฉลาดขึ้นเป็นอย่างไร ไม่ต้องผูกมัด",
-        "priceLabel": "Free",
+        "priceLabel": "ฟรี",
         "features": [
           {
             "title": "สรุปทันที",
@@ -386,15 +386,15 @@
             "description": "ลองคำตอบในสไตล์ของคุณ"
           },
           {
-            "title": "Smart Inbox",
+            "title": "กล่องจดหมายอัจฉริยะ",
             "description": "การจัดระเบียบพื้นฐานสำหรับเริ่มต้น"
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "ผู้ช่วย Chiefy",
             "description": "ลองใช้ผู้ช่วย AI"
           }
         ],
-        "ctaLabel": "เลือก Gmail หรือ Outlook"
+        "ctaLabel": "เริ่มใช้ฟรี"
       },
       {
         "name": "Pro",
@@ -406,7 +406,7 @@
         },
         "features": [
           {
-            "title": "Smart Inbox",
+            "title": "กล่องจดหมายอัจฉริยะ",
             "description": "อีเมลจัดหมวดหมู่อัตโนมัติเป็นหมวดหมู่อัจฉริยะ",
             "highlight": true
           },
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "ผู้ช่วย Chiefy",
             "description": "แชตเพื่อค้นหา ร่าง จัดระเบียบ และอื่นๆ",
             "highlight": true
           },
@@ -437,7 +437,7 @@
             "description": "คนจริง ตอบกลับรวดเร็ว"
           }
         ],
-        "ctaLabel": "เลือก Gmail หรือ Outlook",
+        "ctaLabel": "เริ่มทดลองใช้ฟรี",
         "featured": true
       },
       {
@@ -627,7 +627,7 @@
     "lossSuffix": "/เดือนที่เสียไป",
     "dividerLabel": "เทียบกับ",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/เดือน"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "แผน Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "แผนฟรีพร้อมสรุปทันที ร่างด้วย AI และ smart inbox"
       },
       {
-        "name": "Pro Plan",
+        "name": "แผน Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -660,7 +660,7 @@
       }
     ],
     "operatingSystem": "Web",
-    "browserRequirements": "Requires JavaScript. Works with Gmail, Google Workspace, and Microsoft Outlook.",
+    "browserRequirements": "ต้องใช้ JavaScript ทำงานร่วมกับ Gmail, Google Workspace และ Microsoft Outlook",
     "urls": {
       "site": "https://chiefy.com/",
       "logo": "https://chiefy.com/favicon.svg",
@@ -688,7 +688,6 @@
         "question": "ฉันใช้ Chiefy กับผู้ให้บริการอีเมลอื่นได้ไหม?",
         "answer": "Chiefy รองรับ Gmail, Google Workspace และ Microsoft Outlook ลงชื่อเข้าใช้ด้วยบัญชี Google หรือ Microsoft ของคุณเพื่อเริ่มต้น"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

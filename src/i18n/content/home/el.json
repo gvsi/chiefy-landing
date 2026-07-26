@@ -37,7 +37,7 @@
       "10:05 AM",
       "Εχθές"
     ],
-    "autodraftLabel": "Autodraft",
+    "autodraftLabel": "Αυτόματο πρόχειρο",
     "emails": [
       {
         "from": "Άλεξ Ριβέρα",
@@ -57,7 +57,7 @@
         "from": "Εμπορία",
         "avatarLetter": "M",
         "subject": "Έτοιμα τα αποτελέσματα της καμπάνιας",
-        "pill": "FYI"
+        "pill": "Προς ενημέρωση"
       },
       {
         "from": "Shopify",
@@ -198,7 +198,7 @@
         "from": "Ομάδα σχεδιασμού",
         "avatarLetter": "D",
         "subject": "Δημοσιεύτηκαν νέες οδηγίες επωνυμίας",
-        "pill": "FYI"
+        "pill": "Προς ενημέρωση"
       },
       {
         "from": "Stripe",
@@ -365,7 +365,7 @@
     "billingMonthly": "Μηνιαίος",
     "savingsTag": "Εξοικονομήστε 33%",
     "priceCadence": "/μήνα",
-    "perUserSuffix": "/user",
+    "perUserSuffix": "/χρήστη",
     "annualBillingSuffix": "(τιμολογείται ετησίως)",
     "trustItems": [
       "Ασφαλής ολοκλήρωση αγοράς μέσω Stripe",
@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Βασικός",
+        "name": "Basic",
         "description": "Για όποιον ενδιαφέρεται για το πώς είναι ένα πιο έξυπνο inbox. Δεν απαιτείται δέσμευση.",
         "priceLabel": "Δωρεάν",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Δοκιμάστε τον βοηθό AI"
           }
         ],
-        "ctaLabel": "Επιλέξτε Gmail ή Outlook"
+        "ctaLabel": "Ξεκινήστε δωρεάν"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Πραγματικοί άνθρωποι, γρήγορες απαντήσεις"
           }
         ],
-        "ctaLabel": "Επιλέξτε Gmail ή Outlook",
+        "ctaLabel": "Ξεκινήστε τη δωρεάν δοκιμή",
         "featured": true
       },
       {
-        "name": "Επιχείρηση",
+        "name": "Enterprise",
         "description": "Για οργανισμούς που χρειάζονται κλίμακα εταιρικού επιπέδου, αποκλειστική υποστήριξη και προσαρμοσμένες ροές εργασίας. Το καλύτερο για ομάδες 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -458,7 +458,7 @@
             "description": "Διαχειριστής προσωπικού λογαριασμού"
           },
           {
-            "title": "Team Analytics",
+            "title": "Αναλυτικά στοιχεία ομάδας",
             "description": "Πληροφορίες για τον οργανισμό σας"
           },
           {
@@ -627,7 +627,7 @@
     "lossSuffix": "/μήνα έφυγε",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/μήνα"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Βασικό Σχέδιο",
+        "name": "Σχέδιο Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Δωρεάν πρόγραμμα με άμεσες περιλήψεις, προσχέδια AI και έξυπνα εισερχόμενα"
@@ -659,7 +659,7 @@
         "description": "Πλήρης πρόσβαση με έξυπνη κατηγοριοποίηση εισερχομένων, προσχέδια AI, βοηθό και ενσωμάτωση ημερολογίου"
       }
     ],
-    "operatingSystem": "Ιστός",
+    "operatingSystem": "Web",
     "browserRequirements": "Απαιτεί JavaScript. Λειτουργεί με Gmail, Google Workspace και Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Μπορώ να χρησιμοποιήσω το Chiefy με άλλους παρόχους email;",
         "answer": "Το Chiefy υποστηρίζει χώρο εργασίας Gmail, Google και Microsoft Outlook. Συνδεθείτε με τον λογαριασμό σας Google ή Microsoft για να ξεκινήσετε."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

@@ -37,7 +37,7 @@
       "10:05 AM",
       "Вчера"
     ],
-    "autodraftLabel": "Автоматичен чернова",
+    "autodraftLabel": "Автоматична чернова",
     "emails": [
       {
         "from": "Алекс Ривера",
@@ -214,7 +214,7 @@
   },
   "draftShowcase": {
     "ariaLabel": "AI изготвяне на имейли и генериране на отговори",
-    "badge": "Изготвяне на чертежи",
+    "badge": "Изготвяне на чернови",
     "title": "Chiefy чернови в гласа ти",
     "subtitle": "Chiefy научава как пишете и изготвя отговори, които отговарят на вашия тон. Прегледайте, коригирайте, ако е необходимо, и изпратете за секунди.",
     "windowTitle": "Ново съобщение",
@@ -250,7 +250,7 @@
   },
   "agentChatShowcase": {
     "ariaLabel": "AI имейл интелигентност и асистент",
-    "badge": "Разузнаване",
+    "badge": "Интелигентност",
     "title": "Попитайте всичко за имейла си",
     "subtitle": "Помолете Chiefy да намери имейли, да провери календара ви или да напише чернова на отговор. Той разбира входящата ви поща и отговаря мигновено.",
     "windowTitle": "Агент Chiefy",
@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Основни",
+        "name": "Basic",
         "description": "За всеки, който се интересува какво е усещането за по-интелигентна пощенска кутия. Не се изисква ангажимент.",
         "priceLabel": "Безплатно",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Опитайте асистента на AI"
           }
         ],
-        "ctaLabel": "Изберете Gmail или Outlook"
+        "ctaLabel": "Започнете безплатно"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Истински хора, бързи отговори"
           }
         ],
-        "ctaLabel": "Изберете Gmail или Outlook",
+        "ctaLabel": "Започнете безплатен пробен период",
         "featured": true
       },
       {
-        "name": "Предприятие",
+        "name": "Enterprise",
         "description": "За организации, които се нуждаят от мащаб от корпоративен клас, специализирана поддръжка и персонализирани работни процеси. Най-подходящо за екипи от 50+ души.",
         "priceByBilling": {
           "annual": "49.99",
@@ -627,7 +627,7 @@
     "lossSuffix": "/месец изчезна",
     "dividerLabel": "срещу",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/мес."
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Основен план",
+        "name": "План Basic",
         "price": "0",
         "priceCurrency": "Щатски долари",
         "description": "Безплатен план с незабавни резюмета, чернови на AI и интелигентна пощенска кутия"
@@ -659,7 +659,7 @@
         "description": "Пълен достъп с интелигентно категоризиране на входящата кутия, чернови на AI, асистент и интеграция с календар"
       }
     ],
-    "operatingSystem": "Уеб",
+    "operatingSystem": "Web",
     "browserRequirements": "Изисква JavaScript. Работи с Gmail, Google Workspace и Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Мога ли да използвам Chiefy с други доставчици на имейл?",
         "answer": "Chiefy поддържа Gmail, Google Workspace и Microsoft Outlook. Влезте с вашия Google или Microsoft акаунт, за да започнете."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

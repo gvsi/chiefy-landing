@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Põhiline",
+        "name": "Basic",
         "description": "Kõigile, kes tahavad teada, milline on nutikam postkast. Pühendumist pole vaja.",
-        "priceLabel": "Free",
+        "priceLabel": "Tasuta",
         "features": [
           {
             "title": "Kiired kokkuvõtted",
@@ -394,7 +394,7 @@
             "description": "Proovige AI-assistenti"
           }
         ],
-        "ctaLabel": "Valige Gmail või Outlook"
+        "ctaLabel": "Alusta tasuta"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Tõelised inimesed, kiired vastused"
           }
         ],
-        "ctaLabel": "Valige Gmail või Outlook",
+        "ctaLabel": "Alusta tasuta prooviperioodi",
         "featured": true
       },
       {
-        "name": "Ettevõtlus",
+        "name": "Enterprise",
         "description": "Organisatsioonide jaoks, mis vajavad ettevõtte tasemel skaalat, spetsiaalset tuge ja kohandatud töövooge. Parim 50+ meeskondade jaoks.",
         "priceByBilling": {
           "annual": "49.99",
@@ -466,7 +466,7 @@
             "description": "Mallid ja automaatika meeskondadele"
           }
         ],
-        "ctaLabel": "Võtke ühendust müügiga",
+        "ctaLabel": "Võta müügiga ühendust",
         "ctaNote": "Saadaval kohandatud hinnakujundus"
       }
     ]
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Põhiplaan",
+        "name": "Basic Plaan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Tasuta plaan kiirkokkuvõtete, AI mustandite ja nutika postkastiga"
@@ -659,7 +659,7 @@
         "description": "Täielik juurdepääs nutika postkasti kategoriseerimise, AI mustandite, assistendi ja kalendri integreerimisega"
       }
     ],
-    "operatingSystem": "Veeb",
+    "operatingSystem": "Web",
     "browserRequirements": "Nõuab JavaScripti. Töötab parameetritega Gmail, Google tööruumi ja Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Kas ma saan kasutada numbrit Chiefy koos teiste meiliteenuse pakkujatega?",
         "answer": "Chiefy toetab Gmail, Google tööruumi ja Microsoft Outlook. Alustamiseks logige sisse oma Google või Microsoft kontoga."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Osnovno",
+        "name": "Basic",
         "description": "Za vse, ki vas zanima, kakšen je občutek pametnejše mape »Prejeto«. Obveza ni potrebna.",
         "priceLabel": "Brezplačno",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Preizkusite pomočnika AI"
           }
         ],
-        "ctaLabel": "Izberite Gmail ali Outlook"
+        "ctaLabel": "Začni brezplačno"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Pravi ljudje, hitri odzivi"
           }
         ],
-        "ctaLabel": "Izberite Gmail ali Outlook",
+        "ctaLabel": "Začni brezplačni preizkus",
         "featured": true
       },
       {
-        "name": "Podjetje",
+        "name": "Enterprise",
         "description": "Za organizacije, ki potrebujejo obseg podjetja, namensko podporo in poteke dela po meri. Najboljše za ekipe 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -466,7 +466,7 @@
             "description": "Predloge in avtomatizacije za ekipe"
           }
         ],
-        "ctaLabel": "Obrnite se na prodajo",
+        "ctaLabel": "Obrni se na prodajo",
         "ctaNote": "Na voljo so cene po meri"
       }
     ]
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Osnovni načrt",
+        "name": "Načrt Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Brezplačen načrt s takojšnjimi povzetki, osnutki z umetno inteligenco in pametnim nabiralnikom"
       },
       {
-        "name": "Pro Načrt",
+        "name": "Načrt Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "Popoln dostop s pametno kategorizacijo nabiralnika, osnutki AI, pomočnikom in integracijo koledarja"
       }
     ],
-    "operatingSystem": "Splet",
+    "operatingSystem": "Web",
     "browserRequirements": "Potreben je JavaScript. Deluje z Gmail, Google Workspace in Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Ali lahko uporabljam Chiefy z drugimi ponudniki e-pošte?",
         "answer": "Chiefy podpira Gmail, Google Workspace in Microsoft Outlook. Za začetek se prijavite s svojim računom Google ali Microsoft."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

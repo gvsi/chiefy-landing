@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Temel",
+        "name": "Basic",
         "description": "Daha akıllı bir e-posta kutusunun nasıl bir his verdiğini merak eden herkes için. Herhangi bir taahhüt gerektirmez.",
         "priceLabel": "Ücretsiz",
         "features": [
@@ -394,7 +394,7 @@
             "description": "AI asistanını deneyin"
           }
         ],
-        "ctaLabel": "Gmail veya Outlook'ı seçin."
+        "ctaLabel": "Ücretsiz başlayın"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Gerçek insanlar, hızlı yanıtlar"
           }
         ],
-        "ctaLabel": "Gmail veya Outlook'ı seçin.",
+        "ctaLabel": "Ücretsiz denemeyi başlatın",
         "featured": true
       },
       {
-        "name": "Girişim",
+        "name": "Enterprise",
         "description": "Kurumsal ölçekte kapasiteye, özel desteğe ve özel iş akışlarına ihtiyaç duyan kuruluşlar için idealdir. 50'den fazla kişiden oluşan ekipler için mükemmeldir.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Temel Plan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Anında özetler, taslaklar ve akıllı gelen kutusu içeren ücretsiz plan."
@@ -688,7 +688,6 @@
         "question": "Chiefy ifadesini diğer e-posta sağlayıcılarıyla da kullanabilir miyim?",
         "answer": "Chiefy, Gmail, Google Workspace ve Microsoft Outlook sürümlerini desteklemektedir. Başlamak için Google veya Microsoft hesabınızla giriş yapın."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

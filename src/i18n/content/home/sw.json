@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Msingi",
+        "name": "Basic",
         "description": "Kwa yeyote anayetaka kujua jinsi kikasha bora zaidi kinavyohisi. Hakuna ahadi inayohitajika.",
         "priceLabel": "Bila malipo",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Jaribu msaidizi wa AI"
           }
         ],
-        "ctaLabel": "Chagua Gmail au Outlook"
+        "ctaLabel": "Anza bure"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Wanadamu halisi, majibu ya haraka"
           }
         ],
-        "ctaLabel": "Chagua Gmail au Outlook",
+        "ctaLabel": "Anza jaribio la bure",
         "featured": true
       },
       {
-        "name": "Biashara",
+        "name": "Enterprise",
         "description": "Kwa mashirika ambayo yanahitaji kiwango cha kiwango cha biashara, usaidizi uliojitolea, na mtiririko maalum wa kazi. Bora kwa timu za 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Umaarufu wa Kuanzisha",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Mpango wa Msingi",
+        "name": "Mpango wa Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Mpango usiolipishwa na muhtasari wa papo hapo, rasimu za AI na kikasha mahiri"
@@ -659,7 +659,7 @@
         "description": "Ufikiaji kamili kwa uainishaji mahiri wa kikasha pokezi, rasimu za AI, mratibu na muunganisho wa kalenda"
       }
     ],
-    "operatingSystem": "Mtandao",
+    "operatingSystem": "Web",
     "browserRequirements": "Inahitaji JavaScript. Inafanya kazi na Gmail, Google Workspace, na Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Je, ninaweza kutumia Chiefy na watoa huduma wengine wa barua pepe?",
         "answer": "Chiefy inasaidia Gmail, Google Workspace, na Microsoft Outlook. Ingia ukitumia akaunti yako ya Google au Microsoft ili kuanza."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

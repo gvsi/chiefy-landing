@@ -166,7 +166,7 @@
   "categorizationShowcase": {
     "ariaLabel": "Organisasyon ng email at matalinong pagkakategorya ng inbox",
     "badge": "Organisasyon",
-    "title": "Inaayos ng duet ang iyong inbox",
+    "title": "Inaayos ng Chiefy ang iyong inbox",
     "subtitle": "Pini-filter ng awtomatikong pagkakategorya ang ingay at pinalalabas kung ano ang mahalaga. Agad na makita kung ano ang nangangailangan ng aksyon, kung ano ang FYI lang, at kung ano ang maaaring maghintay.",
     "windowTitle": "Inbox",
     "providers": [
@@ -216,7 +216,7 @@
     "ariaLabel": "AI pagbalangkas ng email at pagbuo ng tugon",
     "badge": "Pag-draft",
     "title": "Chiefy draft sa iyong boses",
-    "subtitle": "Natututo ang duet kung paano ka sumulat at nag-draft ng mga tugon na tumutugma sa iyong tono. Suriin, ayusin kung kinakailangan, at ipadala sa ilang segundo.",
+    "subtitle": "Natututo ang Chiefy kung paano ka sumulat at nag-draft ng mga tugon na tumutugma sa iyong tono. Suriin, ayusin kung kinakailangan, at ipadala sa ilang segundo.",
     "windowTitle": "Bagong Mensahe",
     "fieldLabels": {
       "to": "kay:",
@@ -375,7 +375,7 @@
       {
         "name": "Basic",
         "description": "Para sa sinumang gustong malaman kung ano ang pakiramdam ng isang mas matalinong inbox. Walang kinakailangang pangako.",
-        "priceLabel": "Free",
+        "priceLabel": "Libre",
         "features": [
           {
             "title": "Mga Instant na Buod",
@@ -394,7 +394,7 @@
             "description": "Subukan ang AI assistant"
           }
         ],
-        "ctaLabel": "Piliin ang Gmail o Outlook"
+        "ctaLabel": "Magsimula nang libre"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Tunay na tao, mabilis na tugon"
           }
         ],
-        "ctaLabel": "Piliin ang Gmail o Outlook",
+        "ctaLabel": "Magsimula sa libreng pagsubok",
         "featured": true
       },
       {
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Pangunahing Plano",
+        "name": "Basic Plano",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Libreng plano na may mga instant na buod, AI draft, at matalinong inbox"
@@ -688,7 +688,6 @@
         "question": "Maaari ko bang gamitin ang Chiefy sa ibang mga email provider?",
         "answer": "Sinusuportahan ng Chiefy ang Gmail, Google Workspace, at Microsoft Outlook. Mag-sign in gamit ang iyong Google o Microsoft account upang makapagsimula."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

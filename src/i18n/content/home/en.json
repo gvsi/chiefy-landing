@@ -394,7 +394,7 @@
             "description": "Try the AI assistant"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook"
+        "ctaLabel": "Get started free"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Real humans, fast responses"
           }
         ],
-        "ctaLabel": "Choose Gmail or Outlook",
+        "ctaLabel": "Start free trial",
         "featured": true
       },
       {
@@ -688,7 +688,6 @@
         "question": "Can I use Chiefy with other email providers?",
         "answer": "Chiefy supports Gmail, Google Workspace, and Microsoft Outlook. Sign in with your Google or Microsoft account to get started."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

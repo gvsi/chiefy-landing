@@ -57,7 +57,7 @@
         "from": "行銷",
         "avatarLetter": "M",
         "subject": "活動結果已準備就緒",
-        "pill": "FYI"
+        "pill": "供參考"
       },
       {
         "from": "購物",
@@ -198,7 +198,7 @@
         "from": "設計團隊",
         "avatarLetter": "D",
         "subject": "新品牌指南發布",
-        "pill": "FYI"
+        "pill": "供參考"
       },
       {
         "from": "Stripe",
@@ -214,12 +214,12 @@
   },
   "draftShowcase": {
     "ariaLabel": "AI 電子郵件起草和回覆生成",
-    "badge": "起草",
+    "badge": "草擬",
     "title": "Chiefy 用你的聲音草稿",
     "subtitle": "Chiefy 會學習您的寫作方式並起草符合您語氣的回應。查看並根據需要進行調整，然後在幾秒鐘內發送。",
     "windowTitle": "新訊息",
     "fieldLabels": {
-      "to": "至：",
+      "to": "收件人：",
       "subject": "主題："
     },
     "draft": {
@@ -250,11 +250,11 @@
   },
   "agentChatShowcase": {
     "ariaLabel": "AI 電子郵件智慧與助手",
-    "badge": "情報",
+    "badge": "智能",
     "title": "詢問任何有關您的電子郵件的問題",
     "subtitle": "請 Chiefy 尋找電子郵件、檢查日曆或起草回覆。它了解您的收件匣並立即回覆。",
-    "windowTitle": "Chiefy Agent",
-    "onlineLabel": "網路",
+    "windowTitle": "Chiefy 智慧代理",
+    "onlineLabel": "線上",
     "initialUserMessage": "您能找到會計發送的 Stripe 發票嗎？",
     "processingText": "正在搜尋收件匣...",
     "foundHeader": "找到 2 封來自 Stripe 的電子郵件",
@@ -364,8 +364,8 @@
     "billingAnnual": "年度",
     "billingMonthly": "每月",
     "savingsTag": "節省 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/月",
+    "perUserSuffix": "/使用者",
     "annualBillingSuffix": "（按年計費）",
     "trustItems": [
       "透過 Stripe 安全結帳",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "基礎",
+        "name": "Basic",
         "description": "對於任何好奇智慧收件匣是什麼樣的人。無需承諾。",
-        "priceLabel": "Free",
+        "priceLabel": "免費",
         "features": [
           {
             "title": "即時摘要",
@@ -390,11 +390,11 @@
             "description": "啟動的基本組織"
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy 助理",
             "description": "試試 AI 助手"
           }
         ],
-        "ctaLabel": "選擇 Gmail 或 Outlook"
+        "ctaLabel": "免費開始"
       },
       {
         "name": "Pro",
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy 助理",
             "description": "聊天以查找、起草、組織等",
             "highlight": true
           },
@@ -437,11 +437,11 @@
             "description": "真人，快速反應"
           }
         ],
-        "ctaLabel": "選擇 Gmail 或 Outlook",
+        "ctaLabel": "開始免費試用",
         "featured": true
       },
       {
-        "name": "企業",
+        "name": "Enterprise",
         "description": "適合需要企業級規模、專門支援和自訂工作流程的組織。最適合 50 人以上的團隊。",
         "priceByBilling": {
           "annual": "49.99",
@@ -627,7 +627,7 @@
     "lossSuffix": "/mo",
     "dividerLabel": "與",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/月"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "基本計劃",
+        "name": "Basic 方案",
         "price": "0",
         "priceCurrency": "USD",
         "description": "免費計劃，包含即時摘要、AI 草稿和智慧收件匣"
       },
       {
-        "name": "Pro 計劃",
+        "name": "Pro 方案",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "完全存取智慧收件匣分類、AI 草稿、助理和日曆整合"
       }
     ],
-    "operatingSystem": "網路",
+    "operatingSystem": "Web",
     "browserRequirements": "需要 JavaScript。適用於 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "我可以將 Chiefy 與其他電子郵件提供者一起使用嗎？",
         "answer": "Chiefy 支援 Gmail、Google Workspace 和 Microsoft Outlook。使用您的 Google 或 Microsoft 帳號登入即可開始。"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

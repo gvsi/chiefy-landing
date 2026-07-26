@@ -57,7 +57,7 @@
         "from": "마케팅",
         "avatarLetter": "M",
         "subject": "캠페인 결과 준비됨",
-        "pill": "FYI"
+        "pill": "참고"
       },
       {
         "from": "쇼피파이",
@@ -198,7 +198,7 @@
         "from": "디자인팀",
         "avatarLetter": "D",
         "subject": "새로운 브랜드 가이드라인이 발표되었습니다.",
-        "pill": "FYI"
+        "pill": "참고"
       },
       {
         "from": "Stripe",
@@ -214,12 +214,12 @@
   },
   "draftShowcase": {
     "ariaLabel": "AI 이메일 초안 작성 및 답변 생성",
-    "badge": "제도",
+    "badge": "초안 작성",
     "title": "당신의 목소리로 Chiefy 초안을 작성하세요",
     "subtitle": "Chiefy은 귀하의 작성 방법을 학습하고 귀하의 어조에 맞는 답변 초안을 작성합니다. 필요한 경우 검토하고 조정한 후 몇 초 안에 보내세요.",
     "windowTitle": "새 메시지",
     "fieldLabels": {
-      "to": "에게:",
+      "to": "받는 사람:",
       "subject": "주제:"
     },
     "draft": {
@@ -364,8 +364,8 @@
     "billingAnnual": "연간",
     "billingMonthly": "월간 간행물",
     "savingsTag": "33% 할인",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/월",
+    "perUserSuffix": "/사용자",
     "annualBillingSuffix": "(연간 청구)",
     "trustItems": [
       "Stripe 을(를) 통한 보안 결제",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "기초적인",
+        "name": "Basic",
         "description": "더 스마트해진 받은편지함이 어떤 느낌인지 궁금하신 분을 위한 제품입니다. 약속이 필요하지 않습니다.",
-        "priceLabel": "Free",
+        "priceLabel": "무료",
         "features": [
           {
             "title": "즉석 요약",
@@ -394,7 +394,7 @@
             "description": "AI 어시스턴트를 사용해 보세요"
           }
         ],
-        "ctaLabel": "Gmail 또는 Outlook을 선택하세요."
+        "ctaLabel": "무료로 시작"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "실제 인간, 빠른 응답"
           }
         ],
-        "ctaLabel": "Gmail 또는 Outlook을 선택하세요.",
+        "ctaLabel": "무료 평가판 시작",
         "featured": true
       },
       {
-        "name": "기업",
+        "name": "Enterprise",
         "description": "엔터프라이즈급 규모, 전담 지원, 맞춤형 워크플로가 필요한 조직을 위한 제품입니다. 50명 이상의 팀에 가장 적합합니다.",
         "priceByBilling": {
           "annual": "49.99",
@@ -596,7 +596,7 @@
             "href": "/ko/blog"
           },
           {
-            "label": "링크드인",
+            "label": "LinkedIn",
             "href": "https://www.linkedin.com/company/chiefy",
             "external": true
           },
@@ -606,12 +606,12 @@
             "external": true
           },
           {
-            "label": "인스타그램",
+            "label": "Instagram",
             "href": "https://www.instagram.com/chiefy/",
             "external": true
           },
           {
-            "label": "스타트업 명성",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -627,7 +627,7 @@
     "lossSuffix": "/mo",
     "dividerLabel": "vs",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "월 $30"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "기본 계획",
+        "name": "Basic 요금제",
         "price": "0",
         "priceCurrency": "USD",
         "description": "즉각적인 요약, AI 초안 및 스마트 받은편지함이 포함된 무료 요금제"
       },
       {
-        "name": "Pro 계획",
+        "name": "Pro 요금제",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "다른 이메일 제공업체에서 Chiefy을(를) 사용할 수 있나요?",
         "answer": "Chiefy은 Gmail, Google Workspace 및 Microsoft Outlook을 지원합니다. 시작하려면 Google 또는 Microsoft 계정으로 로그인하세요."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Basis",
+        "name": "Basic",
         "description": "Voor iedereen die nieuwsgierig is naar hoe een slimmere inbox aanvoelt. Geen verplichting vereist.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratis",
         "features": [
           {
             "title": "Directe samenvattingen",
@@ -394,7 +394,7 @@
             "description": "Probeer de AI-assistent"
           }
         ],
-        "ctaLabel": "Kies Gmail of Outlook"
+        "ctaLabel": "Begin gratis"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Echte mensen, snelle reacties"
           }
         ],
-        "ctaLabel": "Kies Gmail of Outlook",
+        "ctaLabel": "Start gratis proefperiode",
         "featured": true
       },
       {
-        "name": "Onderneming",
+        "name": "Enterprise",
         "description": "Voor organisaties die schaalgrootte op ondernemingsniveau, speciale ondersteuning en aangepaste workflows nodig hebben. Beste voor teams van 50+.",
         "priceByBilling": {
           "annual": "49.99",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup-faam",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Basisplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Gratis abonnement met directe samenvattingen, AI-concepten en slimme inbox"
@@ -688,7 +688,6 @@
         "question": "Kan ik Chiefy gebruiken met andere e-mailproviders?",
         "answer": "Chiefy ondersteunt Gmail, Google Workspace en Microsoft Outlook. Meld u aan met uw Google- of Microsoft-account om aan de slag te gaan."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

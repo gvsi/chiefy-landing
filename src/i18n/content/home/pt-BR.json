@@ -375,7 +375,7 @@
       {
         "name": "Basic",
         "description": "Para qualquer pessoa curiosa sobre como é uma caixa de entrada mais inteligente. Não é necessário compromisso.",
-        "priceLabel": "Livre",
+        "priceLabel": "Grátis",
         "features": [
           {
             "title": "Resumos instantâneos",
@@ -394,7 +394,7 @@
             "description": "Experimente o assistente de IA"
           }
         ],
-        "ctaLabel": "Escolha Gmail ou Outlook"
+        "ctaLabel": "Comece grátis"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Humanos reais, respostas rápidas"
           }
         ],
-        "ctaLabel": "Escolha Gmail ou Outlook",
+        "ctaLabel": "Comece a avaliação gratuita",
         "featured": true
       },
       {
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Plano Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Plano gratuito com resumos instantâneos, rascunhos de IA e caixa de entrada inteligente"
       },
       {
-        "name": "Pro Plan",
+        "name": "Plano Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "Acesso total com categorização inteligente de caixa de entrada, rascunhos de IA, assistente e integração de calendário"
       }
     ],
-    "operatingSystem": "Rede",
+    "operatingSystem": "Web",
     "browserRequirements": "Requer JavaScript. Funciona com Gmail, Google Workspace e Microsoft Outlook.",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "Posso usar Chiefy com outros provedores de e-mail?",
         "answer": "Chiefy suporta Gmail, Google Workspace e Microsoft Outlook. Faça login com sua conta Google ou Microsoft para começar."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

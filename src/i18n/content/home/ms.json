@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Asas",
+        "name": "Basic",
         "description": "Untuk sesiapa yang ingin tahu bagaimana rasa peti masuk yang lebih pintar. Tiada komitmen diperlukan.",
-        "priceLabel": "Free",
+        "priceLabel": "Percuma",
         "features": [
           {
             "title": "Rumusan Segera",
@@ -394,7 +394,7 @@
             "description": "Cuba pembantu AI"
           }
         ],
-        "ctaLabel": "Pilih Gmail atau Outlook"
+        "ctaLabel": "Mula secara percuma"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Manusia sebenar, respons pantas"
           }
         ],
-        "ctaLabel": "Pilih Gmail atau Outlook",
+        "ctaLabel": "Mula percubaan percuma",
         "featured": true
       },
       {
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Pelan Asas",
+        "name": "Pelan Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Pelan percuma dengan ringkasan segera, draf AI, dan peti masuk pintar"
@@ -688,7 +688,6 @@
         "question": "Bolehkah saya menggunakan Chiefy dengan penyedia e-mel lain?",
         "answer": "Chiefy menyokong Gmail, Google Workspace, dan Microsoft Outlook. Log masuk dengan akaun Google atau Microsoft anda untuk bermula."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

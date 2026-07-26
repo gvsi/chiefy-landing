@@ -57,7 +57,7 @@
         "from": "营销",
         "avatarLetter": "M",
         "subject": "活动结果已准备就绪",
-        "pill": "FYI"
+        "pill": "供参考"
       },
       {
         "from": "Shopify",
@@ -158,7 +158,7 @@
         "description": "智能分类首先显示您最重要的电子邮件，并将电子邮件按主题分类。电子邮件管理从未如此简单。",
         "ariaLabel": "专注于重要的事情",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "分析中"
         }
       }
     ]
@@ -198,7 +198,7 @@
         "from": "设计团队",
         "avatarLetter": "D",
         "subject": "新品牌指南发布",
-        "pill": "FYI"
+        "pill": "供参考"
       },
       {
         "from": "Stripe",
@@ -219,7 +219,7 @@
     "subtitle": "Chiefy 学习您的写作方式并起草符合您语气的回复。查看并根据需要进行调整，然后在几秒钟内发送。",
     "windowTitle": "新消息",
     "fieldLabels": {
-      "to": "至：",
+      "to": "收件人：",
       "subject": "主题："
     },
     "draft": {
@@ -250,10 +250,10 @@
   },
   "agentChatShowcase": {
     "ariaLabel": "AI 邮件智能与助手",
-    "badge": "情报",
+    "badge": "智能",
     "title": "询问任何有关您的电子邮件的问题",
     "subtitle": "请 Chiefy 查找电子邮件、查看日历或起草回复。它了解您的收件箱并立即回复。",
-    "windowTitle": "Chiefy Agent",
+    "windowTitle": "Chiefy 智能体",
     "onlineLabel": "在线",
     "initialUserMessage": "您能找到会计发送的 Stripe 发票吗？",
     "processingText": "正在搜索收件箱...",
@@ -364,8 +364,8 @@
     "billingAnnual": "年度",
     "billingMonthly": "每月",
     "savingsTag": "节省 33%",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/月",
+    "perUserSuffix": "/用户",
     "annualBillingSuffix": "（按年计费）",
     "trustItems": [
       "通过 Stripe 安全结账",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "基础",
+        "name": "Basic",
         "description": "对于任何好奇智能收件箱是什么样的人。无需承诺。",
-        "priceLabel": "Free",
+        "priceLabel": "免费",
         "features": [
           {
             "title": "即时摘要",
@@ -390,11 +390,11 @@
             "description": "启动的基本组织"
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy 助手",
             "description": "试试AI助手"
           }
         ],
-        "ctaLabel": "选择Gmail或Outlook"
+        "ctaLabel": "免费开始"
       },
       {
         "name": "Pro",
@@ -416,7 +416,7 @@
             "highlight": true
           },
           {
-            "title": "Chiefy Assistant",
+            "title": "Chiefy 助手",
             "description": "聊天以查找、起草、组织等",
             "highlight": true
           },
@@ -437,11 +437,11 @@
             "description": "真人，快速反应"
           }
         ],
-        "ctaLabel": "选择Gmail或Outlook",
+        "ctaLabel": "开始免费试用",
         "featured": true
       },
       {
-        "name": "企业",
+        "name": "Enterprise",
         "description": "适合需要企业级规模、专门支持和自定义工作流程的组织。最适合 50 人以上的团队。",
         "priceByBilling": {
           "annual": "49.99",
@@ -477,7 +477,7 @@
     "headingPrefix": "常见问题， ",
     "headingAccent": "回答了",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
+    "contactLabel": "联系我们",
     "contactHeading": "还有疑问吗？",
     "contactCta": "联系我们 →",
     "footerBrand": "CHIEFY",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "创业名声",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -627,7 +627,7 @@
     "lossSuffix": "/mo",
     "dividerLabel": "与",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/月"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,20 +646,20 @@
     ],
     "offers": [
       {
-        "name": "基本计划",
+        "name": "Basic 套餐",
         "price": "0",
         "priceCurrency": "USD",
         "description": "免费计划，包含即时摘要、AI 草稿和智能收件箱"
       },
       {
-        "name": "Pro 计划",
+        "name": "Pro 套餐",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
         "description": "完全访问智能收件箱分类、AI草稿、助手和日历集成"
       }
     ],
-    "operatingSystem": "网络",
+    "operatingSystem": "Web",
     "browserRequirements": "需要 JavaScript。适用于 Gmail、Google Workspace 和 Microsoft Outlook。",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "我可以将 Chiefy 与其他电子邮件提供商一起使用吗？",
         "answer": "Chiefy支持Gmail、Google Workspace和Microsoft Outlook。使用您的 Google 或 Microsoft 帐户登录即可开始。"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

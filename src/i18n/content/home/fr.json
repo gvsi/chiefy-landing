@@ -158,7 +158,7 @@
         "description": "Le classement intelligent met en avant vos e-mails les plus importants en premier et les organise par sujet. La gestion des e-mails n’a jamais été aussi simple.",
         "ariaLabel": "Concentrez-vous sur l’essentiel",
         "mockCopy": {
-          "analyzing": "ANALYSING"
+          "analyzing": "ANALYSE EN COURS"
         }
       }
     ]
@@ -225,7 +225,7 @@
     "draft": {
       "to": "alex.rivera@techcorp.io",
       "subject": "Re : Synchronisation rapide cette semaine ?",
-      "originalFrom": "Alex Rivera wrote:",
+      "originalFrom": "Alex Rivera a écrit :",
       "originalText": "Salut ! J’aimerais beaucoup faire le point sur les changements de la feuille de route. Es-tu disponible pour un appel de 30 min cette semaine ? Dis-moi ce qui t’arrange.",
       "badge": "Rédigé automatiquement",
       "lines": [
@@ -375,7 +375,7 @@
       {
         "name": "Basic",
         "description": "Pour tous ceux qui veulent découvrir ce qu’une boîte de réception plus intelligente apporte. Aucun engagement requis.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratuit",
         "features": [
           {
             "title": "Résumés instantanés",
@@ -394,7 +394,7 @@
             "description": "Essayer l’assistant IA"
           }
         ],
-        "ctaLabel": "Choisir Gmail ou Outlook"
+        "ctaLabel": "Commencer gratuitement"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "De vraies personnes, des réponses rapides"
           }
         ],
-        "ctaLabel": "Choisir Gmail ou Outlook",
+        "ctaLabel": "Commencer l'essai gratuit",
         "featured": true
       },
       {
@@ -646,13 +646,13 @@
     ],
     "offers": [
       {
-        "name": "Basic Plan",
+        "name": "Formule Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Formule gratuite avec résumés instantanés, brouillons IA et boîte de réception intelligente"
       },
       {
-        "name": "Pro Plan",
+        "name": "Formule Pro",
         "price": "19.99",
         "priceCurrency": "USD",
         "unitText": "MONTH",
@@ -688,7 +688,6 @@
         "question": "Puis-je utiliser Chiefy avec d’autres fournisseurs d’e-mail ?",
         "answer": "Chiefy prend en charge Gmail, Google Workspace et Microsoft Outlook. Connectez-vous avec votre compte Google ou Microsoft pour commencer."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

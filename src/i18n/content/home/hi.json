@@ -17,7 +17,7 @@
     "subline": "ईमेल पर हर सप्ताह 4+ घंटे बचाएं",
     "primaryCta": "Gmail से प्रारंभ करें",
     "secondaryCta": "Outlook से प्रारंभ करें",
-    "trialNote": "निःशुल्क 14-day परीक्षण",
+    "trialNote": "निःशुल्क 14-दिन का परीक्षण",
     "cancelNote": "किसी भी समय रद्द करें"
   },
   "inboxHeroMockup": {
@@ -54,10 +54,10 @@
         "pill": "मीटिंग"
       },
       {
-        "from": "Marketing",
+        "from": "मार्केटिंग",
         "avatarLetter": "M",
         "subject": "अभियान परिणाम तैयार",
-        "pill": "FYI"
+        "pill": "सूचनार्थ"
       },
       {
         "from": "Shopify",
@@ -158,7 +158,7 @@
         "description": "स्मार्ट वर्गीकरण आपके सबसे महत्वपूर्ण ईमेल को सबसे पहले सामने लाता है, और ईमेल को विषयों में वर्गीकृत करता है। ईमेल प्रबंधन इतना आसान कभी नहीं रहा.",
         "ariaLabel": "जो मायने रखता है उस पर ध्यान दें",
         "mockCopy": {
-          "analyzing": "ANALYZING"
+          "analyzing": "विश्लेषण जारी"
         }
       }
     ]
@@ -195,10 +195,10 @@
         "pill": "मीटिंग"
       },
       {
-        "from": "Design Team",
+        "from": "डिज़ाइन टीम",
         "avatarLetter": "D",
         "subject": "नए ब्रांड दिशानिर्देश प्रकाशित",
-        "pill": "FYI"
+        "pill": "सूचनार्थ"
       },
       {
         "from": "Stripe",
@@ -206,7 +206,7 @@
         "pill": "प्रमोशन"
       },
       {
-        "from": "Newsletter",
+        "from": "न्यूज़लेटर",
         "subject": "साप्ताहिक डाइजेस्ट",
         "pill": "प्रमोशन"
       }
@@ -219,7 +219,7 @@
     "subtitle": "Chiefy सीखता है कि आप कैसे लिखते हैं और आपके लहजे से मेल खाने वाले उत्तरों को ड्राफ्ट करता है। समीक्षा करें, यदि आवश्यक हो तो समायोजित करें और कुछ ही सेकंड में भेजें।",
     "windowTitle": "नया संदेश",
     "fieldLabels": {
-      "to": "से:",
+      "to": "प्रति:",
       "subject": "विषय:"
     },
     "draft": {
@@ -364,8 +364,8 @@
     "billingAnnual": "वार्षिक",
     "billingMonthly": "मासिक",
     "savingsTag": "33% सहेजें",
-    "priceCadence": "/month",
-    "perUserSuffix": "/user",
+    "priceCadence": "/माह",
+    "perUserSuffix": "/उपयोगकर्ता",
     "annualBillingSuffix": "(वार्षिक बिल)",
     "trustItems": [
       "Stripe के माध्यम से सुरक्षित चेकआउट",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "बेसिक",
+        "name": "Basic",
         "description": "उन लोगों के लिए जो जानना चाहते हैं कि स्मार्ट इनबॉक्स कैसा लगता है। किसी प्रतिबद्धता की आवश्यकता नहीं है.",
-        "priceLabel": "Free",
+        "priceLabel": "निःशुल्क",
         "features": [
           {
             "title": "त्वरित सारांश",
@@ -394,11 +394,11 @@
             "description": "AI सहायक आज़माएँ"
           }
         ],
-        "ctaLabel": "Gmail या Outlook चुनें"
+        "ctaLabel": "निःशुल्क प्रारंभ करें"
       },
       {
         "name": "Pro",
-        "badge": "14-day निःशुल्क परीक्षण",
+        "badge": "14-दिन का निःशुल्क परीक्षण",
         "description": "उन पेशेवरों के लिए जो गहन स्वचालन, एकीकरण और एक इनबॉक्स चाहते हैं जो वास्तव में जानता है कि आप कैसे काम करते हैं।",
         "priceByBilling": {
           "annual": "19.99",
@@ -437,11 +437,11 @@
             "description": "असली इंसान, तेज़ प्रतिक्रियाएँ"
           }
         ],
-        "ctaLabel": "Gmail या Outlook चुनें",
+        "ctaLabel": "निःशुल्क परीक्षण प्रारंभ करें",
         "featured": true
       },
       {
-        "name": "एंटरप्राइज",
+        "name": "Enterprise",
         "description": "उन संगठनों के लिए जिन्हें एंटरप्राइज़-ग्रेड स्केल, समर्पित समर्थन और कस्टम वर्कफ़्लो की आवश्यकता है। 50+. की टीमों के लिए सर्वश्रेष्ठ",
         "priceByBilling": {
           "annual": "49.99",
@@ -466,7 +466,7 @@
             "description": "टेम्पलेट और ऑटोमेशन"
           }
         ],
-        "ctaLabel": "संपर्क बिक्री",
+        "ctaLabel": "बिक्री टीम से संपर्क करें",
         "ctaNote": "कस्टम मूल्य निर्धारण उपलब्ध है"
       }
     ]
@@ -477,7 +477,7 @@
     "headingPrefix": "सामान्य प्रश्न, ",
     "headingAccent": "ने उत्तर दिया",
     "contactDecorative": "?",
-    "contactLabel": "CONTACT",
+    "contactLabel": "संपर्क",
     "contactHeading": "अभी भी प्रश्न हैं?",
     "contactCta": "संपर्क करें →",
     "footerBrand": "CHIEFY",
@@ -514,7 +514,7 @@
     "subline": "उन पेशेवरों से जुड़ें जो अपने दिन की शुरुआत अराजकता से नहीं, बल्कि स्पष्टता से करते हैं। आपका निःशुल्क परीक्षण प्रतीक्षारत है.",
     "primaryCta": "Gmail से प्रारंभ करें",
     "secondaryCta": "Outlook से प्रारंभ करें",
-    "note": "14-day निःशुल्क परीक्षण · किसी भी समय रद्द करें",
+    "note": "14-दिन का निःशुल्क परीक्षण · किसी भी समय रद्द करें",
     "trustItems": [
       "Google CASA-मूल्यांकन",
       "आराम पर एन्क्रिप्टेड",
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "स्टार्टअप प्रसिद्धि",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -627,7 +627,7 @@
     "lossSuffix": "/mo चला गया",
     "dividerLabel": "बनाम",
     "duetLabel": "Chiefy",
-    "duetPrice": "$30/mo"
+    "duetPrice": "$30/माह"
   },
   "jsonLd": {
     "websiteName": "Chiefy",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "मूल योजना",
+        "name": "Basic योजना",
         "price": "0",
         "priceCurrency": "USD",
         "description": "त्वरित सारांश, AI ड्राफ्ट और स्मार्ट इनबॉक्स के साथ निःशुल्क योजना"
@@ -659,7 +659,7 @@
         "description": "स्मार्ट इनबॉक्स वर्गीकरण, AI ड्राफ्ट, सहायक और कैलेंडर एकीकरण के साथ पूर्ण पहुंच"
       }
     ],
-    "operatingSystem": "वेब",
+    "operatingSystem": "Web",
     "browserRequirements": "को जावास्क्रिप्ट की आवश्यकता है। Gmail, Google Workspace, और Microsoft Outlook के साथ काम करता है।",
     "urls": {
       "site": "https://chiefy.com/",
@@ -688,7 +688,6 @@
         "question": "क्या मैं अन्य ईमेल प्रदाताओं के साथ Chiefy का उपयोग कर सकता हूँ?",
         "answer": "Chiefy Gmail, Google Workspace और Microsoft Outlook को सपोर्ट करता है। आरंभ करने के लिए अपने Google या Microsoft खाते से साइन इन करें।"
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

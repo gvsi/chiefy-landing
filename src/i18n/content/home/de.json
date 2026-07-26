@@ -83,7 +83,7 @@
       {
         "id": "drafts",
         "title": "E-Mail-Entwürfe, die wie Sie klingen",
-        "description": "DuetKI-E-Mail-Autor bereitet Entwürfe für Ihre wichtigsten E-Mails vor. Es lernt Ihren Ton und Ihren Schreibstil.",
+        "description": "Chiefy KI-E-Mail-Autor bereitet Entwürfe für Ihre wichtigsten E-Mails vor. Es lernt Ihren Ton und Ihren Schreibstil.",
         "ariaLabel": "E-Mail-Entwürfe, die nach Ihnen klingen",
         "mockCopy": {
           "draftedColdEmail": "Ich habe eine personalisierte E-Mail für John verfasst",
@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Einfach",
+        "name": "Basic",
         "description": "Für alle, die neugierig sind, wie sich ein intelligenterer Posteingang anfühlt. Keine Verpflichtung erforderlich.",
-        "priceLabel": "Free",
+        "priceLabel": "Kostenlos",
         "features": [
           {
             "title": "Sofortige Zusammenfassungen",
@@ -394,7 +394,7 @@
             "description": "Probieren Sie den KI-Assistenten aus"
           }
         ],
-        "ctaLabel": "Wählen Sie Gmail oder Outlook"
+        "ctaLabel": "Kostenlos starten"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Echte Menschen, schnelle Antworten"
           }
         ],
-        "ctaLabel": "Wählen Sie Gmail oder Outlook",
+        "ctaLabel": "Kostenlose Testversion starten",
         "featured": true
       },
       {
-        "name": "Unternehmen",
+        "name": "Enterprise",
         "description": "Für Organisationen, die unternehmenstaugliche Skalierung, dedizierten Support und benutzerdefinierte Arbeitsabläufe benötigen. Am besten für Teams ab 50 Personen geeignet.",
         "priceByBilling": {
           "annual": "49.99",
@@ -466,7 +466,7 @@
             "description": "Vorlagen und Automatisierungen für Teams"
           }
         ],
-        "ctaLabel": "Kontaktieren Sie den Vertrieb",
+        "ctaLabel": "Vertrieb kontaktieren",
         "ctaNote": "Individuelle Preise verfügbar"
       }
     ]
@@ -611,7 +611,7 @@
             "external": true
           },
           {
-            "label": "Startup-Ruhm",
+            "label": "Startup Fame",
             "href": "https://startupfa.me/s/duet-mail?utm_source=chiefy.com",
             "external": true
           }
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Basisplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Kostenloser Plan mit sofortigen Zusammenfassungen, KI-Entwürfen und intelligentem Posteingang"
@@ -688,7 +688,6 @@
         "question": "Kann ich Chiefy mit anderen E-Mail-Anbietern verwenden?",
         "answer": "Chiefy unterstützt Gmail, Google Workspace und Microsoft Outlook. Melden Sie sich mit Ihrem Google- oder Microsoft-Konto an, um loszulegen."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

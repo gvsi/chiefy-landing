@@ -373,7 +373,7 @@
     ],
     "plans": [
       {
-        "name": "Cơ bản",
+        "name": "Basic",
         "description": "Dành cho ai tò mò muốn trải nghiệm hộp thư thông minh. Không cần cam kết.",
         "priceLabel": "Miễn phí",
         "features": [
@@ -394,7 +394,7 @@
             "description": "Dùng thử trợ lý AI"
           }
         ],
-        "ctaLabel": "Chọn Gmail hoặc Outlook"
+        "ctaLabel": "Bắt đầu miễn phí"
       },
       {
         "name": "Pro",
@@ -437,11 +437,11 @@
             "description": "Con người thật, phản hồi nhanh"
           }
         ],
-        "ctaLabel": "Chọn Gmail hoặc Outlook",
+        "ctaLabel": "Bắt đầu dùng thử miễn phí",
         "featured": true
       },
       {
-        "name": "Doanh nghiệp",
+        "name": "Enterprise",
         "description": "Dành cho tổ chức cần quy mô doanh nghiệp, hỗ trợ riêng và quy trình tùy chỉnh. Tốt nhất cho nhóm 50+ người.",
         "priceByBilling": {
           "annual": "49.99",
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Gói Cơ bản",
+        "name": "Gói Basic",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Gói miễn phí với tóm tắt tức thì, soạn AI và hộp thư thông minh"
@@ -688,7 +688,6 @@
         "question": "Tôi có thể dùng Chiefy với nhà cung cấp email khác không?",
         "answer": "Chiefy hỗ trợ Gmail, Google Workspace và Microsoft Outlook. Đăng nhập bằng tài khoản Google hoặc Microsoft để bắt đầu."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }

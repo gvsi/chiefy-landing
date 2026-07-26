@@ -373,9 +373,9 @@
     ],
     "plans": [
       {
-        "name": "Grundlæggende",
+        "name": "Basic",
         "description": "For alle, der er nysgerrige på, hvordan en smartere indbakke føles. Ingen forpligtelse påkrævet.",
-        "priceLabel": "Free",
+        "priceLabel": "Gratis",
         "features": [
           {
             "title": "Øjeblikkelige oversigter",
@@ -394,7 +394,7 @@
             "description": "Prøv AI-assistenten"
           }
         ],
-        "ctaLabel": "Vælg Gmail eller Outlook"
+        "ctaLabel": "Kom gratis i gang"
       },
       {
         "name": "Pro",
@@ -437,7 +437,7 @@
             "description": "Rigtige mennesker, hurtige svar"
           }
         ],
-        "ctaLabel": "Vælg Gmail eller Outlook",
+        "ctaLabel": "Start gratis prøveperiode",
         "featured": true
       },
       {
@@ -646,7 +646,7 @@
     ],
     "offers": [
       {
-        "name": "Grundplan",
+        "name": "Basic Plan",
         "price": "0",
         "priceCurrency": "USD",
         "description": "Gratis plan med øjeblikkelige oversigter, AI-kladder og smart indbakke"
@@ -688,7 +688,6 @@
         "question": "Kan jeg bruge Chiefy med andre e-mail-udbydere?",
         "answer": "Chiefy understøtter Gmail, Google Workspace og Microsoft Outlook. Log ind med din Google eller Microsoft konto for at komme i gang."
       }
-    ],
-    "alternateName": "Chiefy - AI chief of staff for Gmail and Outlook"
+    ]
   }
 }
