@@ -1,0 +1,252 @@
+---
+/**
+ * HelpArticleLayout — the per-article help-center layout. Mirrors BlogLayout:
+ * wraps BaseLayout with ogType="article", emits Article + BreadcrumbList JSON-LD
+ * (Help center → Category → Article) + an `article:modified_time` meta tag via
+ * jsonLdScript(), and composes the help chrome (Nav, breadcrumb, sticky sidebar,
+ * `.duet-prose` body, related, helpful, on-this-page TOC, Footer, SearchModal).
+ *
+ * Help is English-only at launch: canonical comes from the normal `canonicalPath`
+ * (default chiefy.com origin — Option A, no special-casing), and alternates are
+ * en + x-default (`getHelpAlternates`). `robotsDirectives` is left undefined
+ * (help is fully indexable).
+ *
+ * The sidebar (current category's articles) and the "Related articles" grid are
+ * resolved here from the collection so the route file stays thin.
+ */
+import type { MarkdownHeading } from "astro"
+import BaseLayout from "./BaseLayout.astro"
+import Nav from "../components/nav/Nav.astro"
+import Footer from "../components/sections/Footer.astro"
+import HelpBreadcrumb from "../components/help/HelpBreadcrumb.astro"
+import HelpSidebar from "../components/help/HelpSidebar.astro"
+import HelpRelated from "../components/help/HelpRelated.astro"
+import HelpHelpful from "../components/help/HelpHelpful.astro"
+import HelpToc from "../components/help/HelpToc.astro"
+import SearchModal from "../components/help/SearchModal.astro"
+import "../styles/help.css"
+import { helpCategory } from "../content/help/_categories"
+import { HELP_UI } from "../content/help/_ui"
+import { getAllHelpArticles, getHelpArticlesByCategory } from "../i18n/content"
+import { escapeHtmlAttribute, jsonLdScript } from "../i18n/jsonLd"
+import type { Locale } from "../i18n/locales"
+import { localizedPath, type AlternateLink } from "../i18n/routing"
+import { getMessages } from "../i18n/messages/schema"
+import { formatDate } from "../utils/readingTime"
+
+type Props = {
+    locale: Locale
+    alternates: AlternateLink[]
+    robotsDirectives?: string
+    title: string
+    description: string
+    category: string
+    type: string
+    updatedAt: Date
+    keywords: string[]
+    relatedSlugs: string[]
+    /** Full slug including the category prefix, e.g. "smart-drafts/turn-on-autodraft". */
+    slug: string
+    headings: MarkdownHeading[]
+    /**
+     * Optional Q&A pairs for FAQ-type articles. When provided (and the article
+     * `type` is "faq"), the layout emits FAQPage JSON-LD for AI/LLM parsing.
+     * No FAQ articles exist yet — this is the structured-data hook Phase 6 FAQ
+     * authors populate (e.g. via frontmatter `faqItems`). The rich-result FAQ
+     * snippet was retired by Google in 2026, so this targets machine readers.
+     */
+    faqItems?: { question: string; answer: string }[]
+}
+
+const {
+    locale,
+    alternates,
+    robotsDirectives,
+    title,
+    description,
+    category,
+    type,
+    updatedAt,
+    keywords,
+    relatedSlugs,
+    slug,
+    headings,
+    faqItems,
+} = Astro.props
+
+const messages = getMessages(locale)
+const categoryMeta = helpCategory(category)
+const categoryName = categoryMeta?.name ?? category
+
+const canonicalPath = localizedPath(locale, { kind: "helpArticle", slug })
+const canonicalUrl = new URL(canonicalPath, Astro.site).toString()
+const ogImagePath = "/og.jpg"
+const ogImageUrl = new URL(ogImagePath, Astro.site).toString()
+const homeUrl = new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString()
+const helpIndexPath = localizedPath(locale, { kind: "helpIndex" })
+const helpIndexUrl = new URL(helpIndexPath, Astro.site).toString()
+const categoryPath = localizedPath(locale, { kind: "helpCategory", category })
+const categoryUrl = new URL(categoryPath, Astro.site).toString()
+
+// Sidebar: the current category's articles, plus an "All topics" back link.
+const categoryArticles = await getHelpArticlesByCategory(locale, category)
+const sidebarGroups = [
+    {
+        heading: categoryName,
+        links: categoryArticles.map((article) => ({
+            label: article.title,
+            href: localizedPath(locale, { kind: "helpArticle", slug: article.slug }),
+            active: article.slug === slug,
+        })),
+    },
+]
+
+// Related: resolve relatedSlugs against the full help corpus for this locale
+// (relatedSlugs may point at articles in other categories).
+const corpus = await getAllHelpArticles(locale)
+const relatedArticles = relatedSlugs
+    .map((relatedSlug) => corpus.find((article) => article.slug === relatedSlug))
+    .filter((article): article is NonNullable<typeof article> => Boolean(article))
+    .map((article) => ({
+        title: article.title,
+        href: localizedPath(locale, { kind: "helpArticle", slug: article.slug }),
+        iconKey: helpCategory(article.category)?.iconKey,
+    }))
+
+const typeLabel = HELP_UI.article.typeLabels[type] ?? type
+const formattedUpdated = formatDate(updatedAt, locale)
+
+const breadcrumbItems = [
+    { label: HELP_UI.breadcrumb.home, href: helpIndexPath },
+    { label: categoryName, href: categoryPath },
+    { label: title },
+]
+
+const articleJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    inLanguage: locale,
+    headline: title,
+    description,
+    image: ogImageUrl,
+    dateModified: updatedAt.toISOString(),
+    author: {
+        "@type": "Organization",
+        name: "Chiefy",
+        url: homeUrl,
+    },
+    publisher: {
+        "@type": "Organization",
+        name: "Chiefy",
+        url: homeUrl,
+        logo: {
+            "@type": "ImageObject",
+            url: new URL("/apple-touch-icon.png", Astro.site).toString(),
+            width: 180,
+            height: 180,
+        },
+    },
+    mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": canonicalUrl,
+    },
+    keywords: keywords.join(", "),
+}
+
+const breadcrumbJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    inLanguage: locale,
+    itemListElement: [
+        { "@type": "ListItem", position: 1, name: HELP_UI.breadcrumb.home, item: helpIndexUrl },
+        { "@type": "ListItem", position: 2, name: categoryName, item: categoryUrl },
+        { "@type": "ListItem", position: 3, name: title, item: canonicalUrl },
+    ],
+}
+
+// FAQPage hook: only emitted for FAQ-type articles that ship structured Q&A.
+// Inert today (no FAQ articles / no faqItems yet); ready for the Phase 6 corpus.
+const faqJsonLd =
+    type === "faq" && faqItems && faqItems.length > 0
+        ? {
+              "@context": "https://schema.org",
+              "@type": "FAQPage",
+              inLanguage: locale,
+              mainEntity: faqItems.map((item) => ({
+                  "@type": "Question",
+                  name: item.question,
+                  acceptedAnswer: { "@type": "Answer", text: item.answer },
+              })),
+          }
+        : null
+
+const extraHeadHtml = [
+    '<meta property="article:modified_time" content="' + escapeHtmlAttribute(updatedAt.toISOString()) + '" />',
+    keywords.length > 0
+        ? '<meta name="keywords" content="' + escapeHtmlAttribute(keywords.join(", ")) + '" />'
+        : "",
+    jsonLdScript(articleJsonLd),
+    jsonLdScript(breadcrumbJsonLd),
+    faqJsonLd ? jsonLdScript(faqJsonLd) : "",
+]
+    .filter(Boolean)
+    .join("\n")
+---
+
+<BaseLayout
+    title={`${title}${HELP_UI.meta.titleSuffix}`}
+    description={description}
+    canonicalPath={canonicalPath}
+    ogImagePath={ogImagePath}
+    locale={locale}
+    alternates={alternates}
+    robotsDirectives={robotsDirectives}
+    ogType="article"
+    extraHeadHtml={extraHeadHtml}
+    preloadHeroImage={false}
+>
+    <Nav locale={locale} messages={messages} />
+
+    <div class="help-wrap">
+        <div class="help-doc with-toc">
+            <HelpSidebar groups={sidebarGroups} back={{ label: HELP_UI.sidebar.allTopics, href: helpIndexPath }} />
+
+            <article class="help-article">
+                <HelpBreadcrumb items={breadcrumbItems} />
+                <h1 class="help-article-title">{title}</h1>
+                <div class="help-article-meta">
+                    <span>{HELP_UI.article.updated} {formattedUpdated}</span>
+                    <span aria-hidden="true">·</span>
+                    <span class="help-tag-type">{typeLabel}</span>
+                </div>
+
+                {/*
+                  Pagefind scope: `data-pagefind-body` is present ONLY here, on the
+                  article prose. Because at least one page on the site carries this
+                  attribute, Pagefind indexes ONLY pages that have it — i.e. help
+                  articles. The home/category/blog/marketing pages have no
+                  `data-pagefind-body` and are therefore excluded from the index.
+                  `data-pagefind-meta="title"` carries the canonical article title
+                  into results; `data-pagefind-filter="category"` tags the result
+                  with its category label for the result subline / future filtering.
+                */}
+                <div
+                    class="duet-prose"
+                    data-pagefind-body
+                    data-pagefind-meta={`title:${title}`}
+                    data-pagefind-filter={`category:${categoryName}`}
+                >
+                    <slot />
+                </div>
+
+                <HelpRelated articles={relatedArticles} />
+                <HelpHelpful slug={slug} />
+            </article>
+
+            <HelpToc headings={headings} />
+        </div>
+    </div>
+
+    <SearchModal locale={locale} />
+    <Footer locale={locale} messages={messages} alternates={alternates} />
+</BaseLayout>

@@ -203,27 +203,6 @@ export function computeCanonicalRedirect(request) {
     return target.toString()
 }
 
-const FLIP_REDIRECT_HOSTS = new Set(["duetmail.com", "www.duetmail.com"])
-
-function isLegalPath(pathname) {
-    const parts = pathname.split("/").filter(Boolean)
-    const offset = parts[0] && SUPPORTED_LOCALES.has(parts[0]) ? 1 : 0
-    // Exact legal route only (mirrors isKnownHtmlRoute): "/privacy" is legal,
-    // "/privacy/foo" is NOT (must still flip). Length check prevents non-legal
-    // subpaths from being wrongly exempted.
-    return LEGAL_PAGES.has(parts[offset]) && parts.length === offset + 1
-}
-
-export function computeFlipRedirect(request, env) {
-    const flag = env && env.FLIP_301
-    if (flag !== true && flag !== "on" && flag !== "true") return null
-    const url = new URL(request.url)
-    if (!FLIP_REDIRECT_HOSTS.has(url.hostname)) return null
-    const canonicalPath = computeCanonicalPathname(url.pathname)
-    if (isLegalPath(canonicalPath)) return null
-    return `https://chiefy.com${canonicalPath}${url.search}`
-}
-
 export function redirectResponse(location, status = 301) {
     return new Response(null, {
         status,
@@ -297,11 +276,6 @@ export function injectRegionMeta(response, region) {
 }
 
 export async function handleLandingRequest(request, env, next) {
-    // Flip first: when FLIP_301 is on, www.duetmail.com is in FLIP_REDIRECT_HOSTS,
-    // so it goes straight to chiefy.com in a single (canonicalized) hop. When flip
-    // is off (dark default), this is null and www→apex handles host normalization.
-    const flipLocation = computeFlipRedirect(request, env)
-    if (flipLocation) return redirectResponse(flipLocation)
     const wwwLocation = computeWwwToApexRedirect(request)
     if (wwwLocation) return redirectResponse(wwwLocation)
     const redirectLocation = computeCanonicalRedirect(request)

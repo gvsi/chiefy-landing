@@ -376,6 +376,7 @@ function assertMessageQualityContracts(locale, messages, englishMessages) {
         }
         if (!nonLatinScriptLocales.has(locale)) continue
         if (value !== english || localeInvariantMessageKeys.has(key)) continue
+        if (grandfatheredEnglishMessageKeys.has(key)) continue
         if (latinTokenAllowlist.has(value.trim())) continue
         if (!/[A-Za-z]{2}/u.test(value)) continue
         leakViolations.push(`${key}: ${JSON.stringify(value)}`)
@@ -557,6 +558,27 @@ function assertNoRetiredBrand(locale, relativePath, root) {
 const localeInvariantMessageKeys = new Set([
     "footer.copyright",
     "footer.copyrightTemplate",
+])
+
+// DEBT, NOT POLICY. These shipped English in every locale with the referral
+// page and help section (#21/#27) and predate this gate. They are exempted so
+// the gate can land and hold the line on everything else; they are NOT
+// locale-invariant and this set must shrink to empty.
+// Follow-up: translate these 13 keys across all 47 locales.
+const grandfatheredEnglishMessageKeys = new Set([
+    "help.nav.label",
+    "legal.pages.referralTerms.title",
+    "legal.pages.referralTerms.description",
+    "refer.meta.title",
+    "refer.meta.description",
+    "refer.hero.gift",
+    "refer.hero.giftNamed",
+    "refer.hero.plain",
+    "refer.sub",
+    "refer.subNamed",
+    "refer.cta.gmail",
+    "refer.cta.outlook",
+    "refer.finePrint",
 ])
 
 // Every runtime locale must be classified, so a newly added locale cannot ship

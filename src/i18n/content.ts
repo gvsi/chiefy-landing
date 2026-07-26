@@ -1,6 +1,7 @@
 import { getCollection, type CollectionEntry } from "astro:content"
+import { HELP_CATEGORIES } from "../content/help/_categories"
 import { DEFAULT_LOCALE, SUPPORTED_LOCALES, type Locale, type RenderLocale } from "./locales"
-import { alternateLinks, type AlternateLink, type LegalPage, type RouteInput } from "./routing"
+import { alternateLinks, englishOnlyAlternates, type AlternateLink, type LegalPage, type RouteInput } from "./routing"
 
 type JsonObject = Record<string, unknown>
 type JsonModule<T> = { default?: T }
@@ -12,6 +13,18 @@ export type BlogPost = {
     entry: CollectionEntry<"blog">
     locale: Locale
     slug: string
+    body: string
+}
+
+type HelpData = CollectionEntry<"help">["data"]
+
+// Mirrors BlogPost: retains the raw CollectionEntry (so routes can call render(article.entry))
+// and body, plus the derived { locale, slug, category } and all schema data fields.
+export type HelpArticle = HelpData & {
+    entry: CollectionEntry<"help">
+    locale: Locale
+    slug: string
+    category: HelpData["category"]
     body: string
 }
 
@@ -115,6 +128,71 @@ export async function getBlogPost(locale: Locale, slug: string): Promise<BlogPos
     return posts.find((post) => post.slug === slug)
 }
 
+const helpCategoryOrder = new Map(HELP_CATEGORIES.map((category) => [category.id, category.order]))
+
+function entryToHelpArticle(entry: CollectionEntry<"help">): HelpArticle {
+    const [locale, ...slugParts] = entry.id.split("/")
+    if (!locale || slugParts.length === 0) {
+        throw new Error(`Invalid localized help entry id: ${entry.id}`)
+    }
+    return {
+        ...entry.data,
+        entry,
+        locale: locale as Locale,
+        slug: slugParts.join("/"),
+        category: entry.data.category,
+        body: entry.body ?? "",
+    }
+}
+
+function sortHelpArticles(articles: HelpArticle[]): HelpArticle[] {
+    return articles.sort((a, b) => {
+        const orderA = helpCategoryOrder.get(a.category) ?? Number.MAX_SAFE_INTEGER
+        const orderB = helpCategoryOrder.get(b.category) ?? Number.MAX_SAFE_INTEGER
+        if (orderA !== orderB) return orderA - orderB
+        return a.entry.data.order - b.entry.data.order
+    })
+}
+
+export async function getAllHelpArticles(locale: Locale): Promise<HelpArticle[]> {
+    const prefix = `${locale}/`
+    const entries = await getCollection("help", ({ id, data }) => id.startsWith(prefix) && !data.draft)
+    return sortHelpArticles(entries.map(entryToHelpArticle))
+}
+
+export async function getHelpArticle(locale: Locale, slug: string): Promise<HelpArticle | undefined> {
+    const articles = await getAllHelpArticles(locale)
+    return articles.find((article) => article.slug === slug)
+}
+
+export async function getHelpArticlesByCategory(locale: Locale, categoryId: string): Promise<HelpArticle[]> {
+    const articles = await getAllHelpArticles(locale)
+    return articles.filter((article) => article.category === categoryId)
+}
+
+// Locales that actually ship at least one non-draft help article (at launch: ["en"]).
+// Drives route getStaticPaths and alternates so non-en help pages are generated
+// only when their content exists.
+export async function localesWithHelp(): Promise<Locale[]> {
+    const entries = await getCollection("help", ({ data }) => !data.draft)
+    const locales = new Set<Locale>()
+    for (const entry of entries) {
+        const segment = entry.id.split("/")[0]
+        if ((SUPPORTED_LOCALES as readonly string[]).includes(segment)) {
+            locales.add(segment as Locale)
+        }
+    }
+    return SUPPORTED_LOCALES.filter((locale) => locales.has(locale))
+}
+
+// Help is English-only at launch → en + x-default. Structured so it can widen to
+// localesWithHelp() later. Deliberately NOT routed through getRouteTranslationState/
+// getCompleteLocalesForRoute (neither has a help case; the blog path throws on a
+// missing localized entry).
+export function getHelpAlternates(site: URL | undefined, input: RouteInput): AlternateLink[] {
+    return englishOnlyAlternates(site, input)
+}
+
 export async function getRouteTranslationState(input: TranslationRouteInput): Promise<TranslationState> {
     if (input.locale === DEFAULT_LOCALE) return "complete"
 
@@ -158,6 +236,10 @@ function routeCacheKey(input: RouteInput): string {
             return `${input.kind}:${input.slug}`
         case "legal":
             return `${input.kind}:${input.page}`
+        default:
+            // Help routes use englishOnlyAlternates(); they never go through the
+            // locale translation-state machinery (no help case in getRouteTranslationState).
+            throw new Error(`Unsupported route kind for translation-state caching: ${input.kind}`)
     }
 }
 
@@ -172,6 +254,10 @@ function translationRouteInput(input: RouteInput, locale: Locale): TranslationRo
             return { kind: "vertical", locale, slug: input.slug }
         case "legal":
             return { kind: "legal", locale, page: input.page }
+        default:
+            // Help routes use englishOnlyAlternates(); they never go through the
+            // locale translation-state machinery (no help case in getRouteTranslationState).
+            throw new Error(`Unsupported route kind for translation-state input: ${input.kind}`)
     }
 }
 

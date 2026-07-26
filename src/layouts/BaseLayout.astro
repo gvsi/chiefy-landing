@@ -26,6 +26,13 @@ type Props = {
     extraHeadHtml?: string;
     ogType?: "website" | "article";
     robotsDirectives?: string;
+    /**
+     * Preload the landing hero background image (the LCP element on marketing
+     * pages). Defaults to true to preserve landing behavior; help pages pass
+     * false since they do not render the landing hero, so the preload would
+     * fetch an unused image and compete for bandwidth.
+     */
+    preloadHeroImage?: boolean;
 };
 
 const {
@@ -39,6 +46,7 @@ const {
     extraHeadHtml,
     ogType = "website",
     robotsDirectives,
+    preloadHeroImage = true,
 } =
     Astro.props;
 
@@ -115,11 +123,13 @@ const consentBannerRendered = renderConsentBanner(consentBannerHtml);
         <link rel="icon" href="/favicon.svg" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
-        <link rel="preload" as="image" type="image/webp"
-              imagesrcset="/hero-bg-light-sm-padded.webp 768w,
-                           /hero-bg-light-md.webp 1280w,
-                           /hero-bg-light-lg.webp 1920w"
-              imagesizes="100vw" />
+        {preloadHeroImage && (
+            <link rel="preload" as="image" type="image/webp"
+                  imagesrcset="/hero-bg-light-sm-padded.webp 768w,
+                               /hero-bg-light-md.webp 1280w,
+                               /hero-bg-light-lg.webp 1920w"
+                  imagesizes="100vw" />
+        )}
 
         <meta property="og:type" content={ogType} />
         <meta property="og:site_name" content={SITE_BRAND} />

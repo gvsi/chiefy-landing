@@ -2,8 +2,10 @@ import { existsSync, readFileSync, readdirSync, statSync } from "node:fs"
 import path from "node:path"
 import { fileURLToPath } from "node:url"
 import tailwindcss from "@tailwindcss/vite"
+import mdx from "@astrojs/mdx"
 import sitemap from "@astrojs/sitemap"
 import { defineConfig } from "astro/config"
+import pagefind from "./src/integrations/pagefind.ts"
 
 const repoRoot = fileURLToPath(new URL(".", import.meta.url))
 const localeSource = JSON.parse(
@@ -49,16 +51,21 @@ function localeHasBootstrapMarker(locale) {
 const hasBootstrapLocales = nonDefaultLocales.some((locale) => localeHasBootstrapMarker(locale))
 
 function filterSitemapPage(page) {
+    // /refer is noindex,noarchive (a friend-of-referrer landing page, not a
+    // page we want ranked) — exclude it so Search Console doesn't flag "URL
+    // in sitemap but marked noindex". /referral-terms stays indexable.
+    if (new URL(page).pathname === "/refer") return false
+
     if (!hasBootstrapLocales) return true
 
     const firstSegment = new URL(page).pathname.split("/").filter(Boolean)[0]
     return !nonDefaultLocaleSet.has(firstSegment)
 }
 
-// Host-aware site origin (B3). The chiefy-landing Pages build sets
-// SITE_URL=https://chiefy.com so the same source tree serves Chiefy parity
-// without forking content; default keeps Duet Mail.
-const SITE_URL = (process.env.SITE_URL && process.env.SITE_URL.trim()) || "https://duetmail.com"
+// Site origin for canonical / hreflang / sitemap. Post-flip collapse (ADR 0031):
+// `main` is the Chiefy site, so the default is chiefy.com and a plain build is
+// correct without env. SITE_URL can still override (kept for parity/preview builds).
+const SITE_URL = (process.env.SITE_URL && process.env.SITE_URL.trim()) || "https://chiefy.com"
 
 export default defineConfig({
     output: "static",
@@ -68,6 +75,7 @@ export default defineConfig({
         format: "file",
     },
     integrations: [
+        mdx(),
         sitemap({
             filter: filterSitemapPage,
             ...(hasBootstrapLocales
@@ -79,6 +87,9 @@ export default defineConfig({
                     },
                 }),
         }),
+        // Pagefind builds the help search index from the finished output in
+        // `astro:build:done`; it must come after the page-emitting integrations.
+        pagefind(),
     ],
     vite: {
         plugins: [tailwindcss()],

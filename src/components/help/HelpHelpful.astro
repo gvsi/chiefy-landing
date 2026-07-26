@@ -1,0 +1,65 @@
+---
+/**
+ * HelpHelpful — "Was this helpful?" Yes/No widget. The only behavior is a single
+ * GA4/GTM dataLayer push per vote (no backend), after which the buttons are
+ * replaced by a short thanks line. The island is a tiny is:inline script scoped
+ * to this widget by id, so it adds no measurable JS cost and ships only on the
+ * article route that renders the component.
+ *
+ * `slug` tags the event so the funnel can attribute votes per article.
+ */
+import HelpIcon from "./HelpIcon.astro"
+import { HELP_UI } from "../../content/help/_ui"
+
+type Props = {
+    slug: string
+}
+
+const { slug } = Astro.props
+const { wasHelpful, yes, no, feedbackThanks } = HELP_UI.article
+---
+
+<section class="help-helpful" id="help-helpful" data-slug={slug}>
+    <p>{wasHelpful}</p>
+    <div class="opts">
+        <button type="button" data-vote="yes">
+            <HelpIcon name="thumbs-up" size={15} />
+            {yes}
+        </button>
+        <button type="button" data-vote="no">
+            <HelpIcon name="thumbs-down" size={15} />
+            {no}
+        </button>
+    </div>
+    <p class="help-helpful-thanks" role="status" aria-live="polite" tabindex="-1">{feedbackThanks}</p>
+</section>
+
+<script is:inline>
+    (() => {
+        const widget = document.getElementById("help-helpful")
+        if (!widget || widget.dataset.bound === "1") return
+        widget.dataset.bound = "1"
+        const slug = widget.dataset.slug || ""
+        const thanksEl = widget.querySelector(".help-helpful-thanks")
+        widget.querySelectorAll("button[data-vote]").forEach((button) => {
+            button.addEventListener(
+                "click",
+                () => {
+                    if (widget.hasAttribute("data-voted")) return
+                    const vote = button.getAttribute("data-vote")
+                    window.dataLayer = window.dataLayer || []
+                    window.dataLayer.push({ event: "help_article_feedback", help_slug: slug, help_vote: vote })
+                    widget.setAttribute("data-voted", vote || "")
+                    widget.querySelectorAll("button[data-vote]").forEach((b) => {
+                        b.setAttribute("disabled", "")
+                    })
+                    // The voted state hides .opts (display:none), dropping the focused
+                    // button. Move focus to the now-visible thanks node so keyboard users
+                    // aren't stranded and the status is announced.
+                    if (thanksEl) thanksEl.focus()
+                },
+                { once: false },
+            )
+        })
+    })()
+</script>

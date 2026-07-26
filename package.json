@@ -38,6 +38,7 @@
     "email:gifs": "node scripts/email-gifs/capture-email-gifs.mjs"
   },
   "dependencies": {
+    "@astrojs/mdx": "^4.3.14",
     "@astrojs/sitemap": "^3.6.0",
     "astro": "5.16.6"
   },
@@ -46,6 +47,7 @@
     "@fontsource-variable/domine": "5.2.8",
     "@fontsource-variable/manrope": "5.2.8",
     "@tailwindcss/vite": "4.1.18",
+    "pagefind": "^1.5.2",
     "parse5": "^8.0.1",
     "tailwindcss": "4.1.18",
     "typescript": "5.9.2",

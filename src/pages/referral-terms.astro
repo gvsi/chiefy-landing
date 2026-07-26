@@ -1,0 +1,36 @@
+---
+import LegalLayout from "../layouts/LegalLayout.astro"
+import { DEFAULT_LOCALE } from "../i18n/locales"
+import type { AlternateLink } from "../i18n/routing"
+import { getMessages, t } from "../i18n/messages/schema"
+import contentHtml from "../snippets/legal/referral-terms.html?raw"
+
+// v1 is EN-only by design (spec §9): this page intentionally does NOT join the
+// [locale]/[legalPage].astro 48-locale fan-out, so it bypasses the shared
+// LegalPage-typed getLegalContent()/localizedPath()/getAlternateLinksForRoute()
+// machinery and reads its content directly via a raw import instead. Unlike the
+// noindex /refer page, /referral-terms IS indexed (kept in the sitemap), so — like
+// the launch help center — it declares self-referential en + x-default hreflang
+// rather than the full locale matrix. The dist i18n verifier applies the same
+// narrow (en + x-default) expectation to referral-terms.html.
+const locale = DEFAULT_LOCALE
+const messages = getMessages(locale)
+const title = t(messages, "legal.pages.referralTerms.title")
+const description = t(messages, "legal.pages.referralTerms.description")
+const canonicalPath = "/referral-terms"
+const canonicalHref = new URL(canonicalPath, Astro.site ?? "https://chiefy.com").toString()
+const alternates: AlternateLink[] = [
+    { locale: DEFAULT_LOCALE, href: canonicalHref },
+    { locale: "x-default", href: canonicalHref },
+]
+---
+
+<LegalLayout
+    locale={locale}
+    messages={messages}
+    alternates={alternates}
+    title={title}
+    description={description}
+    canonicalPath={canonicalPath}
+    contentHtml={contentHtml}
+/>

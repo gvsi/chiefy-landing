@@ -1,0 +1,60 @@
+---
+import HelpIndexLayout from "../../layouts/HelpIndexLayout.astro"
+import HelpHero from "../../components/help/HelpHero.astro"
+import HelpCategoryGrid from "../../components/help/HelpCategoryGrid.astro"
+import HelpTroubleshooting from "../../components/help/HelpTroubleshooting.astro"
+import HelpContact from "../../components/help/HelpContact.astro"
+import { DEFAULT_LOCALE } from "../../i18n/locales"
+import { localizedPath } from "../../i18n/routing"
+import { getAllHelpArticles, getHelpAlternates } from "../../i18n/content"
+import { helpCategory } from "../../content/help/_categories"
+import { HELP_UI } from "../../content/help/_ui"
+import { getMessages, t } from "../../i18n/messages/schema"
+
+const locale = DEFAULT_LOCALE
+const messages = getMessages(locale)
+const articles = await getAllHelpArticles(locale)
+
+// Per-category article counts for the grid footers.
+const counts: Record<string, number> = {}
+for (const article of articles) counts[article.category] = (counts[article.category] ?? 0) + 1
+
+// "Popular:" quick links — feature the seeded article if present, then a few
+// category links (which always resolve). Avoids dead links pre-corpus.
+const featured = articles.find((a) => a.slug === "smart-drafts/turn-on-autodraft")
+const popular = [
+    featured ? { label: featured.title, href: localizedPath(locale, { kind: "helpArticle", slug: featured.slug }) } : null,
+    { label: helpCategory("getting-started")!.name, href: localizedPath(locale, { kind: "helpCategory", category: "getting-started" }) },
+    { label: helpCategory("connected-mailboxes")!.name, href: localizedPath(locale, { kind: "helpCategory", category: "connected-mailboxes" }) },
+    { label: helpCategory("account-billing")!.name, href: localizedPath(locale, { kind: "helpCategory", category: "account-billing" }) },
+].filter((link): link is { label: string; href: string } => Boolean(link))
+
+const title = HELP_UI.meta.indexTitle
+const description = HELP_UI.hero.subtitle
+const canonicalPath = localizedPath(locale, { kind: "helpIndex" })
+const alternates = getHelpAlternates(Astro.site, { kind: "helpIndex" })
+
+const homeUrl = new URL(localizedPath(locale, { kind: "home" }), Astro.site).toString()
+const helpUrl = new URL(canonicalPath, Astro.site).toString()
+const breadcrumb = [
+    { name: t(messages, "legalNav.home"), url: homeUrl },
+    { name: HELP_UI.breadcrumb.home, url: helpUrl },
+]
+---
+
+<HelpIndexLayout
+    locale={locale}
+    title={title}
+    description={description}
+    collectionName={HELP_UI.breadcrumb.home}
+    canonicalPath={canonicalPath}
+    alternates={alternates}
+    breadcrumb={breadcrumb}
+>
+    <HelpHero popular={popular} />
+    <main class="help-wrap">
+        <HelpCategoryGrid locale={locale} counts={counts} />
+        <HelpTroubleshooting />
+        <HelpContact />
+    </main>
+</HelpIndexLayout>

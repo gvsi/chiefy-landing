@@ -1,0 +1,41 @@
+---
+/**
+ * SettingRowApp — a screenshot-polished settings card row for the CHIEFY web app
+ * (app.chiefy.com), used across the settings screens. It is the app-surface
+ * upgrade of the existing help/SettingRow.astro:
+ *   - a bold 15px title + muted 13px description on the left,
+ *   - the monochrome iOS-style toggle on the right (NOT the emerald help-switch),
+ *   - tokenized so it is correct in BOTH help-center themes.
+ *
+ *   <SettingRowApp title="Enable drafts" on
+ *     description="Chiefy will create reply drafts in Gmail for emails that need a response" />
+ *
+ * Pass `as="div"` (default) to render a standalone card, or `bare` to drop the
+ * card chrome when embedding inside another card. `anno` adds an annotation chip.
+ */
+import { HELP_UI } from "../../../content/help/_ui"
+
+type Props = {
+    title: string
+    description?: string
+    on?: boolean
+    /** Drop the card border/padding/shadow (for use inside another card). */
+    bare?: boolean
+    /** Optional annotation marker beside the title. */
+    anno?: string
+}
+
+const { title, description, on = true, bare = false, anno } = Astro.props
+const ariaLabel = on ? HELP_UI.common.on : HELP_UI.common.off
+---
+
+<div class={bare ? "hms-card-row" : "hms-card hms-card-row"}>
+    <div class="hms-cr-body">
+        <p class="hms-cr-title">
+            {title}
+            {anno && <span class="help-anno">{anno}</span>}
+        </p>
+        {description && <p class="hms-cr-desc">{description}</p>}
+    </div>
+    <span class={`hms-toggle${on ? "" : " off"}`} role="img" aria-label={`${title}: ${ariaLabel}`}></span>
+</div>
