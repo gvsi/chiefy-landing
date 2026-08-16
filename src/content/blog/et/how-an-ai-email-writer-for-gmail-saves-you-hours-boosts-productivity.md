@@ -19,7 +19,9 @@ Meilide tohutu hulk on jahmatav. Uuringufirma The Radicati Group andmetel ületa
 
 Uuringud näitavad pidevalt, et spetsialistid kulutavad suure osa oma töönädalast meilile. Prognoosid ulatuvad [ligikaudu 6,4 tunnist nädalas](https://www.radicati.com/wp/wp-content/uploads/2022/11/Email-Statistics-Report-2022-2026-Executive-Summary.pdf) (Deeli 2025. aasta töökohastatistika) kuni hämmastava [11 tunnini nädalas](https://www.deel.com/blog/workplace-statistics/), mis kulub lihtsalt meilide haldamisele ja korraldamisele, nagu selgus EmailTooltesteri viidatud Microsoft uuringust. See on potentsiaalselt 28% postkasti neelatud töönädalast!
 
-Mõju ületab kaotatud aja. Pidev meilikontroll killustab meie fookuse, sundides kulukat konteksti vahetama sügava töö ja postkasti triaaži vahel. See digitaalne hõõrdumine suurendab stressi, takistab otsuste tegemist, kuna olulised sõnumid mattuvad, ja võib isegi põhjustada läbipõlemist. [DragAppi poolt mainitud Forbesi uuring](https://www.emailtooltester.com/en/blog/email-usage-statistics/) näitas, et kolmandik töötajatest nimetas töölt lahkumise tegurina meilide ülekoormust. On selge, et traditsiooniline lähenemine e-posti haldamisele ei ole tänapäevaste spetsialistide jaoks jätkusuutlik.![Infograafik, mis näitab statistikat e-kirjade ülekoormuse kohta, sealhulgas keskmiselt saabunud meilide arv päevas, e-posti haldamisele kulutatud tunnid nädalas ja mõju tootlikkusele](https://www.dragapp.com/blog/effects-of-email-overload/)
+Mõju ületab kaotatud aja. Pidev meilikontroll killustab meie fookuse, sundides kulukat konteksti vahetama sügava töö ja postkasti triaaži vahel. See digitaalne hõõrdumine suurendab stressi, takistab otsuste tegemist, kuna olulised sõnumid mattuvad, ja võib isegi põhjustada läbipõlemist. [DragAppi poolt mainitud Forbesi uuring](https://www.emailtooltester.com/en/blog/email-usage-statistics/) näitas, et kolmandik töötajatest nimetas töölt lahkumise tegurina meilide ülekoormust. On selge, et traditsiooniline lähenemine e-posti haldamisele ei ole tänapäevaste spetsialistide jaoks jätkusuutlik.
+
+![Infograafik, mis näitab statistikat e-kirjade ülekoormuse kohta, sealhulgas keskmiselt saabunud meilide arv päevas, e-posti haldamisele kulutatud tunnid nädalas ja mõju tootlikkusele](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 E-posti ülekoormus ei ole ainult taju; andmed näitavad, et see vähendab oluliselt tootlikkust ja heaolu
 
@@ -55,7 +57,9 @@ Mõelge NLP-le kui mootorile, mis võimaldab arvutitel mõista inimkeelt – sel
 
 LLM-id, nagu OpenAIi GPT-seeria või Google i Gemini mudelid, on genereerimise taga. Neid mudeleid õpetatakse kasutama tohutuid andmekogumeid – triljoneid sõnu veebisaitidelt, raamatutest ja muudest tekstiallikatest. See koolitus võimaldab neil õppida keerulisi keelemustreid, grammatikat, konteksti ja isegi erinevaid kirjutamisstiile. Kui esitate viipa (nt "Kirjutage viisakas järelmeil, milles palute aruannet") või olemasoleva meililõime konteksti, kasutab LLM oma koolitust kõige tõenäolisema sõnajada ennustamiseks, et moodustada asjakohane ja sidus vastus.
 
-Oluline on see, et paljudel tehisintellekti meilikirjutajatel on ka õppemehhanism. Analüüsides teie *saadetud* e-kirju (eriti mustandites tehtud muudatusi), saab tehisintellekt järk-järgult õppida teie eelistatud sõnastust, allakirjutusi ja üldist suhtlusstiili, muutes oma soovitused aja jooksul isikupärasemaks. See juhtub sageli sujuvalt Chrome'i laienduse kaudu, mis integreerub otse teie Gmail liidesesse, suunates tehisintellekti võimsuse just sinna, kus seda vajate.![Skeem, mis illustreerib tehisintellekti meilikirjutaja tööd: kasutaja sisend (viip/kontekst) läheb AI mudelisse (NLP/LLM), mis seejärel loob meiliväljundi (mustand/kokkuvõte)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
+Oluline on see, et paljudel tehisintellekti meilikirjutajatel on ka õppemehhanism. Analüüsides teie *saadetud* e-kirju (eriti mustandites tehtud muudatusi), saab tehisintellekt järk-järgult õppida teie eelistatud sõnastust, allakirjutusi ja üldist suhtlusstiili, muutes oma soovitused aja jooksul isikupärasemaks. See juhtub sageli sujuvalt Chrome'i laienduse kaudu, mis integreerub otse teie Gmail liidesesse, suunates tehisintellekti võimsuse just sinna, kus seda vajate.
+
+![Skeem, mis illustreerib tehisintellekti meilikirjutaja tööd: kasutaja sisend (viip/kontekst) läheb AI mudelisse (NLP/LLM), mis seejärel loob meiliväljundi (mustand/kokkuvõte)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
 
 Tehisintellekti meilikirjutajad kasutavad teie taotluse mõistmiseks NLP-d ja suure hulga andmete põhjal väljaõppe saanud LLM-id, et luua inimsarnast teksti.
 
@@ -152,7 +156,9 @@ AI kiire kasutuselevõtt töökohal on vaieldamatu. [McKinsey 2024. aasta uurimu
 
 See suundumus ei tähenda inimsuhtluse asendamist; see on hõõrdumise ja ebaefektiivsuse eemaldamine, mis seda takistavad. Eesmärk on automatiseerida korduvaid, aeganõudvaid ülesandeid, vabastades väärtuslikku vaimset energiat ja aega tööks, mis nõuab ainulaadselt inimlikke oskusi: strateegiline mõtlemine, keeruline probleemide lahendamine, empaatiavõime ja suhete loomine.
 
-Gmail tehisintellekti meilikirjutajad on oluline samm selles suunas. Need pakuvad võimsat viisi digitaalse suhtluse lakkamatu voo haldamiseks, muutes postkasti stressiallikast paremini hallatavaks ja produktiivsemaks tööriistaks.![Graafiline tsitaat või statistika selle kohta, kuidas AI rakendamine suurendab töökoha tootlikkust](https://www.ajg.com/news-and-insights/features/2025-attitudes-to-ai-adoption-and-risk-benchmarking-survey/)
+Gmail tehisintellekti meilikirjutajad on oluline samm selles suunas. Need pakuvad võimsat viisi digitaalse suhtluse lakkamatu voo haldamiseks, muutes postkasti stressiallikast paremini hallatavaks ja produktiivsemaks tööriistaks.
+
+![Graafiline tsitaat või statistika selle kohta, kuidas AI rakendamine suurendab töökoha tootlikkust](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
 
 Tehisintellekti tööriistu peetakse üha enam oluliseks töökoha tootlikkuse ja tõhususe suurendamiseks.
 

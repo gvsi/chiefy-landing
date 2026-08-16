@@ -90,19 +90,12 @@ Uzun ve karmaşık e-posta yazışmaları da verimliliği düşüren bir diğer 
 AI e-posta asistanları pazarı hızla büyüyor. Birçok araç benzer özellikler sunarken, genellikle farklı güçlü yönlere ve hedef kitlelere sahipler. İşte [**Dialzara**](https://dialzara.com/blog/10-best-ai-email-writing-tools-2024/), [**Lindy**](https://www.lindy.ai/blog/ai-email-assistant) ve [**Zapier**](https://zapier.com/blog/best-ai-email-assistant/) gibi kaynaklardan alınan incelemelere dayanarak bazı önemli oyunculara ve yaygın özellik türlerine kısa bir bakış:
 
 | **Özellik Odak Noktası** | **İncelemelerde Bahsedilen Örnek Araçlar** | **Temel Yetenek** | **İdeal Kullanıcı Profili** |
-
-| ---------------------------- | -------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------- |
-
+| --- | --- | --- | --- |
 | **Gelen Kutusu Yönetimi/Önceliklendirme** | SaneBox, Shortwave, Lindy, Chiefy | Akıllı sıralama, önceliklendirme, istenmeyen/karmaşık içerik filtreleme | Yüksek hacimli kullanıcılar, Meşgul Profesyoneller |
-
 | **Taslak Oluşturma ve Yazma** | Jasper, Copy.ai, Flowrite, Chiefy | Şablon oluşturma, içerik oluşturma, sesli öğrenme | Pazarlamacılar, Satış Ekipleri, Sık Yazı Yazanlar |
-
 | **Dilbilgisi ve Düzeltme** | Grammarly | Hata düzeltme, ton ayarlama, netlik | Düzgün iletişim ihtiyacı duyan herkes |
-
 | **Platform Entegrasyonu** | Copilot (Microsoft), Gemini (Google) | Belirli ekosistemler içinde derin entegrasyon | MS veya Google paketine yoğun yatırım yapmış kullanıcılar |
-
 | **Özetleme** | Copilot, Shortwave, Chiefy | Uzun ileti dizilerini özetleme | Karmaşık projeleri yöneten profesyoneller |
-
 | **Kişiselleştirme** | SmartWriter.ai | Büyük ölçekte pazarlama e-postalarını özelleştirme | Satış ve İş Geliştirme Ekipleri |
 
 (Not: Bu tablo örnek niteliğindedir; birçok araç birden fazla özellik sunmaktadır. Özellik setleri ve fiyatlandırma değişebilir.)

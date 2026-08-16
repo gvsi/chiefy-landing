@@ -111,7 +111,9 @@ Værktøjer som [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-
 
 Beskæftiger du dig med lange e-mail-tråde eller rapporter? AI transformerer, hvordan vi forbruger denne information. AI-værktøjer kan automatisk opsummere lange e-mails eller hele tråde og udtrække nøglepunkter, beslutninger og handlingspunkter. [Superhuman](https://superhuman.com/ai) tilbyder en automatisk opsummeringsfunktion, og værktøjer som Microsoft Copilot i Outlook giver også opsummering. Platforme som [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) og [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) tilbyder dedikerede AI-sammendragere.
 
-Dette sparer enorm tid på at komme op i gang med komplekse samtaler. [Chiefy inkorporerer **Smart Summarization** med kontekstuel bevidsthed](https://chiefy.com/da), hvilket betyder, at det ikke kun fortætter lange tråde, men også husker detaljer om tidligere nævnte projekter og relationer, hvilket sikrer, at resuméer er yderst relevante og handlingsrettede.![Skærmbillede, der viser Chiefy s smarte e-mail-opsummeringsfunktion, der kondenserer en lang e-mail-tråd til nøglepunkter og handlingspunkter](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Dette sparer enorm tid på at komme op i gang med komplekse samtaler. [Chiefy inkorporerer **Smart Summarization** med kontekstuel bevidsthed](https://chiefy.com/da), hvilket betyder, at det ikke kun fortætter lange tråde, men også husker detaljer om tidligere nævnte projekter og relationer, hvilket sikrer, at resuméer er yderst relevante og handlingsrettede.
+
+![Skærmbillede, der viser Chiefy s smarte e-mail-opsummeringsfunktion, der kondenserer en lang e-mail-tråd til nøglepunkter og handlingspunkter](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Automatiseringens kraft: ved tallene
 

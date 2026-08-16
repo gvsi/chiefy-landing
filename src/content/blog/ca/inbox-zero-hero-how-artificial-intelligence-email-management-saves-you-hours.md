@@ -230,7 +230,7 @@ Més enllà de la integració bàsica, compareu eines basades en:
 
 
 | Criteris | Què buscar |
-| ------------------------------------ | --------------------------------------------------------------------- ------------------------------------------------------------------------ |
+| --- | --- |
 | **Característiques bàsiques** | Ofereix les capacitats específiques que més necessiteu (p. ex., priorització, resum, redacció, programació, anàlisi)?                   |
 | **Efectivitat i precisió** | Què tan bé funciona el AI? La priorització sembla encertada? Són útils els resums? Són rellevants els esborranys? (Feu servir proves gratuïtes). |
 | **Personalització i personalització** | Podeu personalitzar les regles? Aprèn el teu estil? Podeu ajustar el to i la longitud dels esborranys?                                                |

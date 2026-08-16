@@ -35,7 +35,9 @@ Denna ständiga störtflod leder till:
 
 - **Ökad stress:** Känslan av att ständigt ligga efter på e-post bidrar väsentligt till stress och utbrändhet på arbetsplatsen.
 
-AI-sammanfattningsverktyg syftar till att ta itu med dessa problem direkt genom att snabbt extrahera kärnan i kommunikation, så att du kan prioritera effektivt och hålla dig informerad utan att gå vilse i ogräset. Studier om AI på arbetsplatsen, som de som lyfts fram av [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), visar påtagliga produktivitetshöjningar när AI hjälper till med uppgifter som sammanfattning och informationssökning.![Infografik som illustrerar problemet med e-postöverbelastning med nyckelstatistik](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+AI-sammanfattningsverktyg syftar till att ta itu med dessa problem direkt genom att snabbt extrahera kärnan i kommunikation, så att du kan prioritera effektivt och hålla dig informerad utan att gå vilse i ogräset. Studier om AI på arbetsplatsen, som de som lyfts fram av [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), visar påtagliga produktivitetshöjningar när AI hjälper till med uppgifter som sammanfattning och informationssökning.
+
+![Infografik som illustrerar problemet med e-postöverbelastning med nyckelstatistik](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Den stora mängden dagliga e-postmeddelanden belyser behovet av effektiva hanteringsverktyg.
 
@@ -55,7 +57,9 @@ Tillgång till funktionen beror på ditt gränssnitt:
 
 - **Webbgränssnitt:** Leta efter en knapp märkt "Sammanfatta detta e-postmeddelande" som visas direkt under ämnesraden i en kvalificerad e-posttråd. Alternativt kan du öppna sidopanelen "Fråga Gemini" (vanligtvis via en gnistrande ikon uppe till höger) och antingen klicka på en föreslagen prompt som "Vad handlar det här e-postmeddelandet om?" eller skriv din egen begäran som "Sammanfatta den här tråden."
 
-- **Mobilapp (Android/iOS):** På samma sätt som på webben kan en "Sammanfatta detta e-postmeddelande"-knapp visas under ämnet. Att trycka på den tar vanligtvis upp sammanfattningen i ett särskilt Gemini ark eller panel. Du kan också ofta komma åt sammanfattningar och andra AI-funktioner via ikonen Gemini i appens översta fält.![Gmail e-postvy som markerar knappen 'Sammanfatta detta e-postmeddelande' under ämnesraden](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **Mobilapp (Android/iOS):** På samma sätt som på webben kan en "Sammanfatta detta e-postmeddelande"-knapp visas under ämnet. Att trycka på den tar vanligtvis upp sammanfattningen i ett särskilt Gemini ark eller panel. Du kan också ofta komma åt sammanfattningar och andra AI-funktioner via ikonen Gemini i appens översta fält.
+
+![Gmail e-postvy som markerar knappen 'Sammanfatta detta e-postmeddelande' under ämnesraden](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Gmails inbyggda sammanfattningsfunktion är tillgänglig via en knapp direkt i e-posttrådar.
 

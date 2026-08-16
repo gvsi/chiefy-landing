@@ -94,25 +94,15 @@ AI'ın e-posta yönetimini dönüştüren temel yetenekleri şunlardır:
 AI, basit otomasyonun ötesine geçerek _akıllı_ otomasyon ve temsilci _güçlendirmesi_ne doğru önemli bir ilerlemeyi temsil ediyor. AI, kural tabanlı sistemlere göre e-posta içeriğini ve bağlamını çok daha etkili bir şekilde işleyip anlayarak daha doğru önceliklendirme ve yönlendirme sağlıyor. Müşteri verilerini analiz ederek ve özel yanıtlar önererek işletmelerin ölçekli olarak kişiselleştirilmiş yanıtlar sunmasına olanak tanıyor. AI taslak oluşturma araçları, temsilcilerin daha hızlı yanıt verirken bile kaliteyi ve kişiselleştirmeyi korumalarına yardımcı oluyor. Bu, işletmelerin nihayet aradaki boşluğu kapatmasına ve hem hız hem de kişiselleştirme konusunda müşteri beklentilerini aynı anda karşılamasına olanak tanıyor.
 
 | Özellik | Paylaşılan Gelen Kutusu (Temel) | Geleneksel Yardım Masası | AI Destekli Çözüm (Asistan/Gelişmiş Yardım Masası) |
-
-| --------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------- | ------------------------------------ | -------------------------------------------------- |
-
+| --- | --- | --- | --- |
 | **Temel İşlevler** | Temel E-posta Erişimi | Biletleme Sistemi | Biletleme Sistemi / Gelişmiş E-posta Arayüzü |
-
 | **İşbirliği** | Temel İletme/CC Ekleme | Dahili Notlar, Etiketler, Atamalar | AI Özetler, Paylaşılan Bağlam, AI Notlar |
-
 | **Otomasyon** | Manuel Sıralama/Filtreler | Kural Tabanlı İş Akışları (Temel) | AI Odaklı İş Akışları, Akıllı Triage, Otomatik Yanıt |
-
 | **Raporlama** | Yok / Çok Temel | Standart KPI'lar (Yanıt Süresi, vb.) | Gelişmiş Analitik, Tahmine Dayalı İçgörüler |
-
 | **Ölçeklenebilirlik** | Düşük | Orta | Yüksek |
-
 | **AI Yetenekler** | Yok | Sınırlı / Eklenti | Entegre / Temel Özellik |
-
 | **Kişiselleştirme Desteği** | Düşük (Manuel Çaba) | Orta (Bağlam Erişimi Gerektirir) | Yüksek (AI Bağlam, Öneriler, Taslak Oluşturma) |
-
 | **İdeal Kullanım Alanları** | Çok Küçük Ekipler (Düşük Hacimli) | Organizasyona İhtiyaç Duyan Büyüyen KOBİ'ler | Verimlilik/Ölçek Odaklı Ekipler, Yüksek Hacimli |
-
 | _Veri Kaynakları: Birden fazla sektör raporu ve platform analizinden sentezlenmiştir._ | | | |
 
 ## Gelen Kutusunun Ötesinde: 21. Yüzyıl E-posta Desteği İçin Olmazsa Olmaz Özellikler

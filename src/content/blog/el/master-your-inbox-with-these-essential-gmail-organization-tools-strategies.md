@@ -138,7 +138,7 @@ draft: false
 
 
 ![Γραφικό που απεικονίζει την έννοια του Inbox Zero, ίσως εμφανίζει ένα καθαρό φάκελο εισερχομένων ή ένα οργανωμένο γραφείο
-](/el/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Μεθοδολογίες όπως το Inbox Zero παρέχουν ένα σύστημα για την αποτελεσματική επεξεργασία των email.
 
@@ -299,7 +299,7 @@ draft: false
 
 
 ![Απεικόνιση που απεικονίζει ένα ρομπότ AI που ταξινομεί έξυπνα και δίνει προτεραιότητα στα email σε μια κομψή, φουτουριστική διεπαφή υπολογιστή
-](/el/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 Η τεχνητή νοημοσύνη μεταμορφώνει τη διαχείριση email με έξυπνες δυνατότητες διαλογής, σύνοψης και σύνταξης.
 

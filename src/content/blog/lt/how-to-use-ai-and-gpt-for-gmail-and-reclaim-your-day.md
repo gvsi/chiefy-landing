@@ -168,7 +168,9 @@ DI naudojimo Gmail naudai aiški: reikšmingas laiko taupymas, mažesnė pažint
 
 3. **Įvertinkite konkrečius poreikius:** Pagalvokite apie kasdienius el. pašto iššūkius. Ar tai didžiulis kiekis? Laikas, praleistas rašant atsakymus? Sunku išlikti organizuotiems? Įrankis, pritaikytas pagrindinei problemai spręsti, suteiks greičiausią vertę.
 
-Pasiruošę išbandyti išsamų sprendimą, sukurtą keliems el. pašto iššūkiams vienu metu? Sužinokite, kaip tokie įrankiai kaip [**Chiefy**](/lt) sujungia išmanią **DI atranką**, kuri iškelia skubius laiškus, **autentišką DI juodraščių rengimą**, išmokstantį unikalų naudotojo balsą, ir **išmanias santraukas**, padedančias prasiskinti kelią per netvarką. Pamatykite, kaip tai gali pakeisti Gmail darbo eigą.![Ekrano kopija, rodanti, kaip Chiefy apibendrina ilgą el. laišką ir išryškina pagrindinius veiksmų punktus](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Pasiruošę išbandyti išsamų sprendimą, sukurtą keliems el. pašto iššūkiams vienu metu? Sužinokite, kaip tokie įrankiai kaip [**Chiefy**](/lt) sujungia išmanią **DI atranką**, kuri iškelia skubius laiškus, **autentišką DI juodraščių rengimą**, išmokstantį unikalų naudotojo balsą, ir **išmanias santraukas**, padedančias prasiskinti kelią per netvarką. Pamatykite, kaip tai gali pakeisti Gmail darbo eigą.
+
+![Ekrano kopija, rodanti, kaip Chiefy apibendrina ilgą el. laišką ir išryškina pagrindinius veiksmų punktus](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Išmanių santraukų funkcijos ištraukia pagrindinius punktus ir veiksmų elementus, taupydamos skaitymo laiką.
 

@@ -111,7 +111,9 @@ Tools zoals [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-gs) 
 
 Heeft u te maken met lange e-mailthreads of rapporten? AI transformeert de manier waarop we deze informatie consumeren. AI-tools kunnen lange e-mails of hele discussies automatisch samenvatten en er belangrijke punten, beslissingen en actiepunten uit halen. [Superhuman](https://superhuman.com/ai) biedt een automatische samenvattingsfunctie, en tools zoals Microsoft Copilot in Outlook bieden ook samenvattingen. Platforms zoals [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) en [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) bieden speciale AI-samenvattingen.
 
-Dit bespaart enorm veel tijd bij het op gang komen van complexe gesprekken. [Chiefy bevat **Slimme samenvatting** met contextueel bewustzijn](https://chiefy.com/nl), wat betekent dat het niet alleen lange discussies condenseert, maar ook details over eerder genoemde projecten en relaties onthoudt, waardoor samenvattingen zeer relevant en bruikbaar zijn.![Screenshot met de slimme functie voor het samenvatten van e-mails van Chiefy, waarbij een lange e-mailthread wordt samengevat in kernpunten en actie-items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Dit bespaart enorm veel tijd bij het op gang komen van complexe gesprekken. [Chiefy bevat **Slimme samenvatting** met contextueel bewustzijn](https://chiefy.com/nl), wat betekent dat het niet alleen lange discussies condenseert, maar ook details over eerder genoemde projecten en relaties onthoudt, waardoor samenvattingen zeer relevant en bruikbaar zijn.
+
+![Screenshot met de slimme functie voor het samenvatten van e-mails van Chiefy, waarbij een lange e-mailthread wordt samengevat in kernpunten en actie-items](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## De kracht van automatisering: in cijfers
 

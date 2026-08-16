@@ -35,7 +35,9 @@ Dit voortdurende spervuur leidt tot:
 
 - **Toegenomen stress:** Het gevoel voortdurend achterop te raken met e-mail draagt aanzienlijk bij aan stress en burn-out op de werkplek.
 
-AI-samenvattingstools zijn bedoeld om deze problemen direct aan te pakken door snel de essentie van communicatie te achterhalen, zodat u effectief prioriteiten kunt stellen en op de hoogte kunt blijven zonder verdwaald te raken in het onkruid. Uit onderzoeken naar AI op de werkplek, zoals die welke zijn benadrukt door het [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), blijkt een tastbare productiviteitsverbetering wanneer AI helpt bij taken als het samenvatten en ophalen van informatie.![Infographic die het probleem van de overbelasting van e-mail illustreert met belangrijke statistieken](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+AI-samenvattingstools zijn bedoeld om deze problemen direct aan te pakken door snel de essentie van communicatie te achterhalen, zodat u effectief prioriteiten kunt stellen en op de hoogte kunt blijven zonder verdwaald te raken in het onkruid. Uit onderzoeken naar AI op de werkplek, zoals die welke zijn benadrukt door het [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), blijkt een tastbare productiviteitsverbetering wanneer AI helpt bij taken als het samenvatten en ophalen van informatie.
+
+![Infographic die het probleem van de overbelasting van e-mail illustreert met belangrijke statistieken](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Alleen al het volume aan dagelijkse e-mails onderstreept de behoefte aan efficiënte beheertools.
 
@@ -55,7 +57,9 @@ Toegang tot de functie is afhankelijk van uw interface:
 
 - **Webinterface:** Zoek naar een knop met het label "Samenvatting van deze e-mail" die direct onder de onderwerpregel van een in aanmerking komende e-mailthread verschijnt. U kunt ook het zijpaneel "Vraag Gemini" openen (meestal via een fonkelingspictogram in de rechterbovenhoek) en op een voorgestelde prompt klikken, zoals "Waar gaat deze e-mail over?" of typ uw eigen verzoek, zoals 'Vat deze draad samen'.
 
-- **Mobiele app (Android/iOS):** Net als op internet kan er onder het onderwerp een knop 'Deze e-mail samenvatten' verschijnen. Als u erop tikt, wordt de samenvatting doorgaans weergegeven in een speciaal Gemini blad of paneel. Je hebt vaak ook toegang tot samenvattingen en andere AI-functies via het Gemini-pictogram in de bovenste balk van de app.![Gmail e-mailweergave met de knop 'Samenvatting van deze e-mail' onder de onderwerpregel](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **Mobiele app (Android/iOS):** Net als op internet kan er onder het onderwerp een knop 'Deze e-mail samenvatten' verschijnen. Als u erop tikt, wordt de samenvatting doorgaans weergegeven in een speciaal Gemini blad of paneel. Je hebt vaak ook toegang tot samenvattingen en andere AI-functies via het Gemini-pictogram in de bovenste balk van de app.
+
+![Gmail e-mailweergave met de knop 'Samenvatting van deze e-mail' onder de onderwerpregel](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 De oorspronkelijke samenvattingsfunctie van Gmail is rechtstreeks toegankelijk via een knop in e-mailthreads.
 

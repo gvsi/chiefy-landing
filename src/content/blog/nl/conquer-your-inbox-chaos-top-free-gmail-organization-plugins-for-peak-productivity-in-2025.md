@@ -33,7 +33,9 @@ We hebben de opties doorgenomen om enkele van de meest effectieve, gewaardeerde 
 
 **Gratis abonnementsfuncties:** Het gratis 'Starter'-abonnement biedt de belangrijkste Kanban-ervaring. U kunt e-mails slepen om er taakkaarten van te maken, ze ordenen op een persoonlijk bord plus een extra aangepast bord, een dagplannerweergave gebruiken en vervaldatums of herinneringen instellen.
 
-**UI/Setup:** Sortd integreert rechtstreeks in Gmail en biedt een schakelaar tussen de standaardweergave en de bordindeling. De installatie omvat het installeren van de extensie en het verbinden van uw Gmail-account, wat gebruikers over het algemeen eenvoudig vinden.![Sortd-plugininterface met Gmail-inbox getransformeerd in een visueel Kanban-bord met e-mailtaakkaarten met slepen en neerzetten](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/Setup:** Sortd integreert rechtstreeks in Gmail en biedt een schakelaar tussen de standaardweergave en de bordindeling. De installatie omvat het installeren van de extensie en het verbinden van uw Gmail-account, wat gebruikers over het algemeen eenvoudig vinden.
+
+![Sortd-plugininterface met Gmail-inbox getransformeerd in een visueel Kanban-bord met e-mailtaakkaarten met slepen en neerzetten](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Voordelen:** Fantastisch voor het visualiseren van workflowfasen en het beheren van e-mailgerichte taken zonder voortdurend over te schakelen naar een afzonderlijke projectbeheertool. Het hernoemen van onderwerpregels en het rechtstreeks toevoegen van notities aan e-mailtaken is ook handig.
 
@@ -45,7 +47,9 @@ We hebben de opties doorgenomen om enkele van de meest effectieve, gewaardeerde 
 
 **Gratis abonnementsfuncties (Todoistzelf):** Het gratis abonnement vanTodoistis behoorlijk genereus voor individueel gebruik en biedt maximaal 5 actieve projecten, samenwerking met maximaal 5 mensen per project, kerntaakbeheer (inclusief subtaken), lijst- en Kanban-bordweergaven en de mogelijkheid om labels en filters te gebruiken (maximaal 3). Dankzij de gratis Gmail-integratie (beschikbaar als add-on en extensie) kunt u op een pictogram klikken om de momenteel geopende e-mail om te zetten in eenTodoist-taak, die automatisch een link naar de originele e-mail bevat.
 
-**UI/instellingen:** De integratie voegt eenTodoist-pictogram toe aan uw Gmail-interface (in de bovenste werkbalk of in het rechterzijpaneel). Als u hierop klikt, wordt een klein paneel geopend waarin u de e-mail snel als taak kunt toevoegen. Installatie vereist het installeren van de add-on/extensie en het autoriseren van toegang tot uwTodoistaccount.![Todoist voor Gmail integratiepaneel dat laat zien hoe u een e-mail omzet in een taak met vervaldatum en projectselectie](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**UI/instellingen:** De integratie voegt eenTodoist-pictogram toe aan uw Gmail-interface (in de bovenste werkbalk of in het rechterzijpaneel). Als u hierop klikt, wordt een klein paneel geopend waarin u de e-mail snel als taak kunt toevoegen. Installatie vereist het installeren van de add-on/extensie en het autoriseren van toegang tot uwTodoistaccount.
+
+![Todoist voor Gmail integratiepaneel dat laat zien hoe u een e-mail omzet in een taak met vervaldatum en projectselectie](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Voordelen:**Biedt een naadloze brug tussen uw communicatiehub (Gmail) en uw taakbeheersysteem (Todoist). Maakt gebruik van de uitstekende functies vanTodoist, zoals datuminvoer in natuurlijke taal en betrouwbare platformonafhankelijke synchronisatie. Het is een geweldige manier om 'inbox zero' te bereiken door bruikbare items uit de inbox te verplaatsen naar een speciale takenlijst.
 

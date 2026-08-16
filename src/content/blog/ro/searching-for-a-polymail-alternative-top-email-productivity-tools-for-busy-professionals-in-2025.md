@@ -146,7 +146,7 @@ Această varietate subliniază faptul că „cea mai bună” alternativă la Po
 Alegerea instrumentului de e-mail potrivit necesită o analiză atentă a modului în care funcțiile cheie, prețurile și suportul platformei se aliniază nevoilor dumneavoastră. Acest tabel oferă o comparație alăturată pentru a vă ajuta să identificați rapid potențialele compatibilități:
 
 | Funcționalitate/Aspect | Polymail | Superhuman | Missive | Spark Mail | Shortwave | Chiefy (Gmail) |
-| ------------------- | ------------------------------------- | ----------------------------------------- | ----------------------------------------- | ------------------------------------ | ----------------------------------------------------- |
+| --- | --- | --- | --- | --- | --- | --- |
 | **Focus principal** | Vânzări/Productivitate profesională | Viteză și eficiență | Centru de colaborare în echipă | All-rounder, accesibilitate | Organizație AI (Gmail) | Asistent AI personalizat |
 | **Preț de pornire** | \~13 USD/utilizator/lună (Doar cu plată) | 30 USD/utilizator/lună (Doar cu plată) | Nivel gratuit / 14 USD/utilizator/lună | Nivel gratuit / \~5 USD/utilizator/lună | Nivel gratuit / 7 USD/utilizator/lună | (Poziționat ca Premium) |
 | **Platforme** | Web, macOS, Win, iOS (Fără Android) | Doar Gmail/Outlook; Aplicații multi-platformă | Aplicații multi-platformă; Suport IMAP | Aplicații multi-platformă; Suport IMAP | Doar Gmail; Aplicații multi-platformă | Web, Chrome Ext (Gmail) |

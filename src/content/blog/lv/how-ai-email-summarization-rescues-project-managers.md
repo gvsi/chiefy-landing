@@ -116,7 +116,9 @@ Labi, tātad mākslīgais intelekts var saīsināt e-pastus, izmantojot dažāda
 
 6. **Samaziniet kognitīvo slodzi un uzlabojiet koncentrēšanās spējas:** Beidziet mēģināt prātā žonglēt ar desmitiem aktīvu e-pasta pavedienu detaļām. Svarīgākās informācijas apkopošanas un izvilkšanas uzdevuma nodošana mākslīgajam intelektam atbrīvo jūsu vērtīgos kognitīvos resursus. Tas ļauj jums veltīt vairāk garīgās enerģijas stratēģiskajai domāšanai, sarežģītu problēmu risināšanai, risku analīzei un komandas vadīšanai – augstvērtīgam darbam, kas patiesi raksturo projekta vadītāja lomu.
 
-- **PM lietošanas gadījums:** Kopsavilkumu izmantošana, lai ātri apstrādātu un arhivētu zemākas prioritātes atjauninājumu pavedienus atvēlētajā "e-pasta laikā", tādējādi saglabājot mentālo joslas platumu sarežģītu, kritisku problēmu risināšanai.![Infografika par mākslīgā intelekta e-pasta kopsavilkuma priekšrocībām privātajiem vēstnešiem](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+- **PM lietošanas gadījums:** Kopsavilkumu izmantošana, lai ātri apstrādātu un arhivētu zemākas prioritātes atjauninājumu pavedienus atvēlētajā "e-pasta laikā", tādējādi saglabājot mentālo joslas platumu sarežģītu, kritisku problēmu risināšanai.
+
+![Infografika par mākslīgā intelekta e-pasta kopsavilkuma priekšrocībām privātajiem vēstnešiem](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 Mākslīgā intelekta e-pasta kopsavilkumi sniedz taustāmus ieguvumus, palīdzot projektu vadītājiem ietaupīt laiku, izsekot svarīgu informāciju un mazināt garīgo nogurumu.
 

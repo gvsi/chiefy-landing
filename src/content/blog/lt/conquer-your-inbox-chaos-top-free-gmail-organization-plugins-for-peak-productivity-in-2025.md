@@ -33,7 +33,9 @@ Atrinkome parinktis ir išryškinome kelis efektyviausius, gerai vertinamus ir �
 
 **Nemokamo plano funkcijos:** Nemokamas „Starter“ planas suteikia pagrindinę Kanban patirtį. Galite vilkti el. laiškus ir paversti juos užduočių kortelėmis, tvarkyti juos asmeninėje lentoje ir dar vienoje papildomoje pasirinktinėje lentoje, naudoti dienos planuotojo vaizdą bei nustatyti atlikimo terminus ar priminimus.
 
-**Sąsaja / nustatymas:** Sortd tiesiogiai integruojasi į Gmail ir suteikia galimybę perjungti standartinį vaizdą bei lentos išdėstymą. Įdiegimas apima plėtinio įdiegimą ir Gmail paskyros prijungimą, o vartotojai tai paprastai vertina kaip gana paprastą procesą.![Sortd įskiepio sąsaja, rodanti, kaip Gmail gautieji paverčiami vizualia Kanban lenta su tempiamomis el. laiškų užduočių kortelėmis](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**Sąsaja / nustatymas:** Sortd tiesiogiai integruojasi į Gmail ir suteikia galimybę perjungti standartinį vaizdą bei lentos išdėstymą. Įdiegimas apima plėtinio įdiegimą ir Gmail paskyros prijungimą, o vartotojai tai paprastai vertina kaip gana paprastą procesą.
+
+![Sortd įskiepio sąsaja, rodanti, kaip Gmail gautieji paverčiami vizualia Kanban lenta su tempiamomis el. laiškų užduočių kortelėmis](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Privalumai:** Puikiai tinka darbo etapams vizualizuoti ir el. pašto užduotims valdyti nuolat neperjungiant į atskirą projektų valdymo įrankį. Taip pat naudinga pervardyti temų eilutes ir tiesiai į el. laiškų užduotis pridėti pastabas.
 
@@ -45,7 +47,9 @@ Atrinkome parinktis ir išryškinome kelis efektyviausius, gerai vertinamus ir �
 
 **Nemokamo plano funkcijos (pati Todoist):** Todoist nemokamas planas individualiam naudojimui yra gana dosnus: suteikia iki 5 aktyvių projektų, bendradarbiavimą su iki 5 žmonių viename projekte, pagrindinį užduočių valdymą (įskaitant potemius), sąrašo ir Kanban lentos vaizdus bei galimybę naudoti etiketes ir filtrus (iki 3). Nemokama Gmail integracija (prieinama ir kaip papildinys, ir kaip plėtinys) leidžia spustelėti piktogramą ir paversti tuo metu atidarytą el. laišką Todoist užduotimi, automatiškai įtraukiant nuorodą atgal į originalų el. laišką.
 
-**Sąsaja / nustatymas:** Integracija į Gmail sąsają prideda Todoist piktogramą (viršutinėje įrankių juostoje arba dešinėje šoninėje juostoje). Paspaudus ją atsidaro nedidelis skydelis, kuriame galite greitai pridėti el. laišką kaip užduotį. Nustatymui reikia įdiegti papildinį / plėtinį ir suteikti prieigą prie savo Todoist paskyros.![Todoist for Gmail integracijos skydelis, rodantis, kaip paversti el. laišką užduotimi su atlikimo data ir projekto pasirinkimu](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**Sąsaja / nustatymas:** Integracija į Gmail sąsają prideda Todoist piktogramą (viršutinėje įrankių juostoje arba dešinėje šoninėje juostoje). Paspaudus ją atsidaro nedidelis skydelis, kuriame galite greitai pridėti el. laišką kaip užduotį. Nustatymui reikia įdiegti papildinį / plėtinį ir suteikti prieigą prie savo Todoist paskyros.
+
+![Todoist for Gmail integracijos skydelis, rodantis, kaip paversti el. laišką užduotimi su atlikimo data ir projekto pasirinkimu](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Privalumai:** Suteikia sklandų tiltą tarp jūsų komunikacijos centro (Gmail) ir užduočių valdymo sistemos (Todoist). Pasinaudoja puikiomis Todoist funkcijomis, tokiomis kaip natūralios kalbos datų įvedimas ir patikimas sinchronizavimas tarp platformų. Tai puikus būdas pasiekti „inbox zero“, perkeliant veiksmingus elementus iš gautųjų į atskirą užduočių sąrašą.
 

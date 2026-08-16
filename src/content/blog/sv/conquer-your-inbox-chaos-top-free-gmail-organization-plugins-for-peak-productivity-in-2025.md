@@ -33,7 +33,9 @@ Vi har sållat igenom alternativen för att lyfta fram några av de mest effekti
 
 **Gratis planfunktioner:** Den kostnadsfria "Starter"-planen ger kärnan i Kanban-upplevelsen. Du kan dra e-postmeddelanden för att förvandla dem till uppgiftskort, organisera dem på en personlig tavla plus ytterligare en anpassad tavla, använda en dagsplanerare och ange förfallodatum eller påminnelser.
 
-**UI/Setup:**Sortdintegreras direkt i Gmail och erbjuder en växling mellan standardvyn och dess kortlayout. Installationen innebär att du installerar tillägget och ansluter ditt Gmail-konto, vilket användarna i allmänhet tycker är enkelt.![Sortdplugin-gränssnitt som visar Gmail inkorg förvandlad till ett visuellt Kanban-kort med dra-och-släpp e-postuppgiftskort](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/Setup:**Sortdintegreras direkt i Gmail och erbjuder en växling mellan standardvyn och dess kortlayout. Installationen innebär att du installerar tillägget och ansluter ditt Gmail-konto, vilket användarna i allmänhet tycker är enkelt.
+
+![Sortdplugin-gränssnitt som visar Gmail inkorg förvandlad till ett visuellt Kanban-kort med dra-och-släpp e-postuppgiftskort](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Fördelar:** Fantastiskt för att visualisera arbetsflödesstadier och hantera e-postcentrerade uppgifter utan att ständigt byta till ett separat projekthanteringsverktyg. Att byta namn på ämnesrader och lägga till anteckningar direkt i e-postuppgifter är också användbart.
 
@@ -45,7 +47,9 @@ Vi har sållat igenom alternativen för att lyfta fram några av de mest effekti
 
 **Gratis planfunktioner (Todoistsjälv):**Todoists gratisplan är ganska generös för individuell användning, erbjuder upp till 5 aktiva projekt, samarbete med upp till 5 personer per projekt, kärnuppgiftshantering (inklusive underuppgifter), list- och Kanban-kortvyer och möjligheten att använda etiketter och filter (upp till 3 filter). Den kostnadsfria Gmail-integrationen (tillgänglig som både tillägg och tillägg) låter dig klicka på en ikon för att förvandla det för närvarande öppna e-postmeddelandet till enTodoist-uppgift, inklusive en länk tillbaka till det ursprungliga e-postmeddelandet.
 
-**UI/Setup:** Integrationen lägger till enTodoist-ikon till ditt Gmail-gränssnitt (antingen i det övre verktygsfältet eller den högra sidopanelen). Genom att klicka på detta öppnas en liten panel där du snabbt kan lägga till e-postmeddelandet som en uppgift. Installationen kräver att du installerar tillägget/tillägget och auktoriserar åtkomst till dittTodoist-konto.![Todoist för Gmail integrationspanel som visar hur man konverterar ett e-postmeddelande till en uppgift med förfallodatum och projektval](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**UI/Setup:** Integrationen lägger till enTodoist-ikon till ditt Gmail-gränssnitt (antingen i det övre verktygsfältet eller den högra sidopanelen). Genom att klicka på detta öppnas en liten panel där du snabbt kan lägga till e-postmeddelandet som en uppgift. Installationen kräver att du installerar tillägget/tillägget och auktoriserar åtkomst till dittTodoist-konto.
+
+![Todoist för Gmail integrationspanel som visar hur man konverterar ett e-postmeddelande till en uppgift med förfallodatum och projektval](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Fördelar:**Ger en sömlös brygga mellan ditt kommunikationshubb (Gmail) och ditt uppgiftshanteringssystem (Todoist). Utnyttjar Todoists utmärkta funktioner som datuminmatning på naturligt språk och pålitlig synkronisering över flera plattformar. Det är ett utmärkt sätt att uppnå "inkorgen noll" genom att flytta åtgärdsobjekt från inkorgen och till en dedikerad uppgiftslista.
 

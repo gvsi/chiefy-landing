@@ -57,7 +57,9 @@ Nicht alle interaktiven Elemente sind gleich. Hier sind einige bewährte Gewinne
 
 - **Planungslink:** Direkte Integration mit Tools wie Calendly. Durch das Hinzufügen einer Schaltfläche oder eines Links „[Besprechung planen“](https://www.bybrand.io/blog/schedule-meeting-email-signature/) werden Reibungsverluste bei der Buchung von Anrufen beseitigt.
 
-- **Logo oder Headshot:** Fügt Persönlichkeit und Markenwiedererkennung hinzu. Machen Sie es anklickbar und verlinken Sie es auf Ihre Website. Verwenden Sie ein hochwertiges, professionelles Bild.![Beispiel einer einfachen professionellen E-Mail-Signatur für einen Freiberufler mit anklickbaren Kontaktinformationen und sozialen Links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logo oder Headshot:** Fügt Persönlichkeit und Markenwiedererkennung hinzu. Machen Sie es anklickbar und verlinken Sie es auf Ihre Website. Verwenden Sie ein hochwertiges, professionelles Bild.
+
+![Beispiel einer einfachen professionellen E-Mail-Signatur für einen Freiberufler mit anklickbaren Kontaktinformationen und sozialen Links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Halten Sie es sauber: Eine einfache Signatur mit wichtigen Kontaktinformationen und wichtigen sozialen Links.
 
@@ -80,7 +82,9 @@ Welches ist das Richtige für Sie? Vergleichen wir:
 | **Funktionen** | Vorlagen, Analysen, Bannerkampagnen, zentrale Verwaltung (oft kostenpflichtig) | Nur durch HTML/CSS-E-Mail-Einschränkungen eingeschränkt |
 | **Kosten** | Kostenlose Stufen verfügbar (oft mit Branding); Bezahlte Pläne für mehr Funktionen/Benutzer | Kostenlos (wenn Sie über die entsprechenden Fähigkeiten verfügen) |
 
-**Empfehlung für Freiberufler und Start-ups:** Sofern Sie nicht mit HTML und strengen Tests vertraut sind, wird dringend empfohlen, mit einem seriösen **E-Mail-Signaturgenerator** zu beginnen. Tools wie [MySignature](https://mysignature.io/) (gut für Freiberufler/kleine Teams) oder [WiseStamp](https://www.wisestamp.com/) bieten kostenlose oder erschwingliche Pläne mit professionellen Vorlagen, einfacher Anpassung (einschließlich CTAs und Bannern) und integrierten Kompatibilitätsprüfungen. [HubSpot bietet außerdem einen beliebten kostenlosen Generator](https://www.hubspot.com/email-signature-generator) für einfachere Anforderungen.![Screenshot der Benutzeroberfläche eines E-Mail-Signaturgenerator-Tools mit Vorlagen und Anpassungsoptionen](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Empfehlung für Freiberufler und Start-ups:** Sofern Sie nicht mit HTML und strengen Tests vertraut sind, wird dringend empfohlen, mit einem seriösen **E-Mail-Signaturgenerator** zu beginnen. Tools wie [MySignature](https://mysignature.io/) (gut für Freiberufler/kleine Teams) oder [WiseStamp](https://www.wisestamp.com/) bieten kostenlose oder erschwingliche Pläne mit professionellen Vorlagen, einfacher Anpassung (einschließlich CTAs und Bannern) und integrierten Kompatibilitätsprüfungen. [HubSpot bietet außerdem einen beliebten kostenlosen Generator](https://www.hubspot.com/email-signature-generator) für einfachere Anforderungen.
+
+![Screenshot der Benutzeroberfläche eines E-Mail-Signaturgenerator-Tools mit Vorlagen und Anpassungsoptionen](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Tools wie MySignature und WiseStamp bieten Vorlagen und einfache Anpassungen.
 
@@ -106,7 +110,9 @@ Das Erstellen einer interaktiven Signatur ist nur die halbe Miete. Es ist von en
 
 - **Bildoptimierung:** Verwenden Sie qualitativ hochwertige Bilder mit kleiner Dateigröße (idealerweise unter 100 KB Gesamtsignaturgewicht). Hosten Sie Bilder zuverlässig (betten Sie sie nur ein, wenn dies erforderlich ist, da dies die E-Mail-Größe erhöht). Verwenden Sie für die Barrierefreiheit und für den Fall, dass Bilder blockiert sind, immer beschreibenden Alt-Text.
 
-- **Begrenzungselemente:** Nicht *jedes* soziale Profil einbeziehen. Bleiben Sie bei 3-4 relevanten. Ein starker CTA ist normalerweise besser als mehrere schwache.![Vergleich zeigt, dass eine E-Mail-Signatur sowohl auf Desktop- als auch auf mobilen Bildschirmen korrekt dargestellt wird](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Begrenzungselemente:** Nicht *jedes* soziale Profil einbeziehen. Bleiben Sie bei 3-4 relevanten. Ein starker CTA ist normalerweise besser als mehrere schwache.
+
+![Vergleich zeigt, dass eine E-Mail-Signatur sowohl auf Desktop- als auch auf mobilen Bildschirmen korrekt dargestellt wird](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobile Angelegenheiten: Stellen Sie sicher, dass Ihre Signatur auf allen Geräten gut aussieht und gut funktioniert.
 

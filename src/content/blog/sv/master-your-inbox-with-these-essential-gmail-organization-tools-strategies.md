@@ -95,7 +95,9 @@ Dessa funktioner går bortom enkel organisation till aktiv arbetsflödeshanterin
 
 ## Proven Frameworks: E-posthanteringsmetoder för Gmail
 
-Att ha rätt verktyg är viktigt, men utan ett system kan du fortfarande känna dig överväldigad. Att anta en beprövad metod för e-posthantering ger ramarna för att använda dessa verktyg effektivt.![Grafik som illustrerar konceptet med Inbox Zero, kanske visar en ren inkorg eller ett organiserat skrivbord](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Att ha rätt verktyg är viktigt, men utan ett system kan du fortfarande känna dig överväldigad. Att anta en beprövad metod för e-posthantering ger ramarna för att använda dessa verktyg effektivt.
+
+![Grafik som illustrerar konceptet med Inbox Zero, kanske visar en ren inkorg eller ett organiserat skrivbord](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Metoder som Inbox Zero tillhandahåller ett system för effektiv behandling av e-postmeddelanden.
 
@@ -195,7 +197,9 @@ Förekomsten av dessa populära verktyg framhäver där infödda Gmail ofta miss
 
 ## Framtiden är här: Hur AI revolutionerar Gmail organisation
 
-Bortom manuella regler och tredjepartsintegrationer ligger nästa gräns: artificiell intelligens. AI-e-postassistenter går bortom enkel sortering för att tillhandahålla intelligent automatisering som förstår sammanhanget och lär sig dina preferenser. Med AI-anpassningen som växer snabbt i företag och visar betydande potential för produktivitetsvinster, är dess inverkan på e-posthantering djupgående.![Illustration som visar en AI-robot som intelligent sorterar och prioriterar e-post i ett elegant, futuristiskt datorgränssnitt](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Bortom manuella regler och tredjepartsintegrationer ligger nästa gräns: artificiell intelligens. AI-e-postassistenter går bortom enkel sortering för att tillhandahålla intelligent automatisering som förstår sammanhanget och lär sig dina preferenser. Med AI-anpassningen som växer snabbt i företag och visar betydande potential för produktivitetsvinster, är dess inverkan på e-posthantering djupgående.
+
+![Illustration som visar en AI-robot som intelligent sorterar och prioriterar e-post i ett elegant, futuristiskt datorgränssnitt](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 AI förvandlar e-posthantering med smarta triage-, sammanfattnings- och ritfunktioner.
 

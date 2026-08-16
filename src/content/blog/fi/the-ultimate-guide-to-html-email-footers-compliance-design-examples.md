@@ -59,7 +59,9 @@ Kun [merkittävä osa sähköposteista avataan mobiililaitteilla](https://www.li
 
 - Linkkien ja painikkeiden tekeminen riittävän suuriksi, jotta niitä on helppo napauttaa (vähintään 44x44 pikseliä).
 
-– Alatunnisteen testaaminen eri laitteissa ja sähköpostiohjelmissa käyttämällä työkaluja, kuten [Litmus](https://www.litmus.com/) tai [Email on Acid](https://www.emailonacid.com/).![Rinnakkovertailu, joka näyttää kuinka hyvin suunniteltu sähköpostin alatunniste mukauttaa asetteluaan työpöytänäkymästä mobiilinäkymään](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+– Alatunnisteen testaaminen eri laitteissa ja sähköpostiohjelmissa käyttämällä työkaluja, kuten [Litmus](https://www.litmus.com/) tai [Email on Acid](https://www.emailonacid.com/).
+
+![Rinnakkovertailu, joka näyttää kuinka hyvin suunniteltu sähköpostin alatunniste mukauttaa asetteluaan työpöytänäkymästä mobiilinäkymään](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Varmista, että alatunniste näyttää hyvältä ja toimii täydellisesti missä tahansa näytössä.
 

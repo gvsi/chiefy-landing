@@ -103,7 +103,9 @@ Noslēdziet e-pastu eleganti un norādiet nepieciešamo kontaktinformāciju.
 
 - **Pēc izvēles (bet bieži vien noderīgi)**: Uzņēmuma tīmekļa vietne, LinkedIn profila saite, fiziskā adrese (ja piemērojama).
 
-- **Formatējums**: Izmantojiet kodolīgu tekstu ([**ieteicams ne vairāk kā 4–5 rindiņas**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), profesionālus un [**tīmeklim drošus fontus**](https://www.mailerlite.com/blog/email-signature-best-practices) (piemēram, Arial, Calibri) un krāsas, kas atbilst jūsu zīmolam. Pārliecinieties, ka tas ir [**piemērots mobilajām ierīcēm**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Izvairieties no nevajadzīgiem attēliem, lieliem logotipiem vai iedvesmojošiem citātiem.![Tīra profesionāla e-pasta paraksta piemērs ar vārdu, amatu, uzņēmumu, tālruņa numuru, vietni un LinkedIn saiti](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+- **Formatējums**: Izmantojiet kodolīgu tekstu ([**ieteicams ne vairāk kā 4–5 rindiņas**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), profesionālus un [**tīmeklim drošus fontus**](https://www.mailerlite.com/blog/email-signature-best-practices) (piemēram, Arial, Calibri) un krāsas, kas atbilst jūsu zīmolam. Pārliecinieties, ka tas ir [**piemērots mobilajām ierīcēm**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Izvairieties no nevajadzīgiem attēliem, lieliem logotipiem vai iedvesmojošiem citātiem.
+
+![Tīra profesionāla e-pasta paraksta piemērs ar vārdu, amatu, uzņēmumu, tālruņa numuru, vietni un LinkedIn saiti](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Tīrs, profesionāls e-pasta paraksts ietver svarīgu kontaktinformāciju bez liekas informācijas pārblīvējuma.
 

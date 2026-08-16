@@ -35,7 +35,9 @@ Når flere teammedlemmer dykker ned i den samme generiske indbakke (som **suppor
 
 ### Datablindhed: Flyvende blind på ydeevne
 
-Hvordan kan du forbedre din e-mail-support, hvis du ikke ved, hvad der virker, og hvad der ikke virker? Grundlæggende e-mail-systemer tilbyder kun lidt eller ingen indsigt i vigtige målinger som svartider, opløsningsrater eller agentproduktivitet. Uden data bliver identifikation af flaskehalse, forståelse af almindelige kundesmertepunkter eller måling af effektiviteten af ​​din supportindsats gætværk. Du flyver i bund og grund blind, ude af stand til at træffe informerede beslutninger for at optimere ydeevnen.![Dashboard viser kundeservicemålinger med en rød advarsel om gennemsnitlig e-mailsvartid, hvilket indikerer ineffektivitet](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Hvordan kan du forbedre din e-mail-support, hvis du ikke ved, hvad der virker, og hvad der ikke virker? Grundlæggende e-mail-systemer tilbyder kun lidt eller ingen indsigt i vigtige målinger som svartider, opløsningsrater eller agentproduktivitet. Uden data bliver identifikation af flaskehalse, forståelse af almindelige kundesmertepunkter eller måling af effektiviteten af ​​din supportindsats gætværk. Du flyver i bund og grund blind, ude af stand til at træffe informerede beslutninger for at optimere ydeevnen.
+
+![Dashboard viser kundeservicemålinger med en rød advarsel om gennemsnitlig e-mailsvartid, hvilket indikerer ineffektivitet](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 Langsomme e-mailsvartider påvirker direkte kundetilfredsheden og kan føre til tabt forretning.
 
@@ -192,7 +194,9 @@ At vælge den rigtige software er kun halvdelen af kampen. Hvordan du implemente
 
 - **Forbedre løbende:** Gennemgå regelmæssigt præstationsanalyse for at identificere tendenser og flaskehalse. Aktiver og analyser kundefeedback gennem undersøgelser eller direkte anmodninger. Brug denne indsigt til løbende at forfine dine arbejdsgange, automatiseringsregler, standardsvar og agenttræningsprogrammer.
 
-  \![Billede af en kundeservicemedarbejder, der bruger software med AI-forslag til at skabe et personligt og empatisk e-mailsvar](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+  \
+
+![Billede af en kundeservicemedarbejder, der bruger software med AI-forslag til at skabe et personligt og empatisk e-mailsvar](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 At balancere AI-effektivitet med menneskelig empati er nøglen til enestående kundeservice.
 

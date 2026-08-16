@@ -19,7 +19,9 @@ Alene mængden af e-mail er svimlende. På verdensplan blev antallet af e-mails 
 
 Undersøgelser viser konsekvent, at fagfolk bruger en stor del af deres arbejdsuge på e-mail. Estimater spænder fra [omkring 6,4 timer om ugen](https://www.deel.com/blog/workplace-statistics/) (Deels 2025 Workplace Statistics) til svimlende [11 timer om ugen](https://www.emailtooltester.com/en/blog/email-usage-statistics/) brugt på kun at administrere og organisere e-mails, som det fremgår af en Microsoft-undersøgelse citeret af EmailTooltester. Det er potentielt 28% af arbejdsugen slugt af indbakken!
 
-Virkningen går ud over tabt tid. Konstant e-mail-tjek fragmenterer vores fokus og tvinger kostbart kontekstskifte mellem dybt arbejde og indbakketriage. Denne digitale friktion bidrager til stress, hæmmer beslutningstagning, da vigtige budskaber bliver begravet, og kan endda føre til udbrændthed. En [Forbes-undersøgelse nævnt af DragApp](https://www.dragapp.com/blog/effects-of-email-overload/) viste, at en tredjedel af medarbejderne nævnte e-mail-overbelastning som en faktor i at forlade deres job. Det er klart, at den traditionelle tilgang til e-mailhåndtering er uholdbar for moderne fagfolk.![Infografik, der viser statistikker om overbelastning af e-mail, inklusive gennemsnitlige e-mails modtaget dagligt, timer brugt på at administrere e-mail om ugen og indvirkning på produktiviteten](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+Virkningen går ud over tabt tid. Konstant e-mail-tjek fragmenterer vores fokus og tvinger kostbart kontekstskifte mellem dybt arbejde og indbakketriage. Denne digitale friktion bidrager til stress, hæmmer beslutningstagning, da vigtige budskaber bliver begravet, og kan endda føre til udbrændthed. En [Forbes-undersøgelse nævnt af DragApp](https://www.dragapp.com/blog/effects-of-email-overload/) viste, at en tredjedel af medarbejderne nævnte e-mail-overbelastning som en faktor i at forlade deres job. Det er klart, at den traditionelle tilgang til e-mailhåndtering er uholdbar for moderne fagfolk.
+
+![Infografik, der viser statistikker om overbelastning af e-mail, inklusive gennemsnitlige e-mails modtaget dagligt, timer brugt på at administrere e-mail om ugen og indvirkning på produktiviteten](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Overbelastning af e-mail er ikke kun opfattelse; data viser, at det er et betydeligt dræn på produktivitet og velvære
 
@@ -55,7 +57,9 @@ Tænk på NLP som motoren, der gør det muligt for computere at forstå menneske
 
 LLM'er, som OpenAIs GPT-serie eller Googles Gemini-modeller, er kraftcenteret bag generation. Disse modeller er trænet på massive datasæt – billioner af ord fra websteder, bøger og andre tekstkilder. Denne træning giver dem mulighed for at lære indviklede mønstre af sprog, grammatik, kontekst og endda forskellige skrivestile. Når du giver en prompt (f.eks. "Skriv en høflig opfølgende e-mail og beder om rapporten") eller konteksten af ​​en eksisterende e-mail-tråd, bruger LLM sin træning til at forudsige den mest sandsynlige rækkefølge af ord for at danne et relevant og sammenhængende svar.
 
-Det er afgørende, at mange AI-e-mail-skribenter også inkorporerer en indlæringsmekanisme. Ved at analysere de e-mails, du *sender* (især redigeringer, du foretager i dens kladder), kan AI gradvist lære din foretrukne frasering, sign-offs og overordnede kommunikationsstil, hvilket gør forslagene mere personlige over tid. Dette sker ofte problemfrit gennem en Chrome-udvidelse, der integreres direkte i din Gmail-grænseflade, og sætter AI'ens kraft lige der, hvor du har brug for den.![Diagram, der illustrerer, hvordan en AI-e-mail-skribent fungerer: Brugerinput (prompt/kontekst) går ind i AI-modellen (NLP/LLM), som derefter producerer et e-mail-output (udkast/resumé)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
+Det er afgørende, at mange AI-e-mail-skribenter også inkorporerer en indlæringsmekanisme. Ved at analysere de e-mails, du *sender* (især redigeringer, du foretager i dens kladder), kan AI gradvist lære din foretrukne frasering, sign-offs og overordnede kommunikationsstil, hvilket gør forslagene mere personlige over tid. Dette sker ofte problemfrit gennem en Chrome-udvidelse, der integreres direkte i din Gmail-grænseflade, og sætter AI'ens kraft lige der, hvor du har brug for den.
+
+![Diagram, der illustrerer, hvordan en AI-e-mail-skribent fungerer: Brugerinput (prompt/kontekst) går ind i AI-modellen (NLP/LLM), som derefter producerer et e-mail-output (udkast/resumé)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
 
 AI-e-mail-skribenter bruger NLP til at forstå din anmodning og LLM er trænet i omfattende data til at generere menneskelignende tekst.
 
@@ -152,7 +156,9 @@ Den hurtige indførelse af kunstig intelligens på arbejdspladsen er ubestrideli
 
 Denne tendens handler ikke om at erstatte menneskelig kommunikation; det handler om at fjerne den friktion og ineffektivitet, der bunder det fast. Målet er at automatisere de gentagne, tidskrævende opgaver, frigøre værdifuld mental energi og tid til arbejdet, der kræver unikke menneskelige færdigheder: strategisk tænkning, kompleks problemløsning, empati og relationsopbygning.
 
-AI-e-mail-skribenter til Gmail repræsenterer et væsentligt skridt i denne retning. De tilbyder en kraftfuld måde at styre den ubarmhjertige strøm af digital kommunikation, der transformerer indbakken fra en kilde til stress til et mere overskueligt og produktivt værktøj.![Grafik, der viser et citat eller statistik om, hvordan AI-implementering øger produktiviteten på arbejdspladsen](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
+AI-e-mail-skribenter til Gmail repræsenterer et væsentligt skridt i denne retning. De tilbyder en kraftfuld måde at styre den ubarmhjertige strøm af digital kommunikation, der transformerer indbakken fra en kilde til stress til et mere overskueligt og produktivt værktøj.
+
+![Grafik, der viser et citat eller statistik om, hvordan AI-implementering øger produktiviteten på arbejdspladsen](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
 
 AI-værktøjer ses i stigende grad som afgørende for at øge produktiviteten og effektiviteten på arbejdspladsen.
 

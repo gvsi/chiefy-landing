@@ -76,13 +76,9 @@ Gmail, önemli olduğunu düşündüğü şeyleri otomatik olarak öne çıkarma
 **Tablo: Gmail Gelen Kutusu Düzenlerinin Karşılaştırılması**
 
 | Özellik | Nasıl Çalışır | Kimler İçin En Uygundur | Artıları | Eksileri |
-
 | ---------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------- |
-
 | **Varsayılan Sekmeler** | Önceden tanımlanmış kategorilere otomatik sıralama (Birincil, Sosyal, Tanıtımlar, vb.) | Basit, otomatik ayrım isteyen kullanıcılar | Sıfır kurulum; Birincil sekmesindeki karmaşayı azaltır | Daha az kontrol; önemli e-postalar yanlış yere kaydedilebilir; kategoriler sabittir |
-
 | **Önem İşaretleyicileri** | Kullanıcı davranışına (açma, yanıtlama, yıldız verme, vb.) dayalı AI tarafından yönlendirilen sarı işaretleyiciler | Öncelikli Gelen Kutusu'nu destekler; görsel ipuçları sağlar | Kullanıcı önceliklerini öğrenir; manuel düzeltme AI'i eğitir | Etkinlik, tutarlı kullanıcı davranışına bağlıdır; sadece bir işaretleyici |
-
 | **Öncelikli Gelen Kutusu** | Özelleştirilebilir bölümler, genellikle Önem İşaretleyicileri (örneğin, Önemli/Okunmamış, Yıldızlı) kullanılarak oluşturulur | Kullanıcılar önemli e-postalara odaklanmış bir görünüm ister | Özelleştirilebilir bölümler; önemli e-postaları öne çıkarır; AI özelliğini kullanır | Bazı kurulum/özelleştirme gerektirir; doğru işaretleyicilere bağlıdır |
 
 ### Sıralamanın Ötesinde: Erteleme, Zamanlanmış Gönderim ve Şablonlar
@@ -192,13 +188,9 @@ Gmail, karmaşık ekip işbirliği veya görsel proje yönetimi için doğal ola
 **Tablo: Gmail Üçüncü Taraf Araç Kategorileri**
 
 | Kategori | Temel İşlev | Kimler İçin | Örnek Araçlar | Başlıca Fayda |
-
 | ------------------------ | --------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- | ------------------------------------------------------------------- |
-
 | **Görev Yönetimi** | E-postaları görevlere dönüştürün, e-postaları görevlere bağlayın, son teslim tarihlerini Gmail üzerinden yönetin. | Görev odaklı bireyler/ekipler, GTD kullanıcıları | Todoist için Gmail, Asana için Gmail | İletişimi eyleme geçirilebilir görev listeleriyle sorunsuz bir şekilde entegre eder. |
-
 | **CRM** | Kişileri, anlaşmaları, satış süreçlerini görüntüleyin/yönetin; e-postaları doğrudan Gmail içinde kaydedin. | Satış ekipleri, Serbest Çalışanlar, Müşteri Yöneticileri | Streak, Copper, HubSpot Satış | E-postaların yanında önemli müşteri bağlamı sağlar, zamandan tasarruf sağlar. |
-
 | **Görsel/İşbirliği** | Kanban panoları, paylaşılan gelen kutuları/etiketler, dahili notlar, ekip özellikleri ekleyin. | Paylaşılan erişime ihtiyaç duyan ekipler, Görsel düşünürler | Gmelius, Sortd, ActiveInbox | Gmail'nın sınırları dahilinde ekip iş akışını ve görsel organizasyonu geliştirir. |
 
 Bu popüler araçların varlığı, yerel Gmail'ın özellikle paylaşılan iş akışları ve görevler veya müşteri verileri gibi harici bağlamların entegrasyonu konusunda profesyonel kullanımda sıklıkla yetersiz kaldığı noktaları vurgulamaktadır. Amaçları, sürekli uygulamalar arasında geçiş yapmanın verimlilik kaybını azaltarak daha birleşik bir çalışma alanı oluşturmaktır.

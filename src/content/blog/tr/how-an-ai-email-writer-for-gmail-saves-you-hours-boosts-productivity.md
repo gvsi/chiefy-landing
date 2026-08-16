@@ -110,17 +110,11 @@ AI e-posta araçları pazarı hızla büyüyor ve farklı ihtiyaçlara yönelik 
 Bu ortamda, her birinin kendine özgü güçlü yönleri olan çeşitli oyuncular yer almaktadır:
 
 | Araç | Birincil Odak Noktası | Temel AI Özellikleri | Tipik Fiyatlandırma Modeli | Benzersiz Satış Noktası (USP) |
-
 | -------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------- |
-
 | **Chiefy** | Akıllı Asistan (Önceliklendirme ve Taslak Oluşturma) | AI Önceliklendirme, Otantik AI Taslak Oluşturma (Ses Öğrenme), Akıllı Özetleme, Bağlamsal Farkındalık | Abonelik (Ayrıntılar genellikle sitede) | Otantik ses eşleştirme ve akıllı önceliklendirme panosuna odaklanın. |
-
 | **Google Gemini (Çalışma Alanında)** | Entegre Çalışma Alanı AI | Yazmama yardım et (Taslak Oluşturma), Özetleme, Akıllı Oluştur/Yanıtla, Çalışma Alanı uygulamalarıyla entegrasyon | Çalışma Alanı Eklentisi ($20-$30/kullanıcı/ay+) | Google ekosistemi içinde derin entegrasyon. |
-
 | **MailMaestro** | Gmail/Outlook AI Asistan | Oluştur, Yanıtla, Geliştir, Özetle, Şablonlar, Ton/Dil Kontrolü, Güvenlik Odaklı | Ücretsiz, Pro ($15/kullanıcı/ay) | Çoklu yaklaşım, güçlü güvenlik vurgusu. |
-
 | **Otomatik Gmail** | Yüksek Hacimli AI Taslak Oluşturma | AI Taslak Oluşturma (GPT-4/Llama-3), Stil Öğrenme, Bağlam Girişi, Kara Listeye Alma | Ücretsiz, Katmanlı ($27-$47/ay) | Otomatik taslak oluşturma hızına ve hacmine odaklanın. |
-
 | **GrammarlyGO** | Yazma Geliştirme | Dilbilgisi/Stil Kontrolü, Ton Ayarlaması, Yeniden İfade Etme, Fikir Üretimi | Ücretsiz, Premium Abonelik | Sadece e-postanın ötesinde geniş kapsamlı yazma desteği. |
 
 _Not: Özellikler ve fiyatlar değişebilir. En güncel bilgiler için lütfen sağlayıcının web sitesini kontrol edin._

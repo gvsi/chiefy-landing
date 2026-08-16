@@ -35,7 +35,9 @@ Dieses ständige Sperrfeuer führt zu:
 
 - **Erhöhter Stress:** Das Gefühl, bei E-Mails ständig im Rückstand zu sein, trägt erheblich zu Stress und Burnout am Arbeitsplatz bei.
 
-KI-Zusammenfassungstools zielen darauf ab, diese Probleme direkt anzugehen, indem sie schnell das Wesentliche der Kommunikation herausfiltern und es Ihnen ermöglichen, effektiv Prioritäten zu setzen und auf dem Laufenden zu bleiben, ohne sich im Unkraut zu verlieren. Studien zu KI am Arbeitsplatz, wie sie vom [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/) hervorgehoben wurden, zeigen spürbare Produktivitätssteigerungen, wenn KI bei Aufgaben wie Zusammenfassung und Informationsabruf hilft.![Infografik zur Veranschaulichung des Problems der E-Mail-Überlastung mit wichtigen Statistiken](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+KI-Zusammenfassungstools zielen darauf ab, diese Probleme direkt anzugehen, indem sie schnell das Wesentliche der Kommunikation herausfiltern und es Ihnen ermöglichen, effektiv Prioritäten zu setzen und auf dem Laufenden zu bleiben, ohne sich im Unkraut zu verlieren. Studien zu KI am Arbeitsplatz, wie sie vom [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/) hervorgehoben wurden, zeigen spürbare Produktivitätssteigerungen, wenn KI bei Aufgaben wie Zusammenfassung und Informationsabruf hilft.
+
+![Infografik zur Veranschaulichung des Problems der E-Mail-Überlastung mit wichtigen Statistiken](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Die schiere Menge an täglichen E-Mails verdeutlicht den Bedarf an effizienten Verwaltungstools.
 
@@ -55,7 +57,9 @@ Der Zugriff auf die Funktion hängt von Ihrer Schnittstelle ab:
 
 - **Weboberfläche:** Suchen Sie nach einer Schaltfläche mit der Bezeichnung „Diese E-Mail zusammenfassen“, die direkt unter der Betreffzeile eines geeigneten E-Mail-Threads angezeigt wird. Alternativ können Sie den Seitenbereich „Ask Gemini“ öffnen (normalerweise über ein Glitzersymbol oben rechts) und entweder auf eine vorgeschlagene Eingabeaufforderung wie „Worum geht es in dieser E-Mail?“ klicken. oder geben Sie Ihre eigene Anfrage ein, z. B. „Diesen Thread zusammenfassen“.
 
-- **Mobile App (Android/iOS):** Ähnlich wie im Internet kann unter dem Betreff die Schaltfläche „Diese E-Mail zusammenfassen“ angezeigt werden. Wenn Sie darauf tippen, wird die Zusammenfassung normalerweise in einem speziellen Gemini-Blatt oder -Panel angezeigt. Sie können häufig auch über das Symbol Gemini in der oberen Leiste der App auf Zusammenfassungen und andere KI-Funktionen zugreifen.![Gmail E-Mail-Ansicht mit Hervorhebung der Schaltfläche „Diese E-Mail zusammenfassen“ unter der Betreffzeile](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **Mobile App (Android/iOS):** Ähnlich wie im Internet kann unter dem Betreff die Schaltfläche „Diese E-Mail zusammenfassen“ angezeigt werden. Wenn Sie darauf tippen, wird die Zusammenfassung normalerweise in einem speziellen Gemini-Blatt oder -Panel angezeigt. Sie können häufig auch über das Symbol Gemini in der oberen Leiste der App auf Zusammenfassungen und andere KI-Funktionen zugreifen.
+
+![Gmail E-Mail-Ansicht mit Hervorhebung der Schaltfläche „Diese E-Mail zusammenfassen“ unter der Betreffzeile](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Auf die native Zusammenfassungsfunktion von Gmail kann über eine Schaltfläche direkt in E-Mail-Threads zugegriffen werden.
 

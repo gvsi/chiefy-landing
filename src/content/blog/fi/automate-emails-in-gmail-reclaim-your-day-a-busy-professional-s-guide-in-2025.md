@@ -20,7 +20,9 @@ Ennen kuin sukeltaa ratkaisuihin, lasketaan ongelma määrällisesti. Sähköpos
 
 – **Keskeytysvero:** Tarkistamme sähköpostimme usein – joidenkin arvioiden mukaan [6 minuutin välein](https://www.ppm.express/blog/checking-emails)! Jokainen keskeytys ei ole vain hetkellinen vilkaisu; kestää keskimäärin [23–25 minuuttia](https://www.ppm.express/blog/checking-emails), jotta voit keskittyä täysin uudelleen alkuperäiseen tehtävään.
 
-– **Pieniarvoinen työ:** Merkittävä osa sähköpostiajasta käytetään vähäarvoisiin toimintoihin. Eräässä tutkimuksessa ehdotettiin, että keskimääräinen työntekijä viettää [51 % työpäivästään](https://lifehackmethod.com/blog/time-management-statistics/) tehtäviin, joilla on vain vähän vaikutusta, ja sähköposti on tärkeä tekijä.![Kuva näkyvästi stressaantunut ammattilainen, joka istuu pöydän ääressä, joka on täynnä papereita ja näyttää hukkuneelta sähköpostit näyttävästä tietokoneen näytöstä](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+– **Pieniarvoinen työ:** Merkittävä osa sähköpostiajasta käytetään vähäarvoisiin toimintoihin. Eräässä tutkimuksessa ehdotettiin, että keskimääräinen työntekijä viettää [51 % työpäivästään](https://lifehackmethod.com/blog/time-management-statistics/) tehtäviin, joilla on vain vähän vaikutusta, ja sähköposti on tärkeä tekijä.
+
+![Kuva näkyvästi stressaantunut ammattilainen, joka istuu pöydän ääressä, joka on täynnä papereita ja näyttää hukkuneelta sähköpostit näyttävästä tietokoneen näytöstä](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 Sähköpostin ylikuormitus on suuri stressin ja tuottavuuden menettämisen lähde kiireisille ammattilaisille.
 
@@ -48,7 +50,9 @@ Et tarvitse hienoja ohjelmistoja aloittaaksesi automatisoinnin. Gmail itsessää
 
 - Lähetä eteenpäin
 
-**Aloita:** Napsauta Gmailin hakupalkissa asetuskuvaketta (näyttää liukusäätimiltä) näyttääksesi hakuvaihtoehdot. Anna kriteerisi, testaa haku, napsauta "Luo suodatin" ja valitse toiminnot. Tutustu Google:n viralliseen oppaaseen [suodatinsääntöjen luomisesta](https://support.google.com/mail/answer/6579?hl=en) saadaksesi yksityiskohtaiset vaiheet.![Näyttökaappaus Gmail-suodattimen luontiikkunasta, jossa on kentät Lähettäjä, Vastaanottaja, Aihe, Sisältää sanat ja vaihtoehdot, kuten Käytä tunnistetta, Ohita postilaatikko](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Aloita:** Napsauta Gmailin hakupalkissa asetuskuvaketta (näyttää liukusäätimiltä) näyttääksesi hakuvaihtoehdot. Anna kriteerisi, testaa haku, napsauta "Luo suodatin" ja valitse toiminnot. Tutustu Google:n viralliseen oppaaseen [suodatinsääntöjen luomisesta](https://support.google.com/mail/answer/6579?hl=en) saadaksesi yksityiskohtaiset vaiheet.
+
+![Näyttökaappaus Gmail-suodattimen luontiikkunasta, jossa on kentät Lähettäjä, Vastaanottaja, Aihe, Sisältää sanat ja vaihtoehdot, kuten Käytä tunnistetta, Ohita postilaatikko](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Käytä Gmail-suodattimia saapuvien sähköpostien automaattiseen lajitteluun esimerkiksi lähettäjän tai avainsanojen perusteella
 
@@ -58,7 +62,9 @@ Huomaatko kirjoittavasi samanlaisia vastauksia toistuvasti? Vastaatko usein kysy
 
 **Toimintaperiaate:** Ota ensin mallit käyttöön Gmail-asetuksissa (\`Settings\` > \`See all settings\` > \`Advanced\` > \`Templates\` > \`Enable\`). Kirjoita sitten mallisähköposti, napsauta kolmea pistettä kirjoitusikkunassa ja siirry kohtaan \`Templates\` ja \`Save draft as template\`. Voit käyttää sitä napsauttamalla kolmea pistettä uudessa sähköpostissa, siirtymällä osoitteeseen \`Templates\` ja valitsemalla tallennettu malli.
 
-Tämä säästää huomattavasti aikaa ja varmistaa johdonmukaisuuden rutiiniviestinnässäsi. Voit jopa [yhdistää suodattimia ja malleja](https://hiverhq.com/blog/gmail-filters) lähettääksesi automaattisesti valmiin vastauksen tiettyjen sähköpostiehtojen perusteella!![Näyttökaappaus, jossa näkyy, kuinka tallennettu malli (suoritettu vastaus) lisätään Gmail-kirjoitusikkunaan kolmen pisteen valikon kautta](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Tämä säästää huomattavasti aikaa ja varmistaa johdonmukaisuuden rutiiniviestinnässäsi. Voit jopa [yhdistää suodattimia ja malleja](https://hiverhq.com/blog/gmail-filters) lähettääksesi automaattisesti valmiin vastauksen tiettyjen sähköpostiehtojen perusteella!
+
+![Näyttökaappaus, jossa näkyy, kuinka tallennettu malli (suoritettu vastaus) lisätään Gmail-kirjoitusikkunaan kolmen pisteen valikon kautta](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Säästä aikaa toistuvissa vastauksissa käyttämällä Gmail-malleja (valmiit vastaukset)
 
@@ -151,7 +157,9 @@ Järkevä lähestymistapa on aloittaa tasolta 1. Pääsuodattimet, tarrat ja mal
 
 Sähköpostin ei tarvitse olla päivittäisen kauhun lähde. Ottamalla automaation käyttöön strategisesti – joko Gmailin alkuperäisillä työkaluilla, erikoistuneilla laajennuksilla tai kehittyneillä AI-avustajilla – voit vähentää merkittävästi postilaatikkosi hallintaan kuluvaa aikaa ja henkistä energiaa. Voit siirtyä reaktiivisesta palontorjunnasta ennakoivaan hallintaan, mikä varmistaa, että tärkeät viestit saavat huomion ja minimoit häiriötekijät.
 
-Tavoitteena ei ole vain tyhjä postilaatikko, vaan keskittyneempi, tuottavampi ja vähemmän stressaava työpäivä. Aloita pienestä, kokeile työkaluja, jotka vastaavat eniten tarpeitasi, ja käytä aikaasi työhön, jolla on todella merkitystä.![Kuva rentosta ammattilaisesta työskentelemässä tehokkaasti kannettavalla tietokoneella, hymyilevästi puhtaalla työpöydällä](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Tavoitteena ei ole vain tyhjä postilaatikko, vaan keskittyneempi, tuottavampi ja vähemmän stressaava työpäivä. Aloita pienestä, kokeile työkaluja, jotka vastaavat eniten tarpeitasi, ja käytä aikaasi työhön, jolla on todella merkitystä.
+
+![Kuva rentosta ammattilaisesta työskentelemässä tehokkaasti kannettavalla tietokoneella, hymyilevästi puhtaalla työpöydällä](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Kerää aikaasi ja vähennä sähköpostin stressiä tehokkaan automaation avulla.
 

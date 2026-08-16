@@ -165,7 +165,9 @@ Här är några praktiska utgångspunkter:
 
 3. **Bedöm specifika behov:** Reflektera över dagliga e-postutmaningar. Är det bara volymen? Tiden för att skriva svar? Svårt att hålla ordning? Att välja ett verktyg som är anpassat för att lösa det primära problemet kommer att ge det mest omedelbara värdet.
 
-Är du redo att uppleva en omfattande lösning utformad för att hantera flera e-postutmaningar samtidigt? Utforska hur verktyg som [**Chiefy**](https://chiefy.com/sv) kombinerar intelligent **AI Triage** för att få fram det som är brådskande, **Autentisk AI-ritning** som lär sig en användares unika röst och **Smart Summarization** för att skära igenom röran. Se hur det kan förändra Gmail arbetsflödet.![Skärmdump som visar Chiefy som sammanfattar ett långt e-postmeddelande och markerar viktiga åtgärder](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Är du redo att uppleva en omfattande lösning utformad för att hantera flera e-postutmaningar samtidigt? Utforska hur verktyg som [**Chiefy**](https://chiefy.com/sv) kombinerar intelligent **AI Triage** för att få fram det som är brådskande, **Autentisk AI-ritning** som lär sig en användares unika röst och **Smart Summarization** för att skära igenom röran. Se hur det kan förändra Gmail arbetsflödet.
+
+![Skärmdump som visar Chiefy som sammanfattar ett långt e-postmeddelande och markerar viktiga åtgärder](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Smart Summarization-funktioner extraherar nyckelpunkter och åtgärder, vilket sparar lästid.
 

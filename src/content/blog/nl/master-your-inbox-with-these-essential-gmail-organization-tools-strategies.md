@@ -95,7 +95,9 @@ Deze functies gaan verder dan eenvoudige organisatie en richten zich op actief w
 
 ## Proven Frameworks: E-mailbeheermethodologieën voor Gmail
 
-Het hebben van de juiste tools is essentieel, maar zonder systeem voel je je misschien nog steeds overweldigd. Het toepassen van een beproefde methodologie voor e-mailbeheer biedt het raamwerk voor het effectief gebruik van deze tools.![Grafische illustratie van het concept van Inbox Zero, misschien met een schone inbox of een georganiseerd bureau](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Het hebben van de juiste tools is essentieel, maar zonder systeem voel je je misschien nog steeds overweldigd. Het toepassen van een beproefde methodologie voor e-mailbeheer biedt het raamwerk voor het effectief gebruik van deze tools.
+
+![Grafische illustratie van het concept van Inbox Zero, misschien met een schone inbox of een georganiseerd bureau](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Methodologieën zoals Inbox Zero bieden een systeem voor het efficiënt verwerken van e-mails.
 
@@ -195,7 +197,9 @@ Het bestaan van deze populaire tools laat zien waar native Gmail vaak tekortschi
 
 ## De toekomst is hier: hoe AI een revolutie teweegbrengt Gmail Organisatie
 
-Naast handmatige regels en integraties van derden ligt de volgende grens: kunstmatige intelligentie. AI-e-mailassistenten gaan verder dan eenvoudig sorteren en bieden intelligente automatisering die de context begrijpt en uw voorkeuren leert. Nu de adoptie van AI snel groeit in het bedrijfsleven en een aanzienlijk potentieel voor productiviteitswinst laat zien, is de impact ervan op e-mailbeheer groot.![Illustratie van een AI-robot die op intelligente wijze e-mails sorteert en prioriteert op een strakke, futuristische computerinterface](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Naast handmatige regels en integraties van derden ligt de volgende grens: kunstmatige intelligentie. AI-e-mailassistenten gaan verder dan eenvoudig sorteren en bieden intelligente automatisering die de context begrijpt en uw voorkeuren leert. Nu de adoptie van AI snel groeit in het bedrijfsleven en een aanzienlijk potentieel voor productiviteitswinst laat zien, is de impact ervan op e-mailbeheer groot.
+
+![Illustratie van een AI-robot die op intelligente wijze e-mails sorteert en prioriteert op een strakke, futuristische computerinterface](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 AI transformeert e-mailbeheer met slimme triage-, samenvattings- en conceptmogelijkheden.
 

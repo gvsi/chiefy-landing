@@ -116,7 +116,9 @@ Olgu, tehisintellekt saab e-kirju erinevate tehnikate abil koondada. Aga kuidas 
 
 6. **Kognitiivse koormuse vähendamine ja fookuse suurendamine:** Ärge püüdke vaimselt žongleerida kümnete aktiivsete meililõimede üksikasjadega. Põhiteabe koondamise ja ekstraheerimise ülesande laadimine tehisintellektile vabastab teie väärtuslikud kognitiivsed ressursid. See võimaldab teil pühendada rohkem vaimset energiat strateegilisele mõtlemisele, keerukatele probleemide lahendamisele, riskianalüüsile ja meeskonna juhtimisele – see on väärtuslik töö, mis määrab tõeliselt peaministri rolli.
 
-- **PM-i kasutusjuhtum:** Kokkuvõtete kasutamine madalama prioriteediga värskenduslõimede kiireks töötlemiseks ja arhiveerimiseks spetsiaalse meiliaja jooksul, säilitades vaimse ribalaiuse keeruliste ja kriitiliste probleemide lahendamiseks.![Infograafik tehisintellekti meilikokkuvõtte eeliste kohta PM-idele](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+- **PM-i kasutusjuhtum:** Kokkuvõtete kasutamine madalama prioriteediga värskenduslõimede kiireks töötlemiseks ja arhiveerimiseks spetsiaalse meiliaja jooksul, säilitades vaimse ribalaiuse keeruliste ja kriitiliste probleemide lahendamiseks.
+
+![Infograafik tehisintellekti meilikokkuvõtte eeliste kohta PM-idele](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 Tehisintellekti meilikokkuvõte pakub käegakatsutavaid eeliseid, aidates projektijuhtidel aega säästa, põhiteavet jälgida ja vaimset väsimust vähendada.
 

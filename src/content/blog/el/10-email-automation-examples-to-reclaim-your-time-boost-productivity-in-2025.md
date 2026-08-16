@@ -194,7 +194,7 @@ draft: false
 
 
 ![Στιγμιότυπο οθόνης που δείχνει τη δυνατότητα σύνοψης έξυπνων email του Chiefy που συμπυκνώνει ένα μεγάλο νήμα email σε βασικά σημεία και στοιχεία δράσης
-](/el/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Η δύναμη του αυτοματισμού: Με τους αριθμούς
 

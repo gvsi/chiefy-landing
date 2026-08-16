@@ -60,7 +60,9 @@ Kadangi [didelė dalis el. laiškų atidaroma mobiliuosiuose įrenginiuose](http
 
 - Daryti nuorodas ir mygtukus pakankamai didelius, kad juos būtų lengva paliesti (bent 44x44 pikseliai).
 
-- Testuoti poraštę skirtinguose įrenginiuose ir el. pašto klientuose su tokiais įrankiais kaip [Litmus](https://www.litmus.com/) ar [Email on Acid](https://www.emailonacid.com/).![Šalia pateiktas palyginimas, rodantis, kaip gerai sukurta el. laiško poraštė prisitaiko nuo darbalaukio vaizdo prie mobiliojo vaizdo](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Testuoti poraštę skirtinguose įrenginiuose ir el. pašto klientuose su tokiais įrankiais kaip [Litmus](https://www.litmus.com/) ar [Email on Acid](https://www.emailonacid.com/).
+
+![Šalia pateiktas palyginimas, rodantis, kaip gerai sukurta el. laiško poraštė prisitaiko nuo darbalaukio vaizdo prie mobiliojo vaizdo](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Užtikrinkite, kad poraštė gerai atrodytų ir veiktų bet kokio dydžio ekrane.
 

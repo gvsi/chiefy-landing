@@ -56,7 +56,9 @@ Kaikkia interaktiivisia elementtejä ei luoda samanarvoisina. Tässä on joitain
 
 - **Ajoituslinkki:** Integroi suoraan työkaluihin, kuten Calendly. "[Ajoita kokous" -painikkeen tai linkin](https://www.bybrand.io/blog/schedule-meeting-email-signature/) lisääminen poistaa kitkaa puheluiden varaamisesta.
 
-- **Logo tai Headshot:** Lisää persoonallisuutta ja brändin tunnettuutta. Tee siitä klikattava linkki verkkosivustollesi. Käytä korkealaatuista, ammattimaista kuvaa.![Esimerkki yksinkertaisesta freelancer-sähköpostin allekirjoituksesta, jossa on napsautettavat yhteystiedot ja sosiaaliset linkit](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logo tai Headshot:** Lisää persoonallisuutta ja brändin tunnettuutta. Tee siitä klikattava linkki verkkosivustollesi. Käytä korkealaatuista, ammattimaista kuvaa.
+
+![Esimerkki yksinkertaisesta freelancer-sähköpostin allekirjoituksesta, jossa on napsautettavat yhteystiedot ja sosiaaliset linkit](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Pidä se puhtaana: yksinkertainen allekirjoitus tärkeillä yhteystiedoilla ja tärkeillä sosiaalisilla linkeillä.
 
@@ -79,7 +81,9 @@ Mikä sopii sinulle? Verrataan:
 | **Ominaisuudet** | Mallit, analytiikka, bannerikampanjat, keskushallinta (usein maksullinen) | Vain HTML/CSS-sähköpostirajoitukset rajoittavat |
 | **Hinta** | Ilmaiset tasot saatavilla (usein tuotemerkin kanssa); Maksulliset suunnitelmat lisäominaisuuksille/käyttäjille | Ilmainen (jos sinulla on taidot) |
 
-**Suositus freelancereille ja aloittelijoille:** Jos et ole tyytyväinen HTML:ään ja tiukkaan testaukseen, on erittäin suositeltavaa aloittaa hyvämaineisella **sähköpostin allekirjoitusgeneraattorilla**. Työkalut, kuten [MySignature](https://mysignature.io/) (hyväksytty freelancereille/pienille tiimeille) tai [WiseStamp](https://www.wisestamp.com/), tarjoavat ilmaisia ​​tai edullisia suunnitelmia ammattimaisilla malleilla, helpon mukauttamisen (mukaan lukien toimintakehotukset ja bannerit) ja sisäänrakennetut yhteensopivuustarkistukset. [HubSpot tarjoaa myös suositun ilmaisen generaattorin](https://www.hubspot.com/email-signature-generator) yksinkertaisempiin tarpeisiin.![Kuvakaappaus sähköpostin allekirjoitusten luontityökalun käyttöliittymästä, joka näyttää mallit ja mukautusvaihtoehdot](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Suositus freelancereille ja aloittelijoille:** Jos et ole tyytyväinen HTML:ään ja tiukkaan testaukseen, on erittäin suositeltavaa aloittaa hyvämaineisella **sähköpostin allekirjoitusgeneraattorilla**. Työkalut, kuten [MySignature](https://mysignature.io/) (hyväksytty freelancereille/pienille tiimeille) tai [WiseStamp](https://www.wisestamp.com/), tarjoavat ilmaisia ​​tai edullisia suunnitelmia ammattimaisilla malleilla, helpon mukauttamisen (mukaan lukien toimintakehotukset ja bannerit) ja sisäänrakennetut yhteensopivuustarkistukset. [HubSpot tarjoaa myös suositun ilmaisen generaattorin](https://www.hubspot.com/email-signature-generator) yksinkertaisempiin tarpeisiin.
+
+![Kuvakaappaus sähköpostin allekirjoitusten luontityökalun käyttöliittymästä, joka näyttää mallit ja mukautusvaihtoehdot](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 -työkalut, kuten MySignature ja WiseStamp, tarjoavat malleja ja yksinkertaista mukauttamista.
 
@@ -105,7 +109,9 @@ Interaktiivisen allekirjoituksen luominen on vain puoli voittoa. On erittäin t�
 
 - **Kuvan optimointi:** Käytä korkealaatuisia mutta pienikokoisia kuvia (mieluiten alle 100 kt:n kokonaispaino). Isännöi kuvia luotettavasti (älä upota, ellei se ole välttämätöntä, koska se lisää sähköpostin kokoa). Käytä aina kuvaavaa \`alt\`-tekstiä esteettömyyden vuoksi ja jos kuvat on estetty.
 
-- **Limit Elements:** Älä sisällytä *jokaista* sosiaalista profiilia. Pidä kiinni 3-4 asiaankuuluvasta. Yksi vahva CTA on yleensä parempi kuin useita heikkoja.![Vertailu, jossa sähköpostin allekirjoitus renderöityy oikein sekä työpöytä- että mobiilinäytöillä](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Limit Elements:** Älä sisällytä *jokaista* sosiaalista profiilia. Pidä kiinni 3-4 asiaankuuluvasta. Yksi vahva CTA on yleensä parempi kuin useita heikkoja.
+
+![Vertailu, jossa sähköpostin allekirjoitus renderöityy oikein sekä työpöytä- että mobiilinäytöillä](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobiili on tärkeää: Varmista, että allekirjoituksesi näyttää hyvältä ja toimii hyvin kaikilla laitteilla.
 

@@ -33,17 +33,11 @@ Hedeflerinize bağlı olarak çeşitli unsurlar ekleyebilirsiniz, ancak bazı bi
 
 
 | Element | Neden Önemli | Notlar |
-
 | --------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-
 | **Abonelikten Çıkma Bağlantısı** | Pazarlama e-postaları için CAN-SPAM, GDPR ve CASL tarafından yasal olarak zorunludur. Güven oluşturur ve kullanıcı tercihine saygı duyar. | Açık, göze çarpan ve kullanımı kolay olmalıdır (ideal olarak tek tıklama). Talepleri derhal yerine getirin (genellikle 10 iş günü içinde). |
-
 | **Fiziksel Posta Adresi** | CAN-SPAM ve CASL tarafından yasal olarak zorunludur. Meşruiyet sağlar. | Bir sokak adresi, kayıtlı bir posta kutusu veya kayıtlı bir özel posta kutusu olabilir. |
-
 | **Gönderen Kimliği** | Kanunen zorunludur. Güven oluşturur. | Şirket adınızı açıkça belirtin. "Kimden" ve "Yanıtla" adreslerinin doğru olduğundan emin olun. |
-
 | **İletişim Bilgileri** | Alıcıların sizinle iletişime geçmesini sağlar. Güven oluşturur. | Bir web sitesi bağlantısı, destek e-posta adresi veya telefon numarası ekleyin. |
-
 | **Gizlilik Politikası Bağlantısı** | GDPR uyumluluğu ve her yerde iyi uygulama için gereklidir. Veri kullanımı hakkında şeffaflık. | Web sitenizde açık ve anlaşılır bir politikaya bağlantı verin. |
 
 Bunları, altbilginizin vazgeçilmez temeli olarak düşünün. Bunların eksikliği, e-posta teslimatını etkileyebilir ve yasal sorunlara yol açabilir.

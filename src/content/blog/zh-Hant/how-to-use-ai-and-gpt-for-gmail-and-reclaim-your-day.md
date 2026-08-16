@@ -101,11 +101,11 @@ AI 整合方式的選擇通常會影響可用功能的深度和種類。本機�
 ### 表 1：比較 AI 電子郵件助理方法
 
 |工具/方法|積分方法| AI 的主要特性 |典型定價模型|理想使用者 Pro 檔案 |隱私權焦點範例 |
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |---------------------------------------------------------------- |
-| [**Gmail 中的 Gemini**](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid) |本機（內建於 Gmail）|One AI Premium | Google Workspace 使用者 |依賴[Google 強大的安全基礎架構](https://workspace.google.com/security/) |
+| --- | --- | --- | --- | --- | --- |
+| [**Gmail 中的 Gemini**](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid) |本機（內建於 Gmail）|起草（「幫助我寫作」）、總結、智慧型回覆|One AI Premium | Google Workspace 使用者 |依賴[Google 強大的安全基礎架構](https://workspace.google.com/security/) |
 | **(**[**瀏覽器擴充**](https://www.popai.pro/resources/20-best-chatgpt-chrome-extensions-for-2025/)**)** (例如，([ChatGPT Writer](https://www.wps.ai/blog/7-best-chatgpt-chrome-extensions/))) |瀏覽器擴充功能（例如 Chrome）|起草、總結、產生回應（因擴充功能而異）|通常是免費增值或低成本訂閱 |上而無需更改客戶端的使用者 |多變的;檢查各個擴展策略（例如，（[Gmail™ 隱私權聲明的 GPT](https://workspace.google.com/marketplace/app/gpt_for_gmail/802100925247))）|
-| [**AI 收件匣整理器**](https://www.usemotion.com/blog/best-ai-email-assistant)（例如，([SaneBox](https://www.sanebox.com/))) |透過 API 連線的附加元件/服務 |分類、過濾（智慧型資料夾）、暫停、摘要（摘要）| 電腦程式設定自動化（通常根據功能性/收件者的順序） | API 連線；處理電子郵件資料進行排序（檢查政策；可以使用資料進行訓練）|
-| [**專用 AI 助手**](https://www.lindy.ai/blog/ai-email-assistant)（例如，[Chiefy](https://chiefy.com/zh-Hant)）|單獨的客戶端或深度整合（擴展/附加）|起草（通常帶有風格學習）、總結、分類、高級工作流程 |驅動的工作流程的專業人士/團隊 |各不相同；查看具體政策（Chiefy強調隱私）|
+| [**AI 收件匣整理器**](https://www.usemotion.com/blog/best-ai-email-assistant)（例如，([SaneBox](https://www.sanebox.com/))) |透過 API 連線的附加元件/服務 |分類、過濾（智慧型資料夾）、暫停、摘要（摘要）| 電腦程式設定自動化（通常根據功能性/收件者的順序） |  | API 連線；處理電子郵件資料進行排序（檢查政策；可以使用資料進行訓練）|
+| [**專用 AI 助手**](https://www.lindy.ai/blog/ai-email-assistant)（例如，[Chiefy](https://chiefy.com/zh-Hant)）|單獨的客戶端或深度整合（擴展/附加）|起草（通常帶有風格學習）、總結、分類、高級工作流程 |高級訂閱（通常按每位使用者計費）|驅動的工作流程的專業人士/團隊 |各不相同；查看具體政策（Chiefy強調隱私）|
 
 此表說明，選擇不僅僅是選擇工具，而是選擇正確的工具類型。自由工作者可能會發現簡單的起草擴展就足夠了，而大批量的專業人士或團隊可能會從提供全面分類和工作流程自動化的專用助理中受益更多。
 

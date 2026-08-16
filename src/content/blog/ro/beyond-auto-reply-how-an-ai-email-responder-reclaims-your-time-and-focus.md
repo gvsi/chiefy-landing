@@ -90,7 +90,7 @@ Sumarizarea economisește timp neprețuit atunci când revii la conversații com
 Piața asistenților de e-mail bazați pe inteligență artificială este în creștere rapidă. Deși multe instrumente oferă funcții care se suprapun, acestea au adesea puncte forte și public țintă diferite. Iată o scurtă prezentare a unor jucători cheie și a tipurilor de funcții comune (pe baza recenziilor din surse precum [**Dialzara**](https://dialzara.com/blog/10-best-ai-email-writing-tools-2024/), [**Lindy**](https://www.lindy.ai/blog/ai-email-assistant) și [**Zapier**](https://zapier.com/blog/best-ai-email-assistant/)):
 
 | **Focalizare pe funcții** | **Exemple de instrumente menționate în recenzii** | **Capacitate cheie** | **Profil de utilizator ideal** |
-| ----------------------------- | ---------------------------------------- | -------------------------------------------- |
+| --- | --- | --- | --- |
 | **Gestionare/Triare Inbox** | SaneBox, Shortwave, Lindy, Chiefy | Sortare inteligentă, prioritizare, filtrare spam/dezordine | Utilizatori cu volum mare de mesaje, profesioniști ocupați |
 | **Redactare și scriere** | Jasper, Copy.ai, Flowrite, Chiefy | Generare de șabloane, creare de conținut, învățare vocală | Marketeri, echipe de vânzări, scriitori frecvenți |
 | **Gramatică și poloneză** | Grammarly | Corectare erori, ajustare ton, claritate | Oricine are nevoie de o comunicare rafinată |

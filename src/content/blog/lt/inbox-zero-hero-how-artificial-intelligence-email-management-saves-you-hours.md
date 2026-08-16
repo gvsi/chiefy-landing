@@ -19,7 +19,9 @@ Nuolatinis naujų el. laiškų pypsėjimas ne tik erzina; tai rimtai mažina pro
 
 Šio srauto valdymas brangiai kainuoja. Specialistai teigia, kad vien el. pašto tvarkymui skiria apie [28% savo darbo savaitės](https://inboxdone.com/psychology-of-email-overload/) – tai atitinka 11–13 valandų. Nuolatinis šokinėjimas tarp užduočių ir gautųjų turi pasekmių. Tyrimai rodo, kad po tokio trukdžio kaip el. pašto tikrinimas prireikia daugiau nei [23 minučių dėmesiui susigrąžinti](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics).
 
-Poveikis neapsiriboja prarastu laiku. El. pašto perkrova nuosekliai siejama su didesniu stresu, nerimu ir perdegimu. [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) cituojama apklausa parodė, kad [66% amerikiečių jaučia stresą](https://inboxdone.com/psychology-of-email-overload/) dėl vien gaunamų el. laiškų kiekio. Šis nuolatinis spaudimas prisideda prie sprendimų nuovargio ir gali neigiamai paveikti pasitenkinimą darbu, todėl tampa sunkiau susitelkti į strateginį, didelės vertės darbą.![Infografika, rodanti kasdienio el. pašto kiekio ir el. pašto valdymui skiriamo laiko statistiką](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+Poveikis neapsiriboja prarastu laiku. El. pašto perkrova nuosekliai siejama su didesniu stresu, nerimu ir perdegimu. [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) cituojama apklausa parodė, kad [66% amerikiečių jaučia stresą](https://inboxdone.com/psychology-of-email-overload/) dėl vien gaunamų el. laiškų kiekio. Šis nuolatinis spaudimas prisideda prie sprendimų nuovargio ir gali neigiamai paveikti pasitenkinimą darbu, todėl tampa sunkiau susitelkti į strateginį, didelės vertės darbą.
+
+![Infografika, rodanti kasdienio el. pašto kiekio ir el. pašto valdymui skiriamo laiko statistiką](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 Vidutinis specialistas kasdien gauna daugiau nei 120 el. laiškų, kurie suvalgo valandas vertingo darbo laiko.
 

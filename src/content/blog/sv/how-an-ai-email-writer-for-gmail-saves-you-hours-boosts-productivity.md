@@ -19,7 +19,9 @@ Den stora mängden e-post är svindlande. Globalt beräknades antalet e-postmedd
 
 Studier visar konsekvent att proffs spenderar en stor del av sin arbetsvecka på e-post. Uppskattningar sträcker sig från [cirka 6,4 timmar per vecka](https://www.deel.com/blog/workplace-statistics/) (Deels 2025 Workplace Statistics) till häpnadsväckande [11 timmar per vecka](https://www.emailtooltester.com/en/blog/email-usage-statistics/) som ägnas åt att bara hantera och organisera e-postmeddelanden, enligt en Microsoft-studie som citeras av EmailTooltester. Det är potentiellt 28 % av arbetsveckan som slukas av inkorgen!
 
-Effekten går utöver förlorad tid. Konstant e-postkontroll splittrar vårt fokus, vilket tvingar fram kostsamma sammanhangsväxlingar mellan djupt arbete och triage i inkorgen. Denna digitala friktion bidrar till stress, hämmar beslutsfattande när viktiga budskap begravs och kan till och med leda till utbrändhet. En [Forbes-studie som nämns av DragApp](https://www.dragapp.com/blog/effects-of-email-overload/) fann att en tredjedel av de anställda nämnde överbelastning av e-post som en faktor för att lämna sina jobb. Det är uppenbart att den traditionella metoden för e-posthantering är ohållbar för moderna proffs.![Infografik som visar statistik om överbelastning av e-post, inklusive genomsnittliga e-postmeddelanden som tas emot dagligen, timmar som ägnas åt att hantera e-post per vecka och inverkan på produktiviteten](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+Effekten går utöver förlorad tid. Konstant e-postkontroll splittrar vårt fokus, vilket tvingar fram kostsamma sammanhangsväxlingar mellan djupt arbete och triage i inkorgen. Denna digitala friktion bidrar till stress, hämmar beslutsfattande när viktiga budskap begravs och kan till och med leda till utbrändhet. En [Forbes-studie som nämns av DragApp](https://www.dragapp.com/blog/effects-of-email-overload/) fann att en tredjedel av de anställda nämnde överbelastning av e-post som en faktor för att lämna sina jobb. Det är uppenbart att den traditionella metoden för e-posthantering är ohållbar för moderna proffs.
+
+![Infografik som visar statistik om överbelastning av e-post, inklusive genomsnittliga e-postmeddelanden som tas emot dagligen, timmar som ägnas åt att hantera e-post per vecka och inverkan på produktiviteten](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Överbelastning av e-post är inte bara perception; data visar att det är en betydande belastning på produktivitet och välbefinnande
 
@@ -55,7 +57,9 @@ Tänk på NLP som motorn som gör det möjligt för datorer att förstå mänskl
 
 LLM'er, som OpenAIs GPT-serie eller Googles Gemini-modeller, är kraftpaketet bakom generationen. Dessa modeller är tränade på massiva datamängder – biljoner ord från webbplatser, böcker och andra textkällor. Denna utbildning låter dem lära sig invecklade mönster av språk, grammatik, sammanhang och till och med olika skrivstilar. När du ger en uppmaning (t.ex. "Skriv ett artigt uppföljande e-postmeddelande och ber om rapporten") eller sammanhanget för en befintlig e-posttråd, använder LLM sin träning för att förutsäga den mest sannolika sekvensen av ord för att bilda ett relevant och sammanhängande svar.
 
-Avgörande är att många AI-e-postskribenter också har en inlärningsmekanism. Genom att analysera de e-postmeddelanden du *sänder* (särskilt redigeringar du gör i dess utkast) kan AI gradvis lära sig din föredragna frasering, sign-offs och övergripande kommunikationsstil, vilket gör förslagen mer personliga över tiden. Detta sker ofta sömlöst genom ett Chrome-tillägg som integreras direkt i ditt Gmail-gränssnitt och placerar AI:s kraft precis där du behöver den.![Diagram som illustrerar hur en AI-e-postskribent fungerar: Användarinmatning (prompt/kontext) går in i AI-modellen (NLP/LLM), som sedan producerar en e-postutdata (utkast/sammanfattning)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
+Avgörande är att många AI-e-postskribenter också har en inlärningsmekanism. Genom att analysera de e-postmeddelanden du *sänder* (särskilt redigeringar du gör i dess utkast) kan AI gradvis lära sig din föredragna frasering, sign-offs och övergripande kommunikationsstil, vilket gör förslagen mer personliga över tiden. Detta sker ofta sömlöst genom ett Chrome-tillägg som integreras direkt i ditt Gmail-gränssnitt och placerar AI:s kraft precis där du behöver den.
+
+![Diagram som illustrerar hur en AI-e-postskribent fungerar: Användarinmatning (prompt/kontext) går in i AI-modellen (NLP/LLM), som sedan producerar en e-postutdata (utkast/sammanfattning)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
 
 AI-e-postskribenter använder NLP för att förstå din förfrågan och LLM s tränade på omfattande data för att generera människoliknande text.
 
@@ -152,7 +156,9 @@ Den snabba adoptionen av AI på arbetsplatsen är obestridlig. [McKinseys forskn
 
 Denna trend handlar inte om att ersätta mänsklig kommunikation; det handlar om att ta bort friktionen och ineffektiviteten som fastnar. Målet är att automatisera de repetitiva, tidskrävande uppgifterna, frigöra värdefull mental energi och tid för arbetet som kräver unika mänskliga färdigheter: strategiskt tänkande, komplex problemlösning, empati och relationsbyggande.
 
-AI-e-postskribenter för Gmail representerar ett viktigt steg i denna riktning. De erbjuder ett kraftfullt sätt att hantera det obevekliga flödet av digital kommunikation, och förvandlar inkorgen från en källa till stress till ett mer hanterbart och produktivt verktyg.![Grafik som visar ett citat eller statistik om hur AI-implementering ökar produktiviteten på arbetsplatsen](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
+AI-e-postskribenter för Gmail representerar ett viktigt steg i denna riktning. De erbjuder ett kraftfullt sätt att hantera det obevekliga flödet av digital kommunikation, och förvandlar inkorgen från en källa till stress till ett mer hanterbart och produktivt verktyg.
+
+![Grafik som visar ett citat eller statistik om hur AI-implementering ökar produktiviteten på arbetsplatsen](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
 
 AI-verktyg ses alltmer som väsentliga för att förbättra produktiviteten och effektiviteten på arbetsplatsen.
 

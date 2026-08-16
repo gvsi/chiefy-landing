@@ -116,7 +116,9 @@ Okay, så AI kan kondensere e-mails ved hjælp af forskellige teknikker. Men hvo
 
 6. **Reducer kognitiv belastning og boost fokus:** Stop med at forsøge mentalt at jonglere med detaljerne i snesevis af aktive e-mail-tråde. At aflaste opgaven med at kondensere og udtrække nøgleinformation til AI frigør dine værdifulde kognitive ressourcer. Dette giver dig mulighed for at dedikere mere mental energi til strategisk tænkning, kompleks problemløsning, risikoanalyse og ledelse af dit team – det værdifulde arbejde, der virkelig definerer en statsministers rolle.
 
-   - **PM Use Case:** Brug af oversigter til hurtigt at behandle og arkivere opdateringstråde med lavere prioritet i løbet af dedikeret "e-mail-tid", hvilket bevarer mental båndbredde til at tackle de komplekse, kritiske problemer.![Infografik over fordele ved AI-e-mail-opsummering for PM'er](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+   - **PM Use Case:** Brug af oversigter til hurtigt at behandle og arkivere opdateringstråde med lavere prioritet i løbet af dedikeret "e-mail-tid", hvilket bevarer mental båndbredde til at tackle de komplekse, kritiske problemer.
+
+![Infografik over fordele ved AI-e-mail-opsummering for PM'er](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 AI-e-mail-opsummering giver håndgribelige fordele, der hjælper projektledere med at spare tid, spore nøgleoplysninger og reducere mental træthed
 

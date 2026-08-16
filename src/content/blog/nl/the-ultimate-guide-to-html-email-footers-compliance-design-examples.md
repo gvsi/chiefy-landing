@@ -60,7 +60,9 @@ Omdat [een aanzienlijk deel van de e-mails wordt geopend op mobiele apparaten](h
 
 - Maak links en knoppen groot genoeg om gemakkelijk te kunnen tikken (minimaal 44x44 pixels).
 
-- Test uw voettekst op verschillende apparaten en e-mailclients met behulp van tools zoals [Litmus](https://www.litmus.com/) of [Email on Acid](https://www.emailonacid.com/).![Vergelijking naast elkaar die laat zien hoe een goed ontworpen e-mailvoettekst de lay-out aanpast van desktopweergave naar mobiele weergave](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Test uw voettekst op verschillende apparaten en e-mailclients met behulp van tools zoals [Litmus](https://www.litmus.com/) of [Email on Acid](https://www.emailonacid.com/).
+
+![Vergelijking naast elkaar die laat zien hoe een goed ontworpen e-mailvoettekst de lay-out aanpast van desktopweergave naar mobiele weergave](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Zorg ervoor dat uw voettekst er geweldig uitziet en perfect functioneert op elk schermformaat.
 

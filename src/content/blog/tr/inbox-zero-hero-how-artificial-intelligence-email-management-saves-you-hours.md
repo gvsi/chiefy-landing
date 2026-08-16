@@ -159,20 +159,13 @@ Bu araç mevcut kurulumunuza ne kadar iyi uyuyor? Önde gelen asistanların ço�
 Temel entegrasyonun ötesinde, araçları şu kriterlere göre karşılaştırın:
 
 | Kriterler | Nelere Dikkat Edilmeli |
-
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-
 | **Temel Özellikler** | En çok ihtiyaç duyduğunuz belirli yetenekleri sunuyor mu (örneğin, önceliklendirme, özetleme, taslak oluşturma, planlama, analiz)? |
-
 | **Etkinlik ve Doğruluk** | AI ne kadar iyi performans gösteriyor? Önceliklendirme doğru görünüyor mu? Özetler faydalı mı? Taslaklar alakalı mı? (Ücretsiz deneme sürümlerinden yararlanın). |
-
-**Kişiselleştirme ve Özelleştirme** | Kuralları özelleştirebilir misiniz? Tarzınızı öğreniyor mu? Taslakların tonunu ve uzunluğunu ayarlayabilir misiniz? |
-
-**Kullanım Kolaylığı** | Arayüz sezgisel mi? Öğrenme eğrisi dik mi? İyi bir dokümantasyon veya destek mevcut mu? |
-
-**Güvenlik ve Gizlilik** | Veri kullanım politikalarını, şifreleme standartlarını, uyumluluk sertifikalarını ve kullanıcı kontrollerini inceleyin. |
-
-**Maliyet ve Fiyatlandırma Modeli** | Bütçenize uygun mu? Fiyatlandırma yapısını (abonelik, kullanıcı başına, kullanıma dayalı) anlayın. Ücretsiz deneme sürümü veya freemium katmanı var mı? |
+| **Kişiselleştirme ve Özelleştirme** | Kuralları özelleştirebilir misiniz? Tarzınızı öğreniyor mu? Taslakların tonunu ve uzunluğunu ayarlayabilir misiniz? |
+| **Kullanım Kolaylığı** | Arayüz sezgisel mi? Öğrenme eğrisi dik mi? İyi bir dokümantasyon veya destek mevcut mu? |
+| **Güvenlik ve Gizlilik** | Veri kullanım politikalarını, şifreleme standartlarını, uyumluluk sertifikalarını ve kullanıcı kontrollerini inceleyin. |
+| **Maliyet ve Fiyatlandırma Modeli** | Bütçenize uygun mu? Fiyatlandırma yapısını (abonelik, kullanıcı başına, kullanıma dayalı) anlayın. Ücretsiz deneme sürümü veya freemium katmanı var mı? |
 
 Doğru e-posta aracını seçmek, özellikler, güvenlik, entegrasyon, kullanılabilirlik ve maliyeti değerlendirmeyi gerektirir.
 

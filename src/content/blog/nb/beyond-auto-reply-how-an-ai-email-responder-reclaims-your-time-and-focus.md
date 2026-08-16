@@ -17,7 +17,9 @@ Dette innlegget dykker dypt inn i verden av AI-e-postsvarere. Vi skal utforske h
 
 Tallene tegner et sterkt bilde. I 2024 sender og mottar verden anslagsvis[ **361,6 milliarder e-poster daglig**](https://www.indectron.com/blog/email-stats/). For den gjennomsnittlige kontorarbeideren betyr dette å motta omtrent [**121 e-poster per dag**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/). Det er ikke rart at fagfolk rapporterer at de bruker en betydelig del av uken – anslag varierer fra[ **11 timer**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) til svimlende[ **28 % av arbeidsuken**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) – bare å administrere innboksen.
 
-Dette er ikke bare et irritasjonsmoment; det er et stort produktivitetsbortfall og en betydelig kilde til stress. Studier viser at [ **67 % av folk føler seg overveldet av innboksen**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), og de konstante avbruddene gjør det vanskelig å fokusere, og det tar i gjennomsnitt[ **23 minutter å gjenvinne konsentrasjonen**](https://ppm.express/blog/checking-emails/) etter å ha sjekket e-post.![Infografikk som viser nøkkelstatistikk om e-postoverbelastning, inkludert gjennomsnittlig e-post per dag, tid brukt på å administrere e-post og prosentandelen av arbeiderne som føler seg overveldet](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+Dette er ikke bare et irritasjonsmoment; det er et stort produktivitetsbortfall og en betydelig kilde til stress. Studier viser at [ **67 % av folk føler seg overveldet av innboksen**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), og de konstante avbruddene gjør det vanskelig å fokusere, og det tar i gjennomsnitt[ **23 minutter å gjenvinne konsentrasjonen**](https://ppm.express/blog/checking-emails/) etter å ha sjekket e-post.
+
+![Infografikk som viser nøkkelstatistikk om e-postoverbelastning, inkludert gjennomsnittlig e-post per dag, tid brukt på å administrere e-post og prosentandelen av arbeiderne som føler seg overveldet](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Tradisjonelle autosvar, som de som er innebygd i Gmail eller Outlook, ble aldri designet for denne virkeligheten. Begrensningene deres er klare:
 
@@ -110,7 +112,9 @@ Markedet for AI-e-postassistenter vokser raskt. Mens mange verktøy tilbyr overl
 
 - **Personvern og sikkerhet:** Hvordan håndterer verktøyet e-postdataene dine? Se etter klare retningslinjer for personvern og sikkerhetstiltak (f.eks. kryptering, overholdelse avGDPR/CCPA).
 
-- **Priser:** Stemmer kostnadene med potensielle tidsbesparelser og produktivitetsgevinster? (Vurder ROI-estimater, som EmailTree.ai sitt krav om [ **sparing av kostnaden på 2 FTEs**](https://emailtree.ai/) per 1000 behandlede e-poster).![Skjermbilde av Chiefy Fokusert Dashboard som viser prioriterte e-poster kategorisert etter handling nødvendig og nødvendige beslutninger](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+- **Priser:** Stemmer kostnadene med potensielle tidsbesparelser og produktivitetsgevinster? (Vurder ROI-estimater, som EmailTree.ai sitt krav om [ **sparing av kostnaden på 2 FTEs**](https://emailtree.ai/) per 1000 behandlede e-poster).
+
+![Skjermbilde av Chiefy Fokusert Dashboard som viser prioriterte e-poster kategorisert etter handling nødvendig og nødvendige beslutninger](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 AI-drevne instrumentbord, som dette eksemplet fra Chiefy, gir en klar oversikt over prioriterte e-poster, noe som reduserer sorteringstiden drastisk
 

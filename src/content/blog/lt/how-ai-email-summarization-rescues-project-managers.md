@@ -116,7 +116,9 @@ Gerai, DI gali sutraukti el. laiškus skirtingais metodais. Bet kaip tai _konkre
 
 6. **Sumažinkite kognityvinę apkrovą ir sustiprinkite dėmesį:** Nustokite mintyse žongliruoti dešimčių aktyvių el. laiškų gijų detalėmis. Perdavus pagrindinės informacijos sutraukimo ir ištraukimo užduotį DI, atsilaisvina vertingi kognityviniai resursai. Tai leidžia daugiau protinės energijos skirti strateginiam mąstymui, sudėtingų problemų sprendimui, rizikų analizei ir komandos vedimui — didelės vertės darbui, kuris iš tiesų apibrėžia projektų vadovo rolę.
 
-   - **Projektų vadovo atvejis:** Naudoti santraukas, kad per dedikuotą „el. pašto laiką“ greitai apdorotumėte ir archyvuotumėte žemesnio prioriteto atnaujinimų gijas, išsaugodami protinį pajėgumą sudėtingoms, kritinėms problemoms spręsti.![DI el. laiškų santraukų naudos projektų vadovams infografika](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+   - **Projektų vadovo atvejis:** Naudoti santraukas, kad per dedikuotą „el. pašto laiką“ greitai apdorotumėte ir archyvuotumėte žemesnio prioriteto atnaujinimų gijas, išsaugodami protinį pajėgumą sudėtingoms, kritinėms problemoms spręsti.
+
+![DI el. laiškų santraukų naudos projektų vadovams infografika](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 DI el. laiškų santraukos suteikia apčiuopiamą naudą: padeda projektų vadovams taupyti laiką, sekti svarbią informaciją ir mažinti protinį nuovargį
 

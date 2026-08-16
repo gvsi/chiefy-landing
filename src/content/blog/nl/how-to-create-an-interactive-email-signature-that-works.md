@@ -57,7 +57,9 @@ Niet alle interactieve elementen zijn gelijk gemaakt. Hier zijn enkele bewezen w
 
 - **Planningslink:** Direct integreren met tools zoals Calendly. Door een knop of link [Vergadering plannen](https://www.bybrand.io/blog/schedule-meeting-email-signature/) toe te voegen, wordt de wrijving bij het boeken van gesprekken weggenomen.
 
-- **Logo of portretfoto:** Voegt persoonlijkheid en merkherkenning toe. Maak het klikbaar en link naar uw website. Gebruik een professionele afbeelding van hoge kwaliteit.![Voorbeeld van een eenvoudige professionele e-mailhandtekening voor een freelancer met klikbare contactgegevens en sociale links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logo of portretfoto:** Voegt persoonlijkheid en merkherkenning toe. Maak het klikbaar en link naar uw website. Gebruik een professionele afbeelding van hoge kwaliteit.
+
+![Voorbeeld van een eenvoudige professionele e-mailhandtekening voor een freelancer met klikbare contactgegevens en sociale links](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Houd het overzichtelijk: een eenvoudige handtekening met essentiële contactgegevens en belangrijke sociale links.
 
@@ -80,7 +82,9 @@ Welke past bij jou? Laten we vergelijken:
 | **Kenmerken** | Templates, analytics, bannercampagnes, centraal beheer (vaak betaald) | Alleen beperkt door HTML/CSS-e-mailbeperkingen |
 | **Kosten** | Gratis niveaus beschikbaar (vaak met branding); Betaalde abonnementen voor meer functies/gebruikers | Gratis (als je over de vaardigheden beschikt) |
 
-**Aanbeveling voor freelancers en startups:** Tenzij u vertrouwd bent met HTML en rigoureus testen, wordt het ten zeerste aanbevolen om te beginnen met een gerenommeerde **generator voor e-mailhandtekeningen**. Tools zoals [MySignature](https://mysignature.io/) (gekend als goed voor freelancers/kleine teams) of [WiseStamp](https://www.wisestamp.com/) bieden gratis of betaalbare abonnementen met professionele sjablonen, eenvoudige aanpassingen (inclusief CTA's en banners) en ingebouwde compatibiliteitscontroles. [HubSpot biedt ook een populaire gratis generator](https://www.hubspot.com/email-signature-generator) voor eenvoudigere behoeften.![Schermopname van een interface voor het genereren van e-mailhandtekeningen met sjablonen en aanpassingsopties](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Aanbeveling voor freelancers en startups:** Tenzij u vertrouwd bent met HTML en rigoureus testen, wordt het ten zeerste aanbevolen om te beginnen met een gerenommeerde **generator voor e-mailhandtekeningen**. Tools zoals [MySignature](https://mysignature.io/) (gekend als goed voor freelancers/kleine teams) of [WiseStamp](https://www.wisestamp.com/) bieden gratis of betaalbare abonnementen met professionele sjablonen, eenvoudige aanpassingen (inclusief CTA's en banners) en ingebouwde compatibiliteitscontroles. [HubSpot biedt ook een populaire gratis generator](https://www.hubspot.com/email-signature-generator) voor eenvoudigere behoeften.
+
+![Schermopname van een interface voor het genereren van e-mailhandtekeningen met sjablonen en aanpassingsopties](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Tools zoals MySignature en WiseStamp bieden sjablonen en eenvoudige aanpassingen.
 
@@ -106,7 +110,9 @@ Het creëren van een interactieve handtekening is slechts het halve werk. Het is
 
 - **Beeldoptimalisatie:** Gebruik afbeeldingen van hoge kwaliteit maar met een kleine bestandsgrootte (idealiter minder dan 100 kb totaal handtekeninggewicht). Host afbeeldingen op een betrouwbare manier (niet insluiten tenzij nodig, omdat dit de e-mailgrootte vergroot). Gebruik altijd beschrijvende 'alt'-tekst voor toegankelijkheid en als afbeeldingen zijn geblokkeerd.
 
-- **Limietelementen:** Neem niet *elk* sociaal profiel op. Houd het bij 3-4 relevante. Eén sterke CTA is meestal beter dan meerdere zwakke.![Vergelijking waarbij een e-mailhandtekening correct wordt weergegeven op zowel desktop- als mobiele schermen](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Limietelementen:** Neem niet *elk* sociaal profiel op. Houd het bij 3-4 relevante. Eén sterke CTA is meestal beter dan meerdere zwakke.
+
+![Vergelijking waarbij een e-mailhandtekening correct wordt weergegeven op zowel desktop- als mobiele schermen](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobiel is belangrijk: zorg ervoor dat uw handtekening er goed uitziet en goed functioneert op alle apparaten.
 

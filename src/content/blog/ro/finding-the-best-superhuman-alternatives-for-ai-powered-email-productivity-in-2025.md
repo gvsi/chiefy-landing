@@ -118,7 +118,6 @@ Piața este plină de clienți de e-mail inovatori care utilizează inteligența
 | **Triaj/Prioritate prin AI** | Inbox divizat, Etichete automate | Inbox inteligent, Sortare prioritară | Pachete, Organizare prin AI, Inbox divizat | Sortare inteligentă, Informații prioritare |
 | **Stil de redactare prin AI** | Învață vocea utilizatorului, Focalizat | Solicitări flexibile, Reglare ton | Învață vocea utilizatorului, Completare automată | Scriere/Corectură prin copilot prin AI |
 | **Sumarizare prin AI** | Da (Sumarizare automată) | Da (Sumarizare) | Da (Sumarizări instantanee) | Da (Sumarizări prin AI) |
-
 | **Focalizare pe colaborare** | Moderat (Fragmente de grup în echipă, Fire de discuție partajate) | Ridicat (Schițe/Comentarii partajate, Delegare) | Moderat (Comentarii, Atribuire - Plătit) | Scăzut (Utilizare individuală/în echipă, concentrare mai mică pe colaborare) |
 | **Integrări cheie** | Hubspot, Salesforce | [Asana](https://asana.com/),Trello, [Dropbox](https://www.dropbox.com/) etc. | [Google Calendar](https://calendar.google.com/), [Zapier](https://zapier.com/) (Enterprise) | Calendar de bază |
 | **Asistență pentru platformă** | Mac, Win, iOS, Android, Web (doar Gmail/Outlook) | Mac, Win, iOS, Android | iOS, Android, Web (PWA Desktop) (doar Gmail) | Mac, Win, iOS, Android |

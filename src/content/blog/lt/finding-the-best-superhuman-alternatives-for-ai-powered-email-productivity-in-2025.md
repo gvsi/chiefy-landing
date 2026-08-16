@@ -45,7 +45,9 @@ Problemą gilina milžiniškas kiekis – [šimtai milijardų el. laiškų](http
 
 ### **Išmani atranka ir prioritetai: rasti signalą triukšme**
 
-Užuot rankiniu būdu rūšiavę chronologinį srautą, DI asistentai analizuoja gaunamus laiškus pagal siuntėjo reputaciją, raktinius žodžius, turinio modelius ir išmoktą naudotojo elgseną, kad automatiškai iškeltų tai, kam iš tiesų reikia dėmesio. Pagalvokite apie tokias funkcijas kaip Superhuman [Auto Labels](https://superhuman.com/ai), [Shortwave](https://www.shortwave.com/) išmanumą, [Spark Mail](https://sparkmailapp.com/), arba pažangų filtravimą [SaneBox](https://www.sanebox.com/). Šis išmanus rūšiavimas yra itin svarbus. Užuot rankiniu būdu sijojęs laiškus, DI veikia kaip vartininkas, smarkiai sumažindamas pažintinę naštą sprendžiant, ko imtis toliau. Čia puikiai pasirodo tokie įrankiai kaip [**Chiefy**](/lt), naudodami DI atranką, kad automatiškai nustatytų skubius elementus, reikalingus veiksmus ar sprendimus ir aiškiai juos pateiktų, kad pirmiausia imtumėtės to, kas svarbiausia.![Chiefy valdymo skydelis, kuriame DI prioritetizuoja el. laiškus pagal skubumą ir reikalingus veiksmus](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+Užuot rankiniu būdu rūšiavę chronologinį srautą, DI asistentai analizuoja gaunamus laiškus pagal siuntėjo reputaciją, raktinius žodžius, turinio modelius ir išmoktą naudotojo elgseną, kad automatiškai iškeltų tai, kam iš tiesų reikia dėmesio. Pagalvokite apie tokias funkcijas kaip Superhuman [Auto Labels](https://superhuman.com/ai), [Shortwave](https://www.shortwave.com/) išmanumą, [Spark Mail](https://sparkmailapp.com/), arba pažangų filtravimą [SaneBox](https://www.sanebox.com/). Šis išmanus rūšiavimas yra itin svarbus. Užuot rankiniu būdu sijojęs laiškus, DI veikia kaip vartininkas, smarkiai sumažindamas pažintinę naštą sprendžiant, ko imtis toliau. Čia puikiai pasirodo tokie įrankiai kaip [**Chiefy**](/lt), naudodami DI atranką, kad automatiškai nustatytų skubius elementus, reikalingus veiksmus ar sprendimus ir aiškiai juos pateiktų, kad pirmiausia imtumėtės to, kas svarbiausia.
+
+![Chiefy valdymo skydelis, kuriame DI prioritetizuoja el. laiškus pagal skubumą ir reikalingus veiksmus](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 Chiefy DI valdoma atranka iškelia svarbiausius laiškus, sumažindama rūšiavimo laiką ir pažintinę apkrovą
 
@@ -56,7 +58,9 @@ Greitas atsakymas dažnai reiškia asmeniškumo aukojimą, todėl atsakymai tamp
 
 ### **Momentinės santraukos ir kontekstas: pasivykite neužmigdami**
 
-Visi esame susidūrę su bauginančia kelių atsakymų el. laiškų gija, besitęsiančia per daugybę puslapių. DI santraukos šią problemą sprendžia tiesiogiai, sutraukdamos ilgas diskusijas į glaustus punktus ar trumpas pastraipas, išryškindamos pagrindinius sprendimus, veiksmų punktus ir svarbias detales. Tokie įrankiai kaip Superhuman, Shortwave ir [Canary Mail](https://canarymail.io/) siūlo šios funkcijos variantus. Greitai gauti kontekstą yra būtina, ypač grįžtant prie sudėtingų projektų. DI santraukos sutaupo daug laiko. Kai kurie įrankiai, pavyzdžiui, [**Chiefy**](/lt), žengia dar toliau palaikydami kontekstinį supratimą tarp gijų, įsimindami projektų detales ir ryšius, kad pateiktų dar aktualesnes santraukas ir juodraščių pasiūlymus.![Pavyzdys, kuriame ilga el. laiškų gija DI sutraukiama į pagrindinius punktus](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
+Visi esame susidūrę su bauginančia kelių atsakymų el. laiškų gija, besitęsiančia per daugybę puslapių. DI santraukos šią problemą sprendžia tiesiogiai, sutraukdamos ilgas diskusijas į glaustus punktus ar trumpas pastraipas, išryškindamos pagrindinius sprendimus, veiksmų punktus ir svarbias detales. Tokie įrankiai kaip Superhuman, Shortwave ir [Canary Mail](https://canarymail.io/) siūlo šios funkcijos variantus. Greitai gauti kontekstą yra būtina, ypač grįžtant prie sudėtingų projektų. DI santraukos sutaupo daug laiko. Kai kurie įrankiai, pavyzdžiui, [**Chiefy**](/lt), žengia dar toliau palaikydami kontekstinį supratimą tarp gijų, įsimindami projektų detales ir ryšius, kad pateiktų dar aktualesnes santraukas ir juodraščių pasiūlymus.
+
+![Pavyzdys, kuriame ilga el. laiškų gija DI sutraukiama į pagrindinius punktus](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
 
 DI santraukos Chiefy greitai ištraukia svarbiausius punktus iš ilgų el. laiškų gijų, taupydamos brangų laiką
 

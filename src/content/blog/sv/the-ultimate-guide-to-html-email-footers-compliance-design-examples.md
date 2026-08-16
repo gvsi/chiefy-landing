@@ -60,7 +60,9 @@ Med [en betydande del av e-postmeddelanden öppnade på mobila enheter](https://
 
 - Göra länkar och knappar tillräckligt stora för att lätt kunna tryckas på (minst 44x44 pixlar).
 
-- Testa din sidfot på olika enheter och e-postklienter med hjälp av verktyg som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).![Jämförelse sida vid sida som visar hur en väldesignad sidfot för e-post anpassar sin layout från skrivbordsvy till mobilvy](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Testa din sidfot på olika enheter och e-postklienter med hjälp av verktyg som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).
+
+![Jämförelse sida vid sida som visar hur en väldesignad sidfot för e-post anpassar sin layout från skrivbordsvy till mobilvy](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Se till att din sidfot ser bra ut och fungerar perfekt på alla skärmstorlekar.
 

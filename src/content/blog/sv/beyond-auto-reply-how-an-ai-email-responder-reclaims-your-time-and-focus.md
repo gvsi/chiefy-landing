@@ -17,7 +17,9 @@ Det här inlägget dyker djupt in i världen av AI-e-postsvarare. Vi kommer att 
 
 Siffrorna målar upp en skarp bild. År 2024 skickar och tar världen emot uppskattningsvis[ **361,6 miljarder e-postmeddelanden dagligen**](https://www.indectron.com/blog/email-stats/). För en genomsnittlig kontorsarbetare innebär detta att de får ungefär [ **121 e-postmeddelanden per dag**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/). Det är inte konstigt att proffs rapporterar att de spenderar en betydande del av sin vecka – uppskattningar sträcker sig från[ **11 timmar**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) till svindlande[ **28 % av arbetsveckan**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) – bara att hantera sin inkorg.
 
-Detta är inte bara ett irritationsmoment; det är en stor produktivitetsminskning och en betydande källa till stress. Studier visar att [ **67 % av människorna känner sig överväldigade av sin inkorg**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), och de ständiga avbrotten gör det svårt att fokusera, och det tar i genomsnitt[ **23 minuter att återfå koncentrationen**](https://ppm.express/blog/checking-emails/) efter att ha kollat ​​e-post.![Infografik som visar nyckelstatistik om överbelastning av e-post, inklusive genomsnittliga e-postmeddelanden per dag, tid som ägnas åt att hantera e-post och andelen anställda som känner sig överväldigade](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+Detta är inte bara ett irritationsmoment; det är en stor produktivitetsminskning och en betydande källa till stress. Studier visar att [ **67 % av människorna känner sig överväldigade av sin inkorg**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), och de ständiga avbrotten gör det svårt att fokusera, och det tar i genomsnitt[ **23 minuter att återfå koncentrationen**](https://ppm.express/blog/checking-emails/) efter att ha kollat ​​e-post.
+
+![Infografik som visar nyckelstatistik om överbelastning av e-post, inklusive genomsnittliga e-postmeddelanden per dag, tid som ägnas åt att hantera e-post och andelen anställda som känner sig överväldigade](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Traditionella autosvar, som de inbyggda i Gmail eller Outlook, designades aldrig för denna verklighet. Deras begränsningar är tydliga:
 
@@ -110,7 +112,9 @@ Marknaden för AI-e-postassistenter växer snabbt. Även om många verktyg erbju
 
 - **Sekretess och säkerhet:** Hur hanterar verktyget din e-postdata? Leta efter tydliga sekretesspolicyer och säkerhetsåtgärder (t.ex. kryptering, efterlevnad avGDPR/CCPA).
 
-- **Prissättning:** Stämmer kostnaden överens med de potentiella tidsbesparingarna och produktivitetsvinsterna? (Tänk på ROI-uppskattningar, som EmailTree.ai:s påstående om att [ **spara kostnaden för 2 heltidstjänster**](https://emailtree.ai/) per 1000 bearbetade e-postmeddelanden).![Skärmdump av Chiefy fokuserad instrumentpanel som visar prioriterade e-postmeddelanden kategoriserade efter åtgärder som behövs och beslut som behövs](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+- **Prissättning:** Stämmer kostnaden överens med de potentiella tidsbesparingarna och produktivitetsvinsterna? (Tänk på ROI-uppskattningar, som EmailTree.ai:s påstående om att [ **spara kostnaden för 2 heltidstjänster**](https://emailtree.ai/) per 1000 bearbetade e-postmeddelanden).
+
+![Skärmdump av Chiefy fokuserad instrumentpanel som visar prioriterade e-postmeddelanden kategoriserade efter åtgärder som behövs och beslut som behövs](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 AI-drivna instrumentpaneler, som det här exemplet från Chiefy, ger en tydlig bild av prioriterade e-postmeddelanden, vilket drastiskt minskar sorteringstiden
 

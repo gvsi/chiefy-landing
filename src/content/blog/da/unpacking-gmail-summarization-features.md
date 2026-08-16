@@ -35,7 +35,9 @@ Denne konstante spærreild fører til:
 
 - **Øget stress:** Følelsen af konstant at være bagud på e-mail bidrager væsentligt til stress og udbrændthed på arbejdspladsen.
 
-AI opsummeringsværktøjer sigter mod at tackle disse problemer direkte ved hurtigt at udtrække essensen af kommunikation, så du kan prioritere effektivt og holde dig informeret uden at fare vild i ukrudtet. Undersøgelser af kunstig intelligens på arbejdspladsen, som dem fremhævet af [Center for Datainnovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), viser håndgribelige produktivitetsstigninger, når AI hjælper med opgaver som opsummering og informationssøgning.![Infografik, der illustrerer problemet med overbelastning af e-mail med nøglestatistikker](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+AI opsummeringsværktøjer sigter mod at tackle disse problemer direkte ved hurtigt at udtrække essensen af kommunikation, så du kan prioritere effektivt og holde dig informeret uden at fare vild i ukrudtet. Undersøgelser af kunstig intelligens på arbejdspladsen, som dem fremhævet af [Center for Datainnovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), viser håndgribelige produktivitetsstigninger, når AI hjælper med opgaver som opsummering og informationssøgning.
+
+![Infografik, der illustrerer problemet med overbelastning af e-mail med nøglestatistikker](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Alene mængden af ​​daglige e-mails fremhæver behovet for effektive administrationsværktøjer.
 
@@ -55,7 +57,9 @@ Adgang til funktionen afhænger af din grænseflade:
 
 - **Webgrænseflade:** Se efter en knap mærket "Opsummer denne e-mail", der vises direkte under emnelinjen i en kvalificeret e-mail-tråd. Alternativt kan du åbne sidepanelet "Spørg Gemini" (normalt via et gnistikon øverst til højre) og enten klikke på en foreslået prompt som "Hvad handler denne e-mail om?" eller skriv din egen anmodning som "Opsummer denne tråd."
 
-- **Mobilapp (Android/iOS):** Ligesom på nettet kan en "Opsummer denne e-mail"-knap vises under emnet. Hvis du trykker på den, vises resuméet i et dedikeret Gemini ark eller panel. Du kan også ofte få adgang til opsummering og andre AI-funktioner via ikonet Gemini i appens øverste bjælke.![Gmail e-mailvisning, der fremhæver knappen 'Opsummer denne e-mail' under emnelinjen](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **Mobilapp (Android/iOS):** Ligesom på nettet kan en "Opsummer denne e-mail"-knap vises under emnet. Hvis du trykker på den, vises resuméet i et dedikeret Gemini ark eller panel. Du kan også ofte få adgang til opsummering og andre AI-funktioner via ikonet Gemini i appens øverste bjælke.
+
+![Gmail e-mailvisning, der fremhæver knappen 'Opsummer denne e-mail' under emnelinjen](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Gmails indbyggede opsummeringsfunktion er tilgængelig via en knap direkte i e-mailtråde.
 

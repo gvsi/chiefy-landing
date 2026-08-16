@@ -21,7 +21,9 @@ Bevor wir uns mit Lösungen befassen, wollen wir das Problem quantifizieren. E-M
 
 - **Die Unterbrechungssteuer:** Wir checken unsere E-Mails regelmäßig – Schätzungen zufolge [alle 6 Minuten](https://www.ppm.express/blog/checking-emails)! Jede Unterbrechung ist nicht nur ein kurzer Blick; Es dauert durchschnittlich [23-25 ​​Minuten](https://www.ppm.express/blog/checking-emails), bis Sie sich wieder vollständig auf Ihre ursprüngliche Aufgabe konzentrieren können.
 
-- **Arbeit von geringem Wert:** Ein erheblicher Teil dieser E-Mail-Zeit wird für Aktivitäten von geringem Wert aufgewendet. Eine Studie ergab, dass der durchschnittliche Arbeitnehmer [51 % seines Arbeitstages](https://lifehackmethod.com/blog/time-management-statistics/) mit Aufgaben verbringt, die kaum Auswirkungen haben, wobei E-Mails den größten Anteil daran haben.![Foto eines sichtlich gestressten Berufstätigen, der an einem Schreibtisch voller Papiere sitzt und von E-Mails auf seinem Computerbildschirm überwältigt aussieht](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Arbeit von geringem Wert:** Ein erheblicher Teil dieser E-Mail-Zeit wird für Aktivitäten von geringem Wert aufgewendet. Eine Studie ergab, dass der durchschnittliche Arbeitnehmer [51 % seines Arbeitstages](https://lifehackmethod.com/blog/time-management-statistics/) mit Aufgaben verbringt, die kaum Auswirkungen haben, wobei E-Mails den größten Anteil daran haben.
+
+![Foto eines sichtlich gestressten Berufstätigen, der an einem Schreibtisch voller Papiere sitzt und von E-Mails auf seinem Computerbildschirm überwältigt aussieht](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 E-Mail-Überlastung ist eine Hauptursache für Stress und Produktivitätseinbußen für vielbeschäftigte Berufstätige.
 
@@ -49,7 +51,9 @@ Filter sind Ihre erste Verteidigungslinie gegen das Chaos im Posteingang. Sie f�
 
 - Leiten Sie es weiter
 
-**Erste Schritte:** Klicken Sie in der Suchleiste von Gmail auf das Einstellungssymbol (sieht aus wie Schieberegler), um Suchoptionen anzuzeigen. Geben Sie Ihre Kriterien ein, testen Sie die Suche, klicken Sie dann auf „Filter erstellen“ und wählen Sie Ihre Aktionen aus. Detaillierte Schritte finden Sie im offiziellen Leitfaden von Google zum [Erstellen von Filterregeln](https://support.google.com/mail/answer/6579?hl=en).![Screenshot, der das Filtererstellungsfenster Gmail mit Feldern für „Von“, „An“, „Betreff“, „Hat die Wörter“ und Optionen wie „Beschriftung anwenden“ und „Posteingang überspringen“ zeigt](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Erste Schritte:** Klicken Sie in der Suchleiste von Gmail auf das Einstellungssymbol (sieht aus wie Schieberegler), um Suchoptionen anzuzeigen. Geben Sie Ihre Kriterien ein, testen Sie die Suche, klicken Sie dann auf „Filter erstellen“ und wählen Sie Ihre Aktionen aus. Detaillierte Schritte finden Sie im offiziellen Leitfaden von Google zum [Erstellen von Filterregeln](https://support.google.com/mail/answer/6579?hl=en).
+
+![Screenshot, der das Filtererstellungsfenster Gmail mit Feldern für „Von“, „An“, „Betreff“, „Hat die Wörter“ und Optionen wie „Beschriftung anwenden“ und „Posteingang überspringen“ zeigt](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Verwenden Sie Gmail-Filter, um eingehende E-Mails automatisch nach Kriterien wie Absender oder Schlüsselwörtern zu sortieren
 
@@ -59,7 +63,9 @@ Geben Sie wiederholt ähnliche Antworten ein? Beantworten Sie häufig gestellte 
 
 **So funktioniert es:** Aktivieren Sie zunächst Vorlagen in den Gmail-Einstellungen (\`Einstellungen\` > \`Alle Einstellungen anzeigen\` > \`Erweitert\` > \`Vorlagen\` > \`Aktivieren\`). Verfassen Sie dann Ihre E-Mail-Vorlage, klicken Sie auf die drei Punkte im Verfassen-Fenster, gehen Sie zu „Vorlagen“ und „Entwurf als Vorlage speichern“. Um es zu verwenden, klicken Sie in einer neuen E-Mail auf die drei Punkte, gehen Sie zu „Vorlagen“ und wählen Sie Ihre gespeicherte Vorlage aus.
 
-Dies spart erheblich Zeit und gewährleistet die Konsistenz Ihrer Routinekommunikation. Sie können sogar [Filter und Vorlagen kombinieren](https://hiverhq.com/blog/gmail-filters), um automatisch eine vorgefertigte Antwort basierend auf bestimmten E-Mail-Kriterien zu senden!![Screenshot, der zeigt, wie man eine gespeicherte Vorlage (vorgefertigte Antwort) über das Drei-Punkte-Menü in das Gmail-Erstellungsfenster einfügt](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Dies spart erheblich Zeit und gewährleistet die Konsistenz Ihrer Routinekommunikation. Sie können sogar [Filter und Vorlagen kombinieren](https://hiverhq.com/blog/gmail-filters), um automatisch eine vorgefertigte Antwort basierend auf bestimmten E-Mail-Kriterien zu senden!
+
+![Screenshot, der zeigt, wie man eine gespeicherte Vorlage (vorgefertigte Antwort) über das Drei-Punkte-Menü in das Gmail-Erstellungsfenster einfügt](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Sparen Sie Zeit bei sich wiederholenden Antworten, indem Sie Gmail-Vorlagen (vorgefertigte Antworten) verwenden.
 
@@ -152,7 +158,9 @@ Ein sinnvoller Ansatz besteht darin, mit Level 1 zu beginnen. Filter, Beschriftu
 
 E-Mails müssen kein täglicher Angstfaktor sein. Durch die strategische Implementierung der Automatisierung – sei es durch die nativen Tools von Gmail, spezielle Erweiterungen oder hochentwickelte KI-Assistenten – können Sie den Zeit- und mentalen Aufwand für die Verwaltung Ihres Posteingangs erheblich reduzieren. Sie können von der reaktiven Brandbekämpfung zur proaktiven Kontrolle übergehen und so sicherstellen, dass wichtige Nachrichten Beachtung finden, und gleichzeitig Ablenkungen minimieren.
 
-Das Ziel ist nicht nur ein leerer Posteingang, sondern ein konzentrierterer, produktiverer und weniger stressiger Arbeitstag. Fangen Sie klein an, experimentieren Sie mit den Tools, die Ihren Anforderungen am besten entsprechen, und gewinnen Sie Zeit für die Arbeit, die wirklich wichtig ist.![Foto eines entspannten Berufstätigen, der effizient an einem Laptop arbeitet, leicht lächelt und einen aufgeräumten Schreibtisch hat](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Das Ziel ist nicht nur ein leerer Posteingang, sondern ein konzentrierterer, produktiverer und weniger stressiger Arbeitstag. Fangen Sie klein an, experimentieren Sie mit den Tools, die Ihren Anforderungen am besten entsprechen, und gewinnen Sie Zeit für die Arbeit, die wirklich wichtig ist.
+
+![Foto eines entspannten Berufstätigen, der effizient an einem Laptop arbeitet, leicht lächelt und einen aufgeräumten Schreibtisch hat](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Gewinnen Sie Zeit zurück und reduzieren Sie den E-Mail-Stress durch effektive Automatisierung.
 

@@ -33,7 +33,9 @@ Wir haben die Optionen gesichtet, um einige der effektivsten, angesehensten und 
 
 **Funktionen des kostenlosen Plans:** Der kostenlose „Starter“-Plan bietet das zentrale Kanban-Erlebnis. Sie können E-Mails ziehen, um sie in Aufgabenkarten umzuwandeln, sie auf einem persönlichen Board und einem zusätzlichen benutzerdefinierten Board organisieren, eine Tagesplaneransicht verwenden und Fälligkeitstermine oder Erinnerungen festlegen.
 
-**UI/Setup:**Sortdlässt sich direkt in Gmail integrieren und bietet einen Wechsel zwischen der Standardansicht und dem Platinenlayout. Das Setup umfasst die Installation der Erweiterung und die Verbindung Ihres Gmail-Kontos, was für Benutzer im Allgemeinen unkompliziert ist.![Sortd-Plugin-Schnittstelle, die den Posteingang Gmail in ein visuelles Kanban-Board mit Drag-and-Drop-E-Mail-Aufgabenkarten zeigt](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/Setup:**Sortdlässt sich direkt in Gmail integrieren und bietet einen Wechsel zwischen der Standardansicht und dem Platinenlayout. Das Setup umfasst die Installation der Erweiterung und die Verbindung Ihres Gmail-Kontos, was für Benutzer im Allgemeinen unkompliziert ist.
+
+![Sortd-Plugin-Schnittstelle, die den Posteingang Gmail in ein visuelles Kanban-Board mit Drag-and-Drop-E-Mail-Aufgabenkarten zeigt](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Vorteile:** Fantastisch für die Visualisierung von Workflow-Phasen und die Verwaltung von E-Mail-zentrierten Aufgaben, ohne ständig auf ein separates Projektmanagement-Tool umsteigen zu müssen. Auch das Umbenennen von Betreffzeilen und das Hinzufügen von Notizen direkt zu E-Mail-Aufgaben ist hilfreich.
 
@@ -45,7 +47,9 @@ Wir haben die Optionen gesichtet, um einige der effektivsten, angesehensten und 
 
 **Funktionen des kostenlosen Plans (Todoist selbst):** Der kostenlose Plan von Todoist ist für die individuelle Nutzung recht großzügig und bietet bis zu 5 aktive Projekte, Zusammenarbeit mit bis zu 5 Personen pro Projekt, Kernaufgabenverwaltung (einschließlich Unteraufgaben), Listen- und Kanban-Board-Ansichten sowie die Möglichkeit, Beschriftungen und Filter (bis zu 3) zu verwenden. Mit der kostenlosen Gmail-Integration (sowohl als Add-on als auch als Erweiterung verfügbar) können Sie auf ein Symbol klicken, um die aktuell geöffnete E-Mail in eine Todoist-Aufgabe umzuwandeln, die automatisch einen Link zurück zur ursprünglichen E-Mail enthält.
 
-**Benutzeroberfläche/Setup:** Die Integration fügt ein Todoist-Symbol zu Ihrer Gmail-Oberfläche hinzu (entweder in der oberen Symbolleiste oder im rechten Seitenbereich). Wenn Sie darauf klicken, wird ein kleines Fenster geöffnet, in dem Sie die E-Mail schnell als Aufgabe hinzufügen können. Das Setup erfordert die Installation des Add-ons/der Erweiterung und die Autorisierung des Zugriffs auf IhrTodoist-Konto.![Todoist für Gmail Integrationspanel, das zeigt, wie eine E-Mail in eine Aufgabe mit Fälligkeitsdatum und Projektauswahl umgewandelt wird](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**Benutzeroberfläche/Setup:** Die Integration fügt ein Todoist-Symbol zu Ihrer Gmail-Oberfläche hinzu (entweder in der oberen Symbolleiste oder im rechten Seitenbereich). Wenn Sie darauf klicken, wird ein kleines Fenster geöffnet, in dem Sie die E-Mail schnell als Aufgabe hinzufügen können. Das Setup erfordert die Installation des Add-ons/der Erweiterung und die Autorisierung des Zugriffs auf IhrTodoist-Konto.
+
+![Todoist für Gmail Integrationspanel, das zeigt, wie eine E-Mail in eine Aufgabe mit Fälligkeitsdatum und Projektauswahl umgewandelt wird](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Vorteile:**Bietet eine nahtlose Brücke zwischen Ihrem Kommunikations-Hub (Gmail) und Ihrem Aufgabenverwaltungssystem (Todoist). Nutzt die hervorragenden Funktionen vonTodoistwie die Datumseingabe in natürlicher Sprache und die zuverlässige plattformübergreifende Synchronisierung. Dies ist eine großartige Möglichkeit, „Posteingang Null“ zu erreichen, indem umsetzbare Elemente aus dem Posteingang in eine dedizierte Aufgabenliste verschoben werden.
 

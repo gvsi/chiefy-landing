@@ -21,7 +21,9 @@ Laten we, voordat we in oplossingen duiken, eerst het probleem kwantificeren. E-
 
 - **De onderbrekingsbelasting:** We controleren onze e-mail regelmatig – sommige schattingen suggereren [elke 6 minuten](https://www.ppm.express/blog/checking-emails)! Elke onderbreking is niet slechts een vluchtige blik; het duurt gemiddeld [23-25 ​​minuten](https://www.ppm.express/blog/checking-emails) om de focus weer volledig op uw oorspronkelijke taak te krijgen.
 
-- **Arbeid met een lage waarde:** Een aanzienlijk deel van die e-mailtijd wordt besteed aan activiteiten met een lage waarde. Eén onderzoek suggereerde dat de gemiddelde werknemer [51% van zijn werkdag](https://lifehackmethod.com/blog/time-management-statistics/) besteedt aan taken met weinig impact, waarbij e-mail een belangrijke bijdrage levert.![Foto van een zichtbaar gestresste professional die aan een bureau zit vol papieren, overweldigd door het computerscherm met e-mails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Arbeid met een lage waarde:** Een aanzienlijk deel van die e-mailtijd wordt besteed aan activiteiten met een lage waarde. Eén onderzoek suggereerde dat de gemiddelde werknemer [51% van zijn werkdag](https://lifehackmethod.com/blog/time-management-statistics/) besteedt aan taken met weinig impact, waarbij e-mail een belangrijke bijdrage levert.
+
+![Foto van een zichtbaar gestresste professional die aan een bureau zit vol papieren, overweldigd door het computerscherm met e-mails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 Een overdaad aan e-mails is een belangrijke bron van stress en productiviteitsverlies voor drukbezette professionals.
 
@@ -49,7 +51,9 @@ Filters vormen uw eerste verdedigingslinie tegen de chaos in uw postvak IN. Ze v
 
 - Stuur het door
 
-**Aan de slag:** Klik in de zoekbalk van Gmail op het instellingenpictogram (ziet eruit als schuifregelaars) om de zoekopties weer te geven. Voer uw criteria in, test de zoekopdracht, klik vervolgens op "Filter maken" en kies uw acties. Verken Google's officiële gids over [filterregels maken](https://support.google.com/mail/answer/6579?hl=en) voor gedetailleerde stappen.![Schermafbeelding van het venster Gmail voor het maken van filters met velden voor Van, Aan, Onderwerp, Heeft de woorden en opties zoals Het label toepassen, Het postvak IN overslaan](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Aan de slag:** Klik in de zoekbalk van Gmail op het instellingenpictogram (ziet eruit als schuifregelaars) om de zoekopties weer te geven. Voer uw criteria in, test de zoekopdracht, klik vervolgens op "Filter maken" en kies uw acties. Verken Google's officiële gids over [filterregels maken](https://support.google.com/mail/answer/6579?hl=en) voor gedetailleerde stappen.
+
+![Schermafbeelding van het venster Gmail voor het maken van filters met velden voor Van, Aan, Onderwerp, Heeft de woorden en opties zoals Het label toepassen, Het postvak IN overslaan](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Gebruik Gmail filters om binnenkomende e-mails automatisch te sorteren op basis van criteria zoals afzender of trefwoorden
 
@@ -59,7 +63,9 @@ Merkt u dat u herhaaldelijk soortgelijke antwoorden typt? Veelgestelde vragen be
 
 **Hoe het werkt:** Schakel eerst Sjablonen in in Gmail instellingen (\`Instellingen\` > \`Alle instellingen bekijken\` > \`Geavanceerd\` > \`Sjablonen\` > \`Inschakelen\`). Stel vervolgens uw sjabloon-e-mail samen, klik op de drie stippen in het opstelvenster, ga naar 'Sjablonen' en 'Concept opslaan als sjabloon'. Om het te gebruiken, klikt u op de drie stippen in een nieuwe e-mail, gaat u naar 'Sjablonen' en selecteert u uw opgeslagen sjabloon.
 
-Dit bespaart veel tijd en zorgt voor consistentie in uw routinematige communicatie. Je kunt zelfs [filters en sjablonen combineren](https://hiverhq.com/blog/gmail-filters) om automatisch een standaardantwoord te sturen op basis van bepaalde e-mailcriteria!![Schermafbeelding die laat zien hoe u een opgeslagen sjabloon (standaardantwoord) kunt invoegen in het Gmail opstelvenster via het menu met drie stippen](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Dit bespaart veel tijd en zorgt voor consistentie in uw routinematige communicatie. Je kunt zelfs [filters en sjablonen combineren](https://hiverhq.com/blog/gmail-filters) om automatisch een standaardantwoord te sturen op basis van bepaalde e-mailcriteria!
+
+![Schermafbeelding die laat zien hoe u een opgeslagen sjabloon (standaardantwoord) kunt invoegen in het Gmail opstelvenster via het menu met drie stippen](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Bespaar tijd op repetitieve antwoorden door Gmail sjablonen (standaardantwoorden) te gebruiken
 
@@ -152,7 +158,9 @@ Een verstandige aanpak is om te beginnen met niveau 1. Hoofdfilters, labels en s
 
 E-mail hoeft geen bron van dagelijkse angst te zijn. Door automatisering strategisch te implementeren – via de eigen tools van Gmail, gespecialiseerde extensies of geavanceerde AI-assistenten – kunt u de tijd en mentale energie die u besteedt aan het beheren van uw inbox aanzienlijk verminderen. U kunt overstappen van reactieve brandbestrijding naar proactieve controle, zodat belangrijke berichten de aandacht krijgen en afleiding tot een minimum wordt beperkt.
 
-Het doel is niet alleen een lege inbox, maar een meer gefocuste, productieve en minder stressvolle werkdag. Begin klein, experimenteer met de tools die het beste aansluiten bij uw behoeften en maak tijd vrij voor het werk dat er echt toe doet.![Foto van een ontspannen professional die efficiënt werkt op een laptop, lichtjes glimlachend, met een schoon bureau](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Het doel is niet alleen een lege inbox, maar een meer gefocuste, productieve en minder stressvolle werkdag. Begin klein, experimenteer met de tools die het beste aansluiten bij uw behoeften en maak tijd vrij voor het werk dat er echt toe doet.
+
+![Foto van een ontspannen professional die efficiënt werkt op een laptop, lichtjes glimlachend, met een schoon bureau](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Win uw tijd terug en verminder e-mailstress door effectieve automatisering.
 

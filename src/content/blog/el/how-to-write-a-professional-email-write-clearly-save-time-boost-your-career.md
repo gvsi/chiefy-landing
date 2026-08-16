@@ -180,7 +180,7 @@ draft: false
 
 
 ![Παράδειγμα καθαρής επαγγελματικής υπογραφής email με όνομα, τίτλο, εταιρεία, τηλέφωνο, ιστότοπο και σύνδεσμο LinkedIn
-](/el/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Μια καθαρή, επαγγελματική υπογραφή email περιλαμβάνει βασικά στοιχεία επικοινωνίας χωρίς ακαταστασία.
 

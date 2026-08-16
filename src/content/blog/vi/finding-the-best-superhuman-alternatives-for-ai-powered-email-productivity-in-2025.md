@@ -60,7 +60,7 @@ Trả lời nhanh thường có nghĩa là hy sinh cá tính, dẫn đến nhữ
 
 Tất cả chúng ta đều đã từng phải đối mặt với chuỗi email có nhiều câu trả lời đáng sợ cuộn qua các trang. Bản tóm tắt AI giải quyết vấn đề trực tiếp này, cô đọng các cuộc trò chuyện dài thành các dấu đầu dòng ngắn gọn hoặc các đoạn văn ngắn gọn, nêu bật các quyết định quan trọng, các mục hành động và các chi tiết quan trọng. Các công cụ như Superhuman, Shortwave và [Canary Mail](https://canarymail.io/) cung cấp các biến thể của tính năng này. Nắm bắt bối cảnh một cách nhanh chóng là rất quan trọng, đặc biệt là khi quay lại các dự án phức tạp. Tóm tắt AI tiết kiệm thời gian đáng kể. Một số công cụ, như [**Chiefy** ](https://chiefy.com/vi), tiến xa hơn bằng cách duy trì nhận thức về ngữ cảnh trong các chuỗi, ghi nhớ các chi tiết và mối quan hệ của dự án để cung cấp các bản tóm tắt và đề xuất dự thảo phù hợp hơn nữa.
 
-![Ví dụ hiển thị một chuỗi email dài được A] cô đọng thành các dấu đầu dòng chính](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
+![Ví dụ hiển thị một chuỗi email dài được AI cô đọng thành các dấu đầu dòng chính](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
 
 Tóm tắt AI trên Chiefy nhanh chóng rút ra những điểm chính từ những chuỗi email dài, tiết kiệm thời gian quý báu
 

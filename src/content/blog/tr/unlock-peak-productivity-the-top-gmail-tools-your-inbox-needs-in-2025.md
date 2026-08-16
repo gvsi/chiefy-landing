@@ -121,17 +121,11 @@ SaneBox gibi e-postaları klasörlere ayırmak veya Gmail'in temel Önem İşare
 AI e-posta asistanı pazarı, farklı güçlü yönler sunan birçok güçlü rakiple birlikte hızla büyüyor. İşte 2025'te en iyi oyunculardan bazılarının karşılaştırması:
 
 | Araç | Temel AI Özellikleri | Benzersiz Satış Noktası | Fiyatlandırma (yaklaşık USD/kullanıcı/ay) | En İyi Kullanım Alanı |
-
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
 | **Superhuman** | AI Taslak Oluşturma (Ton Öğrenir), AI Takip İpuçları, AI Arama, Bölünmüş Gelen Kutusu (Önceliklendirme), Hız/Kısayollar | Son derece hızlı arayüz, hıza ve klavye kısayollarına odaklanma, üstün his. | $30 ($25 yıllık ise) | Hızı önemseyen, optimize edilmiş deneyim için premium ödeme yapmaya istekli meşgul profesyoneller. |
-
 | **Shortwave** | AI Gruplandırma (İlgili Konular), AI Özetleme, AI Taslak Oluşturma Yardımı, Odak Modu | Özellikle Gmail için akıllı organizasyon ve özetleme. Modern arayüz. | Ücretsiz plan; Pro \~$14 (yıllık) | Daha iyi organizasyon ve hızlı kavrama ihtiyacı duyan, konular arasında boğulan Gmail kullanıcıları. |
-
 | **Spike** | AI Besleme (Önceliklendirme/Özet), AI Mesaj (Taslak Oluşturma, Stil Öğrenir), Sohbet Benzeri Arayüz, Dahili Notlar/Aramalar | E-postayı sohbet olarak yeniden tasarlıyor; Güçlü AI önceliklendirme akışı. Platformlar arası. | Ücretsiz plan; Pro \~$10 | Geleneksel e-postadan temel bir değişiklik isteyen kullanıcılar, güçlü AI önceliklendirme. |
-
 | **Gemini Workspace için** | Bağlam duyarlı taslak oluşturma, yanıt önerileri, önceliklendirme işaretleri, özetleme, entegre arama | Google Workspace (Gmail, Dokümanlar, Meet vb.) içinde yerel entegrasyon. Google'nin AI özelliğinden yararlanır. | Workspace Business Standard ($14/$16.80) ve daha yüksek kademelerde (2025 başlarından itibaren) dahildir | Google Workspace'ye zaten yatırım yapmış ve sorunsuz, entegre AI desteği arayan ekipler. |
-
 | **Chiefy** | AI Önceliklendirme ve Odaklanmış Kontrol Paneli, Otantik AI Taslak Oluşturma (Ses Öğrenme), Akıllı Özetleme, Bağlamsal Farkındalık | *Siz* gibi otantik bir şekilde ses çıkarmaya, derin bağlamsal anlayışa ve proaktif önceliklendirme kontrol paneline odaklanın. | _(Güncel fiyatlandırma için web sitesini kontrol edin)_ | Kişisel seslerini koruyan ve projeler/ilişkiler genelinde bağlamı takip eden AI arayan, yüksek etkileşimli iletişime ihtiyaç duyan profesyoneller ve ekipler. |
 
 2025 yılında önde gelen AI E-posta Asistanlarının Karşılaştırması (Özellikler ve Fiyatlandırma yaklaşık değerlerdir, en güncel ayrıntılar için satıcı sitelerini kontrol edin).

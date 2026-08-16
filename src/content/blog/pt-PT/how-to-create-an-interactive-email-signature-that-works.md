@@ -31,13 +31,16 @@ Nem todo elemento interativo tem o mesmo peso. Veja alguns campeões comprovados
   - **Banners:** gráficos atrativos promovendo um evento, uma oferta especial ou um conteúdo importante.
   - **Links em texto:** simples, mas eficazes. Exemplo: "Agende uma conversa rápida aqui".
 - **Link de agendamento:** integre diretamente com ferramentas como Calendly. Adicionar um [botão ou link "Schedule Meeting"](https://www.bybrand.io/blog/schedule-meeting-email-signature/) remove atrito para marcar chamadas.
-- **Logo ou foto profissional:** adiciona personalidade e reconhecimento de marca. Torne clicável, com link para o seu site. Use uma imagem profissional e de alta qualidade.![Exemplo de uma assinatura de email profissional simples para freelancer, com informações de contacto clicáveis e links sociais](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logo ou foto profissional:** adiciona personalidade e reconhecimento de marca. Torne clicável, com link para o seu site. Use uma imagem profissional e de alta qualidade.
+
+![Exemplo de uma assinatura de email profissional simples para freelancer, com informações de contacto clicáveis e links sociais](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 Mantenha a simplicidade: uma assinatura limpa com informações essenciais de contacto e links sociais importantes.
 ## Como criar a sua obra-prima interativa: geradores ou HTML manual
 Tem dois caminhos principais para criar a sua assinatura interativa:
 1. **Geradores de assinatura de email:** ferramentas criadas especificamente para montar assinaturas profissionais.
 2. **Codificação manual em HTML:** criação da assinatura por conta própria a usar HTML e CSS inline.
 Qual é melhor para o utilizador? Vamos comparar:
+
 | Recurso             | Geradores de assinatura de email, como [MySignature](https://mysignature.io/) e [WiseStamp](https://www.wisestamp.com/) | Codificação manual em HTML                                |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | **Facilidade de uso** | Muito alta, sem código, com editores visuais e modelos                                                                    | Baixa, exige conhecimento de HTML/CSS                     |
@@ -46,7 +49,10 @@ Qual é melhor para o utilizador? Vamos comparar:
 | **Compatibilidade** | Geralmente boa, pois são feitos para compatibilidade entre clientes de email                                              | Exige muitos testes em clientes e dispositivos            |
 | **Funcionalidades**        | Modelos, analytics, campanhas de banner, gestão centralizada, muitas vezes pagos                                           | Limitada apenas pelas restrições de HTML/CSS em email    |
 | **Custo**           | Planos gratuitos disponíveis, muitas vezes com marca; planos pagos para mais funcionalidades e utilizadores                           | Gratuito, se o utilizador tiver as habilidades                    |
-**Recomendação para freelancers e startups:** a menos que o utilizador se sinta confortável com HTML e testes rigorosos, começar com um bom **gerador de assinatura de email** é o mais recomendado. Ferramentas como [MySignature](https://mysignature.io/), conhecida como boa opção para freelancers e equipes pequenas, ou [WiseStamp](https://www.wisestamp.com/) oferecem planos gratuitos ou acessíveis com modelos profissionais, personalização fácil, incluindo CTAs e banners, e verificações integradas de compatibilidade. [A HubSpot também oferece um gerador gratuito popular](https://www.hubspot.com/email-signature-generator) para necessidades mais simples.![Captura de ecrã de uma ferramenta geradora de assinatura de email, mostrando modelos e opções de personalização](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+
+**Recomendação para freelancers e startups:** a menos que o utilizador se sinta confortável com HTML e testes rigorosos, começar com um bom **gerador de assinatura de email** é o mais recomendado. Ferramentas como [MySignature](https://mysignature.io/), conhecida como boa opção para freelancers e equipes pequenas, ou [WiseStamp](https://www.wisestamp.com/) oferecem planos gratuitos ou acessíveis com modelos profissionais, personalização fácil, incluindo CTAs e banners, e verificações integradas de compatibilidade. [A HubSpot também oferece um gerador gratuito popular](https://www.hubspot.com/email-signature-generator) para necessidades mais simples.
+
+![Captura de ecrã de uma ferramenta geradora de assinatura de email, mostrando modelos e opções de personalização](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 Ferramentas como MySignature e WiseStamp oferecem modelos e personalização simples.
 **Para quem prefere fazer tudo manualmente:** se o utilizador escolher HTML manual, lembre-se de que clientes de email renderizam HTML de formas muito diferentes. Use CSS inline para estilização e mantenha o código limpo. Teste sem parar a usar ferramentas como Litmus ou Email on Acid, ou pelo menos nos principais clientes, como Gmail, Outlook em várias versões e Apple Mail. Pode encontrar [modelos básicos de assinatura em HTML online](https://www.freelancermap.com/blog/create-professional-email-signature/) para começar, e funcionalidades como [a Exclaimer oferecem ícones sociais gratuitos](https://exclaimer.com/email-signature-handbook/social-media-icons-in-email-signatures/) e orientação.
 Aqui vai uma estrutura HTML muito básica para um link clicável:
@@ -59,7 +65,9 @@ Criar uma assinatura interativa é só metade do trabalho. Garantir que ela fiqu
 - **Consistência de marca:** use as cores e fontes da sua marca, preferindo [fontes seguras para a web](https://www.mailerlite.com/blog/email-signature-best-practices), como Arial, Helvetica, Verdana e Georgia, para maior compatibilidade.
 - **Hierarquia:** destaque o seu nome e cargo. Conduza o olhar de forma lógica pelas informações.
 - **Otimização de imagens:** use imagens de alta qualidade, mas com tamanho pequeno, idealmente abaixo de 100kb no peso total da assinatura. Hospede as imagens de forma confiável; não incorpore a menos que seja necessário, pois isso aumenta o tamanho do email. Use sempre texto \`alt\` descritivo por acessibilidade e para quando imagens forem bloqueadas.
-- **Limite os elementos:** não inclua *todos* os perfis sociais. Fique com 3 ou 4 relevantes. Um CTA forte geralmente é melhor do que vários fracos.![Comparação mostrando uma assinatura de email renderizada corretamente em ecrãs de desktop e telemóvel](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Limite os elementos:** não inclua *todos* os perfis sociais. Fique com 3 ou 4 relevantes. Um CTA forte geralmente é melhor do que vários fracos.
+
+![Comparação mostrando uma assinatura de email renderizada corretamente em ecrãs de desktop e telemóvel](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 Mobile importa: garanta que a sua assinatura fique bonita e funcione bem em todos os dispositivos.
 ### Boas práticas técnicas e de entregabilidade
 - **Use HTML limpo:** se for codificar manualmente, use layouts simples em tabelas e CSS inline. Evite código bagunçado copiado do Word, pois isso [pode causar problemas de renderização e acionar filtros de spam](https://newoldstamp.com/blog/most-popular-ways-to-create-an-email-signature/).

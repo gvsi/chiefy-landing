@@ -103,7 +103,9 @@ Beenden Sie Ihre E-Mail ordnungsgemäß und geben Sie die erforderlichen Kontakt
 
   - **Optional (aber oft hilfreich)**: Unternehmenswebsite, LinkedIn-Profillink, physische Adresse (falls relevant).
 
-  - **Formatierung**: Halten Sie es prägnant ([**maximal 4–5 Zeilen empfohlen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), verwenden Sie professionelle und [**websichere Schriftarten**](https://www.mailerlite.com/blog/email-signature-best-practices) (wie Arial, Calibri) und Farben, die mit Ihrer Marke übereinstimmen. Stellen Sie sicher, dass es [**mobilfreundlich**] ist (https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vermeiden Sie unnötige Bilder, große Logos oder inspirierende Zitate.![Beispiel einer sauberen professionellen E-Mail-Signatur mit Name, Titel, Firma, Telefonnummer, Website und LinkedIn-Link](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  - **Formatierung**: Halten Sie es prägnant ([**maximal 4–5 Zeilen empfohlen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), verwenden Sie professionelle und [**websichere Schriftarten**](https://www.mailerlite.com/blog/email-signature-best-practices) (wie Arial, Calibri) und Farben, die mit Ihrer Marke übereinstimmen. Stellen Sie sicher, dass es [**mobilfreundlich**] ist (https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vermeiden Sie unnötige Bilder, große Logos oder inspirierende Zitate.
+
+![Beispiel einer sauberen professionellen E-Mail-Signatur mit Name, Titel, Firma, Telefonnummer, Website und LinkedIn-Link](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Eine saubere, professionelle E-Mail-Signatur enthält wichtige Kontaktinformationen ohne Unordnung.
 

@@ -103,7 +103,9 @@ Avsluta ditt e-postmeddelande på ett elegant sätt och ange nödvändig kontakt
 
   - **Valfritt (men ofta användbart)**: Företagswebbplats, LinkedIn-profillänk, fysisk adress (om relevant).
 
-  - **Formatering**: Håll det kortfattat ([**max 4-5 rader rekommenderas**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), använd professionella och [**webbsäkra typsnitt**](https://www.mailerlite.com/blog/email-signature-best-practices) (som Arial, Calibri) och färger som överensstämmer med ditt varumärke. Se till att den är [**mobilvänlig**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Undvik onödiga bilder, stora logotyper eller inspirerande citat.![Exempel på en ren professionell e-postsignatur med namn, titel, företag, telefon, webbplats och LinkedIn-länk](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  - **Formatering**: Håll det kortfattat ([**max 4-5 rader rekommenderas**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), använd professionella och [**webbsäkra typsnitt**](https://www.mailerlite.com/blog/email-signature-best-practices) (som Arial, Calibri) och färger som överensstämmer med ditt varumärke. Se till att den är [**mobilvänlig**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Undvik onödiga bilder, stora logotyper eller inspirerande citat.
+
+![Exempel på en ren professionell e-postsignatur med namn, titel, företag, telefon, webbplats och LinkedIn-länk](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 En ren, professionell e-postsignatur innehåller viktig kontaktinformation utan skräp.
 

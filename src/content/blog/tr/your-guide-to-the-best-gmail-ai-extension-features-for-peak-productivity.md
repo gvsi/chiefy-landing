@@ -86,17 +86,11 @@ Potansiyel etki oldukça büyük. Çalışmalar, AI kullanan bilgi çalışanlar
 **AI Araçları ile Verimlilik Artışı**
 
 | Ölçüt | Bildirilen Kazanç | Kaynak Örneği(leri) |
-
 | --------------------------- | ------------------------------------------- | ------------------------- |
-
 | Görev Tamamlama Hızı | %25,1 Daha Hızlı | Harvard/BCG Çalışması |
-
 | Çıktı Kalitesi | %40 Daha Yüksek | Harvard/BCG Çalışması |
-
 | Tasarruf Edilen Zaman (Haftalık Ortalama) | ~2,2 saat (kullanıcılar için çalışma saatlerinin %5,4'ü) | St. Louis Fed Study |
-
 | Sektör Verimlilik Artışı | AI'e maruz kalan sektörlerde ~5 kat daha yüksek | PwC AI Jobs Barometer |
-
 | Potansiyel Ekonomik Etki | $2.6T - ​​$4.4T Yıllık (Küresel Tahmin) | McKinsey Global Institute |
 
 _Alıntılanan araştırmalara dayanarak, AI'ın verimlilik üzerindeki etkisinin özlü bir özetini sunan tablo._

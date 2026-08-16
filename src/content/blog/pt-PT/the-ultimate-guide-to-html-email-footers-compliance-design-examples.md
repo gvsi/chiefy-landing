@@ -18,6 +18,7 @@ Por que dedicar tempo precioso a esse pequeno espaço? Os benefícios são impor
 - **Entregabilidade:** Rodapés bem formatados com os elementos exigidos ajudam a sinalizar para clientes de email (como Gmail e Outlook) que as suas mensagens não são spam.
 ## Os indispensáveis: elementos essenciais para todo rodapé de email
 Embora o utilizador possa adicionar vários elementos dependendo dos os seus objetivos, alguns componentes são fundamentais e, muitas vezes, exigidos por lei, especialmente em emails comerciais (como newsletters ou promoções).
+
 | Elemento                    | Por que é importante                                                                                   | Observações                                                                                                                        |
 | --------------------------- | ------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
 | **Link de descadastro**     | Exigido por CAN-SPAM, GDPR e CASL em emails de marketing. Constrói confiança e respeita a escolha do utilizador. | Deve ser claro, visível e fácil de usar (idealmente com um clique). Atenda aos pedidos rapidamente (normalmente em até 10 dias úteis). |
@@ -25,6 +26,7 @@ Embora o utilizador possa adicionar vários elementos dependendo dos os seus obj
 | **Identificação do remetente** | Exigida por lei. Constrói confiança.                                                                | Informe claramente o nome da sua empresa. Garanta que os endereços "From" e "Reply-To" sejam precisos.                            |
 | **Informações de contacto**  | Oferece uma forma de os destinatários entrarem em contacto. Constrói confiança.                          | Inclua link do site, email de suporte ou número de telefone.                                                                       |
 | **Link da política de privacidade** | Essencial para conformidade com GDPR e boa prática em qualquer lugar. Transparência sobre uso de dados. | Aponte para uma política clara e compreensível no seu site.                                                                        |
+
 Pense nesses itens como a base inegociável do seu rodapé. A ausência deles pode afetar a entregabilidade e causar problemas legais.
 ## Design com impacto: boas práticas para rodapés
 Além do essencial, a forma como o utilizador desenha o rodapé impacta bastante a sua eficácia. Um rodapé poluído e confuso é tão ruim quanto um rodapé sem informações importantes.
@@ -35,7 +37,9 @@ Com [uma parcela significativa dos emails abertos em dispositivos móveis](https
 - Usar um layout de coluna única que empilhe bem em ecrãs pequenas.
 - Garantir que o texto seja grande o suficiente para leitura confortável (14px é um bom ponto de partida).
 - Fazer links e botões grandes o bastante para serem tocados com facilidade (pelo menos 44x44 pixels).
-- Testar o rodapé em diferentes dispositivos e clientes de email a usar ferramentas como [Litmus](https://www.litmus.com/) ou [Email on Acid](https://www.emailonacid.com/).![Comparação lado a lado mostrando como um rodapé de email bem projetado adapta o seu layout da visualização desktop para a visualização móvel](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Testar o rodapé em diferentes dispositivos e clientes de email a usar ferramentas como [Litmus](https://www.litmus.com/) ou [Email on Acid](https://www.emailonacid.com/).
+
+![Comparação lado a lado mostrando como um rodapé de email bem projetado adapta o seu layout da visualização desktop para a visualização móvel](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 Garanta que o seu rodapé tenha ótima aparência e funcione perfeitamente em qualquer tamanho de ecrã.
 ### Mantenha consistência de marca
 Use o logotipo, a paleta de cores e as fontes da sua marca (prefira fontes seguras para web, como Arial, Verdana e Georgia, para melhor compatibilidade). Isso reforça sua identidade e cria uma experiência coesa.

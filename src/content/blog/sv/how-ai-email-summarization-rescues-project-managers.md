@@ -116,7 +116,9 @@ Okej, så AI kan kondensera e-postmeddelanden med olika tekniker. Men hur hjälp
 
 6. **Minska kognitiv belastning och öka fokus:** Sluta försök att mentalt jonglera med detaljerna i dussintals aktiva e-posttrådar. Att avlasta uppgiften att kondensera och extrahera nyckelinformation till AI frigör dina värdefulla kognitiva resurser. Detta gör att du kan ägna mer mental energi åt strategiskt tänkande, komplex problemlösning, riskanalys och att leda ditt team – det värdefulla arbetet som verkligen definierar en PM:s roll.
 
-   - **PM Användningsfall:** Använda sammanfattningar för att snabbt bearbeta och arkivera uppdateringstrådar med lägre prioritet under dedikerad "e-posttid", vilket bevarar mental bandbredd för att hantera de komplexa, kritiska problemen.![Infografik över fördelar med AI-e-postsammanfattningar för PM](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+   - **PM Användningsfall:** Använda sammanfattningar för att snabbt bearbeta och arkivera uppdateringstrådar med lägre prioritet under dedikerad "e-posttid", vilket bevarar mental bandbredd för att hantera de komplexa, kritiska problemen.
+
+![Infografik över fördelar med AI-e-postsammanfattningar för PM](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 AI e-postsammanfattning erbjuder påtagliga fördelar, hjälper projektledare att spara tid, spåra nyckelinformation och minska mental trötthet
 

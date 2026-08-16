@@ -60,7 +60,9 @@ Da [ein erheblicher Teil der E-Mails auf Mobilgeräten geöffnet wird](https://w
 
 - Machen Sie Links und Schaltflächen so groß, dass sie leicht angetippt werden können (mindestens 44 x 44 Pixel).
 
-- Testen Sie Ihre Fußzeile auf verschiedenen Geräten und E-Mail-Clients mit Tools wie [Litmus](https://www.litmus.com/) oder [Email on Acid](https://www.emailonacid.com/).![Direkter Vergleich, der zeigt, wie eine gut gestaltete E-Mail-Fußzeile ihr Layout von der Desktop-Ansicht an die mobile Ansicht anpasst](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Testen Sie Ihre Fußzeile auf verschiedenen Geräten und E-Mail-Clients mit Tools wie [Litmus](https://www.litmus.com/) oder [Email on Acid](https://www.emailonacid.com/).
+
+![Direkter Vergleich, der zeigt, wie eine gut gestaltete E-Mail-Fußzeile ihr Layout von der Desktop-Ansicht an die mobile Ansicht anpasst](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Stellen Sie sicher, dass Ihre Fußzeile auf jeder Bildschirmgröße gut aussieht und perfekt funktioniert.
 

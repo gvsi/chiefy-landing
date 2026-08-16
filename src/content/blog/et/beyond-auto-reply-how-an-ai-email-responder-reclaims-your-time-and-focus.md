@@ -17,7 +17,9 @@ See postitus sukeldub sügavale tehisintellekti meilivastajate maailma. Uurime, 
 
 Numbrid loovad karmi pildi. Aastal 2024 saadab ja saab maailm hinnanguliselt[ **361,6 miljardit meili päevas**](https://www.indectron.com/blog/email-stats/). Keskmise kontoritöötaja jaoks tähendab see ligikaudu [**121 meili päevas**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/). Pole ime, et spetsialistid kulutavad märkimisväärse osa oma nädalast – hinnangud ulatuvad[ **11 tunnist**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) kuni vapustavalt[ **28% töönädalast**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) – lihtsalt oma postkasti haldamisele.
 
-See ei ole lihtsalt tüütus; see on suur tootlikkuse vähenemine ja oluline stressiallikas. Uuringud näitavad, et[ **67% inimestest tunnevad end oma postkastist**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html) ja pidevad katkestused raskendavad keskendumist, kuna pärast meili kontrollimist kulub keskendumisvõime taastamiseks keskmiselt [**23 minutit](https://ppm.express/blog/checking-emails/).![Infograafik, mis näitab põhistatistikat e-kirjade ülekoormuse kohta, sealhulgas keskmisi e-kirju päevas, e-posti haldamisele kuluvat aega ja töötajate protsenti, kes tunnevad end ülekoormatuna](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+See ei ole lihtsalt tüütus; see on suur tootlikkuse vähenemine ja oluline stressiallikas. Uuringud näitavad, et[ **67% inimestest tunnevad end oma postkastist**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html) ja pidevad katkestused raskendavad keskendumist, kuna pärast meili kontrollimist kulub keskendumisvõime taastamiseks keskmiselt [**23 minutit](https://ppm.express/blog/checking-emails/).
+
+![Infograafik, mis näitab põhistatistikat e-kirjade ülekoormuse kohta, sealhulgas keskmisi e-kirju päevas, e-posti haldamisele kuluvat aega ja töötajate protsenti, kes tunnevad end ülekoormatuna](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Traditsioonilised automaatvastajad, nagu need, mis on sisse ehitatud Gmail i või Outlook i, ei olnud kunagi selle reaalsuse jaoks loodud. Nende piirangud on selged:
 
@@ -110,7 +112,9 @@ Tehisintellekti meiliassistentide turg kasvab kiiresti. Kuigi paljud tööriista
 
 - **Privaatsus ja turvalisus:** kuidas tööriist teie meiliandmeid käsitleb? Otsige selgeid privaatsuspoliitikaid ja turvameetmeid (nt krüpteerimine, GDPR/CCPA järgimine).
 
-- **Hinnakujundus:** kas kulud on kooskõlas võimaliku aja kokkuhoiu ja tootlikkuse kasvuga? (Võtke arvesse investeeringutasuvuse hinnanguid, nagu EmailTree.ai väide, et [ **säästab 2 täistööaja ekvivalenti**](https://chiefy.com/et) 1000 töödeldud meili kohta).![Ekraanipilt Chiefy keskendunud armatuurlauast, mis näitab prioriteetseid e-kirju, mis on kategoriseeritud vajalike tegevuste ja vajalike otsuste järgi](https://emailtree.ai/)
+- **Hinnakujundus:** kas kulud on kooskõlas võimaliku aja kokkuhoiu ja tootlikkuse kasvuga? (Võtke arvesse investeeringutasuvuse hinnanguid, nagu EmailTree.ai väide, et [ **säästab 2 täistööaja ekvivalenti**](https://chiefy.com/et) 1000 töödeldud meili kohta).
+
+![Ekraanipilt Chiefy keskendunud armatuurlauast, mis näitab prioriteetseid e-kirju, mis on kategoriseeritud vajalike tegevuste ja vajalike otsuste järgi](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 AI-toega armatuurlauad, nagu see näide Chiefy ist, annavad selge ülevaate prioriteetsetest meilidest, vähendades järsult sortimisaega
 

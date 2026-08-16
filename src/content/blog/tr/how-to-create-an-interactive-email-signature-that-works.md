@@ -74,20 +74,13 @@ Etkileşimli imzanızı oluşturmak için iki ana yolunuz var:
 Hangisi sizin için doğru? Karşılaştıralım:
 
 | Özellik | E-posta İmza Oluşturucular (ör., [MySignature](https://mysignature.io/), [WiseStamp](https://www.wisestamp.com/)) | Manuel HTML Kodlama |
-
 | ------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-
 | **Kullanım Kolaylığı** | Çok Yüksek (Kodlama gerektirmez, görsel editörler, şablonlar) | Düşük (HTML/CSS bilgisi gerektirir) |
-
-**Özelleştirme** | Yüksek (Birçok şablon ve seçenek, bazı sınırlamalar) | Tam (Tasarım üzerinde tam kontrol) |
-
-**Zaman Yatırımı** | Düşük (Oluşturmak için dakikalar) | Yüksek (Saatler, artı test süresi) |
-
-**Uyumluluk** | Genellikle İyi (Çapraz istemci uyumluluğu için tasarlanmıştır) | E-posta istemcileri/cihazları genelinde kapsamlı test gerektirir |
-
-**Özellikler** | Şablonlar, analizler, banner kampanyaları, merkezi yönetim (çoğunlukla ücretli) | Yalnızca HTML/CSS e-posta kısıtlamalarıyla sınırlıdır |
-
-**Maliyet** | Ücretsiz katmanlar mevcuttur (çoğunlukla markalama ile); Daha fazla özellik/kullanıcı için ücretli planlar | Ücretsiz (becerileriniz varsa) |
+| **Özelleştirme** | Yüksek (Birçok şablon ve seçenek, bazı sınırlamalar) | Tam (Tasarım üzerinde tam kontrol) |
+| **Zaman Yatırımı** | Düşük (Oluşturmak için dakikalar) | Yüksek (Saatler, artı test süresi) |
+| **Uyumluluk** | Genellikle İyi (Çapraz istemci uyumluluğu için tasarlanmıştır) | E-posta istemcileri/cihazları genelinde kapsamlı test gerektirir |
+| **Özellikler** | Şablonlar, analizler, banner kampanyaları, merkezi yönetim (çoğunlukla ücretli) | Yalnızca HTML/CSS e-posta kısıtlamalarıyla sınırlıdır |
+| **Maliyet** | Ücretsiz katmanlar mevcuttur (çoğunlukla markalama ile); Daha fazla özellik/kullanıcı için ücretli planlar | Ücretsiz (becerileriniz varsa) |
 
 **Serbest Çalışanlar ve Yeni Girişimler İçin Öneri:** HTML ve kapsamlı testler konusunda rahat değilseniz, saygın bir **e-posta imza oluşturucu** ile başlamanız şiddetle tavsiye edilir. [MySignature](https://mysignature.io/) (serbest çalışanlar/küçük ekipler için iyi olduğu belirtilmiştir) veya [WiseStamp](https://www.wisestamp.com/) gibi araçlar, profesyonel şablonlar, kolay özelleştirme (harekete geçirici mesajlar ve banner'lar dahil) ve yerleşik uyumluluk kontrolleri ile ücretsiz veya uygun fiyatlı planlar sunar. [HubSpot ayrıca daha basit ihtiyaçlar için popüler bir ücretsiz oluşturucu da sunmaktadır](https://www.hubspot.com/email-signature-generator).
 

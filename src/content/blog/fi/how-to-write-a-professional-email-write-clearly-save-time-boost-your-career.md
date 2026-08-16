@@ -102,7 +102,9 @@ Lopeta sähköpostisi kauniisti ja anna tarvittavat yhteystiedot.
 
   – **Valinnainen (mutta usein hyödyllinen)**: Yrityksen verkkosivusto, LinkedIn-profiililinkki, fyysinen osoite (jos tarpeen).
 
-  – **Muotoilu**: Pidä se ytimekkäänä ([**4–5 riviä enintään suositeltava**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), käytä ammattimaisia ​​ja [**verkkoturvallisia fontteja**](https://www.mailerlite.com/blog/email-signature-best-practices) (kuten Arial, Calibri) ja tuotemerkkisi mukaisia ​​värejä. Varmista, että se on [**mobiiliystävällinen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vältä tarpeettomia kuvia, suuria logoja tai inspiroivia lainauksia.![Esimerkki puhtaasta ammattimaisesta sähköpostin allekirjoituksesta, jossa on nimi, arvonimi, yritys, puhelin, verkkosivusto ja LinkedIn-linkki](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  – **Muotoilu**: Pidä se ytimekkäänä ([**4–5 riviä enintään suositeltava**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), käytä ammattimaisia ​​ja [**verkkoturvallisia fontteja**](https://www.mailerlite.com/blog/email-signature-best-practices) (kuten Arial, Calibri) ja tuotemerkkisi mukaisia ​​värejä. Varmista, että se on [**mobiiliystävällinen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vältä tarpeettomia kuvia, suuria logoja tai inspiroivia lainauksia.
+
+![Esimerkki puhtaasta ammattimaisesta sähköpostin allekirjoituksesta, jossa on nimi, arvonimi, yritys, puhelin, verkkosivusto ja LinkedIn-linkki](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Puhdas, ammattimainen sähköpostin allekirjoitus sisältää tärkeät yhteystiedot ilman sotkua.
 
