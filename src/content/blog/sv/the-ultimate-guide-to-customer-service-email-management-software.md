@@ -35,7 +35,9 @@ När flera teammedlemmar dyker ner i samma allmänna inkorg (som **support\@comp
 
 ### Datablindhet: Flying Blind på prestanda
 
-Hur kan du förbättra din e-postsupport om du inte vet vad som fungerar och vad som inte fungerar? Grundläggande e-postsystem erbjuder liten eller ingen insyn i viktiga mätvärden som svarstider, upplösningshastigheter eller agentproduktivitet. Utan data blir identifiering av flaskhalsar, förståelse av vanliga kundproblem eller mätning av effektiviteten av dina supportinsatser gissningar. Du flyger i princip blind och kan inte fatta välgrundade beslut för att optimera prestandan.![Dashboard som visar kundtjänststatistik med en röd varning för genomsnittlig e-postsvarstid, vilket indikerar ineffektivitet](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Hur kan du förbättra din e-postsupport om du inte vet vad som fungerar och vad som inte fungerar? Grundläggande e-postsystem erbjuder liten eller ingen insyn i viktiga mätvärden som svarstider, upplösningshastigheter eller agentproduktivitet. Utan data blir identifiering av flaskhalsar, förståelse av vanliga kundproblem eller mätning av effektiviteten av dina supportinsatser gissningar. Du flyger i princip blind och kan inte fatta välgrundade beslut för att optimera prestandan.
+
+![Dashboard som visar kundtjänststatistik med en röd varning för genomsnittlig e-postsvarstid, vilket indikerar ineffektivitet](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 Långsamma svarstider för e-post påverkar direkt kundnöjdheten och kan leda till förlorade affärer.
 
@@ -192,7 +194,9 @@ Att välja rätt programvara är bara halva striden. Hur du implementerar och an
 
 - **Fortlöpande förbättra:** Granska regelbundet resultatanalyser för att identifiera trender och flaskhalsar. Aktivera och analysera kundfeedback genom undersökningar eller direkta förfrågningar. Använd dessa insikter för att kontinuerligt förfina dina arbetsflöden, automationsregler, standardsvar och utbildningsprogram för agenter.
 
-  \![Bild som visar en kundtjänstagent som använder programvara med AI-förslag för att skapa ett personligt och empatiskt e-postsvar](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+  \
+
+![Bild som visar en kundtjänstagent som använder programvara med AI-förslag för att skapa ett personligt och empatiskt e-postsvar](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 Att balansera AI-effektivitet med mänsklig empati är nyckeln till exceptionell kundservice.
 

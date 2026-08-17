@@ -21,7 +21,9 @@ Før vi dykker ned i løsninger, lad os kvantificere problemet. E-mail er ikke k
 
 - **Afbrydelsesskatten:** Vi tjekker vores e-mail ofte – nogle skøn tyder på [hvert 6. minut](https://www.ppm.express/blog/checking-emails)! Hver afbrydelse er ikke kun et øjebliks blik; det tager i gennemsnit [23-25 ​​minutter](https://www.ppm.express/blog/checking-emails) for fuldt ud at genvinde fokus på din oprindelige opgave.
 
-- **Lavværdiarbejde:** En betydelig del af denne e-mail-tid bruges på aktiviteter med lav værdi. En undersøgelse antydede, at den gennemsnitlige arbejdstager bruger [51 % af deres arbejdsdag](https://lifehackmethod.com/blog/time-management-statistics/) på opgaver med ringe effekt, hvor e-mail er en stor bidragyder.![Foto af en synligt stresset professionel, der sidder ved et skrivebord fyldt med papirer og ser overvældet ud af deres computerskærm, der viser e-mails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Lavværdiarbejde:** En betydelig del af denne e-mail-tid bruges på aktiviteter med lav værdi. En undersøgelse antydede, at den gennemsnitlige arbejdstager bruger [51 % af deres arbejdsdag](https://lifehackmethod.com/blog/time-management-statistics/) på opgaver med ringe effekt, hvor e-mail er en stor bidragyder.
+
+![Foto af en synligt stresset professionel, der sidder ved et skrivebord fyldt med papirer og ser overvældet ud af deres computerskærm, der viser e-mails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 E-mail-overbelastning er en væsentlig kilde til stress og tabt produktivitet for travle fagfolk.
 
@@ -49,7 +51,9 @@ Filtre er din første forsvarslinje mod indbakkekaos. De udfører automatisk han
 
 - Send den videre
 
-**Kom godt i gang:** I Gmails søgelinje skal du klikke på indstillingsikonet (ligner skydere) for at få vist søgemuligheder. Indtast dine kriterier, test søgningen, klik derefter på "Opret filter" og vælg dine handlinger. Udforsk Googles officielle guide til [oprettelse af filterregler](https://support.google.com/mail/answer/6579?hl=en) for detaljerede trin.![Skærmbillede, der viser vinduet til oprettelse af Gmail filter med felter for Fra, Til, Emne, Har ordene og muligheder som Anvend etiketten, Spring over indbakken](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Kom godt i gang:** I Gmails søgelinje skal du klikke på indstillingsikonet (ligner skydere) for at få vist søgemuligheder. Indtast dine kriterier, test søgningen, klik derefter på "Opret filter" og vælg dine handlinger. Udforsk Googles officielle guide til [oprettelse af filterregler](https://support.google.com/mail/answer/6579?hl=en) for detaljerede trin.
+
+![Skærmbillede, der viser vinduet til oprettelse af Gmail filter med felter for Fra, Til, Emne, Har ordene og muligheder som Anvend etiketten, Spring over indbakken](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Brug Gmail filtre til automatisk at sortere indgående e-mails baseret på kriterier som afsender eller nøgleord
 
@@ -59,7 +63,9 @@ Oplever du, at du skriver lignende svar gentagne gange? Besvarer du ofte stilled
 
 **Sådan virker det:** Først skal du aktivere skabeloner i Gmail indstillinger (\`Indstillinger\` > \`Se alle indstillinger\` > \`Avanceret\` > \`Skabeloner\` > \`Aktiver\`). Skriv derefter din skabelon-e-mail, klik på de tre prikker i skrivevinduet, gå til \`Skabeloner\` og \`Gem kladde som skabelon\`. For at bruge det skal du klikke på de tre prikker i en ny e-mail, gå til \`Skabeloner\` og vælge din gemte skabelon.
 
-Dette sparer betydelig tid og sikrer ensartethed i din rutinemæssige kommunikation. Du kan endda [kombinere filtre og skabeloner](https://hiverhq.com/blog/gmail-filters) for automatisk at sende et standardsvar baseret på bestemte e-mailkriterier!![Skærmbillede, der viser, hvordan man indsætter en gemt skabelon (standardsvar) i Gmail skrivevinduet via menuen med tre prikker](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Dette sparer betydelig tid og sikrer ensartethed i din rutinemæssige kommunikation. Du kan endda [kombinere filtre og skabeloner](https://hiverhq.com/blog/gmail-filters) for automatisk at sende et standardsvar baseret på bestemte e-mailkriterier!
+
+![Skærmbillede, der viser, hvordan man indsætter en gemt skabelon (standardsvar) i Gmail skrivevinduet via menuen med tre prikker](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Spar tid på gentagne svar ved at bruge Gmail skabeloner (Canned Responses)
 
@@ -152,7 +158,9 @@ En fornuftig tilgang er at starte med niveau 1. Master filtre, etiketter og skab
 
 E-mail behøver ikke at være en kilde til daglig frygt. Ved strategisk at implementere automatisering – uanset om det er gennem Gmails oprindelige værktøjer, specialiserede udvidelser eller sofistikerede AI-assistenter – kan du reducere den tid og den mentale energi, der bruges på at administrere din indbakke, markant. Du kan gå fra reaktiv brandslukning til proaktiv kontrol og sikre, at vigtige beskeder får opmærksomhed, mens du minimerer forstyrrelser.
 
-Målet er ikke bare en tom indbakke, men en mere fokuseret, produktiv og mindre stressende arbejdsdag. Start i det små, eksperimenter med de værktøjer, der passer bedst til dine behov, og genvind din tid til det arbejde, der virkelig betyder noget.![Foto af en afslappet professionel, der arbejder effektivt på en bærbar computer, smilende let, med et rent skrivebord](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Målet er ikke bare en tom indbakke, men en mere fokuseret, produktiv og mindre stressende arbejdsdag. Start i det små, eksperimenter med de værktøjer, der passer bedst til dine behov, og genvind din tid til det arbejde, der virkelig betyder noget.
+
+![Foto af en afslappet professionel, der arbejder effektivt på en bærbar computer, smilende let, med et rent skrivebord](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Genvind din tid og reducer e-mailstress gennem effektiv automatisering.
 

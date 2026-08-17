@@ -25,6 +25,7 @@ O assunto é possivelmente a parte mais crítica do email. Ele é o porteiro: [*
 - **Inclua palavras-chave:** ajude o destinatário, e o utilizador mesmo, a localizar o email depois.
 Pense no assunto como um micro-resumo. Em um mundo de caixas de entrada transbordando, um assunto claro funciona como uma ferramenta vital de priorização, permitindo que o destinatário avalie rapidamente a importância do email sem nem abri-lo. É o seu primeiro passo para respeitar o tempo dele.
 **Visual 1: assuntos bons e ruins**
+
 | **Assunto ruim** | **Assunto bom**                         | **Por que é melhor**                              |
 | ---------------- | --------------------------------------- | ------------------------------------------------- |
 | Reunião          | Pedido: reunião de orçamento quinta 14h | Específico, inclui ação, horário e tema           |
@@ -32,6 +33,7 @@ Pense no assunto como um micro-resumo. Em um mundo de caixas de entrada transbor
 | Pergunta rápida  | Pergunta sobre dados do relatório de marketing Q3 | Tema específico, permite priorização     |
 | Acompanhando     | Follow-up: nossa conversa sobre         | Dá contexto e ajuda a lembrar                     |
 | Importante!      | Ação necessária: envie a planilha até o fim do dia | Ação clara, prazo específico e urgência |
+
 ### **Saudações: começar do jeito certo**
 A saudação define o tom imediato. Usar o nível errado de formalidade pode fazer o utilizador parecer pouco profissional ou, no extremo oposto, rígido demais.
 - **Formal, para novos contactos, superiores e clientes:** "Dear Mr./Ms./Dr. \[Last Name]" ou "Dear \[Full Name]" se o utilizador não souber o título.
@@ -57,7 +59,9 @@ Termine o email com elegância e forneça as informações de contacto necessár
 - **Assinatura de email:** mantenha-a limpa, profissional e informativa.
   - **Essenciais:** nome completo, cargo, nome da empresa e telefone.
   - **Opcionais, mas muitas vezes úteis:** site da empresa, link do perfil no LinkedIn e endereço físico, se relevante.
-  - **Formatação:** mantenha concisa, com [**no máximo 4 a 5 linhas recomendado**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary), use fontes profissionais e [**seguras para a web**](https://www.mailerlite.com/blog/email-signature-best-practices), como Arial e Calibri, e cores consistentes com a sua marca. Garanta que seja [**compatível com mobile**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Evite imagens desnecessárias, logos grandes ou frases inspiracionais.![Exemplo de uma assinatura de email profissional limpa, com nome, cargo, empresa, telefone, site e link do LinkedIn](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  - **Formatação:** mantenha concisa, com [**no máximo 4 a 5 linhas recomendado**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary), use fontes profissionais e [**seguras para a web**](https://www.mailerlite.com/blog/email-signature-best-practices), como Arial e Calibri, e cores consistentes com a sua marca. Garanta que seja [**compatível com mobile**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Evite imagens desnecessárias, logos grandes ou frases inspiracionais.
+
+![Exemplo de uma assinatura de email profissional limpa, com nome, cargo, empresa, telefone, site e link do LinkedIn](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 Uma assinatura de email limpa e profissional inclui informações essenciais de contacto sem poluição visual.
 ## **Evitando armadilhas comuns no email**
 Mesmo com a estrutura certa, pequenos erros podem prejudicar a sua mensagem. Veja o que observar:
@@ -78,6 +82,7 @@ Gerir bem o tom no email é, na prática, um exercício de inteligência emocion
 ### **Essenciais de etiqueta: as regras não ditas**
 Além de estrutura e tom, certas convenções tornam as interações profissionais por email mais fluidas.
 **Visual 4: o que fazer e o que evitar na etiqueta de email**
+
 | **Área**       | **Faça**                                                                                      | **Evite**                                                                                              |
 | -------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Assunto**    | Seja claro, conciso e específico. Use palavras-chave. Indique a ação necessária.              | Deixar em branco. Usar termos vagos. Usar CAIXA ALTA ou pontuação excessiva.                          |
@@ -88,6 +93,7 @@ Além de estrutura e tom, certas convenções tornam as interações profissiona
 | **Responder/CC/BCC** | Use "Responder a todos" com moderação, apenas se todos precisarem saber. Use BCC em envios em massa ou por privacidade. | Usar "Responder a todos" por padrão. Expor listas de email a usar CC em vez de BCC.                  |
 | **Revisão**    | Reveja todos os emails. Leia em voz alta.                                                    | Confiar apenas no corretor. Enviar emails com erros de digitação ou gramática.                       |
 | **Assinatura** | Inclua informações essenciais de contacto. Mantenha limpa, concisa e compatível com mobile.    | Incluir citações desnecessárias ou imagens grandes. Usar fontes/cores pouco profissionais. Esquecer a despedida. |
+
 ## **Simplifique o seu fluxo: ferramentas para excelência em email**
 Escrever bem é crucial, mas gerir o volume exige estratégias e ferramentas inteligentes.
 ### **Além do básico: verificadores de gramática e estilo**

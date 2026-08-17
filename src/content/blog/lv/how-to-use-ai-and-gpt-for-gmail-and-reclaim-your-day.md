@@ -168,7 +168,9 @@ Ieguvumi no mākslīgā intelekta izmantošanas Gmail ir acīmredzami: ievēroja
 
 3. **Novērtējiet īpašās vajadzības:** Pārdomājiet ikdienas e-pasta izaicinājumus. Vai tas ir milzīgais apjoms? Laiks, kas pavadīts atbilžu rakstīšanai? Grūtības saglabāt organizētību? Izvēloties rīku, kas pielāgots šīs galvenās problēmas risināšanai, jūs gūsiet vislielāko tūlītēju labumu.
 
-Vai esat gatavs izmēģināt visaptverošu risinājumu, kas paredzēts vairāku e-pasta problēmu risināšanai vienlaikus? Izpētiet, kā tādi rīki kā [**Chiefy**](https://chiefy.com/lv/lv) apvieno inteliģento **AI Triage**, lai izceltu steidzamāko, **Authentic AI Drafting**, kas apgūst lietotāja unikālo balsi, un **Smart Summarization**, lai pārvarētu informācijas jucekli. Uzziniet, kā tas var pārveidot Gmail darbplūsmu.![Ekrānuzņēmums, kurā redzams Chiefy, kurā apkopots garš e-pasts un izceltas galvenās darbības.](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Vai esat gatavs izmēģināt visaptverošu risinājumu, kas paredzēts vairāku e-pasta problēmu risināšanai vienlaikus? Izpētiet, kā tādi rīki kā [**Chiefy**](https://chiefy.com/lv/lv) apvieno inteliģento **AI Triage**, lai izceltu steidzamāko, **Authentic AI Drafting**, kas apgūst lietotāja unikālo balsi, un **Smart Summarization**, lai pārvarētu informācijas jucekli. Uzziniet, kā tas var pārveidot Gmail darbplūsmu.
+
+![Ekrānuzņēmums, kurā redzams Chiefy, kurā apkopots garš e-pasts un izceltas galvenās darbības.](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Smart Summarization funkcijas izceļ galvenos punktus un darbības, ietaupot lasīšanas laiku.
 

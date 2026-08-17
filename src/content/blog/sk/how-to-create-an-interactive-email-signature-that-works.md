@@ -116,7 +116,7 @@ Vytvoriť interaktívny podpis je len polovica úspechu. Kľúčové je zabezpe�
 
 Na mobile záleží: Uistite sa, že váš podpis vyzerá skvele a funguje dobre na všetkých zariadeniach.
 
-#### Technické postupy a postupy pre doručiteľnosť:
+### Technické postupy a postupy pre doručiteľnosť:
 
 - **Používajte čisté HTML:** Ak kódujete manuálne, používajte jednoduché tabuľkové rozloženia a inline CSS. Vyhnite sa neprehľadnému kódu skopírovanému z Wordu, pretože to [môže spôsobiť problémy s vykresľovaním a spustiť spamové filtre](https://newoldstamp.com/blog/most-popular-ways-to-create-an-email-signature/).
 

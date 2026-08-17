@@ -34,7 +34,9 @@ Tämä jatkuva pato johtaa:
 
 - **Lisääntynyt stressi:** Jatkuva sähköpostin jälkeen jääminen lisää merkittävästi työpaikan stressiä ja uupumusta.
 
-AI yhteenvetotyökalut pyrkivät ratkaisemaan nämä ongelmat suoraan ottamalla nopeasti esiin viestinnän olemuksen, jolloin voit priorisoida tehokkaasti ja pysyä ajan tasalla eksymättä rikkaruohoihin. Työpaikalla tehdyt AI-tutkimukset, kuten [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/) korostamat tutkimukset, osoittavat konkreettisen tuottavuuden kasvun, kun AI auttaa yhteenvedon tekemisessä ja tiedonhaussa.![Infografiikka, joka havainnollistaa sähköpostin ylikuormituksen ongelmaa tärkeimmillä tilastotiedoilla](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+AI yhteenvetotyökalut pyrkivät ratkaisemaan nämä ongelmat suoraan ottamalla nopeasti esiin viestinnän olemuksen, jolloin voit priorisoida tehokkaasti ja pysyä ajan tasalla eksymättä rikkaruohoihin. Työpaikalla tehdyt AI-tutkimukset, kuten [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/) korostamat tutkimukset, osoittavat konkreettisen tuottavuuden kasvun, kun AI auttaa yhteenvedon tekemisessä ja tiedonhaussa.
+
+![Infografiikka, joka havainnollistaa sähköpostin ylikuormituksen ongelmaa tärkeimmillä tilastotiedoilla](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Päivittäisten sähköpostien valtava määrä korostaa tehokkaiden hallintatyökalujen tarvetta.
 
@@ -54,7 +56,9 @@ Ominaisuuden käyttö riippuu käyttöliittymästäsi:
 
 – **Web-käyttöliittymä:** Etsi painike "Summary this email", joka näkyy suoraan sopivan sähköpostiketjun aiherivin alapuolella. Vaihtoehtoisesti voit avata "Kysy Gemini" -sivupaneelin (yleensä kimalluskuvakkeen kautta oikeassa yläkulmassa) ja joko napsauttaa ehdotettua kehotetta, kuten "Mistä tämä sähköposti koskee?" tai kirjoita oma pyyntösi, kuten "Summary this thread".
 
-– **Mobiilisovellus (Android/iOS):** Kuten verkossa, aiheen alle saattaa ilmestyä Tee yhteenveto tästä sähköpostista -painike. Sen napauttaminen tuo yleensä esiin yhteenvedon erillisessä Gemini-arkissa tai paneelissa. Voit myös usein käyttää yhteenvetoa ja muita AI-ominaisuuksia Gemini-kuvakkeen kautta sovelluksen yläpalkissa.![Gmail-sähköpostinäkymä, jossa korostetaan aiherivin alla oleva Yhteenveto tästä sähköpostista -painike](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+– **Mobiilisovellus (Android/iOS):** Kuten verkossa, aiheen alle saattaa ilmestyä Tee yhteenveto tästä sähköpostista -painike. Sen napauttaminen tuo yleensä esiin yhteenvedon erillisessä Gemini-arkissa tai paneelissa. Voit myös usein käyttää yhteenvetoa ja muita AI-ominaisuuksia Gemini-kuvakkeen kautta sovelluksen yläpalkissa.
+
+![Gmail-sähköpostinäkymä, jossa korostetaan aiherivin alla oleva Yhteenveto tästä sähköpostista -painike](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Gmailin alkuperäinen yhteenvetoominaisuus on käytettävissä painikkeella suoraan sähköpostisäikeissä.
 

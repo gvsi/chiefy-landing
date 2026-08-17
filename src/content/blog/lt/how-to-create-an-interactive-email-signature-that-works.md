@@ -57,7 +57,9 @@ Ne visi interaktyvūs elementai yra vienodai naudingi. Štai keli pasiteisinę p
 
 - **Planavimo nuoroda:** Integruokite tiesiogiai su tokiais įrankiais kaip Calendly. Pridėjus mygtuką ar nuorodą „[Suplanuoti susitikimą](https://www.bybrand.io/blog/schedule-meeting-email-signature/)“, pašalinamos kliūtys rezervuoti skambutį.
 
-- **Logotipas arba portretinė nuotrauka:** Suteikia asmeniškumo ir padeda atpažinti prekės ženklą. Padarykite ją paspaudžiamą, nukreipiančią į jūsų svetainę. Naudokite aukštos kokybės, profesionalų vaizdą.![Paprasto profesionalaus laisvai samdomo specialisto el. pašto parašo pavyzdys su paspaudžiama kontaktine informacija ir socialinėmis nuorodomis](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logotipas arba portretinė nuotrauka:** Suteikia asmeniškumo ir padeda atpažinti prekės ženklą. Padarykite ją paspaudžiamą, nukreipiančią į jūsų svetainę. Naudokite aukštos kokybės, profesionalų vaizdą.
+
+![Paprasto profesionalaus laisvai samdomo specialisto el. pašto parašo pavyzdys su paspaudžiama kontaktine informacija ir socialinėmis nuorodomis](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Išlaikykite švarą: paprastas parašas su būtina kontaktine informacija ir pagrindinėmis socialinėmis nuorodomis.
 
@@ -80,7 +82,9 @@ Kuris kelias jums tinkamas? Palyginkime:
 | **Funkcijos**       | Šablonai, analitika, banerių kampanijos, centralizuotas valdymas, dažnai mokama                                     | Ribojama tik HTML/CSS el. pašto apribojimų                   |
 | **Kaina**           | Yra nemokamų planų, dažnai su prekės ženklu; mokami planai suteikia daugiau funkcijų ar naudotojų                   | Nemokama, jei turite reikiamus įgūdžius                      |
 
-**Rekomendacija laisvai samdomiems specialistams ir startuoliams:** Jei nesijaučiate patogiai su HTML ir kruopščiu testavimu, labai rekomenduojama pradėti nuo patikimo **el. pašto parašų generatoriaus**. Tokie įrankiai kaip [MySignature](https://mysignature.io/) (dažnai minimas kaip tinkamas laisvai samdomiems specialistams ir mažoms komandoms) ar [WiseStamp](https://www.wisestamp.com/) siūlo nemokamus arba nebrangius planus su profesionaliais šablonais, paprastu pritaikymu, įskaitant CTA ir banerius, bei integruotais suderinamumo patikrinimais. [HubSpot taip pat siūlo populiarų nemokamą generatorių](https://www.hubspot.com/email-signature-generator) paprastesniems poreikiams.![El. pašto parašų generatoriaus įrankio sąsajos ekrano nuotrauka, rodanti šablonus ir pritaikymo parinktis](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Rekomendacija laisvai samdomiems specialistams ir startuoliams:** Jei nesijaučiate patogiai su HTML ir kruopščiu testavimu, labai rekomenduojama pradėti nuo patikimo **el. pašto parašų generatoriaus**. Tokie įrankiai kaip [MySignature](https://mysignature.io/) (dažnai minimas kaip tinkamas laisvai samdomiems specialistams ir mažoms komandoms) ar [WiseStamp](https://www.wisestamp.com/) siūlo nemokamus arba nebrangius planus su profesionaliais šablonais, paprastu pritaikymu, įskaitant CTA ir banerius, bei integruotais suderinamumo patikrinimais. [HubSpot taip pat siūlo populiarų nemokamą generatorių](https://www.hubspot.com/email-signature-generator) paprastesniems poreikiams.
+
+![El. pašto parašų generatoriaus įrankio sąsajos ekrano nuotrauka, rodanti šablonus ir pritaikymo parinktis](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Tokie įrankiai kaip MySignature ir WiseStamp siūlo šablonus ir paprastą pritaikymą.
 
@@ -106,7 +110,9 @@ Sukurti interaktyvų parašą yra tik pusė darbo. Labai svarbu užtikrinti, kad
 
 - **Vaizdų optimizavimas:** Naudokite aukštos kokybės, bet mažo failo dydžio vaizdus, idealiu atveju visas parašo svoris turėtų būti mažesnis nei 100 kb. Vaizdus talpinkite patikimai, neįterpkite jų, nebent būtina, nes tai didina laiško dydį. Visada naudokite aprašomąjį \`alt\` tekstą prieinamumui ir atvejams, kai vaizdai blokuojami.
 
-- **Ribokite elementus:** Neįtraukite *visų* socialinių profilių. Apsiribokite 3–4 aktualiais. Vienas stiprus CTA paprastai geriau nei keli silpni.![Palyginimas, rodantis, kad el. pašto parašas teisingai atvaizduojamas ir darbalaukio, ir mobiliojo įrenginio ekranuose](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Ribokite elementus:** Neįtraukite *visų* socialinių profilių. Apsiribokite 3–4 aktualiais. Vienas stiprus CTA paprastai geriau nei keli silpni.
+
+![Palyginimas, rodantis, kad el. pašto parašas teisingai atvaizduojamas ir darbalaukio, ir mobiliojo įrenginio ekranuose](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobilumas svarbus: užtikrinkite, kad jūsų parašas puikiai atrodytų ir veiktų visuose įrenginiuose.
 

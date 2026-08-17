@@ -58,7 +58,7 @@ LLM, poput OpenAI-a GPT serije ili Google-a Gemini modela, predstavljaju moćnu 
 
 Ono što je najvažnije, mnogi pisci e-pošte AI takođe uključuju mehanizam učenja. Analizom e-poruka koje *šaljete*(posebno izmene koje unosite u njegove nacrte), AI može postepeno da nauči vaše željeno izražavanje, odjave i opšti stil komunikacije, čineći svoje predloge personalizovanijim tokom vremena. Ovo se često dešava neprimetno kroz proširenje za Chrome koje se integriše direktno u vaš Gmail interfejs, stavljajući AI-a napajanje tačno tamo gde vam je potrebno.
 
-![Dijagram koji ilustruje kako funkcioniše AI program za pisanje e-pošte: Unos korisnika (prompt/kontekst) ide u AI model (NLP/LLM), koji zatim proizvodi izlaz e-pošte (nacrt) (nacrt)0⟫0⟫
+![Dijagram koji ilustruje kako funkcioniše AI program za pisanje e-pošte: Unos korisnika (prompt/kontekst) ide u AI model (NLP/LLM), koji zatim proizvodi izlaz e-pošte (nacrt)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
 
 AI pisci e-pošte koriste NLP da razumeju vaš zahtev i LLM su obučeni za ogromne podatke da generišu tekst sličan čoveku.
 

@@ -33,25 +33,29 @@ Vi har sållat igenom alternativen för att lyfta fram några av de mest effekti
 
 **Gratis planfunktioner:** Den kostnadsfria "Starter"-planen ger kärnan i Kanban-upplevelsen. Du kan dra e-postmeddelanden för att förvandla dem till uppgiftskort, organisera dem på en personlig tavla plus ytterligare en anpassad tavla, använda en dagsplanerare och ange förfallodatum eller påminnelser.
 
-**UI/Setup:**Sortdintegreras direkt i Gmail och erbjuder en växling mellan standardvyn och dess kortlayout. Installationen innebär att du installerar tillägget och ansluter ditt Gmail-konto, vilket användarna i allmänhet tycker är enkelt.![Sortdplugin-gränssnitt som visar Gmail inkorg förvandlad till ett visuellt Kanban-kort med dra-och-släpp e-postuppgiftskort](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/Setup:**Sortdintegreras direkt i Gmail och erbjuder en växling mellan standardvyn och dess kortlayout. Installationen innebär att du installerar tillägget och ansluter ditt Gmail-konto, vilket användarna i allmänhet tycker är enkelt.
+
+![Sortdplugin-gränssnitt som visar Gmail inkorg förvandlad till ett visuellt Kanban-kort med dra-och-släpp e-postuppgiftskort](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Fördelar:** Fantastiskt för att visualisera arbetsflödesstadier och hantera e-postcentrerade uppgifter utan att ständigt byta till ett separat projekthanteringsverktyg. Att byta namn på ämnesrader och lägga till anteckningar direkt i e-postuppgifter är också användbart.
 
 **Begränsningar för gratisplanen:** Gratisplanens begränsningar är betydande för pågående användning. Du är begränsad till bara 4 listor per tavla, maximalt 50 ofullständiga uppgifter i ditt team (20 per lista), och kritiskt sett bara en **30-dagars aktivitetshistorik**. Detta gör det svårt att spåra framsteg på allt utöver mycket kortsiktiga uppgifter. Dessutom saknar den kostnadsfria planen alla funktioner för teamsamarbete (som delade kort eller delade brevlådor), anpassade fält och erbjuder mycket begränsade automatiseringsmöjligheter. Mobilappupplevelsen rapporteras också vara mindre funktionell än stationärversionen, och du behöver fortfarande manuellt dra e-postmeddelanden till brädorna; det finns inga automatiska filtreringsalternativ för att göra detta. I huvudsak ger den kostnadsfria planen en stark visuell smak men är bäst lämpad för grundläggande, individuell uppgiftshantering härledd från senaste e-postmeddelanden.
 
-###Todoist för Gmail: Förvandla e-post till handlingsbara uppgifter
+### Todoist för Gmail: Förvandla e-post till handlingsbara uppgifter
 
 **Koncept:** För dem som följer sin att-göra-lista ärTodoist för Gmail integrering ett populärt val. Den ansluter Gmail direkt till den kraftfullaTodoistuppgiftshanteringsappen, så att du snabbt kan konvertera handlingsbara e-postmeddelanden till uppgifter inom dittTodoistsystem.
 
 **Gratis planfunktioner (Todoistsjälv):**Todoists gratisplan är ganska generös för individuell användning, erbjuder upp till 5 aktiva projekt, samarbete med upp till 5 personer per projekt, kärnuppgiftshantering (inklusive underuppgifter), list- och Kanban-kortvyer och möjligheten att använda etiketter och filter (upp till 3 filter). Den kostnadsfria Gmail-integrationen (tillgänglig som både tillägg och tillägg) låter dig klicka på en ikon för att förvandla det för närvarande öppna e-postmeddelandet till enTodoist-uppgift, inklusive en länk tillbaka till det ursprungliga e-postmeddelandet.
 
-**UI/Setup:** Integrationen lägger till enTodoist-ikon till ditt Gmail-gränssnitt (antingen i det övre verktygsfältet eller den högra sidopanelen). Genom att klicka på detta öppnas en liten panel där du snabbt kan lägga till e-postmeddelandet som en uppgift. Installationen kräver att du installerar tillägget/tillägget och auktoriserar åtkomst till dittTodoist-konto.![Todoist för Gmail integrationspanel som visar hur man konverterar ett e-postmeddelande till en uppgift med förfallodatum och projektval](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**UI/Setup:** Integrationen lägger till enTodoist-ikon till ditt Gmail-gränssnitt (antingen i det övre verktygsfältet eller den högra sidopanelen). Genom att klicka på detta öppnas en liten panel där du snabbt kan lägga till e-postmeddelandet som en uppgift. Installationen kräver att du installerar tillägget/tillägget och auktoriserar åtkomst till dittTodoist-konto.
+
+![Todoist för Gmail integrationspanel som visar hur man konverterar ett e-postmeddelande till en uppgift med förfallodatum och projektval](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Fördelar:**Ger en sömlös brygga mellan ditt kommunikationshubb (Gmail) och ditt uppgiftshanteringssystem (Todoist). Utnyttjar Todoists utmärkta funktioner som datuminmatning på naturligt språk och pålitlig synkronisering över flera plattformar. Det är ett utmärkt sätt att uppnå "inkorgen noll" genom att flytta åtgärdsobjekt från inkorgen och till en dedikerad uppgiftslista.
 
 **Begränsningar för gratis plan (Todoist& Integration):** Den största nackdelen ligger i begränsningarna för själva den _friaTodoistplanen_. Det begränsar dig till 5 projekt och 5 medarbetare, erbjuder bara en veckas aktivitetshistorik och, viktigast av allt, **inkluderar inte påminnelser**. Detta påverkar avsevärt dess användbarhet för tidskänsliga uppgifter som skapas från e-post.Gmail-integrationen, även om den är bekväm för fångst, är också ganska grundläggande. Användarrecensioner nämner ofta oförmågan att lägga till etiketter, tilldela uppgifter till specifika projektsektioner, ställa in exakta förfallodatum (utöver de grundläggande alternativen) eller lägga till kommentarer direkt från Gmail-gränssnittet – vilket ofta kräver att du öppnar huvudappenTodoistför att fördjupa uppgiftsdetaljerna. Vissa användare rapporterar också enstaka buggar eller trög prestanda med själva integrationen. Därför fungerar den fria integrationen primärt som en snabb fångstmekanism, som driver det faktiska organiserings- och ledningsarbetet (och dess begränsningar) till huvudplattformenTodoist.
 
-###Right Inbox(gratis nivå): Mastertiming med schemaläggning och påminnelser
+### Right Inbox(gratis nivå): Mastertiming med schemaläggning och påminnelser
 
 **Koncept:**Right Inboxfokuserar på att förbättra Gmail med funktioner centrerade kring timing, uppföljning och effektivitet. Det lägger till funktioner som att schemalägga e-postmeddelanden för att skicka senare, ställa in påminnelser om viktiga meddelanden, använda e-postmallar och grundläggande e-postspårning. Detta är särskilt användbart för säljare som koordinerar över tidszoner, frilansare som hanterar kundernas förväntningar eller alla som vill ha bättre kontroll över när e-postmeddelanden landar och se till att viktiga konversationer inte glöms bort.
 

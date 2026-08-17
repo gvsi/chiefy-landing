@@ -124,17 +124,11 @@ Temel fark, paradigma değişimindedir. Ücretsiz eklentiler, daha iyi organizas
 Seçenekler arasında gezinmenize yardımcı olmak için, ele alınan en iyi ücretsiz araçların bir özetini aşağıda bulabilirsiniz:
 
 | Özellik Odak Noktası | Araç | Temel Ücretsiz Özellik | İdeal Kullanıcı | Önemli Ücretsiz Kısıtlama | Gizlilik Bildirimi |
-
-| ---------------------- | ----------------- | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------- | ----------------------- |
-
+| --- | --- | --- | --- | --- | --- |
 | **Görsel İş Akışı** | Sortd | Gmail'te Kanban panosu görünümü (1 kişisel + 1 ekstra) | Görsel düşünürler, temel proje/görev takibi | 30 günlük geçmiş, sınırlı görevler/listeler, iş birliği yok | Standart (Politikayı kontrol edin) |
-
 | **Görev Yönetimi** | Todoist için Gmail | E-postaları görevlere dönüştürün (e-postaya geri bağlantı) | Mevcut Todoist kullanıcıları, görev merkezli iş akışları | Ücretsiz Todoist'te **hatırlatıcı yok**, sınırlı Gmail entegrasyonu | Standart (Politikayı kontrol edin) |
-
 | **Zamanlama ve Takip** | Right Inbox | Planlama, Hatırlatıcılar, Temel Takip | Ara sıra planlama/hatırlatıcılar gerekli | **Çok düşük aylık limitler** (5-10 işlem), açılır pencereler | Standart (Politikayı kontrol edin) |
-
 | **Dağınıklığı Giderme** | Trimbox | Tek tıklamayla "aboneliği iptal et" (filtre), toplu silme | Hızlı gelen kutusu temizliği gerekiyor | Gerçekten aboneliği iptal etmiyor (filtre kullanıyor), sınırlı deneme | AI veri kullanımını kontrol edin |
-
 | **Gereksiz ayrıntıları giderme** | Unroll.me | Abonelik özeti, "aboneliği iptal et" (filtre) | Bültenleri birleştirme | **Anonimleştirilmiş kullanıcı verilerini satıyor**, gerçekten aboneliği iptal etmiyor | **Yüksek Endişe** |
 
 ## Sıkça Sorulan Sorular (SSS)

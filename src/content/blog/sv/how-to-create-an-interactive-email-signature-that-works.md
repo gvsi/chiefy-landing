@@ -57,7 +57,9 @@ Alla interaktiva element är inte skapade lika. Här är några beprövade vinna
 
 - **Schemaläggningslänk:** Integrera direkt med verktyg som Calendly. Att lägga till en "[Schemalägg möte"-knapp eller länk](https://www.bybrand.io/blog/schedule-meeting-email-signature/) tar bort friktionen för bokning av samtal.
 
-- **Logotyp eller Headshot:** Lägger till personlighet och varumärkesigenkänning. Gör den klickbar, länka till din webbplats. Använd en professionell bild av hög kvalitet.![Exempel på en enkel professionell e-postsignatur för en frilansare med klickbar kontaktinformation och sociala länkar](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logotyp eller Headshot:** Lägger till personlighet och varumärkesigenkänning. Gör den klickbar, länka till din webbplats. Använd en professionell bild av hög kvalitet.
+
+![Exempel på en enkel professionell e-postsignatur för en frilansare med klickbar kontaktinformation och sociala länkar](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Håll det rent: En enkel signatur med viktig kontaktinformation och viktiga sociala länkar.
 
@@ -80,7 +82,9 @@ Vilket är rätt för dig? Låt oss jämföra:
 | **Funktioner** | Mallar, analyser, bannerkampanjer, central hantering (ofta betald) | Begränsad endast av HTML/CSS e-postbegränsningar |
 | **Kostnad** | Gratis nivåer tillgängliga (ofta med varumärke); Betala planer för fler funktioner/användare | Gratis (om du har kompetensen) |
 
-**Rekommendation för frilansare och nystartade företag:** Om du inte är bekväm med HTML och rigorösa tester, rekommenderas starkt att börja med en välrenommerad **e-postsignaturgenerator**. Verktyg som [MySignature](https://mysignature.io/) (noteras som bra för frilansare/små team) eller [WiseStamp](https://www.wisestamp.com/) erbjuder gratis eller prisvärda planer med professionella mallar, enkel anpassning (inklusive CTAs och banners) och inbyggda kompatibilitetskontroller. [HubSpot erbjuder också en populär gratis generator](https://www.hubspot.com/email-signature-generator) för enklare behov.![Skärmdump av ett verktygsgränssnitt för e-signaturgenerator som visar mallar och anpassningsalternativ](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Rekommendation för frilansare och nystartade företag:** Om du inte är bekväm med HTML och rigorösa tester, rekommenderas starkt att börja med en välrenommerad **e-postsignaturgenerator**. Verktyg som [MySignature](https://mysignature.io/) (noteras som bra för frilansare/små team) eller [WiseStamp](https://www.wisestamp.com/) erbjuder gratis eller prisvärda planer med professionella mallar, enkel anpassning (inklusive CTAs och banners) och inbyggda kompatibilitetskontroller. [HubSpot erbjuder också en populär gratis generator](https://www.hubspot.com/email-signature-generator) för enklare behov.
+
+![Skärmdump av ett verktygsgränssnitt för e-signaturgenerator som visar mallar och anpassningsalternativ](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Verktyg som MySignature och WiseStamp erbjuder mallar och enkel anpassning.
 
@@ -106,7 +110,9 @@ Att skapa en interaktiv signatur är bara halva striden. Att se till att det ser
 
 - **Bildoptimering:** Använd bilder av hög kvalitet men liten filstorlek (helst under 100 kb total signaturvikt). Värd bilder på ett tillförlitligt sätt (bädd inte in om det inte är nödvändigt, eftersom det ökar e-poststorleken). Använd alltid beskrivande \`alt\` text för tillgänglighet och om bilder är blockerade.
 
-- **Begränsningselement:** Inkludera inte *alla* sociala profiler. Håll dig till 3-4 relevanta. En stark CTA är vanligtvis bättre än flera svaga.![Jämförelse som visar en e-postsignatur som renderas korrekt på både skrivbords- och mobilskärmar](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Begränsningselement:** Inkludera inte *alla* sociala profiler. Håll dig till 3-4 relevanta. En stark CTA är vanligtvis bättre än flera svaga.
+
+![Jämförelse som visar en e-postsignatur som renderas korrekt på både skrivbords- och mobilskärmar](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobila frågor: Se till att din signatur ser bra ut och fungerar bra på alla enheter.
 

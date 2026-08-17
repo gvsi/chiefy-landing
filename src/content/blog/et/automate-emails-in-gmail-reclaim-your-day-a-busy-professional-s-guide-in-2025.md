@@ -21,7 +21,9 @@ Enne lahendustesse sukeldumist kvantifitseerime probleemi. E-post ei ole lihtsal
 
 - **Katkestusmaks:** kontrollime oma e-kirju sageli – mõned hinnangud näitavad [iga 6 minuti järel](https://www.ppm.express/blog/checking-emails)! Iga katkestus ei ole lihtsalt hetkeline pilk; algsele ülesandele täielikult keskendumiseks kulub keskmiselt [23–25 minutit](https://www.ppm.express/blog/checking-emails).
 
-- **Madala väärtusega töö:** märkimisväärne osa meiliajast kulub väheväärtuslikele tegevustele. Üks uuring näitas, et keskmine töötaja kulutab [51% oma tööpäevast](https://lifehackmethod.com/blog/time-management-statistics/) vähese mõjuga ülesannetele, kusjuures e-post on oluline panustaja.![Foto silmnähtavalt stressis professionaalist, kes istub paberitega kuhjatud laua taga ja näeb e-kirju kuvavast arvutiekraanist rabatuna](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Madala väärtusega töö:** märkimisväärne osa meiliajast kulub väheväärtuslikele tegevustele. Üks uuring näitas, et keskmine töötaja kulutab [51% oma tööpäevast](https://lifehackmethod.com/blog/time-management-statistics/) vähese mõjuga ülesannetele, kusjuures e-post on oluline panustaja.
+
+![Foto silmnähtavalt stressis professionaalist, kes istub paberitega kuhjatud laua taga ja näeb e-kirju kuvavast arvutiekraanist rabatuna](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 E-kirjade ülekoormus on hõivatud spetsialistide jaoks peamine stressiallikas ja vähenenud tootlikkus.
 
@@ -49,7 +51,9 @@ Filtrid on teie esimene kaitseliin postkasti kaose vastu. Need sooritavad teie m
 
 - Edastage
 
-**Alustage:** otsinguvalikute kuvamiseks klõpsake Gmail otsinguribal seadete ikoonil (näeb välja nagu liugurid). Sisestage oma kriteeriumid, testige otsingut, seejärel klõpsake "Loo filter" ja valige toimingud. Üksikasjalike juhiste saamiseks uurige Google i ametlikku juhendit [filtrireeglite loomise](https://support.google.com/mail/answer/6579?hl=en).![Ekraanipilt, mis näitab Gmail filtri loomise akent koos väljadega From, Saaja, Teema, Sisaldab sõnu ja valikuid, nagu Rakenda silt, Jäta vahele postkast](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Alustage:** otsinguvalikute kuvamiseks klõpsake Gmail otsinguribal seadete ikoonil (näeb välja nagu liugurid). Sisestage oma kriteeriumid, testige otsingut, seejärel klõpsake "Loo filter" ja valige toimingud. Üksikasjalike juhiste saamiseks uurige Google i ametlikku juhendit [filtrireeglite loomise](https://support.google.com/mail/answer/6579?hl=en).
+
+![Ekraanipilt, mis näitab Gmail filtri loomise akent koos väljadega From, Saaja, Teema, Sisaldab sõnu ja valikuid, nagu Rakenda silt, Jäta vahele postkast](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Kasutage filtreid Gmail, et sortida sissetulevad meilid automaatselt selliste kriteeriumide alusel nagu saatja või märksõnad
 
@@ -59,7 +63,9 @@ Kas leiate end korduvalt sarnaseid vastuseid kirjutamas? KKK-dele vastamine, tä
 
 **Kuidas see töötab:** Esmalt lubage mallid Gmail seadetes (\`Settings\` > \`Vaata kõiki seadeid\` > \`Täpsemad\` > \`Mallid\` > \`Luba\`). Seejärel koostage oma meilimalli, klõpsake koostamisaknas kolmel punktil, minge jaotisse \`Mallid\` ja \`Salvesta mustand mallina\`. Selle kasutamiseks klõpsake uues meilis kolmel punktil, minge jaotisse \`Mallid\` ja valige salvestatud mall.
 
-See säästab oluliselt aega ja tagab järjepidevuse teie tavapärases suhtluses. Saate isegi [kombineerida filtreid ja malle](https://hiverhq.com/blog/gmail-filters), et teatud meilikriteeriumide alusel automaatselt konserveeritud vastus saata!![Ekraanipilt, mis näitab, kuidas sisestada salvestatud mall (salvestatud vastus) Gmail koostamise aknasse kolme punktiga menüü kaudu](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+See säästab oluliselt aega ja tagab järjepidevuse teie tavapärases suhtluses. Saate isegi [kombineerida filtreid ja malle](https://hiverhq.com/blog/gmail-filters), et teatud meilikriteeriumide alusel automaatselt konserveeritud vastus saata!
+
+![Ekraanipilt, mis näitab, kuidas sisestada salvestatud mall (salvestatud vastus) Gmail koostamise aknasse kolme punktiga menüü kaudu](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Säästke aega korduvate vastuste jaoks, kasutades Gmail malle (salvestatud vastused)
 
@@ -152,7 +158,9 @@ Mõistlik lähenemine on alustada 1. tasemega. Põhifiltrid, sildid ja mallid. K
 
 E-post ei pea olema igapäevase hirmu allikas. Automatiseerimist strateegiliselt rakendades – kas siis Gmail algtööriistade, spetsiaalsete laienduste või keerukate AI-assistentide kaudu – saate märkimisväärselt vähendada postkasti haldamisele kuluvat aega ja vaimset energiat. Saate liikuda reaktiivselt kustutamiselt ennetavale juhtimisele, tagades, et olulised sõnumid saavad tähelepanu, minimeerides samal ajal segajaid.
 
-Eesmärk ei ole lihtsalt tühi postkast, vaid keskendunum, produktiivsem ja pingevabam tööpäev. Alustage väikeselt, katsetage tööriistu, mis vastavad teie vajadustele kõige paremini, ja võtke aega tagasi töö jaoks, mis on tõeliselt oluline.![Foto lõdvestunud professionaalist, kes töötab tõhusalt sülearvutiga, kergelt naeratab puhta lauaga](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Eesmärk ei ole lihtsalt tühi postkast, vaid keskendunum, produktiivsem ja pingevabam tööpäev. Alustage väikeselt, katsetage tööriistu, mis vastavad teie vajadustele kõige paremini, ja võtke aega tagasi töö jaoks, mis on tõeliselt oluline.
+
+![Foto lõdvestunud professionaalist, kes töötab tõhusalt sülearvutiga, kergelt naeratab puhta lauaga](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Kasutage tõhusa automatiseerimise abil oma aega tagasi ja vähendage meilistressi.
 

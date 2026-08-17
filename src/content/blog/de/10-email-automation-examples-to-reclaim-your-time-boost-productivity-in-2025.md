@@ -111,7 +111,9 @@ Tools wie [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-gs) ze
 
 Haben Sie es mit langen E-Mail-Threads oder Berichten zu tun? KI verändert die Art und Weise, wie wir diese Informationen konsumieren. KI-Tools können lange E-Mails oder ganze Threads automatisch zusammenfassen und so wichtige Punkte, Entscheidungen und Aktionselemente extrahieren. [Superhuman](https://superhuman.com/ai) bietet eine automatische Zusammenfassungsfunktion, und Tools wie Microsoft Copilot in Outlook bieten ebenfalls eine Zusammenfassung. Plattformen wie [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) und [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) bieten dedizierte KI-Zusammenfassungen.
 
-Dies spart enorme Zeit, um sich mit komplexen Gesprächen vertraut zu machen. [Chiefy beinhaltet **Intelligente Zusammenfassung** mit Kontextbewusstsein](https://chiefy.com/de), was bedeutet, dass nicht nur lange Threads komprimiert werden, sondern auch Details zu zuvor erwähnten Projekten und Beziehungen gespeichert werden, um sicherzustellen, dass Zusammenfassungen äußerst relevant und umsetzbar sind.![Screenshot, der die intelligente E-Mail-Zusammenfassungsfunktion von Chiefy zeigt, die einen langen E-Mail-Thread in wichtige Punkte und Aktionspunkte zusammenfasst](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Dies spart enorme Zeit, um sich mit komplexen Gesprächen vertraut zu machen. [Chiefy beinhaltet **Intelligente Zusammenfassung** mit Kontextbewusstsein](https://chiefy.com/de), was bedeutet, dass nicht nur lange Threads komprimiert werden, sondern auch Details zu zuvor erwähnten Projekten und Beziehungen gespeichert werden, um sicherzustellen, dass Zusammenfassungen äußerst relevant und umsetzbar sind.
+
+![Screenshot, der die intelligente E-Mail-Zusammenfassungsfunktion von Chiefy zeigt, die einen langen E-Mail-Thread in wichtige Punkte und Aktionspunkte zusammenfasst](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Die Kraft der Automatisierung: In Zahlen
 

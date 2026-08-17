@@ -116,7 +116,9 @@ Okay, KI kann E-Mails mit verschiedenen Techniken verdichten. Aber wie hilft das
 
 6. **Reduzieren Sie die kognitive Belastung und steigern Sie den Fokus:** Hören Sie auf, geistig mit den Details Dutzender aktiver E-Mail-Threads zu jonglieren. Wenn Sie die Aufgabe, wichtige Informationen zu verdichten und zu extrahieren, an die KI verlagern, werden Ihre wertvollen kognitiven Ressourcen frei. Dies ermöglicht es Ihnen, mehr mentale Energie dem strategischen Denken, der Lösung komplexer Probleme, der Risikoanalyse und der Führung Ihres Teams zu widmen – der hochwertigen Arbeit, die die Rolle eines PM wirklich ausmacht.
 
-   - **PM-Anwendungsfall:** Verwendung von Zusammenfassungen zur schnellen Verarbeitung und Archivierung von Update-Threads mit niedrigerer Priorität während der dedizierten „E-Mail-Zeit“, wodurch mentale Bandbreite für die Bewältigung komplexer, kritischer Probleme erhalten bleibt.![Infografik zu den Vorteilen der KI-E-Mail-Zusammenfassung für PMs](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+   - **PM-Anwendungsfall:** Verwendung von Zusammenfassungen zur schnellen Verarbeitung und Archivierung von Update-Threads mit niedrigerer Priorität während der dedizierten „E-Mail-Zeit“, wodurch mentale Bandbreite für die Bewältigung komplexer, kritischer Probleme erhalten bleibt.
+
+![Infografik zu den Vorteilen der KI-E-Mail-Zusammenfassung für PMs](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 Die E-Mail-Zusammenfassung mit KI bietet konkrete Vorteile und hilft Projektmanagern, Zeit zu sparen, wichtige Informationen zu verfolgen und geistige Ermüdung zu reduzieren
 

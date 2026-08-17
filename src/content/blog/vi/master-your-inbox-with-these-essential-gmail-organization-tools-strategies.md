@@ -245,17 +245,17 @@ Sự thật là**không có câu trả lời đúng duy nhất.** Hệ thống t
 
 **Đây là đường dẫn để tìm ra thiết lập lý tưởng cho bạn:**
 
-1.**Xây dựng nền tảng:** Làm chủ các nhãn, bộ lọc và tìm kiếm gốc của Gmail. Điều này là không thể thương lượng.
+1. **Xây dựng nền tảng:** Làm chủ các nhãn, bộ lọc và tìm kiếm gốc của Gmail. Điều này là không thể thương lượng.
 
-2.**Chọn một phương pháp:** Thử nghiệm một phương pháp như Xử lý hàng loạt hoặc Inbox Zero trong một tuần. Xem nó cảm thấy thế nào.
+2. **Chọn một phương pháp:** Thử nghiệm một phương pháp như Xử lý hàng loạt hoặc Inbox Zero trong một tuần. Xem nó cảm thấy thế nào.
 
-3.**Xác định điểm nghẽn:** Bạn mất nhiều thời gian nhất ở đâu? Có phải nó đang sắp xếp? Đang trả lời? Tìm kiếm thông tin? Nhiệm vụ theo dõi?
+3. **Xác định điểm nghẽn:** Bạn mất nhiều thời gian nhất ở đâu? Có phải nó đang sắp xếp? Đang trả lời? Tìm kiếm thông tin? Nhiệm vụ theo dõi?
 
-4.**Khám phá giải pháp:** Tìm kiếm các công cụ của bên thứ ba hoặc AI để giải quyết cụ thể nút thắt lớn nhất của bạn.
+4. **Khám phá giải pháp:** Tìm kiếm các công cụ của bên thứ ba hoặc AI để giải quyết cụ thể nút thắt lớn nhất của bạn.
 
-5.**Xem xét AI tích hợp:** Nếu có nhiều tính năng AI hấp dẫn (phân loại, tóm tắt, soạn thảo), hãy khám phá các nền tảng như [Chiefy](https://chiefy.com/vi) kết hợp các khả năng này để có trải nghiệm gắn kết, có khả năng đơn giản hóa bộ công cụ của bạn.
+5. **Xem xét AI tích hợp:** Nếu có nhiều tính năng AI hấp dẫn (phân loại, tóm tắt, soạn thảo), hãy khám phá các nền tảng như [Chiefy](https://chiefy.com/vi) kết hợp các khả năng này để có trải nghiệm gắn kết, có khả năng đơn giản hóa bộ công cụ của bạn.
 
-6.**Tinh chỉnh:** Liên tục tinh chỉnh hệ thống của bạn. Những gì đã làm được trong tháng trước có thể cần điều chỉnh khi vai trò hoặc dự án của bạn thay đổi.
+6. **Tinh chỉnh:** Liên tục tinh chỉnh hệ thống của bạn. Những gì đã làm được trong tháng trước có thể cần điều chỉnh khi vai trò hoặc dự án của bạn thay đổi.
 
 ## Kết luận: Lấy lại hộp thư đến của bạn, lấy lại thời gian của bạn
 

@@ -19,7 +19,9 @@ Pastāvīgā jaunu e-pastu saņemšana nav tikai kaitinoša; tā ievērojami iet
 
 Šī plūda pārvaldīšana prasa lielus izdevumus. Profesionāļi ziņo, ka aptuveni [28% no savas darba nedēļas](https://inboxdone.com/psychology-of-email-overload/) — kas atbilst 11–13 stundām — pavada, tikai e-pastu pārvaldīšanai. Šī pastāvīgā pārslēgšanās starp uzdevumiem un iesūtni nav bez sekām. Pētījumi liecina, ka pēc pārtraukuma, piemēram, e-pasta pārbaudes, koncentrēšanās atgūšana aizņem vairāk nekā [23 minūtes](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics).
 
-Ietekme sniedzas tālāk par zaudēto laiku. E-pasta pārslodze pastāvīgi ir saistīta ar paaugstinātu stresu, trauksmi un izdegšanu. Aptauja, ko citēja [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full), atklāja, ka [66% amerikāņu ziņo par stresa sajūtu](https://inboxdone.com/psychology-of-email-overload/) saņemto e-pastu apjoma dēļ. Šis pastāvīgais spiediens veicina lēmumu pieņemšanas nogurumu un var pat negatīvi ietekmēt darba apmierinātību, apgrūtinot koncentrēšanos uz stratēģisku, augstvērtīgu darbu.![Infografika, kurā redzama statistika par ikdienas e-pasta apjomu un e-pasta pārvaldībai veltīto laiku](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+Ietekme sniedzas tālāk par zaudēto laiku. E-pasta pārslodze pastāvīgi ir saistīta ar paaugstinātu stresu, trauksmi un izdegšanu. Aptauja, ko citēja [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full), atklāja, ka [66% amerikāņu ziņo par stresa sajūtu](https://inboxdone.com/psychology-of-email-overload/) saņemto e-pastu apjoma dēļ. Šis pastāvīgais spiediens veicina lēmumu pieņemšanas nogurumu un var pat negatīvi ietekmēt darba apmierinātību, apgrūtinot koncentrēšanos uz stratēģisku, augstvērtīgu darbu.
+
+![Infografika, kurā redzama statistika par ikdienas e-pasta apjomu un e-pasta pārvaldībai veltīto laiku](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 
 Vidēji profesionālis dienā saņem vairāk nekā 120 e-pastus, kas patērē stundām vērtīga darba laika.
 

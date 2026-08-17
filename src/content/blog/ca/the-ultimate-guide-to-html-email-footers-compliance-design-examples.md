@@ -44,7 +44,7 @@ Tot i que podeu afegir diversos elements en funció dels vostres objectius, algu
 
 
 | Element | Per què és important | Notes |
-| --------------------------- | --------------------------------------------------------------------------------------------| ----------------------------------------------------------------- ----------------------------------------------------------------- |
+| --- | --- | --- |
 | **Enllaç de cancel·lació de subscripció** | Exigit legalment per CAN-SPAM, GDPR, CASL per als correus electrònics de màrqueting. Genera confiança i respecta l'elecció de l'usuari. | Ha de ser clar, visible i fàcil d'utilitzar (idealment un sol clic). Les sol·licituds d'honor ràpidament (normalment en un termini de 10 dies laborables). |
 | **Adreça postal física** | Exigit legalment per CAN-SPAM i CASL. Afegeix legitimitat.                                               | Pot ser una adreça postal, un P.O registrat. Bústia o una bústia privada registrada.                                                   |
 | **Identificació del remitent** | Exigit per llei. Genera confiança.                                                                        | Indiqueu clarament el nom de la vostra empresa. Assegureu-vos que les adreces "De" i "Resposta a" siguin precises.                                              |

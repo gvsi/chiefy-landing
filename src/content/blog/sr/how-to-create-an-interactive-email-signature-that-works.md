@@ -81,7 +81,7 @@ Koji je pravi za vas? Hajde da uporedimo:
 | **Karakteristike**| Šabloni, analitika, baner kampanje, centralno upravljanje (često plaćeno) | Ograničeno samo HTML/CSS ograničenja e-pošte |
 | **Cost**| Dostupni su besplatni nivoi (često sa brendiranjem); Plaćeni planovi za više funkcija/korisnika | Besplatno (ako imate veštine) |
 
-**Preporuka za slobodnjake i startape:**Osim ako vam odgovara HTML i rigorozno testiranje, preporučujemo da započnete sa renomiranim **generatorom potpisa e-pošte**. Alati kao što su [MySignature](https://mysignature.io/) (zapaženo da su dobri za slobodnjake/male timove) ili [WiseStamp](https://www.wisestamp.com/) nude besplatne ili pristupačne planove sa profesionalnim šablonima, lakim prilagođavanjem (uključujući 2 ugrađene ⟪2-4⟫ kompatibilnosti) banera provere. [HubSpot takođe nudi popularni besplatni generator](https://www.hubspot.com/email-signature-generator) za jednostavnije potrebe.
+**Preporuka za slobodnjake i startape:**Osim ako vam odgovara HTML i rigorozno testiranje, preporučujemo da započnete sa renomiranim **generatorom potpisa e-pošte**. Alati kao što su [MySignature](https://mysignature.io/) (zapaženo da su dobri za slobodnjake/male timove) ili [WiseStamp](https://www.wisestamp.com/) nude besplatne ili pristupačne planove sa profesionalnim šablonima, lakim prilagođavanjem (uključujući CTA-ove i banere) i ugrađenim proverama kompatibilnosti. [HubSpot takođe nudi popularni besplatni generator](https://www.hubspot.com/email-signature-generator) za jednostavnije potrebe.
 
 ![Snimak ekrana interfejsa alata za generisanje potpisa e-pošte koji prikazuje šablone i opcije prilagođavanja](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 

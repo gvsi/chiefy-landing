@@ -95,7 +95,9 @@ Need funktsioonid liiguvad lihtsast korraldamisest aktiivsesse töövoohaldusse,
 
 ## Proven Frameworks: meilihaldusmeetodid Gmail jaoks
 
-Õigete tööriistade olemasolu on hädavajalik, kuid ilma süsteemita võite end siiski ülekoormatuna tunda. Tõestatud meilihaldusmetoodika kasutuselevõtt annab raamistiku nende tööriistade tõhusaks kasutamiseks.![Graafika, mis illustreerib Inbox Zero kontseptsiooni, võib-olla näitab puhast postkasti või korrastatud töölauda](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Õigete tööriistade olemasolu on hädavajalik, kuid ilma süsteemita võite end siiski ülekoormatuna tunda. Tõestatud meilihaldusmetoodika kasutuselevõtt annab raamistiku nende tööriistade tõhusaks kasutamiseks.
+
+![Graafika, mis illustreerib Inbox Zero kontseptsiooni, võib-olla näitab puhast postkasti või korrastatud töölauda](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Sellised meetodid nagu Inbox Zero pakuvad süsteemi e-kirjade tõhusaks töötlemiseks.
 
@@ -195,7 +197,9 @@ Nende populaarsete tööriistade olemasolu toob esile kohad, kus natiivne Gmail 
 
 ## Tulevik on käes: kuidas tehisintellekt muudab Gmail organisatsiooni pöörde
 
-Lisaks käsitsi reeglitele ja kolmandate osapoolte integreerimisele on järgmine piir: tehisintellekt. Tehisintellekti e-posti assistendid liiguvad kaugemale lihtsast sortimisest, et pakkuda intelligentset automatiseerimist, mis mõistab konteksti ja õpib teie eelistusi. Kuna tehisintellekti kasutuselevõtt kasvab äris kiiresti ja näitab märkimisväärset tootlikkuse kasvupotentsiaali, on selle mõju meilihaldusele sügav.![Illustratsioon, mis kujutab AI-robotit, kes elegantsel futuristlikul arvutiliidesel e-kirju arukalt sorteerib ja prioritiseerib](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Lisaks käsitsi reeglitele ja kolmandate osapoolte integreerimisele on järgmine piir: tehisintellekt. Tehisintellekti e-posti assistendid liiguvad kaugemale lihtsast sortimisest, et pakkuda intelligentset automatiseerimist, mis mõistab konteksti ja õpib teie eelistusi. Kuna tehisintellekti kasutuselevõtt kasvab äris kiiresti ja näitab märkimisväärset tootlikkuse kasvupotentsiaali, on selle mõju meilihaldusele sügav.
+
+![Illustratsioon, mis kujutab AI-robotit, kes elegantsel futuristlikul arvutiliidesel e-kirju arukalt sorteerib ja prioritiseerib](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 AI muudab e-posti haldust nutika triaaži, kokkuvõtete tegemise ja koostamisvõimalustega.
 

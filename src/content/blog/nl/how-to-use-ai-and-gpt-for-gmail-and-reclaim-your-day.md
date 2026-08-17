@@ -168,7 +168,9 @@ Hier zijn enkele praktische uitgangspunten:
 
 3. **Beoordeel specifieke behoeften:** Denk na over dagelijkse e-mailuitdagingen. Is het het enorme volume? De tijd die besteed wordt aan het opstellen van antwoorden? Moeilijk om georganiseerd te blijven? Het kiezen van een hulpmiddel dat op maat is gemaakt om dat primaire probleem op te lossen, zal de meest directe waarde opleveren.
 
-Klaar om een uitgebreide oplossing te ervaren die is ontworpen om meerdere e-mailuitdagingen tegelijk aan te pakken? Ontdek hoe tools zoals [**Chiefy**](https://chiefy.com/nl) intelligente **AI Triage** combineren om aan het licht te brengen wat urgent is, **Authentieke AI Drafting** die de unieke stem van een gebruiker leert, en **Slimme samenvatting** om de warboel te doorbreken. Ontdek hoe het de Gmail workflow kan transformeren.![Screenshot met Chiefy met een samenvatting van een lange e-mail en de belangrijkste actiepunten](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Klaar om een uitgebreide oplossing te ervaren die is ontworpen om meerdere e-mailuitdagingen tegelijk aan te pakken? Ontdek hoe tools zoals [**Chiefy**](https://chiefy.com/nl) intelligente **AI Triage** combineren om aan het licht te brengen wat urgent is, **Authentieke AI Drafting** die de unieke stem van een gebruiker leert, en **Slimme samenvatting** om de warboel te doorbreken. Ontdek hoe het de Gmail workflow kan transformeren.
+
+![Screenshot met Chiefy met een samenvatting van een lange e-mail en de belangrijkste actiepunten](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Slimme samenvattingsfuncties extraheren belangrijke punten en actiepunten, waardoor leestijd wordt bespaard.
 

@@ -95,7 +95,9 @@ Gmail piedāvā arī rīkus komunikācijas _laika_ un _efektivitātes_ pārvald�
 
 ## Proven ietvari: e-pasta pārvaldības metodoloģijas Gmail
 
-Pareizo rīku pieejamība ir būtiska, taču bez sistēmas jūs joprojām varat justies apmulsis. Pārbaudītas e-pasta pārvaldības metodoloģijas ieviešana nodrošina ietvaru šo rīku efektīvai izmantošanai.![Grafika, kas ilustrē nulles iesūtnes koncepciju, iespējams, attēlojot tīru iesūtni vai sakārtotu darba virsmu.](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Pareizo rīku pieejamība ir būtiska, taču bez sistēmas jūs joprojām varat justies apmulsis. Pārbaudītas e-pasta pārvaldības metodoloģijas ieviešana nodrošina ietvaru šo rīku efektīvai izmantošanai.
+
+![Grafika, kas ilustrē nulles iesūtnes koncepciju, iespējams, attēlojot tīru iesūtni vai sakārtotu darba virsmu.](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Tādas metodoloģijas kā Inbox Zero nodrošina sistēmu e-pasta ziņojumu efektīvai apstrādei.
 
@@ -195,7 +197,9 @@ Gmail nebija paredzēts sarežģītai komandas sadarbībai vai vizuālai projekt
 
 ## Nākotne ir klāt: Kā mākslīgais intelekts revolucionizē Gmail organizāciju
 
-Papildus manuāliem noteikumiem un trešo pušu integrācijām atrodas nākamā robeža: mākslīgais intelekts. Mākslīgā intelekta e-pasta asistenti virzās tālāk par vienkāršu kārtošanu, lai nodrošinātu inteliģentu automatizāciju, kas izprot kontekstu un apgūst jūsu preferences. Tā kā mākslīgā intelekta ieviešana uzņēmējdarbībā strauji pieaug un tam ir ievērojams produktivitātes pieauguma potenciāls, tā ietekme uz e-pasta pārvaldību ir dziļa.![Ilustrācija, kurā attēlots mākslīgā intelekta robots, kas inteliģenti šķiro un nosaka prioritātes e-pastiem, izmantojot elegantu, futūristisku datora saskarni.](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Papildus manuāliem noteikumiem un trešo pušu integrācijām atrodas nākamā robeža: mākslīgais intelekts. Mākslīgā intelekta e-pasta asistenti virzās tālāk par vienkāršu kārtošanu, lai nodrošinātu inteliģentu automatizāciju, kas izprot kontekstu un apgūst jūsu preferences. Tā kā mākslīgā intelekta ieviešana uzņēmējdarbībā strauji pieaug un tam ir ievērojams produktivitātes pieauguma potenciāls, tā ietekme uz e-pasta pārvaldību ir dziļa.
+
+![Ilustrācija, kurā attēlots mākslīgā intelekta robots, kas inteliģenti šķiro un nosaka prioritātes e-pastiem, izmantojot elegantu, futūristisku datora saskarni.](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 Mākslīgais intelekts pārveido e-pasta pārvaldību ar viedām šķirošanas, apkopošanas un rakstīšanas iespējām.
 

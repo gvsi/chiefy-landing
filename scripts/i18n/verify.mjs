@@ -205,6 +205,18 @@ const publishedContentLeftoverPatterns = [
     /\\?\[Placeholder[^\]]+\]/iu,
     /\\?\[url:placeholder_[^\]]+\]/iu,
     /\*\*(?:Képhelyőrző|Kueri Gambar Placeholder)[^\n]*/iu,
+    // Corrupted content-generation sentinel (#32). Each token stood for a
+    // DIFFERENT word per file (Superhuman / Gmail / EU / a numeral), and the
+    // generator also split the enclosing table row or heading across lines —
+    // so a recurrence needs a per-file English cross-check, never a blind
+    // replace. Leading zeros vary (ZXQ0001QXZ, ZXQ00001QXZ).
+    /ZXQ\d+QXZ/u,
+    // Sibling generator sentinels found in review of #33 (round 1): `<[Enate DUETAIKE]>0`
+    // replaced a citation link in da/nb/sv; `⟪P0002…⟫` / `…0⟫` replaced URLs and spans in sr;
+    // an escaped link opener `\[Shortwave](…)` un-linked a Turkish anchor.
+    /<\[[^\]\n]+\]>\d+/u,
+    /[⟪⟫]/u,
+    /\\\[[^\]\n]{1,80}\]\(/u,
 ]
 
 function escapeRegex(value) {
@@ -275,6 +287,155 @@ function assertNoProtectedTermGlue(locale, relativePath, content) {
             fail(`Protected glossary term appears glued to surrounding text in ${relativePath}: ${excerpt}`)
         }
     }
+}
+
+// ---- Markdown table structure (chiefy-landing #32) -------------------------------------
+// Translated tables must be syntactically sound AND structurally identical to English:
+// same table count, header cell count, row count, and every row on one line with the
+// header's cell count. GFM otherwise silently DROPS extra cells, renders split rows as
+// garbage, and un-tables whole blocks (a heading that swallowed the header row, a blank
+// line inside the table, a separator cell with an interior space).
+// Leading pipe required: it is the corpus convention (English always has it) and keeps
+// frontmatter/horizontal-rule `---` lines from being mistaken for a table separator.
+const TABLE_SEP_LINE = /^\|\s*:?-{2,}/u
+const TABLE_SEP_CELL = /^:?-+:?$/u
+
+// Files whose tables are missing CONTENT (not just markup) — a (re)translation job tracked
+// separately, not a syntax fix. Every entry MUST still fail the check; a stale entry fails
+// the run so this list cannot rot. Remove entries as the content is restored.
+const TABLE_PARITY_KNOWN_GAPS = new Set([
+    // Intentionally empty. Add "<locale>/<slug>.md" ONLY for a table whose CONTENT is missing
+    // (a translation job, not a markup fix), with a tracking issue. Every entry must still fail
+    // the check — a stale entry fails the run — so this list cannot rot.
+])
+const tableParityGapsSeen = new Set()
+
+function tableCells(line) {
+    return line.trim().replace(/^\|+|\|+$/gu, "").split("|").map((c) => c.trim())
+}
+
+function parseMarkdownTables(lines) {
+    const tables = []
+    let i = 0
+    while (i < lines.length) {
+        const s = lines[i].trim()
+        if (s.startsWith("|") && !TABLE_SEP_LINE.test(s) && i + 1 < lines.length && TABLE_SEP_LINE.test(lines[i + 1].trim())) {
+            const rows = []
+            let k = i + 2
+            while (k < lines.length) {
+                const t = lines[k].trim()
+                if (t.startsWith("|")) {
+                    if (k + 1 < lines.length && TABLE_SEP_LINE.test(lines[k + 1].trim())) break // next table's header
+                    rows.push([k])
+                    k += 1
+                } else if (t && rows.length && !lines[rows[rows.length - 1].at(-1)].trim().endsWith("|")) {
+                    rows[rows.length - 1].push(k) // orphan continuation of an unterminated row
+                    k += 1
+                } else {
+                    break
+                }
+            }
+            tables.push({ header: i, sep: i + 1, rows, end: k })
+            i = k
+        } else {
+            i += 1
+        }
+    }
+    return tables
+}
+
+function assertMarkdownTableParity(relativePath, content, englishContent) {
+    const lines = content.split("\n")
+    const enLines = englishContent.split("\n")
+    lines.forEach((ln, idx) => {
+        const s = ln.trim()
+        if (TABLE_SEP_LINE.test(s) && (idx === 0 || !lines[idx - 1].trim().startsWith("|") || TABLE_SEP_LINE.test(lines[idx - 1].trim()))) {
+            fail(`Table separator without a header row directly above it (table will not render) in ${relativePath}:${idx + 1}`)
+        }
+    })
+    const tables = parseMarkdownTables(lines)
+    const enTables = parseMarkdownTables(enLines)
+    for (const t of tables) {
+        const hc = tableCells(lines[t.header]).length
+        const sc = tableCells(lines[t.sep])
+        if (sc.length !== hc || !sc.every((c) => TABLE_SEP_CELL.test(c))) {
+            fail(`Invalid table separator (needs ${hc} dash-only cells) in ${relativePath}:${t.sep + 1}`)
+        }
+        if (t.header > 0 && lines[t.header - 1].trim() !== "") {
+            fail(`Missing blank line before table in ${relativePath}:${t.header + 1}`)
+        }
+        if (t.end < lines.length && lines[t.end].trim() !== "") {
+            fail(`Missing blank line after table (following text is absorbed as table rows) in ${relativePath}:${t.end + 1}`)
+        }
+        for (const row of t.rows) {
+            const at = `${relativePath}:${row[0] + 1}`
+            if (row.length > 1) fail(`Table row split across ${row.length} lines in ${at}`)
+            const r = lines[row[0]].trim()
+            if (!r.endsWith("|")) fail(`Table row missing trailing '|' in ${at}`)
+            const rc = tableCells(r).length
+            if (rc !== hc) fail(`Table row has ${rc} cells but header has ${hc} (extra cells are silently dropped) in ${at}`)
+        }
+    }
+    if (tables.length !== enTables.length) {
+        fail(`Table count ${tables.length} differs from English ${enTables.length} in ${relativePath}`)
+    }
+    tables.forEach((t, k) => {
+        const e = enTables[k]
+        const hc = tableCells(lines[t.header]).length
+        const ehc = tableCells(enLines[e.header]).length
+        if (hc !== ehc) fail(`Table #${k + 1} header has ${hc} cells, English has ${ehc} in ${relativePath}:${t.header + 1}`)
+        if (t.rows.length !== e.rows.length) fail(`Table #${k + 1} has ${t.rows.length} rows, English has ${e.rows.length} in ${relativePath}:${t.header + 1}`)
+    })
+}
+
+// Image paths must be identical to English, in order. Blog images live only at
+// /blog/images/*; a locale-prefixed path (/el/blog/images/…) 404s in production
+// (32 such references shipped in the 2026-05 batch — chiefy-landing #32).
+function assertBlogImagePathParity(relativePath, content, englishContent) {
+    const paths = (md) => [...md.matchAll(/!\[(?:[^[\]]|\[[^[\]]*\])*\]\(([^)\s]+)/gu)].map((m) => m[1]) // alt may hold one level of balanced [brackets] (CommonMark)
+    const local = paths(content)
+    const english = paths(englishContent)
+    if (local.length !== english.length || local.some((p, i) => p !== english[i])) {
+        fail(`Blog image paths differ from English (must be identical, unlocalized /blog/images/… paths) in ${relativePath}: ${JSON.stringify(local)} vs ${JSON.stringify(english)}`)
+    }
+    // Images are block-level figures: every line that carries image markup must be exactly one
+    // standalone image. Catches glue on either side (`text.![…](…)` / `![…](…)caption`) and
+    // markup split across lines. English satisfies this for all 26 images; 280+ localized ones did not.
+    const STANDALONE_IMAGE = /^!\[(?:[^[\]]|\[[^[\]]*\])*\]\([^)\s]+(?:\s+"[^"]*")?\)$/u
+    content.split("\n").forEach((line, idx) => {
+        if (line.includes("![") && !STANDALONE_IMAGE.test(line.trim())) {
+            fail(`Blog image markup must occupy its own line (no glued text, not split across lines) in ${relativePath}:${idx + 1}: ${line.trim().slice(0, 80)}`)
+        }
+    })
+}
+
+// Headings are the document outline (SEO, a11y). The 2026-05 batch glued headings onto the
+// preceding sentence (`…dashboard).### Next`), let a heading swallow its following paragraph,
+// or dropped the marker entirely. Level sequence must match English; a heading line more than
+// 4× its English counterpart has swallowed prose (legit max across 47 locales is 2.9×, ta).
+function assertBlogHeadingParity(relativePath, content, englishContent) {
+    const glued = content.match(/[^\s#]#{2,4}\s\S/u)
+    if (glued) {
+        fail(`Heading glued to preceding text (needs a blank line before it) in ${relativePath}: …${glued[0]}`)
+    }
+    const headings = (md) => [...md.matchAll(/^(#{1,6})[ \t]+(.*\S)[ \t]*$/gmu)].map((m) => ({ level: m[1].length, text: m[2] }))
+    const local = headings(content)
+    const english = headings(englishContent)
+    const seq = (h) => h.map((x) => x.level).join("")
+    if (seq(local) !== seq(english)) {
+        fail(`Heading structure differs from English (${local.length} vs ${english.length}: ${seq(local)} vs ${seq(english)}) in ${relativePath}`)
+    }
+    local.forEach((h, i) => {
+        if (h.text.length > 4 * Math.max(english[i].text.length, 12)) {
+            fail(`Heading is ${h.text.length} chars vs ${english[i].text.length} in English — it has swallowed the following paragraph — in ${relativePath}: ${h.text.slice(0, 60)}…`)
+        }
+    })
+}
+
+function assertNoPublishedContentPlaceholdersInValue(relativePath, value) {
+    visitStringValues(value, (content, keyPath) => {
+        assertNoPublishedContentPlaceholders(`${relativePath}:${keyPath.join(".")}`, content)
+    })
 }
 
 function assertNoProtectedTermGlueInValue(locale, relativePath, value) {
@@ -1109,6 +1270,8 @@ async function assertSourceContentFiles({ complete }) {
         assertNoRetiredBrand(locale, `src/i18n/content/home/${locale}.json`, home)
         assertNoRetiredBrand(locale, `src/i18n/messages/${locale}.json`, messages)
         assertNoProtectedTermGlueInValue(locale, `src/i18n/content/home/${locale}.json`, home)
+        assertNoPublishedContentPlaceholdersInValue(`src/i18n/messages/${locale}.json`, messages)
+        assertNoPublishedContentPlaceholdersInValue(`src/i18n/content/home/${locale}.json`, home)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.title", home.meta?.title, englishHome.meta?.title)
         assertLocalizedSeoValue(locale, `src/i18n/content/home/${locale}.json`, "meta.description", home.meta?.description, englishHome.meta?.description)
         if (locale === localeSource.default_locale) {
@@ -1130,6 +1293,7 @@ async function assertSourceContentFiles({ complete }) {
             assertLegalHtmlStructure(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             assertNoProtectedTermGlue(locale, `src/i18n/content/legal/${locale}/${page}.html`, legal)
             assertNoLegalArtifacts(`src/i18n/content/legal/${locale}/${page}.html`, legal)
+            assertNoPublishedContentPlaceholders(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             if (locale !== localeSource.default_locale) {
                 assertNoHighVisibilityEnglishLegalLeftovers(`src/i18n/content/legal/${locale}/${page}.html`, legal)
             }
@@ -1159,6 +1323,7 @@ async function assertSourceContentFiles({ complete }) {
             const vertical = readJson(`src/i18n/content/verticals/${locale}/${file}`)
             const englishVertical = readJson(`src/i18n/content/verticals/en/${file}`)
             assertNoProtectedTermGlueInValue(locale, `src/i18n/content/verticals/${locale}/${file}`, vertical)
+            assertNoPublishedContentPlaceholdersInValue(`src/i18n/content/verticals/${locale}/${file}`, vertical)
             assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "pageTitle", vertical.pageTitle, englishVertical.pageTitle)
             assertLocalizedSeoValue(locale, `src/i18n/content/verticals/${locale}/${file}`, "metaDescription", vertical.metaDescription, englishVertical.metaDescription)
             if (locale === localeSource.default_locale) {
@@ -1181,6 +1346,13 @@ async function assertSourceContentFiles({ complete }) {
             const { frontmatter } = parseMarkdownFrontmatter(readText(relativePath), relativePath)
             const markdownContent = readText(relativePath)
             assertNoPublishedContentPlaceholders(relativePath, markdownContent)
+            if (TABLE_PARITY_KNOWN_GAPS.has(`${locale}/${file}`)) {
+                tableParityGapsSeen.add(`${locale}/${file}`)
+            } else {
+                assertMarkdownTableParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
+            }
+            assertBlogImagePathParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
+            assertBlogHeadingParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
             assertNoProtectedTermGlue(locale, relativePath, markdownContent)
             assertNoLongEnglishRuns(locale, relativePath, markdownContent)
             const { frontmatter: englishFrontmatter } = parseMarkdownFrontmatter(readText(`src/content/blog/en/${file}`), `src/content/blog/en/${file}`)
@@ -1195,6 +1367,20 @@ async function assertSourceContentFiles({ complete }) {
                 fail(`Bootstrap marker remains in complete mode: ${relativePath}`)
             }
         }
+    }
+
+    // Known table-content gaps must (a) exist and (b) still fail — otherwise the entry is stale.
+    for (const gap of TABLE_PARITY_KNOWN_GAPS) {
+        if (!locales.includes(gap.slice(0, gap.indexOf("/")))) continue // out of --locales scope this run
+        if (!tableParityGapsSeen.has(gap)) fail(`TABLE_PARITY_KNOWN_GAPS entry does not match any locale/blog file: ${gap}`)
+        const file = gap.slice(gap.indexOf("/") + 1)
+        let stillBroken = false
+        try {
+            assertMarkdownTableParity(`src/content/blog/${gap}`, readText(`src/content/blog/${gap}`), readText(`src/content/blog/en/${file}`))
+        } catch {
+            stillBroken = true
+        }
+        if (!stillBroken) fail(`Stale TABLE_PARITY_KNOWN_GAPS entry — tables now match English, remove it: ${gap}`)
     }
 
     const distPath = path.join(repoRoot, "dist")

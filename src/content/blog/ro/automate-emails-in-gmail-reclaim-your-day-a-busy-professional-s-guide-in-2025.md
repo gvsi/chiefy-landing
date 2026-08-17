@@ -146,7 +146,7 @@ Automatizarea este puternică, dar folosiți-o cu înțelepciune. Iată câteva 
 Având în vedere că sunt disponibile mai multe niveluri de automatizare, de unde ar trebui să începeți? Luați în considerare nevoile, bugetul și nivelul de confort tehnic.
 
 | Funcție | Instrumente încorporate Gmail | Extensii terțe | Asistenți de e-mail cu inteligență artificială |
-| --------------- | ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| --- | --- | --- | --- |
 | **Cost** | Gratuit | Freemium (Gratuit de bază, upgrade-uri plătite) | Abonamente plătite în principal (Unele perioade de încercare/niveluri gratuite limitate) |
 | **Complexitate** | Scăzut (Configurare de bază) | Scăzut spre mediu (Instalați extensia, configurați setările) | Mediu (Necesită configurare, configurare, curbă de învățare potențială) |
 | **Beneficiu cheie** | Organizare de bază, decalaj temporal | Adaugă funcții specifice lipsă (urmărire, programare avansată, CRM, instrumente de echipă) | Reduce încărcarea cognitivă, prioritizare inteligentă, sumarizare, redactare mai rapidă |

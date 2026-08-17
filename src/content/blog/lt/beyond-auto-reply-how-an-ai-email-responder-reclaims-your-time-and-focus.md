@@ -17,7 +17,9 @@ O kas, jei jūsų el. paštas galėtų dirbti jums, o ne prieš jus? Kas, jei tu
 
 Skaičiai piešia niūrų vaizdą. 2024 m. pasaulyje kasdien išsiunčiama ir gaunama apytiksliai[ **361,6 mlrd. el. laiškų per dieną**](https://www.indectron.com/blog/email-stats/). Vidutiniam biuro darbuotojui tai reiškia maždaug[ **121 el. laišką per dieną**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/). Nenuostabu, kad profesionalai teigia skiriantys didelę savo savaitės dalį – skaičiavimai svyruoja nuo[ **11 valandų**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) iki stulbinančių[ **28 % darbo savaitės**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) – vien tik gautųjų tvarkymui.
 
-Tai ne tik nemalonumas; tai didelis produktyvumo stabdis ir reikšmingas streso šaltinis. Tyrimai rodo, kad[ **67 % žmonių jaučiasi priblokšti dėl savo gautųjų**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), o nuolatiniai trikdžiai apsunkina susitelkimą, po el. laiškų patikrinimo vidutiniškai užtrunka[ **23 minutes**](https://ppm.express/blog/checking-emails/) vėl susikoncentruoti.![Infographic showing key statistics about email overload, including average emails per day, time spent managing email, and percentage of workers feeling overwhelmed](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+Tai ne tik nemalonumas; tai didelis produktyvumo stabdis ir reikšmingas streso šaltinis. Tyrimai rodo, kad[ **67 % žmonių jaučiasi priblokšti dėl savo gautųjų**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), o nuolatiniai trikdžiai apsunkina susitelkimą, po el. laiškų patikrinimo vidutiniškai užtrunka[ **23 minutes**](https://ppm.express/blog/checking-emails/) vėl susikoncentruoti.
+
+![Infographic showing key statistics about email overload, including average emails per day, time spent managing email, and percentage of workers feeling overwhelmed](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Tradiciniai automatiniai atsakikliai, tokie kaip integruoti į Gmail ar Outlook, niekada nebuvo sukurti tokiai realybei. Jų ribotumai akivaizdūs:
 
@@ -110,7 +112,9 @@ DI el. pašto asistentų rinka sparčiai auga. Nors daugelis įrankių siūlo pe
 
 - **Privatumas ir saugumas:** kaip įrankis tvarko jūsų el. pašto duomenis? Ieškokite aiškių privatumo politikų ir saugumo priemonių (pvz., šifravimo, atitikties GDPR/CCPA).
 
-- **Kainodara:** ar kaina atitinka galimą laiko sutaupymą ir produktyvumo naudą? (Apsvarstykite IG įvertinimus, tokius kaip EmailTree.ai teiginys, kad[ **sutaupoma 2 etatų kaina**](https://emailtree.ai/) per 1000 apdorotų el. laiškų.)![Screenshot of the Chiefy Focused Dashboard showing prioritized emails categorized by Action Needed and Decisions Needed](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+- **Kainodara:** ar kaina atitinka galimą laiko sutaupymą ir produktyvumo naudą? (Apsvarstykite IG įvertinimus, tokius kaip EmailTree.ai teiginys, kad[ **sutaupoma 2 etatų kaina**](https://emailtree.ai/) per 1000 apdorotų el. laiškų.)
+
+![Screenshot of the Chiefy Focused Dashboard showing prioritized emails categorized by Action Needed and Decisions Needed](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 DI valdomos suvestinės, kaip ši Chiefy pavyzdyje, suteikia aiškų prioritetinių el. laiškų vaizdą, smarkiai sumažindamos rūšiavimo laiką
 

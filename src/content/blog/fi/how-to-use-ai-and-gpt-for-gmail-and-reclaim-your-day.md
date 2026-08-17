@@ -167,7 +167,9 @@ Tässä on joitain käytännön lähtökohtia:
 
 3. **Arvioi erityistarpeet:** Pohdi päivittäisiä sähköpostihaasteita. Onko se pelkkä volyymi? Vastausten kirjoittamiseen käytetty aika? Vaikeus pysyä järjestyksessä? Tämän ensisijaisen ongelman ratkaisemiseen räätälöidyn työkalun valitseminen tuottaa välittömimmän arvon.
 
-Oletko valmis kokemaan kattavan ratkaisun, joka on suunniteltu vastaamaan useisiin sähköpostihaasteisiin kerralla? Tutustu siihen, kuinka työkalut, kuten [**Chiefy**](https://chiefy.com/fi) yhdistävät älykkään **AI Triage** tuomaan esiin kiireelliset asiat, **Autenttisen AI Draftingin**, joka oppii käyttäjän ainutlaatuisen äänen, ja **Älykkään yhteenvedon** leikkaamaan sotkua. Katso, kuinka se voi muuttaa Gmail-työnkulkua.![Kuvakaappaus Chiefy:stä, jossa on yhteenveto pitkästä sähköpostista ja tärkeimmät toimintokohteet](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Oletko valmis kokemaan kattavan ratkaisun, joka on suunniteltu vastaamaan useisiin sähköpostihaasteisiin kerralla? Tutustu siihen, kuinka työkalut, kuten [**Chiefy**](https://chiefy.com/fi) yhdistävät älykkään **AI Triage** tuomaan esiin kiireelliset asiat, **Autenttisen AI Draftingin**, joka oppii käyttäjän ainutlaatuisen äänen, ja **Älykkään yhteenvedon** leikkaamaan sotkua. Katso, kuinka se voi muuttaa Gmail-työnkulkua.
+
+![Kuvakaappaus Chiefy:stä, jossa on yhteenveto pitkästä sähköpostista ja tärkeimmät toimintokohteet](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Smart Summarization -ominaisuudet poimivat avainkohdat ja toimintokohteet, mikä säästää lukuaikaa.
 

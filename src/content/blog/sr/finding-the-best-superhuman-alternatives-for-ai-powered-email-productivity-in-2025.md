@@ -20,7 +20,7 @@ Ovaj post će preseći buku. Pogledaćemo šta je Superhuman učinilo referentni
 
 Nemoguće je razgovarati o vrhunskim klijentima e-pošte bez priznavanja uticaja. Izbio je na scenu obećavajući – i uglavnom isporučujući – [„najbrže iskustvo e-pošte ikada napravljeno“](https://superhuman.com/). Njegova osnovna privlačnost leži u neverovatno brzom interfejsu optimizovanom za prečice na tastaturi (čuveni pristup Command-K Everithing), minimalističkom, estetski prijatnom dizajnu i funkcijama dizajniranim za napredne korisnike: podeljeno prijemno sanduče za kategorizaciju, isečci za unapred pripremljene odgovore, podsetnici za praćenje i kontroverzni, ali korisni statusi.
 
-Prepoznajući talas AI, Superhuman nije stajao mirno. Integrisao je značajne AI mogućnosti, uključujući duge niti, [„Piši sa AI“](https://superhuman.com/ai) koji uči i oponaša vaš jedinstveni stil pisanja, predloge za trenutni odgovor i [„Pitaj AI“ funkciju prirodnog jezika za pretragu](⟫0⟫0) Za mnoge koji se bave velikim obimom e-pošte, Superhuman je po prvi put učinio da se e-pošta može upravljati, čak i moćno.
+Prepoznajući talas AI, Superhuman nije stajao mirno. Integrisao je značajne AI mogućnosti, uključujući duge niti, [„Piši sa AI“](https://superhuman.com/ai) koji uči i oponaša vaš jedinstveni stil pisanja, predloge za trenutni odgovor i [„Pitaj AI“ funkciju prirodnog jezika za pretragu](https://superhuman.com/ai). Za mnoge koji se bave velikim obimom e-pošte, Superhuman je po prvi put učinio da se e-pošta može upravljati, čak i moćno.
 
 Međutim, sami faktori koji definišu Superhuman takođe stvaraju razloge da korisnici traže negde drugde.
 
@@ -44,7 +44,7 @@ Ovde stupaju AI pomoćnici za e-poštu, nudeći ciljana rešenja za ove sveprisu
 
 ### **Pametna trijaža i određivanje prioriteta: Pronalaženje signala u buci**
 
-Umesto ručnog sortiranja hronološke poplave, AI pomoćnici analiziraju dolazne e-poruke na osnovu reputacije pošiljaoca, ključnih reči, obrazaca sadržaja i naučenog ponašanja korisnika kako bi automatski otkrili šta zaista zahteva pažnju. Razmislite o funkcijama kao što su Superhuman-a [Auto Labels](https://superhuman.com/ai), [Shortwave](https://www.shortwave.com/) inteligentne, [Spark Mail](⟪P0002 ili sofisticirane) [SaneBox](https://www.sanebox.com/). Ovo inteligentno sortiranje je ključno. Umesto ručnog prosejavanja, AI deluje kao čuvar kapije, dramatično smanjujući kognitivno opterećenje prilikom odlučivanja o tome šta će se sledeće pozabaviti. Ovde se ističu alati kao što je [**Chiefy**](https://chiefy.com/sr), koristeći AI trijažu da automatski identifikuju hitne stavke, potrebne radnje ili potrebne odluke, jasno ih predstavljajući tako da se prvo pozabavite onim što je važno.
+Umesto ručnog sortiranja hronološke poplave, AI pomoćnici analiziraju dolazne e-poruke na osnovu reputacije pošiljaoca, ključnih reči, obrazaca sadržaja i naučenog ponašanja korisnika kako bi automatski otkrili šta zaista zahteva pažnju. Razmislite o funkcijama kao što su Superhuman-a [Auto Labels](https://superhuman.com/ai), [Shortwave](https://www.shortwave.com/) inteligentne, [Spark Mail](https://sparkmailapp.com/) ili sofisticirano filtriranje u [SaneBox](https://www.sanebox.com/). Ovo inteligentno sortiranje je ključno. Umesto ručnog prosejavanja, AI deluje kao čuvar kapije, dramatično smanjujući kognitivno opterećenje prilikom odlučivanja o tome šta će se sledeće pozabaviti. Ovde se ističu alati kao što je [**Chiefy**](https://chiefy.com/sr), koristeći AI trijažu da automatski identifikuju hitne stavke, potrebne radnje ili potrebne odluke, jasno ih predstavljajući tako da se prvo pozabavite onim što je važno.
 
 ![Chiefy kontrolna tabla koja prikazuje AI davanje prioriteta e-porukema na osnovu hitnosti i potrebnih radnji](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
@@ -59,13 +59,13 @@ Brzo odgovaranje često znači žrtvovanje ličnosti, što dovodi do opštih odg
 
 Svi smo se suočili sa zastrašujućom niti sa više odgovora e-pošte koja skroluje po stranicama. AI rezimiranje se bavi ovim direktno, sažimajući dugačke razgovore u sažete tačke ili kratke pasuse, naglašavajući ključne odluke, stavke akcije i ključne detalje. Alati kao što su Superhuman, Shortwave i [Canary Mail](https://canarymail.io/) nude varijacije ove funkcije. Brzo dobijanje konteksta je od vitalnog značaja, posebno kada se vraćate u složene projekte. AI rezimei značajno štede vreme. Neki alati, kao što je [**Chiefy**](https://chiefy.com/sr), idu dalje tako što održavaju kontekstualnu svest kroz nizove, pamte detalje projekta i odnose kako bi pružili još relevantnije sažetke i nacrte predloga.
 
-![Primer koji prikazuje dugačku nit e-pošte koju A](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png) sažima u ključne tačke
+![Primer koji prikazuje dugačku nit e-pošte koju AI sažima u ključne tačke](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
 
 AI rezime na Chiefy brzo izdvaja ključne tačke iz dugih niti e-pošte, štedeći dragoceno vreme
 
 ### **AI-Povered Search: Pronalaženje igala u plastu sena**
 
-Tradicionalna pretraga ključnih reči često ne uspe kada pokušava da locira određene informacije zakopane u hiljadama e-poruka. AI menja igru omogućavajući pretragu prirodnog jezika.1 Umesto da pogađate ključne reči, možete postavljati pitanja poput „pronađi ugovor koji je Bob poslao u poslednjem kvartalu“ ili „koje su bile ključne tačke iz e-poruka o planiranju za K3?“ Superhuman-a [„Pitaj AI“](https://superhuman.com/ai), Shortwave-a [AI pretraga](https://www.shortwave.com/), i Canary Mail-a Canary Mail-a [conversation]Canary Mail-a0⟫ pomoć](https://canarymail.io/) ilustruju ovu moćnu sposobnost.
+Tradicionalna pretraga ključnih reči često ne uspe kada pokušava da locira određene informacije zakopane u hiljadama e-poruka. AI menja igru omogućavajući pretragu prirodnog jezika.1 Umesto da pogađate ključne reči, možete postavljati pitanja poput „pronađi ugovor koji je Bob poslao u poslednjem kvartalu“ ili „koje su bile ključne tačke iz e-poruka o planiranju za K3?“ Superhuman-a [„Pitaj AI“](https://superhuman.com/ai), Shortwave-a [AI pretraga](https://www.shortwave.com/), i Canary Mail-a [konverzaciona AI pomoć](https://canarymail.io/) ilustruju ovu moćnu sposobnost.
 
 Efikasnost ovih karakteristika AI se u velikoj meri oslanja na njihovu besprekornu integraciju i pouzdanost. Korisnicima je potrebna tačna pomoć bez dodatnog tereta konstantne provere rada AI-a. Međutim, kada se dobro primeni, AI Trijaža, crtanje, rezimiranje i pretraga direktno se bore protiv ključnih bolnih tačaka preopterećenja i neefikasnosti e-pošte.
 

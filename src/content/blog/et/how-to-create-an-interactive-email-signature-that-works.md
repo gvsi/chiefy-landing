@@ -57,7 +57,9 @@ Kõik interaktiivsed elemendid ei ole võrdsed. Siin on mõned vabakutseliste ja
 
 - **Ajastamise link:** integreerige otse selliste tööriistadega nagu Calendly. Nupu „[Koosoleku ajakava”] või lingi lisamine (https://www.bybrand.io/blog/schedule-meeting-email-signature/) eemaldab kõnede broneerimisel tekkinud hõõrdumise.
 
-- **Logo või peapilt:** lisab isikupära ja brändi tuntust. Muutke see klõpsatavaks, lingiks teie veebisaidile. Kasutage kvaliteetset professionaalset pilti.![Näide lihtsast professionaalsest meiliallkirjast vabakutselisele koos klõpsatava kontaktteabe ja suhtluslinkidega](https://www.bybrand.io/blog/schedule-meeting-email-signature/)
+- **Logo või peapilt:** lisab isikupära ja brändi tuntust. Muutke see klõpsatavaks, lingiks teie veebisaidile. Kasutage kvaliteetset professionaalset pilti.
+
+![Näide lihtsast professionaalsest meiliallkirjast vabakutselisele koos klõpsatava kontaktteabe ja suhtluslinkidega](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Hoidke see puhtana: lihtne allkiri olulise kontaktteabe ja peamiste sotsiaalsete linkidega.
 
@@ -80,7 +82,9 @@ Milline on teie jaoks õige? Võrdleme:
 | **Omadused**        | Mallid, analüüs, bännerikampaaniad, keskhaldus (sageli tasuline)                                            | Piiratud ainult HTML/CSS-i meilipiirangutega              |
 | **Kulu**            | Saadaval tasuta tasemed (sageli koos kaubamärgiga); Tasulised plaanid rohkemate funktsioonide/kasutajate jaoks                                     | Tasuta (kui teil on oskused)                           |
 
-**Soovitus vabakutselistele ja alustavatele ettevõtetele:** kui te ei tunne HTML-i ja ranget testimist, on tungivalt soovitatav alustada maineka **e-posti allkirjade generaatoriga**. Sellised tööriistad nagu [MySignature](https://mysignature.io/) (selleks peetakse head vabakutselistele/väikestele meeskondadele) või [WiseStamp](https://www.wisestamp.com/) pakuvad tasuta või taskukohaseid plaane koos professionaalsete mallidega, lihtsa kohandamise (sh CTA-d ja bännerid) ja sisseehitatud ühilduvuskontrolliga. [HubSpot pakub lihtsamate vajaduste jaoks ka populaarset tasuta generaatorit](https://www.hubspot.com/email-signature-generator).![Ekraanipilt meiliallkirjade generaatori tööriista liidesest, mis näitab malle ja kohandamisvalikuid](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Soovitus vabakutselistele ja alustavatele ettevõtetele:** kui te ei tunne HTML-i ja ranget testimist, on tungivalt soovitatav alustada maineka **e-posti allkirjade generaatoriga**. Sellised tööriistad nagu [MySignature](https://mysignature.io/) (selleks peetakse head vabakutselistele/väikestele meeskondadele) või [WiseStamp](https://www.wisestamp.com/) pakuvad tasuta või taskukohaseid plaane koos professionaalsete mallidega, lihtsa kohandamise (sh CTA-d ja bännerid) ja sisseehitatud ühilduvuskontrolliga. [HubSpot pakub lihtsamate vajaduste jaoks ka populaarset tasuta generaatorit](https://www.hubspot.com/email-signature-generator).
+
+![Ekraanipilt meiliallkirjade generaatori tööriista liidesest, mis näitab malle ja kohandamisvalikuid](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Sellised tööriistad nagu MySignature ja WiseStamp pakuvad malle ja lihtsat kohandamist.
 
@@ -106,7 +110,9 @@ Interaktiivse allkirja loomine on vaid pool võitu. Väga oluline on tagada, et 
 
 - **Pildi optimeerimine:** kasutage kvaliteetseid, kuid väikese failisuurusega pilte (ideaaljuhul alla 100 kb allkirja kogukaalu). Hostige pilte usaldusväärselt (ärge manustage, kui see pole vajalik, kuna see suurendab meili suurust). Juurdepääsetavuse ja piltide blokeerimise korral kasutage alati kirjeldavat \`alt\` teksti.
 
-- **Limit Elements:** ärge kaasake *kõiki* suhtlusprofiile. Pidage kinni 3-4 asjakohasest. Üks tugev CTA on tavaliselt parem kui mitu nõrka.![Võrdlus, mis näitab e-posti allkirja korrektset renderdamist nii lauaarvuti kui ka mobiiliekraanil](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Limit Elements:** ärge kaasake *kõiki* suhtlusprofiile. Pidage kinni 3-4 asjakohasest. Üks tugev CTA on tavaliselt parem kui mitu nõrka.
+
+![Võrdlus, mis näitab e-posti allkirja korrektset renderdamist nii lauaarvuti kui ka mobiiliekraanil](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobiil on oluline: veenduge, et teie allkiri näeks hea välja ja töötaks hästi kõigis seadmetes.
 

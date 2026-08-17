@@ -82,8 +82,6 @@ Kupata kiini haraka ni muhimu. Zana za AI zinaweza kutenda kama msaidizi wa muht
 
 Hebu fikiria kisanduku pokezi kinachoonyesha kile kinachohitaji kuzingatiwa _sasa_. Hii ni nguvu ya AI triage. Badala ya mlisho uliosonga wa mpangilio, zana kama vile [**Chiefy**](https://chiefy.com/sw) hutoa **Dashibodi ya AI na Dashibodi Iliyolenga**. Mfumo huu huchanganua barua pepe kwa ustadi ili kupata dharura, vitendo vinavyohitajika au maamuzi, ukiziwasilisha kwa uwazi ili watumiaji waweze kukata kelele mara moja na kuelekeza nguvu zao kwa ufanisi. Hii inawakilisha mabadiliko ya dhana kutoka kwa ukaguzi wa haraka wa barua pepe hadi ushiriki wa haraka, uliopewa kipaumbele, kupunguza kwa kiasi kikubwa mzigo wa utambuzi na kuongeza tija yenye maana.
 
-![Picha ya skrini ya Dashibodi Lengwa ya Chiefy inayoonyesha barua pepe zilizopewa kipaumbele kwa uharaka na vitendo vinavyohitajika.](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
-
 ## Kuchagua Barua Pepe yako ya AI Co-Pilot: Zana na Mazingatio
 
 Soko la zana za barua pepe zinazoendeshwa na AI linashamiri, huku viendelezi vipya, nyongeza, na wasaidizi waliojitolea wakijitokeza kila mara. Utabiri wa soko unatabiri kuendelea kwa ukuaji wa haraka, ikionyesha ujumuishaji unaoongezeka wa AI katika mtiririko wa tija. Kupitia mfumo huu wa ikolojia unaopanuka kunahitaji kuzingatia kwa makini mambo kadhaa:

@@ -57,7 +57,9 @@ Ne visi interaktīvie elementi ir vienādi. Šeit ir daži pārbaudīti ieguvēj
 
 - **Plānošanas saite:** Tieša integrācija ar tādiem rīkiem kā Calendly. Pievienojot pogu vai saiti "[Plānot tikšanos"](https://www.bybrand.io/blog/schedule-meeting-email-signature/), var novērst zvanu rezervēšanas problēmas.
 
-- **Logotips vai portrets:** Piešķir personību un zīmola atpazīstamību. Padariet to noklikšķināmu, veidojot saiti uz jūsu vietni. Izmantojiet augstas kvalitātes, profesionālu attēlu.![Vienkārša profesionāla e-pasta paraksta piemērs ārštata darbiniekam ar noklikšķināmu kontaktinformāciju un sociālajām saitēm](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
+- **Logotips vai portrets:** Piešķir personību un zīmola atpazīstamību. Padariet to noklikšķināmu, veidojot saiti uz jūsu vietni. Izmantojiet augstas kvalitātes, profesionālu attēlu.
+
+![Vienkārša profesionāla e-pasta paraksta piemērs ārštata darbiniekam ar noklikšķināmu kontaktinformāciju un sociālajām saitēm](/blog/images/v2GAZDnMlZ4RY1RKQqfG5tdTLg.png)
 
 Uzturiet kārtību: vienkāršs paraksts ar būtisku kontaktinformāciju un galvenajām sociālajām saitēm.
 
@@ -80,7 +82,9 @@ Kurš variants ir piemērots tieši Jums? Salīdzināsim:
 | **Funkcijas** | Veidnes, analītika, reklāmkarogu kampaņas, centrālā pārvaldība (bieži vien par maksu) | Ierobežo tikai HTML/CSS e-pasta ierobežojumi |
 | **Cena** | Pieejami bezmaksas līmeņi (bieži vien ar zīmola veidošanu); Maksas plāni ar vairāk funkcijām/lietotājiem | Bez maksas (ja jums ir nepieciešamās prasmes) |
 
-**Ieteikums ārštata darbiniekiem un jaunizveidotiem uzņēmumiem:** Ja vien neesat apmierināts ar HTML un stingru testēšanu, ļoti ieteicams sākt ar cienījamu **e-pasta parakstu ģeneratoru**. Tādi rīki kā [MySignature](https://mysignature.io/) (atzīmēts kā piemērots ārštata darbiniekiem/mazām komandām) vai [WiseStamp](https://www.wisestamp.com/) piedāvā bezmaksas vai pieejamus plānus ar profesionālām veidnēm, vienkāršu pielāgošanu (tostarp aicinājumiem uz darbību un reklāmkarogiem) un iebūvētām saderības pārbaudēm. Vienkāršākām vajadzībām [HubSpot piedāvā arī populāru bezmaksas ģeneratoru](https://www.hubspot.com/email-signature-generator).![E-pasta paraksta ģeneratora rīka saskarnes ekrānuzņēmums, kurā redzamas veidnes un pielāgošanas iespējas](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
+**Ieteikums ārštata darbiniekiem un jaunizveidotiem uzņēmumiem:** Ja vien neesat apmierināts ar HTML un stingru testēšanu, ļoti ieteicams sākt ar cienījamu **e-pasta parakstu ģeneratoru**. Tādi rīki kā [MySignature](https://mysignature.io/) (atzīmēts kā piemērots ārštata darbiniekiem/mazām komandām) vai [WiseStamp](https://www.wisestamp.com/) piedāvā bezmaksas vai pieejamus plānus ar profesionālām veidnēm, vienkāršu pielāgošanu (tostarp aicinājumiem uz darbību un reklāmkarogiem) un iebūvētām saderības pārbaudēm. Vienkāršākām vajadzībām [HubSpot piedāvā arī populāru bezmaksas ģeneratoru](https://www.hubspot.com/email-signature-generator).
+
+![E-pasta paraksta ģeneratora rīka saskarnes ekrānuzņēmums, kurā redzamas veidnes un pielāgošanas iespējas](/blog/images/CDMZYvQ1LuyDSQmkpVkC65OHuB0.png)
 
 Tādi rīki kā MySignature un WiseStamp piedāvā veidnes un vienkāršu pielāgošanu.
 
@@ -106,7 +110,9 @@ Interaktīva paraksta izveide ir tikai puse no uzvaras. Ir ļoti svarīgi nodro�
 
 - **Attēlu optimizācija:** Izmantojiet augstas kvalitātes, bet mazus failu izmērus (ideālā gadījumā zem 100 KB kopējā paraksta svara). Uzticami mitiniet attēlus (neieguldiet tos, ja vien tas nav nepieciešams, jo tas palielina e-pasta lielumu). Vienmēr izmantojiet aprakstošu alt tekstu pieejamības nodrošināšanai un, ja attēli ir bloķēti.
 
-- **Ierobežojiet elementus:** Neiekļaujiet *visus* sociālo tīklu profilus. Pieturieties pie 3–4 atbilstošiem profiliem. Viens spēcīgs aicinājums uz darbību parasti ir labāks nekā vairāki vāji.![Salīdzinājums, kurā redzams, kā e-pasta paraksts tiek pareizi atveidots gan datora, gan mobilajā ierīcē.](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- **Ierobežojiet elementus:** Neiekļaujiet *visus* sociālo tīklu profilus. Pieturieties pie 3–4 atbilstošiem profiliem. Viens spēcīgs aicinājums uz darbību parasti ir labāks nekā vairāki vāji.
+
+![Salīdzinājums, kurā redzams, kā e-pasta paraksts tiek pareizi atveidots gan datora, gan mobilajā ierīcē.](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Mobilajām ierīcēm ir nozīme: pārliecinieties, vai jūsu paraksts izskatās lieliski un darbojas visās ierīcēs.
 

@@ -118,7 +118,7 @@ Ovo štedi ogromno vreme za ubrzavanje složenih razgovora. [Chiefy uključuje *
 
 Uticaj automatizacije e-pošte nije samo anegdotski; podaci pokazuju značajno povećanje produktivnosti:
 
-- Studije koje je citirao [Vena Solutions](https://www.venasolutions.com/blog/automation-statistics) otkrile su da **74% zaposlenih koji koriste automatizaciju izveštavaju da rade brže**(preko Salesforce) i AI/automatizacija štedi profesionalce u prodaji **procenjuje se da 2 sata i 15 minuta⟫ dnevno (via01⟫).
+- Studije koje je citirao [Vena Solutions](https://www.venasolutions.com/blog/automation-statistics) otkrile su da **74% zaposlenih koji koriste automatizaciju izveštavaju da rade brže**(preko Salesforce) i AI/automatizacija štedi profesionalce u prodaji **procenjuje se da 2 sata i 15 minuta dnevno** (via HubSpot).
 
 – Prema istraživanju na koje se poziva [Kissflov](https://kissflow.com/workflow/workflow-automation-statistics-trends/), **73% IT lidera pripisuje automatizaciji uštedu zaposlenima 10-50% vremena**koje su prethodno trošili na ručne zadatke.
 

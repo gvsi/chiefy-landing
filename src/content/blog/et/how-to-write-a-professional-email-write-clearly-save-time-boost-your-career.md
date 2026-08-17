@@ -103,7 +103,9 @@ Lõpetage oma e-kiri kaunilt ja sisestage vajalik kontaktteave.
 
 - **Valikuline (kuid sageli abiks)**: ettevõtte veebisait, LinkedIn profiili link, füüsiline aadress (kui see on asjakohane).
 
-- **Vormindamine**: hoidke seda lühidalt ([**soovitatav on maksimaalselt 4–5 rida**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), kasutage professionaalseid ja [**veebikindlaid fonte**](https://www.mailerlite.com/blog/email-signature-best-practices) (nagu Arial, Calibri) ja teie kaubamärgiga kooskõlas olevaid värve. Veenduge, et see oleks [**mobiilisõbralik**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vältige tarbetuid pilte, suuri logosid või inspireerivaid tsitaate.![Näide puhtast professionaalsest meiliallkirjast koos nime, ametinimetuse, ettevõtte, telefoni, veebisaidi ja LinkedIn lingiga](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+- **Vormindamine**: hoidke seda lühidalt ([**soovitatav on maksimaalselt 4–5 rida**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), kasutage professionaalseid ja [**veebikindlaid fonte**](https://www.mailerlite.com/blog/email-signature-best-practices) (nagu Arial, Calibri) ja teie kaubamärgiga kooskõlas olevaid värve. Veenduge, et see oleks [**mobiilisõbralik**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Vältige tarbetuid pilte, suuri logosid või inspireerivaid tsitaate.
+
+![Näide puhtast professionaalsest meiliallkirjast koos nime, ametinimetuse, ettevõtte, telefoni, veebisaidi ja LinkedIn lingiga](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Puhas ja professionaalne meiliallkiri sisaldab olulist kontaktteavet ilma segaduseta.
 

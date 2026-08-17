@@ -35,7 +35,9 @@ Kui mitu meeskonnaliiget sukeldub samasse üldisesse postkasti (nt **support\@co
 
 ### Andmepimedus: tulemuslikkuse osas pimedaks lendamine
 
-Kuidas saate oma e-posti tuge parandada, kui te ei tea, mis töötab ja mis mitte? Põhilised meilisüsteemid pakuvad vähe või üldse mitte mingit nähtavust selliste oluliste mõõdikute kohta nagu reageerimisajad, eraldusvõime määrad või agendi tootlikkus. Ilma andmeteta muutub kitsaskohtade tuvastamine, klientide levinumate valupunktide mõistmine või teie tugimeetmete tõhususe mõõtmine oletuseks. Lendate sisuliselt pimedana ega suuda jõudluse optimeerimiseks teha teadlikke otsuseid.![Armatuurlaud, mis näitab klienditeeninduse mõõdikuid punase märguandega keskmise meili reageerimisaja kohta, mis näitab ebaefektiivsust](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Kuidas saate oma e-posti tuge parandada, kui te ei tea, mis töötab ja mis mitte? Põhilised meilisüsteemid pakuvad vähe või üldse mitte mingit nähtavust selliste oluliste mõõdikute kohta nagu reageerimisajad, eraldusvõime määrad või agendi tootlikkus. Ilma andmeteta muutub kitsaskohtade tuvastamine, klientide levinumate valupunktide mõistmine või teie tugimeetmete tõhususe mõõtmine oletuseks. Lendate sisuliselt pimedana ega suuda jõudluse optimeerimiseks teha teadlikke otsuseid.
+
+![Armatuurlaud, mis näitab klienditeeninduse mõõdikuid punase märguandega keskmise meili reageerimisaja kohta, mis näitab ebaefektiivsust](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 E-kirjade aeglane reageerimisaeg mõjutab otseselt klientide rahulolu ja võib viia äritegevuse kaotamiseni.
 
@@ -192,7 +194,9 @@ Teie meilihaldustarkvara ei tohiks eksisteerida vaakumis. Sujuv integreerimine m
 
 - **Pidevalt täiustamine:** vaadake regulaarselt läbi toimivusanalüütika, et tuvastada suundumusi ja kitsaskohti. Küsige ja analüüsige aktiivselt klientide tagasisidet küsitluste või otsetaotluste kaudu. Kasutage neid teadmisi oma töövoogude, automatiseerimisreeglite, konserveeritud vastuste ja agentide koolitusprogrammide pidevaks täiustamiseks.
 
-  \![Pilt, mis kujutab klienditeenindajat, kes kasutab AI soovitustega tarkvara, et koostada isikupärastatud ja empaatiline meilivastus](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+  \
+
+![Pilt, mis kujutab klienditeenindajat, kes kasutab AI soovitustega tarkvara, et koostada isikupärastatud ja empaatiline meilivastus](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 AI tõhususe ja inimliku empaatia tasakaalustamine on erakordse klienditeeninduse võtmeks.
 

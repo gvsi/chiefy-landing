@@ -33,7 +33,9 @@ Vi har siktet gjennom alternativene for å fremheve noen av de mest effektive, v
 
 **Gratis planfunksjoner:** Den gratis "Starter"-planen gir kjerneopplevelsen i Kanban. Du kan dra e-poster for å gjøre dem om til oppgavekort, organisere dem på en personlig tavle pluss ett ekstra tilpasset tavle, bruke en dagsplanleggingsvisning og angi forfallsdatoer eller påminnelser.
 
-**UI/oppsett:** Sortd integreres direkte i Gmail, og tilbyr en veksling mellom standardvisning og tavleoppsett. Oppsett innebærer å installere utvidelsen og koble til Gmail-kontoen din, noe brukere generelt synes er enkelt.![Sortd plugin-grensesnitt som viser Gmail-innboksen forvandlet til et visuelt Kanban-tavle med dra-og-slipp e-postoppgavekort](/nb/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/oppsett:** Sortd integreres direkte i Gmail, og tilbyr en veksling mellom standardvisning og tavleoppsett. Oppsett innebærer å installere utvidelsen og koble til Gmail-kontoen din, noe brukere generelt synes er enkelt.
+
+![Sortd plugin-grensesnitt som viser Gmail-innboksen forvandlet til et visuelt Kanban-tavle med dra-og-slipp e-postoppgavekort](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Fordeler:** Fantastisk for å visualisere arbeidsflytstadier og administrere e-postsentrerte oppgaver uten å stadig bytte til et eget prosjektstyringsverktøy. Det er også nyttig å gi nytt navn til emnelinjer og legge til notater direkte i e-postoppgaver.
 
@@ -45,7 +47,9 @@ Vi har siktet gjennom alternativene for å fremheve noen av de mest effektive, v
 
 **Gratis planfunksjoner (Todoist selv):** Todoists gratisplan er ganske sjenerøs for individuell bruk, og tilbyr opptil 5 aktive prosjekter, samarbeid med opptil 5 personer per prosjekt, administrasjon av kjerneoppgaver (inkludert underoppgaver), liste- og Kanban-tavlevisninger, og muligheten til å bruke etiketter og filtre (opptil 3). Den gratis Gmail-integrasjonen (tilgjengelig som både tillegg og utvidelse) lar deg klikke på et ikon for å gjøre den åpne e-posten til en Todoist-oppgave, automatisk inkludert en lenke tilbake til den opprinnelige e-posten.
 
-**UI/oppsett:** Integrasjonen legger til et Todoist-ikon til Gmail-grensesnittet ditt (enten i den øverste verktøylinjen eller på høyre sidepanel). Ved å klikke på dette åpnes et lite panel der du raskt kan legge til e-posten som en oppgave. Oppsett krever installasjon av tillegget/utvidelsen og autorisering av tilgang til Todoist-kontoen din.![Todoist for Gmail integrasjonspanel som viser hvordan du konverterer en e-post til en oppgave med forfallsdato og prosjektvalg](/nb/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**UI/oppsett:** Integrasjonen legger til et Todoist-ikon til Gmail-grensesnittet ditt (enten i den øverste verktøylinjen eller på høyre sidepanel). Ved å klikke på dette åpnes et lite panel der du raskt kan legge til e-posten som en oppgave. Oppsett krever installasjon av tillegget/utvidelsen og autorisering av tilgang til Todoist-kontoen din.
+
+![Todoist for Gmail integrasjonspanel som viser hvordan du konverterer en e-post til en oppgave med forfallsdato og prosjektvalg](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Fordeler:** Gir en sømløs bro mellom kommunikasjonshuben (Gmail) og oppgavestyringssystemet (Todoist). Utnytter Todoists utmerkede funksjoner som naturlig datoinntasting og pålitelig synkronisering på tvers av plattformer. Det er en fin måte å oppnå "innboks null" ved å flytte handlingsrettede elementer ut av innboksen og inn i en dedikert oppgaveliste.
 

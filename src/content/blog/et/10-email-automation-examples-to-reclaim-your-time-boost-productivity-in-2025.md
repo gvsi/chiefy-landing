@@ -111,7 +111,9 @@ Tööriistad nagu [Gmelius](https://gmelius.com/blog/benefits-of-email-automatio
 
 Kas tegelete pikkade meililõimede või aruannetega? AI muudab seda, kuidas me seda teavet tarbime. AI-tööriistad suudavad pikkadest meilidest või tervetest lõimedest automaatselt kokkuvõtte teha, eraldades põhipunktid, otsused ja tegevusüksused. [Superhuman](https://superhuman.com/ai) pakub automaatse kokkuvõtte funktsiooni ja sellised tööriistad nagu Microsoft Copilot failis Outlook pakuvad ka kokkuvõtet. Platvormid nagu [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) ja [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) pakkuda spetsiaalseid tehisintellekti kokkuvõtteid.
 
-See säästab tohutult aega keeruliste vestluste jaoks. [Chiefy sisaldab **Nutikat kokkuvõtet** koos kontekstiteadlikkusega](https://chiefy.com/et), mis tähendab, et see mitte ainult ei koonda pikki lõime, vaid jätab meelde ka eelnevalt mainitud projektide ja suhete üksikasjad, tagades, et kokkuvõtted on väga asjakohased ja teostatavad.![Ekraanipilt, mis näitab Chiefy nutikat meilikokkuvõtte funktsiooni, mis koondab pika meililõime põhipunktideks ja tegevusüksusteks](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+See säästab tohutult aega keeruliste vestluste jaoks. [Chiefy sisaldab **Nutikat kokkuvõtet** koos kontekstiteadlikkusega](https://chiefy.com/et), mis tähendab, et see mitte ainult ei koonda pikki lõime, vaid jätab meelde ka eelnevalt mainitud projektide ja suhete üksikasjad, tagades, et kokkuvõtted on väga asjakohased ja teostatavad.
+
+![Ekraanipilt, mis näitab Chiefy nutikat meilikokkuvõtte funktsiooni, mis koondab pika meililõime põhipunktideks ja tegevusüksusteks](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Automatiseerimise jõud: numbrite järgi
 

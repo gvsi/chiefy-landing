@@ -116,7 +116,7 @@ Stworzenie interaktywnego podpisu to tylko połowa sukcesu. Kluczowe jest zadban
 
 Urządzenia mobilne mają znaczenie: upewnij się, że podpis wygląda świetnie i działa poprawnie na wszystkich urządzeniach.
 
-#### Najlepsze praktyki techniczne i dotyczące dostarczalności:
+### Najlepsze praktyki techniczne i dotyczące dostarczalności:
 
 - **Używaj czystego HTML:** Jeśli kodujesz ręcznie, korzystaj z prostych układów tabel i CSS inline. Unikaj niechlujnego kodu skopiowanego z Worda, ponieważ [może on powodować problemy z renderowaniem i wyzwalać filtry spamu](https://newoldstamp.com/blog/most-popular-ways-to-create-an-email-signature/).
 

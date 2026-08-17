@@ -35,7 +35,9 @@ See pidev tulv toob kaasa:
 
 - **Suurem stress:** tunne, et oled pidevalt e-kirjadest maha jäänud, aitab oluliselt kaasa tööstressile ja läbipõlemisele.
 
-Tehisintellekti kokkuvõtete tööriistade eesmärk on nende probleemidega otsekohe tegeleda, tuues kiiresti välja suhtluse olemuse, võimaldades teil tõhusalt prioriteete seada ja kursis olla ilma umbrohtu eksimata. Uuringud tehisintellekti kohta töökohal, nagu need, mille on esile tõstnud [Andmeinnovatsiooni keskus](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), näitavad käegakatsutavat tootlikkuse tõusu, kui tehisintellekt aitab täita selliseid ülesandeid nagu kokkuvõtete tegemine ja teabe otsimine.![Infograafik, mis illustreerib e-posti ülekoormuse probleemi koos põhistatistikaga](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+Tehisintellekti kokkuvõtete tööriistade eesmärk on nende probleemidega otsekohe tegeleda, tuues kiiresti välja suhtluse olemuse, võimaldades teil tõhusalt prioriteete seada ja kursis olla ilma umbrohtu eksimata. Uuringud tehisintellekti kohta töökohal, nagu need, mille on esile tõstnud [Andmeinnovatsiooni keskus](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), näitavad käegakatsutavat tootlikkuse tõusu, kui tehisintellekt aitab täita selliseid ülesandeid nagu kokkuvõtete tegemine ja teabe otsimine.
+
+![Infograafik, mis illustreerib e-posti ülekoormuse probleemi koos põhistatistikaga](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Igapäevaste meilide suur hulk rõhutab vajadust tõhusate haldustööriistade järele.
 
@@ -55,7 +57,9 @@ Funktsioonile juurdepääs sõltub teie liidesest:
 
 - **Veebiliides:** Otsige sobiva meililõime teemarea all olevat nuppu "Tee sellest meilist kokkuvõte". Teise võimalusena võite avada küljepaneeli "Küsi Gemini" (tavaliselt paremas ülanurgas oleva sädeleva ikooni kaudu) ja klõpsata soovitatud viibal, näiteks "Millest see meil räägib?" või tippige oma taotlus, näiteks "Tee sellest lõimest kokkuvõte".
 
-- **Mobiilirakendus (Android/iOS):** Sarnaselt veebiga võib teema alla ilmuda nupp „Tee sellest meilist kokkuvõte”. Seda puudutades kuvatakse tavaliselt kokkuvõte spetsiaalsel Gemini lehel või paneelil. Sageli pääsete juurde ka kokkuvõtete tegemisele ja muudele tehisintellekti funktsioonidele rakenduse ülemisel ribal oleva ikooni Gemini kaudu.![Gmail meilivaade, mis tõstab esile teemarea all oleva nupu „Tee sellest meilist kokkuvõte”](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **Mobiilirakendus (Android/iOS):** Sarnaselt veebiga võib teema alla ilmuda nupp „Tee sellest meilist kokkuvõte”. Seda puudutades kuvatakse tavaliselt kokkuvõte spetsiaalsel Gemini lehel või paneelil. Sageli pääsete juurde ka kokkuvõtete tegemisele ja muudele tehisintellekti funktsioonidele rakenduse ülemisel ribal oleva ikooni Gemini kaudu.
+
+![Gmail meilivaade, mis tõstab esile teemarea all oleva nupu „Tee sellest meilist kokkuvõte”](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 
 Gmail natiivsele kokkuvõtte funktsioonile pääseb juurde otse meililõime sees oleva nupu kaudu.
 

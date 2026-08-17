@@ -165,7 +165,9 @@ Her er nogle praktiske udgangspunkter:
 
 3. **Vurder specifikke behov:** Reflekter over daglige e-mail-udfordringer. Er det den store volumen? Tiden brugt på at skrive svar? Har du svært ved at holde orden? At vælge et værktøj, der er skræddersyet til at løse det primære problem, vil give den mest umiddelbare værdi.
 
-Klar til at opleve en omfattende løsning designet til at tackle flere e-mail-udfordringer på én gang? Udforsk, hvordan værktøjer som [**Chiefy**](https://chiefy.com/da) kombinerer intelligent **AI Triage** for at synliggøre det, der haster, **Autentisk AI Drafting**, der lærer en brugers unikke stemme, og **Smart Summarization** til at skære igennem rodet. Se, hvordan det kan transformere Gmail arbejdsgangen.![Skærmbillede, der viser Chiefy, der opsummerer en lang e-mail og fremhæver vigtige handlingspunkter](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Klar til at opleve en omfattende løsning designet til at tackle flere e-mail-udfordringer på én gang? Udforsk, hvordan værktøjer som [**Chiefy**](https://chiefy.com/da) kombinerer intelligent **AI Triage** for at synliggøre det, der haster, **Autentisk AI Drafting**, der lærer en brugers unikke stemme, og **Smart Summarization** til at skære igennem rodet. Se, hvordan det kan transformere Gmail arbejdsgangen.
+
+![Skærmbillede, der viser Chiefy, der opsummerer en lang e-mail og fremhæver vigtige handlingspunkter](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Smart Summarization-funktioner uddrager nøglepunkter og handlingspunkter, hvilket sparer læsetid.
 

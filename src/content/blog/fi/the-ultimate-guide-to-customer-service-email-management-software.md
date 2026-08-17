@@ -34,7 +34,9 @@ Kun useat tiimin jäsenet uppoavat samaan yleiseen postilaatikkoon (kuten **supp
 
 ### Data Blindness: Flying Blind on Performance
 
-Kuinka voit parantaa sähköpostitukeasi, jos et tiedä, mikä toimii ja mikä ei? Perussähköpostijärjestelmät tarjoavat vain vähän tai ei ollenkaan näkyvyyttä tärkeistä mittareista, kuten vastausajoista, resoluutionopeuksista tai agentin tuottavuudesta. Ilman dataa pullonkaulojen tunnistaminen, asiakkaiden yleisten kipukohtien ymmärtäminen tai tukitoimien tehokkuuden mittaaminen on arvailua. Lennät pohjimmiltaan sokeana, etkä pysty tekemään tietoisia päätöksiä suorituskyvyn optimoimiseksi.![Kojelauta näyttää asiakaspalvelun tiedot punaisella ilmoituksella keskimääräisestä sähköpostivastausajasta, mikä osoittaa tehottomuutta](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Kuinka voit parantaa sähköpostitukeasi, jos et tiedä, mikä toimii ja mikä ei? Perussähköpostijärjestelmät tarjoavat vain vähän tai ei ollenkaan näkyvyyttä tärkeistä mittareista, kuten vastausajoista, resoluutionopeuksista tai agentin tuottavuudesta. Ilman dataa pullonkaulojen tunnistaminen, asiakkaiden yleisten kipukohtien ymmärtäminen tai tukitoimien tehokkuuden mittaaminen on arvailua. Lennät pohjimmiltaan sokeana, etkä pysty tekemään tietoisia päätöksiä suorituskyvyn optimoimiseksi.
+
+![Kojelauta näyttää asiakaspalvelun tiedot punaisella ilmoituksella keskimääräisestä sähköpostivastausajasta, mikä osoittaa tehottomuutta](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 Hitaat sähköpostivastausajat vaikuttavat suoraan asiakastyytyväisyyteen ja voivat johtaa liiketoiminnan menettämiseen.
 
@@ -191,7 +193,9 @@ Oikean ohjelmiston valitseminen on vain puoli taistelua. Se, miten otat sen käy
 
 – **Paranna jatkuvasti:** Tarkista säännöllisesti suorituskykyanalyysit trendien ja pullonkaulojen tunnistamiseksi. Pyydä ja analysoi aktiivisesti asiakaspalautetta kyselyjen tai suorien pyyntöjen avulla. Käytä näitä tietoja työnkulkujen, automaatiosääntöjen, valmiiden vastausten ja agenttien koulutusohjelmien jatkuvaan parantamiseen.
 
-  \![Kuva esittää asiakaspalvelun edustajaa, joka käyttää ohjelmistoa AI-ehdotuksilla luodakseen henkilökohtaisen ja empaattisen sähköpostivastauksen](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+  \
+
+![Kuva esittää asiakaspalvelun edustajaa, joka käyttää ohjelmistoa AI-ehdotuksilla luodakseen henkilökohtaisen ja empaattisen sähköpostivastauksen](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 AI:n tehokkuuden ja inhimillisen empatian tasapainottaminen on avain poikkeuksellisen asiakaspalveluun.
 

@@ -21,7 +21,9 @@ Innan vi dyker in i lösningar, låt oss kvantifiera problemet. E-post är inte 
 
 - **Avbrottsskatten:** Vi kollar vår e-post ofta – vissa uppskattningar tyder på [var 6:e minut](https://www.ppm.express/blog/checking-emails)! Varje avbrott är inte bara en tillfällig blick; det tar i genomsnitt [23-25 ​​minuter](https://www.ppm.express/blog/checking-emails) att helt återfå fokus på din ursprungliga uppgift.
 
-- **Lågt värdearbete:** En betydande del av den e-posttiden går åt till lågvärdiga aktiviteter. En studie antydde att en genomsnittlig arbetstagare spenderar [51 % av sin arbetsdag](https://lifehackmethod.com/blog/time-management-statistics/) på uppgifter med liten effekt, med e-post som en stor bidragsgivare.![Foto av en synligt stressad proffs som sitter vid ett skrivbord fyllt med papper och ser överväldigad ut av sin datorskärm som visar e-postmeddelanden](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Lågt värdearbete:** En betydande del av den e-posttiden går åt till lågvärdiga aktiviteter. En studie antydde att en genomsnittlig arbetstagare spenderar [51 % av sin arbetsdag](https://lifehackmethod.com/blog/time-management-statistics/) på uppgifter med liten effekt, med e-post som en stor bidragsgivare.
+
+![Foto av en synligt stressad proffs som sitter vid ett skrivbord fyllt med papper och ser överväldigad ut av sin datorskärm som visar e-postmeddelanden](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 Överbelastning av e-post är en stor källa till stress och förlorad produktivitet för upptagna proffs.
 
@@ -49,7 +51,9 @@ Filter är din första försvarslinje mot inkorgskaos. De utför automatiskt åt
 
 - Vidarebefordra den
 
-**Kom igång:** I Gmails sökfält, klicka på inställningsikonen (ser ut som reglage) för att visa sökalternativ. Ange dina kriterier, testa sökningen, klicka sedan på "Skapa filter" och välj dina åtgärder. Utforska Googles officiella guide om [skapa filterregler](https://support.google.com/mail/answer/6579?hl=en) för detaljerade steg.![Skärmdump som visar fönstret för skapande av Gmail filter med fält för Från, Till, Ämne, Har orden och alternativ som Använd etiketten, Hoppa över inkorgen](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Kom igång:** I Gmails sökfält, klicka på inställningsikonen (ser ut som reglage) för att visa sökalternativ. Ange dina kriterier, testa sökningen, klicka sedan på "Skapa filter" och välj dina åtgärder. Utforska Googles officiella guide om [skapa filterregler](https://support.google.com/mail/answer/6579?hl=en) för detaljerade steg.
+
+![Skärmdump som visar fönstret för skapande av Gmail filter med fält för Från, Till, Ämne, Har orden och alternativ som Använd etiketten, Hoppa över inkorgen](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Använd Gmail filter för att automatiskt sortera inkommande e-postmeddelanden baserat på kriterier som avsändare eller nyckelord
 
@@ -59,7 +63,9 @@ Upplever du att du skriver liknande svar upprepade gånger? Svarar du på vanlig
 
 **Hur det fungerar:** Aktivera först mallar i inställningarna Gmail (\`Inställningar\` > \`Se alla inställningar\` > \`Avancerat\` > \`Mallar\` > \`Aktivera\`). Skriv sedan din e-postmall, klicka på de tre prickarna i skrivfönstret, gå till \`Mallar\` och \`Spara utkast som mall\`. För att använda det, klicka på de tre prickarna i ett nytt e-postmeddelande, gå till \`Mallar\` och välj din sparade mall.
 
-Detta sparar mycket tid och säkerställer konsistens i din rutinkommunikation. Du kan till och med [kombinera filter och mallar](https://hiverhq.com/blog/gmail-filters) för att automatiskt skicka ett standardsvar baserat på vissa e-postkriterier!![Skärmdump som visar hur man infogar en sparad mall (standardsvar) i Gmail-skrivfönstret via trepunktsmenyn](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Detta sparar mycket tid och säkerställer konsistens i din rutinkommunikation. Du kan till och med [kombinera filter och mallar](https://hiverhq.com/blog/gmail-filters) för att automatiskt skicka ett standardsvar baserat på vissa e-postkriterier!
+
+![Skärmdump som visar hur man infogar en sparad mall (standardsvar) i Gmail-skrivfönstret via trepunktsmenyn](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Spara tid på repetitiva svar genom att använda Gmail mallar (Canned Responses)
 
@@ -152,7 +158,9 @@ Ett förnuftigt tillvägagångssätt är att börja med nivå 1. Behärska filte
 
 E-post behöver inte vara en källa till daglig rädsla. Genom att strategiskt implementera automatisering – oavsett om det är genom Gmails inbyggda verktyg, specialiserade tillägg eller sofistikerade AI-assistenter – kan du avsevärt minska tiden och den mentala energin som spenderas på att hantera din inkorg. Du kan gå från reaktiv brandbekämpning till proaktiv kontroll, se till att viktiga meddelanden får uppmärksamhet samtidigt som du minimerar distraktioner.
 
-Målet är inte bara en tom inkorg, utan en mer fokuserad, produktiv och mindre stressig arbetsdag. Börja i det små, experimentera med de verktyg som passar dina behov mest och återta din tid för det arbete som verkligen betyder något.![Foto av en avslappnad proffs som arbetar effektivt på en bärbar dator, ler lätt, med ett rent skrivbord](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Målet är inte bara en tom inkorg, utan en mer fokuserad, produktiv och mindre stressig arbetsdag. Börja i det små, experimentera med de verktyg som passar dina behov mest och återta din tid för det arbete som verkligen betyder något.
+
+![Foto av en avslappnad proffs som arbetar effektivt på en bärbar dator, ler lätt, med ett rent skrivbord](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Ta tillbaka din tid och minska e-poststressen genom effektiv automatisering.
 

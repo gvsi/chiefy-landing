@@ -12,7 +12,9 @@ Mas e se houvesse um jeito mais inteligente? E se a tecnologia pudesse atuar nã
 ## O custo invisível da sobrecarga de emails
 O aviso constante de novos emails não é só irritante; ele drena produtividade e bem-estar de forma significativa. As estatísticas mostram um quadro duro: o trabalhador médio de escritório recebe impressionantes [121 a 126 emails todos os dias](https://www.dragapp.com/blog/email-statistics/). Globalmente, estima-se que [347 bilhões de emails](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/) foram enviados e recebidos diariamente em 2023, número projetado para subir ainda mais.
 Gerir essa enxurrada cobra um preço alto. Profissionais relatam gastar cerca de [28% da semana de trabalho](https://inboxdone.com/psychology-of-email-overload/), equivalente a 11 a 13 horas, apenas gerenciando emails. Essa alternância constante entre tarefas e caixa de entrada tem consequências. Pesquisas sugerem que leva mais de [23 minutos para recuperar o foco](https://www.selectsoftwarereviews.com/blog/employee-productivity-statistics) depois de uma interrupção como verificar email.
-O impacto vai além do tempo perdido. A sobrecarga de emails é consistentemente associada a mais estresse, ansiedade e burnout. Uma pesquisa citada pela [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) descobriu que [66% dos americanos relatam sentir estresse](https://inboxdone.com/psychology-of-email-overload/) devido ao volume de emails que recebem. Essa pressão constante contribui para fadiga de decisão e pode até afetar negativamente a satisfação no trabalho, tornando mais difícil focar atividades estratégicas e de alto valor.![Infográfico mostrando estatísticas sobre volume diário de emails e tempo gasto gerenciando email](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
+O impacto vai além do tempo perdido. A sobrecarga de emails é consistentemente associada a mais estresse, ansiedade e burnout. Uma pesquisa citada pela [Frontiers in Psychology](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1439070/full) descobriu que [66% dos americanos relatam sentir estresse](https://inboxdone.com/psychology-of-email-overload/) devido ao volume de emails que recebem. Essa pressão constante contribui para fadiga de decisão e pode até afetar negativamente a satisfação no trabalho, tornando mais difícil focar atividades estratégicas e de alto valor.
+
+![Infográfico mostrando estatísticas sobre volume diário de emails e tempo gasto gerenciando email](/blog/images/xnDtxCYzMBP3smtGCki6Ydlb4ms.png)
 O profissional médio recebe mais de 120 emails por dia, consumindo horas valiosas de trabalho.
 ## Gestão de emails com IA: o seu copiloto inteligente de caixa de entrada
 A gestão tradicional de emails costuma depender de organização manual, filtros simples por palavra-chave e muita força de vontade. Embora ajudem, esses métodos sofrem diante da maré moderna de comunicação. A gestão de emails com inteligência artificial representa um salto importante.
@@ -80,6 +82,7 @@ Quão bem a ferramenta se encaixa no seu ambiente atual? Os principais assistent
 - **Outras plataformas:** verifique compatibilidade com calendário, CRM, como Salesforce ou HubSpot, ferramentas de gestão de projetos, como Asana ou Trello, e plataformas de comunicação, como Slack.
 ### Critérios-chave de avaliação
 Além da integração básica, compare ferramentas com base em:
+
 | Critério                            | O que procurar                                                                                                                             |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Funcionalidades principais**             | Ela oferece as capacidades de que o utilizador mais precisa, como priorização, resumos, rascunhos, agendamento ou analytics?                     |
@@ -88,6 +91,7 @@ Além da integração básica, compare ferramentas com base em:
 | **Facilidade de uso**               | A interface é intuitiva? Há curva de aprendizado acentuada? A documentação ou o suporte são bons?                                        |
 | **Segurança e privacidade**         | Reveja políticas de uso de dados, padrões de encriptação, certificações de conformidade e controles do utilizador.                         |
 | **Custo e modelo de preço**         | Cabe no seu orçamento? Entenda a estrutura de preços, assinatura, por utilizador ou por uso. Há trial gratuito ou plano freemium?           |
+
 Escolher a ferramenta certa de email com IA envolve avaliar funcionalidades, segurança, integração, usabilidade e custo.
 ## Recupere o seu foco: adote o seu assistente de email com IA
 O email não vai desaparecer, mas nossa relação com ele pode evoluir. A gestão de emails com inteligência artificial oferece um caminho poderoso para sair da sobrecarga da caixa de entrada e chegar a mais controle, eficiência e foco. Ao automatizar a triagem de forma inteligente, resumir informações complexas e ajudar nos rascunhos, essas ferramentas atuam como copilotos valiosos, liberando a sua energia mental para o trabalho que realmente importa.

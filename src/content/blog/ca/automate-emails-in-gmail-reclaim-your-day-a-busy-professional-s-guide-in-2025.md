@@ -210,7 +210,7 @@ Amb diversos nivells d'automatització disponibles, per on hauríeu de començar
 
 
 | Característica | Gmail Eines integrades | Extensions de tercers | AI Assistents de correu electrònic |
-| --------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------- ----------------------------------------------------------- |
+| --- | --- | --- | --- |
 | **Cost** | Gratuït | Freemium (actualitzacions bàsiques gratuïtes i de pagament) | Subscripcions de pagament principalment (algunes proves/nivells gratuïts limitats) |
 | **Complexitat** | Baix (Configuració bàsica) | Baix a mitjà (instal·la l'extensió, configura la configuració) | Mitjà (Requereix configuració, configuració, possible corba d'aprenentatge) |
 | **Benefici clau** | Organització bàsica, desplaçament temporal | Afegeix funcions específiques que falten (seguiment, programació avançada, CRM, eines d'equip) | Redueix la càrrega cognitiva, priorització intel·ligent, resum, redacció més ràpida |

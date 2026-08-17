@@ -46,17 +46,11 @@ Konu satırınızı mikro bir özet olarak düşünün. E-posta kutularının a�
 **Görsel 1: İyi ve Kötü Konu Başlıkları**
 
 | **Kötü Konu Başlığı** | **İyi Konu Başlığı** | **Neden Daha İyi** |
-
 | -------------------- | ---------------------------------------- | ------------------------------------------------ |
-
 | Toplantı | Talep: Bütçe Toplantısı Perşembe 14:00 | Spesifik, eylem, zaman ve konu içerir |
-
 | Güncelleme | Phoenix Projesi: Haftalık Durum Güncellemesi | Projeyi ve güncelleme türünü tanımlar |
-
 | Hızlı Soru | 3. Çeyrek Pazarlama Raporu Verileriyle İlgili Soru | Spesifik konu, önceliklendirmeye olanak tanır |
-
 | Takip | Takip: Konuşmamız | Bağlam sağlar, hatırlamaya yardımcı olur |
-
 | Önemli! | Gerekli İşlem: Çalışma Saatleri Çizelgesini Gün Sonu Gönderin | Net işlem, belirli son tarih, aciliyet duygusunu iletiyor |
 
 ### **Selamlaşma: Doğru Başlangıç**
@@ -156,23 +150,14 @@ Yapı ve üslubun ötesinde, belirli kurallar profesyonel e-posta iletişimini k
 **Görsel 4: E-posta Görgü Kuralları: Yapılması ve Yapılmaması Gerekenler**
 
 | **Alan** | **Yapılması Gerekenler** | **Yapılmaması Gerekenler** |
-
 | ---------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-
 | **Konu Başlığı** | Açık, özlü ve spesifik olun. Anahtar kelimeler kullanın. Gerekli eylemi belirtin. | Boş bırakmayın. Belirsiz terimler kullanmayın. Tamamen büyük harf veya aşırı noktalama işareti kullanmayın. |
-
 | **Selamlama** | Uygun resmiyet kullanın ("Sayın," "Merhaba," "Selam"). Yazımını kontrol edin. Emin değilseniz cinsiyet ayrımı yapmayın. | Uygun olmadıkça aşırı samimi selamlamalar ("Hey," "Selam") kullanmayın. Mümkünse "İlgili Kişiye" ifadesini kullanın. |
-
 | **Üslup** | Profesyonel, kibar ve olumlu olun. Hedef kitleye/bağlama uyum sağlayın. | Aşırı duygusal (öfkeli, alaycı) olmayın. Mizahı dikkatsizce kullanmayın. Tamamen büyük harf kullanmayın. |
-
 | **Biçimlendirme** | Kısa paragraflar, madde işaretleri kullanın. Standart, okunabilir yazı tipleri (Arial, Calibri) ve renkler (siyah) kullanın. | Uzun, yoğun metin blokları yazmayın. Birden fazla yazı tipi/renk/boyut kullanmayın. |
-
-| **Ekler** | Ekleri e-posta gövdesinde belirtin. Büyük dosyalar için bağlantıları göz önünde bulundurun. | Büyük dosyaları önceden haber vermeden göndermeyin. | Dosyayı eklemeyi unutmayın. |
-
+| **Ekler** | Ekleri e-posta gövdesinde belirtin. Büyük dosyalar için bağlantıları göz önünde bulundurun. | Büyük dosyaları önceden haber vermeden göndermeyin. Dosyayı eklemeyi unutmayın. |
 | **Yanıtla/CC/BCC** | Yanıtla-Tümünü nadiren kullanın (sadece herkesin bilmesi gerekiyorsa). Toplu e-postalar/gizlilik için BCC kullanın. | Varsayılan olarak Yanıtla-Tümünü kullanın. E-posta listelerini BCC yerine CC kullanarak ifşa edin. |
-
 | **Yazım Denetimi** | Her e-postayı yazım denetiminden geçirin. Sesli okuyun. | Yalnızca yazım denetimine güvenmeyin. Yazım hataları veya dilbilgisi hataları içeren e-postalar göndermeyin. |
-
 | **İmza** | Gerekli iletişim bilgilerini ekleyin. Temiz, özlü ve mobil uyumlu olmasına dikkat edin. | Gereksiz alıntılar veya büyük resimler eklemeyin. Profesyonel olmayan yazı tipleri/renkler kullanmayın. İmza eklemeyi unutmayın. |
 
 ##

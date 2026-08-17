@@ -258,7 +258,7 @@
     "initialUserMessage": "क्या आप अकाउंटिंग द्वारा भेजा गया Stripe चालान ढूंढ सकते हैं?",
     "processingText": "इनबॉक्स खोज रहा हूँ...",
     "foundHeader": "Stripe से 2 ईमेल मिले",
-    "foundBody": "मुझे अक्टूबर 24th. से ZXQ0002QXZ USD की रसीद मिली",
+    "foundBody": "मुझे अक्टूबर 24th. से $29.00 USD की रसीद मिली",
     "attachment": {
       "fileName": "invoice_oct24.pdf",
       "fileSize": "142 KB"

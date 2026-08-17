@@ -95,7 +95,9 @@ Disse funktioner bevæger sig ud over simpel organisering til aktiv arbejdsgangs
 
 ## Proven Frameworks: Email Management Methodologier for Gmail
 
-Det er vigtigt at have de rigtige værktøjer, men uden et system kan du stadig føle dig overvældet. Vedtagelse af en gennemprøvet e-mail-administrationsmetode giver rammerne for at bruge disse værktøjer effektivt.![Grafik, der illustrerer konceptet med Inbox Zero, måske viser en ren indbakke eller et organiseret skrivebord](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Det er vigtigt at have de rigtige værktøjer, men uden et system kan du stadig føle dig overvældet. Vedtagelse af en gennemprøvet e-mail-administrationsmetode giver rammerne for at bruge disse værktøjer effektivt.
+
+![Grafik, der illustrerer konceptet med Inbox Zero, måske viser en ren indbakke eller et organiseret skrivebord](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Metoder som Inbox Zero giver et system til effektiv behandling af e-mails.
 
@@ -195,7 +197,9 @@ Eksistensen af disse populære værktøjer fremhæver, hvor native Gmail ofte ko
 
 ## Fremtiden er her: Hvordan AI revolutionerer Gmail Organisation
 
-Ud over manuelle regler og tredjepartsintegrationer ligger den næste grænse: kunstig intelligens. AI-e-mail-assistenter bevæger sig ud over simpel sortering for at levere intelligent automatisering, der forstår konteksten og lærer dine præferencer at kende. Med AI-adoption, der vokser hurtigt i erhvervslivet og viser et betydeligt potentiale for produktivitetsgevinster, er dens indvirkning på e-mail-administration stor.![Illustration, der viser en AI-robot, der intelligent sorterer og prioriterer e-mails på en elegant, futuristisk computergrænseflade](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Ud over manuelle regler og tredjepartsintegrationer ligger den næste grænse: kunstig intelligens. AI-e-mail-assistenter bevæger sig ud over simpel sortering for at levere intelligent automatisering, der forstår konteksten og lærer dine præferencer at kende. Med AI-adoption, der vokser hurtigt i erhvervslivet og viser et betydeligt potentiale for produktivitetsgevinster, er dens indvirkning på e-mail-administration stor.
+
+![Illustration, der viser en AI-robot, der intelligent sorterer og prioriterer e-mails på en elegant, futuristisk computergrænseflade](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 AI transformerer e-mail-administration med smart triage, opsummering og udkast.
 

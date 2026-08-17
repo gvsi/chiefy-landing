@@ -103,7 +103,9 @@ Afslut din e-mail med ynde og angiv de nødvendige kontaktoplysninger.
 
 - **Valgfrit (men ofte nyttigt)**: Firmaets hjemmeside, LinkedIn-profillink, fysisk adresse (hvis relevant).
 
-  - **Formatering**: Hold det kortfattet ([**4-5 linjer maks. anbefales**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), brug professionelle og [**websikre skrifttyper**](https://www.mailerlite.com/blog/email-signature-best-practices) (som Arial, Calibri) og farver, der stemmer overens med dit brand. Sørg for, at den er [**mobilvenlig**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Undgå unødvendige billeder, store logoer eller inspirerende citater.![Eksempel på en ren professionel e-mailsignatur med navn, titel, virksomhed, telefon, hjemmeside og LinkedIn-link](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  - **Formatering**: Hold det kortfattet ([**4-5 linjer maks. anbefales**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), brug professionelle og [**websikre skrifttyper**](https://www.mailerlite.com/blog/email-signature-best-practices) (som Arial, Calibri) og farver, der stemmer overens med dit brand. Sørg for, at den er [**mobilvenlig**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary). Undgå unødvendige billeder, store logoer eller inspirerende citater.
+
+![Eksempel på en ren professionel e-mailsignatur med navn, titel, virksomhed, telefon, hjemmeside og LinkedIn-link](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 En ren, professionel e-mail-signatur inkluderer vigtige kontaktoplysninger uden rod.
 

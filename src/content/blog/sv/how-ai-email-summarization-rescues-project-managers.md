@@ -15,7 +15,7 @@ Om detta låter bekant är du definitivt inte ensam. Den genomsnittliga proffsen
 
 Men tänk om du kunde få en intelligent assistent omedelbart att destillera de vidsträckta konversationerna till koncisa, handlingsbara sammanfattningar? Ange AI-e-postsammanfattning. Denna snabbt utvecklande teknik erbjuder projektledare ett kraftfullt sätt att skära igenom bruset i inkorgen, återvinna värdefull tid och behålla kontrollen över projektkommunikationen. I det här inlägget kommer vi att dyka djupt in i det specifika e-kaoset som PM möter, utforska hur AI-sammanfattningen fungerar som sin magi, avslöja de påtagliga fördelarna för din roll och titta på hur dessa verktyg kan hjälpa dig att äntligen erövra din inkorg.
 
-##Project Manager's Inbox Nightmare: More Than Just Volume
+## Project Manager's Inbox Nightmare: More Than Just Volume
 
 Det är inte bara _antal_ e-postmeddelanden som träffar din inkorg; det är projektkommunikationens _natur_ som förvandlar e-post från ett användbart verktyg till ett produktivitetsminfält. jektledare kämpar ständigt mot specifika utmaningar inbakade i e-postformatet:
 
@@ -116,7 +116,9 @@ Okej, så AI kan kondensera e-postmeddelanden med olika tekniker. Men hur hjälp
 
 6. **Minska kognitiv belastning och öka fokus:** Sluta försök att mentalt jonglera med detaljerna i dussintals aktiva e-posttrådar. Att avlasta uppgiften att kondensera och extrahera nyckelinformation till AI frigör dina värdefulla kognitiva resurser. Detta gör att du kan ägna mer mental energi åt strategiskt tänkande, komplex problemlösning, riskanalys och att leda ditt team – det värdefulla arbetet som verkligen definierar en PM:s roll.
 
-   - **PM Användningsfall:** Använda sammanfattningar för att snabbt bearbeta och arkivera uppdateringstrådar med lägre prioritet under dedikerad "e-posttid", vilket bevarar mental bandbredd för att hantera de komplexa, kritiska problemen.![Infografik över fördelar med AI-e-postsammanfattningar för PM](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+   - **PM Användningsfall:** Använda sammanfattningar för att snabbt bearbeta och arkivera uppdateringstrådar med lägre prioritet under dedikerad "e-posttid", vilket bevarar mental bandbredd för att hantera de komplexa, kritiska problemen.
+
+![Infografik över fördelar med AI-e-postsammanfattningar för PM](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 AI e-postsammanfattning erbjuder påtagliga fördelar, hjälper projektledare att spara tid, spåra nyckelinformation och minska mental trötthet
 

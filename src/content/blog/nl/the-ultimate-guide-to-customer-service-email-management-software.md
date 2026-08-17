@@ -35,7 +35,9 @@ Wanneer meerdere teamleden dezelfde generieke inbox gebruiken (zoals **support\@
 
 ### Datablindheid: blind vliegen op prestaties
 
-Hoe kunt u uw e-mailondersteuning verbeteren als u niet weet wat werkt en wat niet? Basis-e-mailsystemen bieden weinig tot geen inzicht in cruciale meetgegevens zoals responstijden, oplossingspercentages of de productiviteit van agenten. Zonder gegevens wordt het identificeren van knelpunten, het begrijpen van veelvoorkomende pijnpunten van klanten of het meten van de effectiviteit van uw ondersteuningsinspanningen giswerk. Je vliegt in wezen blind en bent niet in staat weloverwogen beslissingen te nemen om de prestaties te optimaliseren.![Dashboard toont klantenservicestatistieken met een rode waarschuwing over de gemiddelde e-mailresponstijd, wat inefficiëntie aangeeft](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
+Hoe kunt u uw e-mailondersteuning verbeteren als u niet weet wat werkt en wat niet? Basis-e-mailsystemen bieden weinig tot geen inzicht in cruciale meetgegevens zoals responstijden, oplossingspercentages of de productiviteit van agenten. Zonder gegevens wordt het identificeren van knelpunten, het begrijpen van veelvoorkomende pijnpunten van klanten of het meten van de effectiviteit van uw ondersteuningsinspanningen giswerk. Je vliegt in wezen blind en bent niet in staat weloverwogen beslissingen te nemen om de prestaties te optimaliseren.
+
+![Dashboard toont klantenservicestatistieken met een rode waarschuwing over de gemiddelde e-mailresponstijd, wat inefficiëntie aangeeft](/blog/images/KIVKbzPvN1lBXJBKuw2sjPFmvTs.png)
 
 Trage e-mailresponstijden hebben een directe invloed op de klanttevredenheid en kunnen tot omzetverlies leiden.
 
@@ -192,7 +194,9 @@ Het kiezen van de juiste software is slechts het halve werk. Hoe u het implement
 
 - **Continu verbeteren:** Controleer regelmatig de prestatieanalyses om trends en knelpunten te identificeren. Vraag en analyseer actief feedback van klanten via enquêtes of directe verzoeken. Gebruik deze inzichten om uw workflows, automatiseringsregels, standaardantwoorden en trainingsprogramma's voor agenten voortdurend te verfijnen.
 
-  \![Afbeelding van een medewerker van de klantenservice die software gebruikt met AI-suggesties om een gepersonaliseerde en empathische e-mailreactie te maken](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
+  \
+
+![Afbeelding van een medewerker van de klantenservice die software gebruikt met AI-suggesties om een gepersonaliseerde en empathische e-mailreactie te maken](/blog/images/NxrqzzM0GEoijkwKurvDmHC0FBo.png)
 
 Het balanceren van AI-efficiëntie met menselijke empathie is de sleutel tot uitzonderlijke klantenservice.
 

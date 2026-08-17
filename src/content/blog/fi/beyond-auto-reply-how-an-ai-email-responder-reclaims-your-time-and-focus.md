@@ -16,7 +16,9 @@ Tämä viesti sukeltaa syvälle AI-sähköpostivastaajien maailmaan. Tutkimme, m
 
 Numerot antavat terävän kuvan. Vuonna 2024 maailma lähettää ja vastaanottaa arviolta[ **361,6 miljardia sähköpostia päivässä**](https://www.indectron.com/blog/email-stats/). Keskivertotoimistotyöntekijälle tämä tarkoittaa noin [ **121 sähköpostin vastaanottamista päivässä**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/). Ei ole ihme, että ammattilaiset kertovat käyttävänsä huomattavan osan viikosta – arviot vaihtelevat [ **11 tunnista**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) huikeaan[ **28 prosenttiin työviikosta**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) – pelkästään postilaatikkonsa hallintaan.
 
-Tämä ei ole vain ärsytystä; se on merkittävä tuottavuuden lähde ja merkittävä stressin lähde. Tutkimukset osoittavat, että[ **67 % ihmisistä kokee, että postilaatikkonsa ahdistaa**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), ja jatkuvat keskeytykset vaikeuttavat keskittymistä. Keskittymiskyky palautuu keskimäärin [**23 minuutissa**](https://ppm.express/blog/checking-emails/) sähköpostin tarkistamisen jälkeen.![Infografiikka, joka näyttää tärkeimmät tilastot sähköpostin ylikuormituksesta, mukaan lukien keskimääräiset sähköpostit päivässä, sähköpostin hallintaan käytetty aika ja prosenttiosuus työntekijöistä, jotka tuntevat itsensä ylikuormituiksi](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+Tämä ei ole vain ärsytystä; se on merkittävä tuottavuuden lähde ja merkittävä stressin lähde. Tutkimukset osoittavat, että[ **67 % ihmisistä kokee, että postilaatikkonsa ahdistaa**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), ja jatkuvat keskeytykset vaikeuttavat keskittymistä. Keskittymiskyky palautuu keskimäärin [**23 minuutissa**](https://ppm.express/blog/checking-emails/) sähköpostin tarkistamisen jälkeen.
+
+![Infografiikka, joka näyttää tärkeimmät tilastot sähköpostin ylikuormituksesta, mukaan lukien keskimääräiset sähköpostit päivässä, sähköpostin hallintaan käytetty aika ja prosenttiosuus työntekijöistä, jotka tuntevat itsensä ylikuormituiksi](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Perinteisiä automaattisia vastelaitteita, kuten Gmailin tai Outlookin sisäänrakennettuja, ei ole koskaan suunniteltu tähän todellisuuteen. Niiden rajoitukset ovat selvät:
 
@@ -109,7 +111,9 @@ AI-sähköpostiavustajien markkinat kasvavat nopeasti. Vaikka monet työkalut ta
 
 - **Tietosuoja ja turvallisuus:** Miten työkalu käsittelee sähköpostitietojasi? Etsi selkeitä tietosuojakäytäntöjä ja turvatoimia (esim. salaus, GDPR/CCPA-yhteensopivuus).
 
-– **Hinnoittelu:** Vastaavatko kustannukset mahdollisia ajansäästöjä ja tuottavuuden lisäyksiä? (Ota huomioon ROI-arviot, kuten EmailTree.ai:n väite, jonka mukaan[ **säästöä 2 FTE:n kustannuksissa**](https://emailtree.ai/) 1 000 käsiteltyä sähköpostiviestiä kohti).![Kuvakaappaus Chiefy Focussed Dashboardista, jossa näkyvät ensisijaiset sähköpostit, jotka on luokiteltu tarvittavien toimenpiteiden ja tarvittavien päätösten mukaan](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+– **Hinnoittelu:** Vastaavatko kustannukset mahdollisia ajansäästöjä ja tuottavuuden lisäyksiä? (Ota huomioon ROI-arviot, kuten EmailTree.ai:n väite, jonka mukaan[ **säästöä 2 FTE:n kustannuksissa**](https://emailtree.ai/) 1 000 käsiteltyä sähköpostiviestiä kohti).
+
+![Kuvakaappaus Chiefy Focussed Dashboardista, jossa näkyvät ensisijaiset sähköpostit, jotka on luokiteltu tarvittavien toimenpiteiden ja tarvittavien päätösten mukaan](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 AI-käyttöiset kojelaudat, kuten tämä Chiefy:n esimerkki, tarjoavat selkeän kuvan tärkeimmistä sähköposteista, mikä lyhentää lajitteluaikaa merkittävästi
 

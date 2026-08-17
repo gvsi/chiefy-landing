@@ -51,7 +51,7 @@ Indvirkningen på produktiviteten er betydelig. Hver e-mailafbrydelse tager i ge
 
 Markedet er fyldt med stærke konkurrenter. Her er et kig på nogle af de førende Polymail-alternativer, der hver tilbyder en særskilt tilgang til e-mail-produktivitet:
 
-###Superhuman: Behovet for hastighed (til en pris)
+### Superhuman: Behovet for hastighed (til en pris)
 
 - **Kernefokus:** Bygget fra bunden af for hastighed og effektivitet, med stor vægt på tastaturgenveje for at hjælpe brugerne med at flyve gennem deres indbakke. Målet er at få e-mailbehandling til at føles ubesværet med det formål at spare brugere betydelig tid ugentligt.
 
@@ -67,7 +67,7 @@ Markedet er fyldt med stærke konkurrenter. Her er et kig på nogle af de føren
 
 - **Overvejelser:** Den høje pris er den vigtigste hindring. Begrænset support fra e-mailudbydere udelukker mange brugere. Den tastaturcentrerede tilgang har en indlæringskurve.
 
-###Missive: Collaboration Powerhouse
+### Missive: Collaboration Powerhouse
 
 - **Kernefokus:** Designet som et centralt knudepunkt for teamkommunikation og -samarbejde, der strækker sig ud over e-mail til at inkludere SMS, sociale mediebeskeder og intern chat. Ideel til håndtering af delte indbakker (f.eks. support@, salg@).
 
@@ -83,7 +83,7 @@ Markedet er fyldt med stærke konkurrenter. Her er et kig på nogle af de føren
 
 - **Overvejelser:** Kan være alt for kompliceret for enkeltpersoner eller teams med simple behov. Nogle brugere rapporterer, at søgeydelsen kan afhænge af den tilsluttede e-mail-servers hastighed.
 
-###Spark Mail: Den funktionsrige allrounder
+### Spark Mail: Den funktionsrige allrounder
 
 - **Kernefokus:** Sigter mod at give en afbalanceret oplevelse, der forbedrer individuel e-mail-produktivitet med en ren grænseflade, samtidig med at den tilbyder solide teamsamarbejdsfunktioner og bred platformskompatibilitet.
 
@@ -99,7 +99,7 @@ Markedet er fyldt med stærke konkurrenter. Her er et kig på nogle af de føren
 
 - **Overvejelser:** Teamsamarbejdsfunktioner er mindre omfattende endMissives. AI-funktionalitet kræver et betalt abonnement. Superbrugere vil måske findeSuperhumans interface og hastighedsoptimeringer mere overbevisende.
 
-###Shortwave: AI-drevet organisation for Gmail
+### Shortwave: AI-drevet organisation for Gmail
 
 - **Kernefokus:** Udnytter AI i høj grad til automatisk at organisere indbakken og strømline arbejdsgange, specielt skræddersyet til Gmail og Google Workspace-brugere. Henter inspiration fra den elskede (og hedengangne)Google indbakke.
 
@@ -115,7 +115,7 @@ Markedet er fyldt med stærke konkurrenter. Her er et kig på nogle af de føren
 
 - **Overvejelser:** Begrænset til Google økosystemet. Den gratis plans begrænsninger (især den obligatoriske signatur og korte historie) gør den mindre levedygtig til professionel brug. Nogle avancerede AI-funktioner kræver muligvis fortrolighed.
 
-###Chiefy: Personlig AI-effektivitet for Gmail brugere
+### Chiefy: Personlig AI-effektivitet for Gmail brugere
 
 - **Kernefokus:** Fungerer som en intelligent AI-assistent, der er specielt designet til Gmail, der prioriterer at lære brugerens unikke kommunikationsstil for at spare timer og samtidig bevare ægtheden. Den fokuserer på at reducere indbakkestress gennem smart prioritering og kontekstbevidst assistance.
 

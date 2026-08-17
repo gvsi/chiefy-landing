@@ -33,7 +33,9 @@ Oleme vaadanud läbi valikud, et tuua esile mõned kõige tõhusamad, hästi hin
 
 **Tasuta paketi funktsioonid:** tasuta stardipakett pakub Kanbani põhikogemust. Saate lohistada e-kirju, et muuta need ülesannete kaartideks, korraldada need isiklikule tahvlile ja veel ühele kohandatud tahvlile, kasutada päevaplaneerija vaadet ja määrata tähtaegu või meeldetuletusi.
 
-**Kasutajaliides/seadistus:** Sortd integreerub otse Gmail-sse, pakkudes lülitumist standardvaate ja selle tahvli paigutuse vahel. Seadistamine hõlmab laienduse installimist ja teie Gmail konto ühendamist, mis on kasutajatele üldiselt lihtne.![Sortimismooduli liides, mis näitab Gmail sisendkausta, mis on muudetud visuaalseks Kanbani tahvliks koos pukseeritavate meiliülesannete kaartidega](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**Kasutajaliides/seadistus:** Sortd integreerub otse Gmail-sse, pakkudes lülitumist standardvaate ja selle tahvli paigutuse vahel. Seadistamine hõlmab laienduse installimist ja teie Gmail konto ühendamist, mis on kasutajatele üldiselt lihtne.
+
+![Sortimismooduli liides, mis näitab Gmail sisendkausta, mis on muudetud visuaalseks Kanbani tahvliks koos pukseeritavate meiliülesannete kaartidega](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Plussid:** Suurepärane töövoo etappide visualiseerimiseks ja meilikesksete ülesannete haldamiseks ilma pidevalt eraldi projektihaldustööriista kasutamata. Kasulik on ka teemaridade ümbernimetamine ja märkmete lisamine otse meiliülesannetele.
 
@@ -45,7 +47,9 @@ Oleme vaadanud läbi valikud, et tuua esile mõned kõige tõhusamad, hästi hin
 
 **Tasuta plaani funktsioonid (Todoist ise):** Todoisti tasuta pakett on individuaalseks kasutamiseks üsna helde, pakkudes kuni 5 aktiivset projekti, koostööd kuni 5 inimesega projekti kohta, põhiülesannete haldamist (sh alamülesanded), loendi ja Kanbani tahvli vaateid ning võimalust kasutada silte ja filtreid (kuni 3). Tasuta Gmail integratsioon (saadaval nii lisandmoodulina kui ka laiendusena) võimaldab teil klõpsata ikoonil, et muuta praegu avatud meil Todoisti ülesandeks, kaasates automaatselt lingi algsele meilile.
 
-**Kasutajaliides/Seadistus:** Integratsioon lisab teie Gmail liidesele (kas ülemisele tööriistaribale või parempoolsele paneelile) Todoisti ikooni. Sellel klõpsates avaneb väike paneel, kuhu saate meili kiiresti ülesandena lisada. Seadistamine nõuab lisandmooduli/laienduse installimist ja juurdepääsu lubamist teie Todoisti kontole.![Todoist for Gmail integreerimispaneel, mis näitab, kuidas teisendada e-kiri tähtaja ja projektivalikuga ülesandeks](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**Kasutajaliides/Seadistus:** Integratsioon lisab teie Gmail liidesele (kas ülemisele tööriistaribale või parempoolsele paneelile) Todoisti ikooni. Sellel klõpsates avaneb väike paneel, kuhu saate meili kiiresti ülesandena lisada. Seadistamine nõuab lisandmooduli/laienduse installimist ja juurdepääsu lubamist teie Todoisti kontole.
+
+![Todoist for Gmail integreerimispaneel, mis näitab, kuidas teisendada e-kiri tähtaja ja projektivalikuga ülesandeks](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Plussid:** Loob sujuva silla teie sidekeskuse (Gmail) ja ülesannete haldussüsteemi (Todoist) vahel. Kasutab Todoisti suurepäraseid funktsioone, nagu loomuliku keele kuupäeva sisestamine ja usaldusväärne platvormideülene sünkroonimine. See on suurepärane viis postkasti nulli saavutamiseks, teisaldades toimivad üksused postkastist välja spetsiaalsesse ülesannete loendisse.
 

@@ -60,7 +60,9 @@ Med [en betydelig del af e-mails åbnet på mobile enheder](https://www.litmus.c
 
 - Gør links og knapper store nok til at de let kan trykkes på (mindst 44x44 pixels).
 
-- Test af din sidefod på tværs af forskellige enheder og e-mail-klienter ved hjælp af værktøjer som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).![Sammenligning side om side, der viser, hvordan en veldesignet e-mail-sidefod tilpasser sit layout fra skrivebordsvisning til mobilvisning](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
+- Test af din sidefod på tværs af forskellige enheder og e-mail-klienter ved hjælp af værktøjer som [Litmus](https://www.litmus.com/) eller [Email on Acid](https://www.emailonacid.com/).
+
+![Sammenligning side om side, der viser, hvordan en veldesignet e-mail-sidefod tilpasser sit layout fra skrivebordsvisning til mobilvisning](/blog/images/Cd71v55qTrLYrTTHZ3rsQEVZqQM.png)
 
 Sørg for, at din sidefod ser godt ud og fungerer perfekt på enhver skærmstørrelse.
 

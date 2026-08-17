@@ -94,7 +94,9 @@ Nämä ominaisuudet siirtyvät yksinkertaisen organisoinnin lisäksi aktiiviseen
 
 ## Proven Frameworks: Email Management Methodologies for Gmail
 
-Oikeat työkalut ovat välttämättömiä, mutta ilman järjestelmää saatat silti tuntea olosi ylivoimaiseksi. Hyväksi todistetun sähköpostin hallintamenetelmän ottaminen käyttöön tarjoaa puitteet näiden työkalujen tehokkaalle käytölle.![Inbox Zero -konseptia kuvaava graafinen kuva, jossa näkyy ehkä puhdas postilaatikko tai järjestetty työpöytä](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
+Oikeat työkalut ovat välttämättömiä, mutta ilman järjestelmää saatat silti tuntea olosi ylivoimaiseksi. Hyväksi todistetun sähköpostin hallintamenetelmän ottaminen käyttöön tarjoaa puitteet näiden työkalujen tehokkaalle käytölle.
+
+![Inbox Zero -konseptia kuvaava graafinen kuva, jossa näkyy ehkä puhdas postilaatikko tai järjestetty työpöytä](/blog/images/dsbHgqiBtrZChYL0cP6dIjQH3lE.png)
 
 Menetelmät, kuten Inbox Zero, tarjoavat järjestelmän sähköpostien tehokkaaseen käsittelyyn.
 
@@ -194,7 +196,9 @@ Näiden suosittujen työkalujen olemassaolo korostaa, missä natiivi Gmail ei us
 
 ## The Future is Here: How AI is Revolutionizing Gmail Organization
 
-Manuaalisten sääntöjen ja kolmannen osapuolen integraatioiden lisäksi on seuraava raja: tekoäly. AI-sähköpostiavustajat ovat siirtymässä yksinkertaista lajittelua pidemmälle tarjotakseen älykästä automaatiota, joka ymmärtää kontekstin ja oppii mieltymyksesi. Koska AI:n käyttöönotto kasvaa nopeasti liiketoiminnassa ja sillä on merkittävää potentiaalia tuottavuuden kasvuun, sen vaikutus sähköpostin hallintaan on syvä.![Kuva AI-robotista, joka lajittelee ja priorisoi sähköpostit älykkäästi tyylikkäässä, futuristisessa tietokoneliittymässä](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
+Manuaalisten sääntöjen ja kolmannen osapuolen integraatioiden lisäksi on seuraava raja: tekoäly. AI-sähköpostiavustajat ovat siirtymässä yksinkertaista lajittelua pidemmälle tarjotakseen älykästä automaatiota, joka ymmärtää kontekstin ja oppii mieltymyksesi. Koska AI:n käyttöönotto kasvaa nopeasti liiketoiminnassa ja sillä on merkittävää potentiaalia tuottavuuden kasvuun, sen vaikutus sähköpostin hallintaan on syvä.
+
+![Kuva AI-robotista, joka lajittelee ja priorisoi sähköpostit älykkäästi tyylikkäässä, futuristisessa tietokoneliittymässä](/blog/images/vans0QxshgmL07evPTWfOTr2WIU.png)
 
 AI muuttaa sähköpostin hallinnan älykkäillä triage-, yhteenveto- ja piirustusominaisuuksilla.
 

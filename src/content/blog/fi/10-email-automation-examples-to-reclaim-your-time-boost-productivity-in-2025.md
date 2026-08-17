@@ -110,7 +110,9 @@ Työkalut, kuten [Gmelius](https://gmelius.com/blog/benefits-of-email-automation
 
 Käsitteletkö pitkiä sähköpostiketjuja tai raportteja? AI muuttaa tapaa, jolla käytämme tätä tietoa. AI-työkalut voivat tehdä automaattisesti yhteenvedon pitkistä sähköposteista tai kokonaisista säikeistä ja poimia keskeisiä kohtia, päätöksiä ja toimintokohteita. [Superhuman](https://superhuman.com/ai) tarjoaa automaattisen yhteenvedon, ja työkalut, kuten Microsoft Copilot Outlook:ssä, tarjoavat myös yhteenvedon. Alustat, kuten [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) ja [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/), tarjoavat AI-yhteenvetoja.
 
-Tämä säästää valtavasti aikaa monimutkaisten keskustelujen vauhdittamiseen. [Chiefy sisältää **Älykkään yhteenvedon** ja kontekstuaalisen tietoisuuden](https://chiefy.com/fi), mikä tarkoittaa, että se ei vain tiivistä pitkiä säikeitä, vaan myös muistaa yksityiskohdat aiemmin mainituista projekteista ja suhteista, mikä varmistaa, että yhteenvedot ovat erittäin merkityksellisiä ja käyttökelpoisia.![Kuvakaappaus Chiefy:n älykkäästä sähköpostin yhteenvetoominaisuudesta, joka tiivistää pitkän sähköpostiketjun avainkohtiin ja toimintokohteisiin](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Tämä säästää valtavasti aikaa monimutkaisten keskustelujen vauhdittamiseen. [Chiefy sisältää **Älykkään yhteenvedon** ja kontekstuaalisen tietoisuuden](https://chiefy.com/fi), mikä tarkoittaa, että se ei vain tiivistä pitkiä säikeitä, vaan myös muistaa yksityiskohdat aiemmin mainituista projekteista ja suhteista, mikä varmistaa, että yhteenvedot ovat erittäin merkityksellisiä ja käyttökelpoisia.
+
+![Kuvakaappaus Chiefy:n älykkäästä sähköpostin yhteenvetoominaisuudesta, joka tiivistää pitkän sähköpostiketjun avainkohtiin ja toimintokohteisiin](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## The Power of Automation: By the Numbers
 

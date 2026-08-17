@@ -165,7 +165,9 @@ Siin on mõned praktilised lähtekohad:
 
 3. **Hinda konkreetseid vajadusi:** mõelge igapäevaste meiliprobleemide üle. Kas see on tohutu maht? Vastuste koostamiseks kulunud aeg? Raskused organiseerituna püsida? Selle esmase probleemi lahendamiseks kohandatud tööriista valimine annab kõige vahetuma väärtuse.
 
-Kas olete valmis kogema kõikehõlmavat lahendust, mis on loodud korraga mitme meiliprobleemi lahendamiseks? Avastage, kuidas sellised tööriistad nagu [**Chiefy**](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid) ühendavad intelligentse **AI Triage**, et tuua esile kiireloomulised asjad, **autentse tehisintellekti joonistamise**, mis õpib tundma kasutaja ainulaadset häält, ja **nutika kokkuvõtte**, et segadusest üle saada. Vaadake, kuidas see saab Gmail töövoogu muuta.![Ekraanipilt Chiefy, mis teeb kokkuvõtte pikast meilist ja tõstab esile peamised tegevusüksused](https://chiefy.com/et)
+Kas olete valmis kogema kõikehõlmavat lahendust, mis on loodud korraga mitme meiliprobleemi lahendamiseks? Avastage, kuidas sellised tööriistad nagu [**Chiefy**](https://support.google.com/mail/answer/13955415?hl=en\&co=GENIE.Platform%3DAndroid) ühendavad intelligentse **AI Triage**, et tuua esile kiireloomulised asjad, **autentse tehisintellekti joonistamise**, mis õpib tundma kasutaja ainulaadset häält, ja **nutika kokkuvõtte**, et segadusest üle saada. Vaadake, kuidas see saab Gmail töövoogu muuta.
+
+![Ekraanipilt Chiefy, mis teeb kokkuvõtte pikast meilist ja tõstab esile peamised tegevusüksused](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Nutika kokkuvõtte funktsioonid eraldavad põhipunktid ja tegevusüksused, säästes lugemisaega.
 

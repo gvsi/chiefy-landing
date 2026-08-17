@@ -103,7 +103,9 @@ Beëindig uw e-mail netjes en geef de nodige contactgegevens op.
 
   - **Optioneel (maar vaak nuttig)**: bedrijfswebsite, LinkedIn profiellink, fysiek adres (indien relevant).
 
-  - **Opmaak**: houd het beknopt ([**4-5 regels maximaal aanbevolen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), gebruik professionele en [**webveilige lettertypen**](https://www.mailerlite.com/blog/email-signature-best-practices) (zoals Arial, Calibri) en kleuren die consistent zijn met uw merk. Zorg ervoor dat het [**mobielvriendelijk**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary) is. Vermijd onnodige afbeeldingen, grote logo's of inspirerende quotes.![Voorbeeld van een schone professionele e-mailhandtekening met naam, titel, bedrijf, telefoon, website en LinkedIn-link](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
+  - **Opmaak**: houd het beknopt ([**4-5 regels maximaal aanbevolen**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary)), gebruik professionele en [**webveilige lettertypen**](https://www.mailerlite.com/blog/email-signature-best-practices) (zoals Arial, Calibri) en kleuren die consistent zijn met uw merk. Zorg ervoor dat het [**mobielvriendelijk**](https://www.roberthalf.com/us/en/insights/career-development/email-signature-etiquette-the-good-the-bad-and-the-unnecessary) is. Vermijd onnodige afbeeldingen, grote logo's of inspirerende quotes.
+
+![Voorbeeld van een schone professionele e-mailhandtekening met naam, titel, bedrijf, telefoon, website en LinkedIn-link](/blog/images/VbJogfeb4mpoTB52t2fXhppUhJM.png)
 
 Een schone, professionele e-mailhandtekening bevat essentiële contactgegevens zonder rommel.
 

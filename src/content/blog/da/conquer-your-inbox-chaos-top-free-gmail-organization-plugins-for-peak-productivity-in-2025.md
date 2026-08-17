@@ -33,25 +33,29 @@ Vi har undersøgt mulighederne for at fremhæve nogle af de mest effektive, vela
 
 **Gratis planfunktioner:** Den gratis "Starter"-plan giver den centrale Kanban-oplevelse. Du kan trække e-mails for at gøre dem til opgavekort, organisere dem på en personlig tavle plus en ekstra brugerdefineret tavle, bruge en dagsplanlægningsvisning og indstille forfaldsdatoer eller påmindelser.
 
-**UI/Opsætning:**Sortdintegreres direkte i Gmail, hvilket giver mulighed for at skifte mellem standardvisningen og dets boardlayout. Opsætning involverer installation af udvidelsen og tilslutning af din Gmail konto, hvilket brugere generelt finder ligetil.![Sortdplugin-grænseflade, der viser Gmail indbakke omdannet til et visuelt Kanban-kort med træk-og-slip e-mail-opgavekort](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/Opsætning:**Sortdintegreres direkte i Gmail, hvilket giver mulighed for at skifte mellem standardvisningen og dets boardlayout. Opsætning involverer installation af udvidelsen og tilslutning af din Gmail konto, hvilket brugere generelt finder ligetil.
+
+![Sortdplugin-grænseflade, der viser Gmail indbakke omdannet til et visuelt Kanban-kort med træk-og-slip e-mail-opgavekort](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Fordele:** Fantastisk til at visualisere arbejdsgangstadier og administrere e-mail-centrerede opgaver uden konstant at skifte til et separat projektstyringsværktøj. Det er også nyttigt at omdøbe emnelinjer og tilføje noter direkte til e-mail-opgaver.
 
 **Gratis plan begrænsninger:** Gratis planens begrænsninger er væsentlige for løbende brug. Du er begrænset til kun 4 lister pr. bord, maksimalt 50 ufuldstændige opgaver på tværs af dit team (20 pr. liste), og kritisk kun en **30-dages aktivitetshistorik**. Dette gør det svært at spore fremskridt på alt ud over meget kortsigtede opgaver. Desuden mangler den gratis plan alle teamsamarbejdsfunktioner (såsom delte tavler eller delte postkasser), brugerdefinerede felter og tilbyder meget begrænsede automatiseringsmuligheder. Mobilappoplevelsen rapporteres også at være mindre funktionel end desktopversionen, og du skal stadig manuelt trække e-mails ind på tavler; der er ingen automatiske filtreringsmuligheder til at gøre dette. I det væsentlige giver den gratis plan en stærk visuel smag, men er bedst egnet til grundlæggende, individuel opgavestyring afledt af nylige e-mails.
 
-###Todoistfor Gmail: Gør e-mails til handlingsrettede opgaver
+### Todoistfor Gmail: Gør e-mails til handlingsrettede opgaver
 
 **Koncept:** For dem, der lever efter deres to-do-liste, erTodoistfor Gmail integration et populært valg. Den forbinder Gmail direkte til den kraftfuldeTodoistopgavestyringsapp, så du hurtigt kan konvertere handlingsrettede e-mails til opgaver i ditTodoistsystem.
 
 **Gratis planfunktioner (Todoistselv):**Todoists gratis plan er ret generøs til individuel brug, og tilbyder op til 5 aktive projekter, samarbejde med op til 5 personer pr. projekt, kerneopgavestyring (inklusive underopgaver), liste- og Kanban-tavlevisninger og muligheden for at bruge etiketter og filtre). Den gratis Gmail-integration (tilgængelig som både en tilføjelse og udvidelse) giver dig mulighed for at klikke på et ikon for at omdanne den aktuelt åbne e-mail til enTodoistopgave, der automatisk inkluderer et link tilbage til den oprindelige e-mail.
 
-**UI/Opsætning:** Integrationen tilføjer etTodoist-ikon til din Gmail-grænseflade (enten i den øverste værktøjslinje eller i højre sidepanel). Ved at klikke på dette åbnes et lille panel, hvor du hurtigt kan tilføje e-mailen som en opgave. Opsætning kræver installation af tilføjelsen/udvidelsen og godkendelse af adgang til dinTodoistkonto.![Todoistfor Gmail integrationspanel, der viser, hvordan man konverterer en e-mail til en opgave med forfaldsdato og projektvalg](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**UI/Opsætning:** Integrationen tilføjer etTodoist-ikon til din Gmail-grænseflade (enten i den øverste værktøjslinje eller i højre sidepanel). Ved at klikke på dette åbnes et lille panel, hvor du hurtigt kan tilføje e-mailen som en opgave. Opsætning kræver installation af tilføjelsen/udvidelsen og godkendelse af adgang til dinTodoistkonto.
+
+![Todoistfor Gmail integrationspanel, der viser, hvordan man konverterer en e-mail til en opgave med forfaldsdato og projektvalg](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Fordele:**Skaber en sømløs bro mellem dit kommunikationshub (Gmail) og dit opgavestyringssystem (Todoist). Udnytter Todoists fremragende funktioner som naturligt sprog datoinput og pålidelig synkronisering på tværs af platforme. Det er en fantastisk måde at opnå "indbakke nul" ved at flytte handlingsegnede elementer ud af indbakken og ind i en dedikeret opgaveliste.
 
 **Begrænsninger for gratis plan (Todoist& Integration):** Den største ulempe ligger i begrænsningerne af selve den _gratisTodoistplan_. Det begrænser dig til 5 projekter og 5 samarbejdspartnere, tilbyder kun én uges aktivitetshistorik og, vigtigst af alt, **inkluderer ikke påmindelser**. Dette påvirker i høj grad dets anvendelighed til tidsfølsomme opgaver, der stammer fra e-mails.Gmail integrationen er, selvom den er praktisk til optagelse, også ret grundlæggende. Brugeranmeldelser nævner ofte manglende evne til at tilføje etiketter, tildele opgaver til specifikke projektsektioner, angive præcise forfaldsdatoer (ud over de grundlæggende muligheder) eller tilføje kommentarer direkte fra Gmail-grænsefladen - ofte kræver det, at du åbner hovedappenTodoistfor at udfylde opgavedetaljerne. Nogle brugere rapporterer også lejlighedsvise fejl eller træg ydeevne med selve integrationen. Derfor fungerer den gratis integration primært som en hurtig indfangningsmekanisme, der skubber det faktiske organiserings- og ledelsesarbejde (og dets begrænsninger) ind på hovedplatformenTodoist.
 
-###Right Inbox(Gratis niveau): Mastertiming med planlægning og påmindelser
+### Right Inbox(Gratis niveau): Mastertiming med planlægning og påmindelser
 
 **Koncept:**Right Inboxfokuserer på at forbedre Gmail med funktioner centreret omkring timing, opfølgning og effektivitet. Det tilføjer funktioner som planlægning af e-mails til senere afsendelse, indstilling af påmindelser om vigtige beskeder, brug af e-mailskabeloner og grundlæggende e-mail-sporing. Dette er især nyttigt for sælgere, der koordinerer på tværs af tidszoner, freelancere, der administrerer kundens forventninger, eller alle, der ønsker bedre kontrol over, hvornår e-mails lander, og sikre, at vigtige samtaler ikke bliver glemt.
 

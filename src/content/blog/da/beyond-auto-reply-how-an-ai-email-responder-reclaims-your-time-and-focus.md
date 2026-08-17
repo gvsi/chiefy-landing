@@ -17,7 +17,9 @@ Dette indlæg dykker dybt ind i verden af AI-e-mail-svarere. Vi vil undersøge, 
 
 Tallene tegner et skarpt billede. I 2024 sender og modtager verden anslået[ **361,6 milliarder e-mails dagligt**](https://www.indectron.com/blog/email-stats/). For den gennemsnitlige kontormedarbejder svarer dette til at modtage ca.[ **121 e-mails pr. dag**](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/). Det er ikke underligt, at fagfolk rapporterer, at de bruger en betydelig del af deres uge – skøn spænder fra[ **11 timer**](https://www.emailtooltester.com/en/blog/email-usage-statistics/) til svimlende[ **28 % af arbejdsugen**](https://pmc.ncbi.nlm.nih.gov/articles/PMC5800719/) – blot at administrere deres indbakke.
 
-Dette er ikke kun en irritation; det er et stort produktivitetsdræn og en væsentlig kilde til stress. Undersøgelser viser, at[ **67 % af folk føler sig overvældet af deres indbakke**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), og de konstante afbrydelser gør det svært at fokusere, og det tager i gennemsnit[ **23 minutter at genvinde koncentrationen**](https://ppm.express/blog/checking-emails/) efter at have tjekket e-mail.![Infografik, der viser nøglestatistikker om overbelastning af e-mail, inklusive gennemsnitlige e-mails pr. dag, tid brugt på at administrere e-mail og procentdel af arbejdere, der føler sig overvældet](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
+Dette er ikke kun en irritation; det er et stort produktivitetsdræn og en væsentlig kilde til stress. Undersøgelser viser, at[ **67 % af folk føler sig overvældet af deres indbakke**](https://www.prnewswire.com/news-releases/67-percent-of-people-feel-overwhelmed-by-their-email-inbox-according-to-new-inbox-intelligence-report-from-email-management-solution-gated-301659242.html), og de konstante afbrydelser gør det svært at fokusere, og det tager i gennemsnit[ **23 minutter at genvinde koncentrationen**](https://ppm.express/blog/checking-emails/) efter at have tjekket e-mail.
+
+![Infografik, der viser nøglestatistikker om overbelastning af e-mail, inklusive gennemsnitlige e-mails pr. dag, tid brugt på at administrere e-mail og procentdel af arbejdere, der føler sig overvældet](/blog/images/uUO0iiHHwGgqWZ2h2p5PgtvHY.png)
 
 Traditionelle autosvar, som dem, der er indbygget i Gmail eller Outlook, blev aldrig designet til denne virkelighed. Deres begrænsninger er klare:
 
@@ -51,7 +53,7 @@ Dette er måske den mest virkningsfulde funktion for alle, der drukner i e-mail.
 
 - **Behavioural Learning (ML):** Det observerer, hvordan du håndterer lignende e-mails - hvilke du åbner først, markerer, arkiverer eller uddelegerer. Sedna fremhæver, at AI[ **lærer dine kommunikationsmønstre og prioriteter**](https://sedna.com/email-triage).
 
-- **Kategorisering og routing:** Baseret på sin analyse kan AI'en automatisk kategorisere e-mails (f.eks. "Kræver handling", "Beslutning påkrævet", "FYI"), frafiltrere beskeder med lav prioritet (nyhedsbreve, kampagner) og nogle gange endda dirigere e-mails til det korrekte teammedlem i scenarier med delt indbakke (<[Enate DUETAIKE]>0).
+- **Kategorisering og routing:** Baseret på sin analyse kan AI'en automatisk kategorisere e-mails (f.eks. "Kræver handling", "Beslutning påkrævet", "FYI"), frafiltrere beskeder med lav prioritet (nyhedsbreve, kampagner) og nogle gange endda dirigere e-mails til det korrekte teammedlem i scenarier med delt indbakke ([Enate AI beskriver denne funktion](https://www.enate.io/blog/email-classification-ai)).
 
 Resultatet? I stedet for at stå over for en mur af udifferentierede beskeder, ser du et kurateret syn på, hvad der faktisk kræver din opmærksomhed nu. Dette reducerer sorteringstiden og beslutningstrætheden drastisk. Det er her værktøjer som[ **Chiefy**](https://chiefy.com/da) skinner og tilbyder en AI Triage-funktion, der viser presserende emner, der kræver handling eller beslutninger, direkte på et fokuseret dashboard.
 
@@ -110,7 +112,9 @@ Markedet for AI-e-mail-assistenter vokser hurtigt. Mens mange værktøjer tilbyd
 
 - **Privatliv og sikkerhed:** Hvordan håndterer værktøjet dine e-maildata? Se efter klare privatlivspolitikker og sikkerhedsforanstaltninger (f.eks. kryptering, overholdelse afGDPR/CCPA).
 
-- **Prissætning:** Stemmer omkostningerne med de potentielle tidsbesparelser og produktivitetsgevinster? (Overvej ROI-estimater, som EmailTree.ai's påstand om [ **besparelse på 2 årsværk**](https://emailtree.ai/) pr. 1000 behandlede e-mails).![Skærmbillede af Chiefy fokuseret dashboard, der viser prioriterede e-mails kategoriseret efter nødvendige handlinger og nødvendige beslutninger](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
+- **Prissætning:** Stemmer omkostningerne med de potentielle tidsbesparelser og produktivitetsgevinster? (Overvej ROI-estimater, som EmailTree.ai's påstand om [ **besparelse på 2 årsværk**](https://emailtree.ai/) pr. 1000 behandlede e-mails).
+
+![Skærmbillede af Chiefy fokuseret dashboard, der viser prioriterede e-mails kategoriseret efter nødvendige handlinger og nødvendige beslutninger](/blog/images/BKqakeJp6ww5m7qRBdut3D3mA.png)
 
 AI-drevne dashboards, som dette eksempel fra Chiefy, giver et klart overblik over prioriterede e-mails, hvilket drastisk reducerer sorteringstiden
 

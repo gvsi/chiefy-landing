@@ -20,7 +20,9 @@ Esse bombardeio constante leva a:
 - **Sobrecarga cognitiva:** Equilibrar várias conversas e tentar manter contexto em dezenas de emails é mentalmente exaustivo.
 - **Oportunidades perdidas:** Itens de ação importantes ou decisões críticas podem facilmente ficar enterrados no volume.
 - **Mais estresse:** A sensação de estar sempre atrasado no email contribui muito para o estresse no trabalho e o burnout.
-Ferramentas de resumo com IA buscam enfrentar esses problemas diretamente ao extrair rapidamente a essência da comunicação, permitindo que o utilizador priorize melhor e se mantenha informado sem se perder nos detalhes. Estudos sobre IA no trabalho, como os destacados pelo [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), mostram ganhos tangíveis de produtividade quando a IA auxilia em tarefas como resumo e recuperação de informações.![Infográfico ilustrando o problema da sobrecarga de email com estatísticas importantes](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+Ferramentas de resumo com IA buscam enfrentar esses problemas diretamente ao extrair rapidamente a essência da comunicação, permitindo que o utilizador priorize melhor e se mantenha informado sem se perder nos detalhes. Estudos sobre IA no trabalho, como os destacados pelo [Center for Data Innovation](https://datainnovation.org/2024/06/evidence-shows-productivity-benefits-of-ai/), mostram ganhos tangíveis de produtividade quando a IA auxilia em tarefas como resumo e recuperação de informações.
+
+![Infográfico ilustrando o problema da sobrecarga de email com estatísticas importantes](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 O volume puro de emails diários reforça a necessidade de ferramentas eficientes de gestão.
 ## Conheça o Gemini no Gmail: o recurso nativo de resumo do Google
 Reconhecendo a dor da sobrecarga de email, o Google incorporou os funcionalidades de IA do Gemini diretamente ao Gmail. O recurso mais visível para lidar com conversas longas é a função **"Summarize this email"**.
@@ -30,7 +32,9 @@ O objetivo é dar rapidamente o essencial da conversa, permitindo que o utilizad
 ### Onde encontrar?
 O acesso ao recurso depende da sua interface:
 - **Interface web:** Procure um botão chamado "Summarize this email" diretamente abaixo da linha de assunto de uma conversa elegível. Como alternativa, pode abrir o painel lateral "Ask Gemini" (normalmente pelo ícone de brilho no canto superior direito) e clicar em um prompt sugerido como "What's this email about?" ou digitar o seu próprio pedido, como "Summarize this thread."
-- **App móvel (Android/iOS):** Assim como na web, um botão "Summarize this email" pode aparecer abaixo do assunto. Tocar nele geralmente abre o resumo em uma folha ou painel dedicado do Gemini. Também é comum acessar resumos e outros funcionalidades de IA pelo ícone do Gemini na barra superior do app.![Visualização de email no Gmail destacando o botão 'Summarize this email' abaixo da linha de assunto](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
+- **App móvel (Android/iOS):** Assim como na web, um botão "Summarize this email" pode aparecer abaixo do assunto. Tocar nele geralmente abre o resumo em uma folha ou painel dedicado do Gemini. Também é comum acessar resumos e outros funcionalidades de IA pelo ícone do Gemini na barra superior do app.
+
+![Visualização de email no Gmail destacando o botão 'Summarize this email' abaixo da linha de assunto](/blog/images/WReztihJs8B1tfQ0XyD0V6TX0I.png)
 O recurso nativo de resumo do Gmail é acessível por um botão diretamente dentro das conversas de email.
 ### Quem tem acesso?
 Esse ainda não é um recurso padrão para todas as contas gratuitas do Gmail. O acesso aos funcionalidades do Gemini no Gmail, incluindo resumos, normalmente está disponível para:

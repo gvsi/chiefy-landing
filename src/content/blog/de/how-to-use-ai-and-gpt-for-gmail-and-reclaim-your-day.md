@@ -168,7 +168,9 @@ Hier einige praktische Ansatzpunkte:
 
 3. **Beurteilen Sie spezifische Bedürfnisse:** Denken Sie über die täglichen E-Mail-Herausforderungen nach. Liegt es an der schieren Lautstärke? Die Zeit, die Sie mit dem Verfassen von Antworten verbringen? Fällt es Ihnen schwer, organisiert zu bleiben? Die Wahl eines Tools, das auf die Lösung dieses Hauptproblems zugeschnitten ist, wird den unmittelbarsten Nutzen bringen.
 
-Sind Sie bereit, eine umfassende Lösung zu erleben, die darauf ausgelegt ist, mehrere E-Mail-Herausforderungen gleichzeitig zu bewältigen? Entdecken Sie, wie Tools wie [**Chiefy**](https://chiefy.com/de) intelligente **KI-Triage** kombinieren, um das Dringende ans Licht zu bringen, **Authentic AI Drafting**, das die einzigartige Stimme eines Benutzers lernt, und **Intelligente Zusammenfassung**, um das Durcheinander zu beseitigen. Sehen Sie, wie es den Gmail-Workflow verändern kann.![Screenshot mit Chiefy, der eine lange E-Mail zusammenfasst und wichtige Aktionselemente hervorhebt](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Sind Sie bereit, eine umfassende Lösung zu erleben, die darauf ausgelegt ist, mehrere E-Mail-Herausforderungen gleichzeitig zu bewältigen? Entdecken Sie, wie Tools wie [**Chiefy**](https://chiefy.com/de) intelligente **KI-Triage** kombinieren, um das Dringende ans Licht zu bringen, **Authentic AI Drafting**, das die einzigartige Stimme eines Benutzers lernt, und **Intelligente Zusammenfassung**, um das Durcheinander zu beseitigen. Sehen Sie, wie es den Gmail-Workflow verändern kann.
+
+![Screenshot mit Chiefy, der eine lange E-Mail zusammenfasst und wichtige Aktionselemente hervorhebt](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 Intelligente Zusammenfassungsfunktionen extrahieren wichtige Punkte und Aktionspunkte und sparen so Lesezeit.
 

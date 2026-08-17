@@ -32,7 +32,9 @@ Olemme käyneet läpi vaihtoehdot korostaaksemme joitain tehokkaimmista, arvoste
 
 **Ilmaisen paketin ominaisuudet:** Ilmainen aloituspaketti tarjoaa Kanban-ydinkokemuksen. Voit muuttaa sähköpostit tehtäväkorteiksi vetämällä, järjestää ne henkilökohtaiselle taululle ja yhdelle ylimääräiselle mukautetulle taululle, käyttää päiväsuunnittelijanäkymää ja asettaa eräpäiviä tai muistutuksia.
 
-**UI/Setup:** Sortd integroituu suoraan Gmail:ään tarjoten vaihdon vakionäkymän ja sen korttiasettelun välillä. Asennus sisältää laajennuksen asentamisen ja Gmail-tilisi yhdistämisen, mikä on käyttäjien mielestä yleensä helppoa.![Lajiteltu laajennusliittymä, joka näyttää Gmail-postilaatikon, joka on muutettu visuaaliseksi Kanban-levyksi vetämällä ja pudottamalla sähköpostitehtäväkorteilla](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
+**UI/Setup:** Sortd integroituu suoraan Gmail:ään tarjoten vaihdon vakionäkymän ja sen korttiasettelun välillä. Asennus sisältää laajennuksen asentamisen ja Gmail-tilisi yhdistämisen, mikä on käyttäjien mielestä yleensä helppoa.
+
+![Lajiteltu laajennusliittymä, joka näyttää Gmail-postilaatikon, joka on muutettu visuaaliseksi Kanban-levyksi vetämällä ja pudottamalla sähköpostitehtäväkorteilla](/blog/images/2tfttjR7IUIR2pQFUkH6X0PZ8.png)
 
 **Edut:** Erinomainen työnkulun vaiheiden visualisointiin ja sähköpostiin liittyvien tehtävien hallintaan ilman jatkuvaa vaihtamista erilliseen projektinhallintatyökaluun. Myös aiherivien uudelleennimeäminen ja huomautusten lisääminen suoraan sähköpostitehtäviin on hyödyllistä.
 
@@ -44,7 +46,9 @@ Olemme käyneet läpi vaihtoehdot korostaaksemme joitain tehokkaimmista, arvoste
 
 **Ilmaisen suunnitelman ominaisuudet (itse Todoist):** Todoist:n ilmainen paketti on varsin antelias yksilölliseen käyttöön, sillä se tarjoaa jopa 5 aktiivista projektia, yhteistyötä jopa 5 henkilön kanssa projektia kohden, ydintehtävien hallinnan (mukaan lukien alitehtävät), luettelo- ja Kanban-taulunäkymät sekä mahdollisuuden käyttää tunnisteita ja suodattimia (jopa 3). Ilmaisen Gmail-integraation (saatavilla sekä lisäosana että laajennuksella) avulla voit napsauttaa kuvaketta muuttaaksesi tällä hetkellä avoinna olevan sähköpostin Todoist-tehtäväksi, joka sisältää automaattisesti linkin takaisin alkuperäiseen sähköpostiin.
 
-**UI/Setup:** Integrointi lisää Todoist-kuvakkeen Gmail-käyttöliittymään (joko ylätyökalupalkkiin tai oikeanpuoleiseen sivupaneeliin). Napsauttamalla tätä avautuu pieni paneeli, johon voit nopeasti lisätä sähköpostin tehtäväksi. Asennus edellyttää lisäosan/laajennuksen asentamista ja Todoist-tilisi käyttöoikeuden valtuuttamista.![Todoist for Gmail-integraatiopaneeli, joka näyttää, kuinka sähköposti muunnetaan tehtäväksi eräpäivän ja projektin valinnalla](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
+**UI/Setup:** Integrointi lisää Todoist-kuvakkeen Gmail-käyttöliittymään (joko ylätyökalupalkkiin tai oikeanpuoleiseen sivupaneeliin). Napsauttamalla tätä avautuu pieni paneeli, johon voit nopeasti lisätä sähköpostin tehtäväksi. Asennus edellyttää lisäosan/laajennuksen asentamista ja Todoist-tilisi käyttöoikeuden valtuuttamista.
+
+![Todoist for Gmail-integraatiopaneeli, joka näyttää, kuinka sähköposti muunnetaan tehtäväksi eräpäivän ja projektin valinnalla](/blog/images/WODBIbHOcz8Jv43ibHr9nmf6Ok.png)
 
 **Edut:** Tarjoaa saumattoman sillan viestintäkeskuksesi (Gmail) ja tehtävienhallintajärjestelmäsi (Todoist) välille. Hyödynnä Todoist:n erinomaisia ​​ominaisuuksia, kuten luonnollisen kielen päivämäärän syöttöä ja luotettavaa alustojen välistä synkronointia. Se on loistava tapa saavuttaa "postilaatikon nolla" siirtämällä toiminnalliset kohteet pois postilaatikosta erityiseen tehtäväluetteloon.
 

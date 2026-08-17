@@ -19,7 +19,7 @@ Men den här känslan är inte bara en mindre irritation. En otämjd Gmail inkor
 
 Att tänka på överbelastning av e-post som bara en tidshanteringsfråga underskattar dess inverkan drastiskt. En kaotisk inkorg medför betydande dolda kostnader som strömmar genom din arbetsdag, vilket påverkar ditt fokus, ditt välbefinnande och till och med ditt resultat.
 
-###Productivity Drain: The Constant Battle for Focus
+### Productivity Drain: The Constant Battle for Focus
 
 Varje e-postmeddelande, varje snabb blick på din inkorg, slår sönder din koncentration. Forskning visar att det tar ett häpnadsväckande genomsnitt på [över 23 minuter att återfå fokus helt efter ett avbrott](https://www.ics.uci.edu/~gmark/chi08-mark.pdf), och till och med en enda e-postkontroll kan spåra ur din tankebana i [mer än 60 sekunder](https://www.researchgate.net/publication/221519416_Email_Duration_Batching_and_Self-interruption_Patterns_and_Implications_for_Designing_Email_Tools). När du tänker på att många proffs kollar e-post [var sjätte minut eller så](https://www.atlassian.com/time-wasting-at-work-infographic), är den kumulativa effekten förödande. Detta ständiga sammanhangsbyte förklarar varför yrkesverksamma tillbringar ungefär [28 % av sin arbetsvecka – cirka 13 timmar – på att bara hantera e-post](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy). Vissa studier tyder till och med på att upp till [40 % av tiden spenderas på interna e-postmeddelanden](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work) som tillför lite direkt värde.
 

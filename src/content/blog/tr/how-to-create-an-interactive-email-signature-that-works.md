@@ -74,20 +74,13 @@ Etkileşimli imzanızı oluşturmak için iki ana yolunuz var:
 Hangisi sizin için doğru? Karşılaştıralım:
 
 | Özellik | E-posta İmza Oluşturucular (ör., [MySignature](https://mysignature.io/), [WiseStamp](https://www.wisestamp.com/)) | Manuel HTML Kodlama |
-
 | ------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-
 | **Kullanım Kolaylığı** | Çok Yüksek (Kodlama gerektirmez, görsel editörler, şablonlar) | Düşük (HTML/CSS bilgisi gerektirir) |
-
-**Özelleştirme** | Yüksek (Birçok şablon ve seçenek, bazı sınırlamalar) | Tam (Tasarım üzerinde tam kontrol) |
-
-**Zaman Yatırımı** | Düşük (Oluşturmak için dakikalar) | Yüksek (Saatler, artı test süresi) |
-
-**Uyumluluk** | Genellikle İyi (Çapraz istemci uyumluluğu için tasarlanmıştır) | E-posta istemcileri/cihazları genelinde kapsamlı test gerektirir |
-
-**Özellikler** | Şablonlar, analizler, banner kampanyaları, merkezi yönetim (çoğunlukla ücretli) | Yalnızca HTML/CSS e-posta kısıtlamalarıyla sınırlıdır |
-
-**Maliyet** | Ücretsiz katmanlar mevcuttur (çoğunlukla markalama ile); Daha fazla özellik/kullanıcı için ücretli planlar | Ücretsiz (becerileriniz varsa) |
+| **Özelleştirme** | Yüksek (Birçok şablon ve seçenek, bazı sınırlamalar) | Tam (Tasarım üzerinde tam kontrol) |
+| **Zaman Yatırımı** | Düşük (Oluşturmak için dakikalar) | Yüksek (Saatler, artı test süresi) |
+| **Uyumluluk** | Genellikle İyi (Çapraz istemci uyumluluğu için tasarlanmıştır) | E-posta istemcileri/cihazları genelinde kapsamlı test gerektirir |
+| **Özellikler** | Şablonlar, analizler, banner kampanyaları, merkezi yönetim (çoğunlukla ücretli) | Yalnızca HTML/CSS e-posta kısıtlamalarıyla sınırlıdır |
+| **Maliyet** | Ücretsiz katmanlar mevcuttur (çoğunlukla markalama ile); Daha fazla özellik/kullanıcı için ücretli planlar | Ücretsiz (becerileriniz varsa) |
 
 **Serbest Çalışanlar ve Yeni Girişimler İçin Öneri:** HTML ve kapsamlı testler konusunda rahat değilseniz, saygın bir **e-posta imza oluşturucu** ile başlamanız şiddetle tavsiye edilir. [MySignature](https://mysignature.io/) (serbest çalışanlar/küçük ekipler için iyi olduğu belirtilmiştir) veya [WiseStamp](https://www.wisestamp.com/) gibi araçlar, profesyonel şablonlar, kolay özelleştirme (harekete geçirici mesajlar ve banner'lar dahil) ve yerleşik uyumluluk kontrolleri ile ücretsiz veya uygun fiyatlı planlar sunar. [HubSpot ayrıca daha basit ihtiyaçlar için popüler bir ücretsiz oluşturucu da sunmaktadır](https://www.hubspot.com/email-signature-generator).
 
@@ -101,7 +94,7 @@ MySignature ve WiseStamp gibi araçlar şablonlar ve kolay özelleştirme imkan�
 
 Ve tıklanabilir bir sosyal medya simgesi için (resmi siz barındırdığınızı varsayarak):
 
-Etki ve Teslim Edilebilirlik İçin En İyi Uygulamalar
+### Etki ve Teslim Edilebilirlik İçin En İyi Uygulamalar
 
 Etkileşimli bir imza oluşturmak işin sadece yarısı. İmzanızın her yerde harika görünmesini ve e-postalarınızın spam klasörüne düşmemesini sağlamak çok önemli.
 
@@ -141,7 +134,7 @@ Etkileşimli bir imza, bir tıklama, bir arama, bir rezervasyon gibi bir eylemi 
 
 [Chiefy](/tr/) gibi e-posta verimliliği için tasarlanmış araçlar bu açığı kapatmaya yardımcı olabilir. Birisi imzanızdaki harekete geçirici mesajla etkileşime girdikten sonra, benzersiz sesinizi koruyan, kişiselleştirilmiş ve hızlı yanıtlar taslağı hazırlamak için AI desteği aldığınızı hayal edin. Chiefy'nin **AI Triage** gibi özellikleri, imza etkileşimlerinden oluşturulan önemli yanıtları ortaya çıkarmaya yardımcı olurken, **Authentic AI Drafting** özelliği de takip mesajlarınızın tıpkı sizin gibi ses çıkarmasını sağlayarak imzanızın yansıttığı profesyonelliği korur. İmzanızın tetiklediği etkileşimi iyi yönetilen, verimli konuşmalara dönüştürür.
 
-İmzanızı Aktifleştirmeye Hazır mısınız?
+## İmzanızı Aktifleştirmeye Hazır mısınız?
 
 E-posta imzanız sadece bir kapanış işareti olmaktan çok daha fazlası; etkinleştirilmeyi bekleyen güçlü ve uygun maliyetli bir araçtır. Etkileşimli öğeleri özenle entegre ederek ve tasarım en iyi uygulamalarını takip ederek, onu marka güçlendirme, trafik ve potansiyel müşteri elde etme konusunda tutarlı bir kaynağa dönüştürebilirsiniz.
 

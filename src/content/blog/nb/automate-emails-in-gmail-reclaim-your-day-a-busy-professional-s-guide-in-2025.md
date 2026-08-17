@@ -21,7 +21,9 @@ Før vi dykker inn i løsninger, la oss kvantifisere problemet. E-post er ikke b
 
 - **Avbruddsskatten:** Vi sjekker e-posten vår ofte – noen estimater tyder på [hvert 6. minutt](https://www.ppm.express/blog/checking-emails)! Hvert avbrudd er ikke bare et øyeblikks blikk; det tar i gjennomsnitt [23-25 ​​minutter](https://www.ppm.express/blog/checking-emails) å gjenopprette fokus på den opprinnelige oppgaven.
 
-- **Lavverdiarbeid:** En betydelig del av denne e-posttiden brukes på aktiviteter med lav verdi. En studie antydet at den gjennomsnittlige arbeideren bruker [51 % av arbeidsdagen sin](https://lifehackmethod.com/blog/time-management-statistics/) på oppgaver med liten effekt, med e-post som en stor bidragsyter.![Bilde av en synlig stresset profesjonell som sitter ved et skrivebord med papirer og ser overveldet ut av dataskjermen som viser e-poster](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Lavverdiarbeid:** En betydelig del av denne e-posttiden brukes på aktiviteter med lav verdi. En studie antydet at den gjennomsnittlige arbeideren bruker [51 % av arbeidsdagen sin](https://lifehackmethod.com/blog/time-management-statistics/) på oppgaver med liten effekt, med e-post som en stor bidragsyter.
+
+![Bilde av en synlig stresset profesjonell som sitter ved et skrivebord med papirer og ser overveldet ut av dataskjermen som viser e-poster](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 
 Overbelastning av e-post er en stor kilde til stress og tapt produktivitet for travle fagfolk.
 
@@ -49,7 +51,9 @@ Filtre er din første forsvarslinje mot innbokskaos. De utfører automatisk hand
 
 - Send den videre
 
-**Kom i gang:** I Gmails søkefelt klikker du på innstillingsikonet (ser ut som glidebrytere) for å vise søkealternativer. Skriv inn kriteriene dine, test søket, klikk deretter på "Opprett filter" og velg handlingene dine. Utforsk Googles offisielle veiledning om [oppretting av filterregler](https://support.google.com/mail/answer/6579?hl=en) for detaljerte trinn.![Skjermbilde som viser Gmail filteropprettingsvinduet med felt for Fra, Til, Emne, Har ordene og alternativer som Bruk etiketten, Hopp over innboksen](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Kom i gang:** I Gmails søkefelt klikker du på innstillingsikonet (ser ut som glidebrytere) for å vise søkealternativer. Skriv inn kriteriene dine, test søket, klikk deretter på "Opprett filter" og velg handlingene dine. Utforsk Googles offisielle veiledning om [oppretting av filterregler](https://support.google.com/mail/answer/6579?hl=en) for detaljerte trinn.
+
+![Skjermbilde som viser Gmail filteropprettingsvinduet med felt for Fra, Til, Emne, Har ordene og alternativer som Bruk etiketten, Hopp over innboksen](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 
 Bruk Gmail filtre for å automatisk sortere innkommende e-poster basert på kriterier som avsender eller nøkkelord
 
@@ -59,7 +63,9 @@ Opplever du at du skriver lignende svar gjentatte ganger? Svare på vanlige spø
 
 **Slik fungerer det:** Først aktiverer du maler i Gmail-innstillingene (\`Innstillinger\` > \`Se alle innstillinger\` > \`Avansert\` > \`Maler\` > \`Aktiver\`). Skriv deretter e-postmalen din, klikk på de tre prikkene i skrivevinduet, gå til \`Maler\` og \`Lagre utkast som mal\`. For å bruke den, klikk på de tre prikkene i en ny e-post, gå til \`Maler\` og velg den lagrede malen.
 
-Dette sparer betydelig tid og sikrer konsistens i rutinemessig kommunikasjon. Du kan til og med [kombinere filtre og maler](https://hiverhq.com/blog/gmail-filters) for automatisk å sende et standardsvar basert på visse e-postkriterier!![Skjermbilde som viser hvordan du setter inn en lagret mal (hermetisk respons) i Gmail skrivevinduet via menyen med tre prikker](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Dette sparer betydelig tid og sikrer konsistens i rutinemessig kommunikasjon. Du kan til og med [kombinere filtre og maler](https://hiverhq.com/blog/gmail-filters) for automatisk å sende et standardsvar basert på visse e-postkriterier!
+
+![Skjermbilde som viser hvordan du setter inn en lagret mal (hermetisk respons) i Gmail skrivevinduet via menyen med tre prikker](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 
 Spar tid på gjentatte svar ved å bruke Gmail maler (hermetiske svar)
 
@@ -152,7 +158,9 @@ En fornuftig tilnærming er å starte med nivå 1. Mestre filtre, etiketter og m
 
 E-post trenger ikke å være en kilde til daglig frykt. Ved å implementere automatisering strategisk – enten det er gjennom Gmails opprinnelige verktøy, spesialiserte utvidelser eller sofistikerte AI-assistenter – kan du redusere tiden og den mentale energien du bruker på å administrere innboksen din betraktelig. Du kan gå fra reaktiv brannslukking til proaktiv kontroll, og sikre at viktige meldinger får oppmerksomhet samtidig som du minimerer distraksjoner.
 
-Målet er ikke bare en tom innboks, men en mer fokusert, produktiv og mindre stressende arbeidsdag. Start i det små, eksperimenter med verktøyene som passer best med dine behov, og ta tilbake tiden din til arbeidet som virkelig betyr noe.![Bilde av en avslappet profesjonell arbeider effektivt på en bærbar datamaskin, smilende lett, med et rent skrivebord](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+Målet er ikke bare en tom innboks, men en mer fokusert, produktiv og mindre stressende arbeidsdag. Start i det små, eksperimenter med verktøyene som passer best med dine behov, og ta tilbake tiden din til arbeidet som virkelig betyr noe.
+
+![Bilde av en avslappet profesjonell arbeider effektivt på en bærbar datamaskin, smilende lett, med et rent skrivebord](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 
 Gjenvinn tiden din og reduser e-poststress gjennom effektiv automatisering.
 

@@ -13,7 +13,9 @@ Antes de entrar nas soluções, vale quantificar o problema. Email não é apena
 - **A enxurrada diária:** O trabalhador médio de escritório recebe cerca de [121 a 126 emails *por dia*](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/), com bilhões de mensagens atravessando a internet globalmente.
 - **O ralo de tempo:** Profissionais passam aproximadamente [2,6 a 3,1 horas por dia](https://www.maestrolabs.com/blog-detail/ai-email-assistants-for-gmail) gerenciando emails, o que chega a quase [28% da semana média de trabalho](https://www.ppm.express/blog/checking-emails), segundo pesquisa mencionada pela PPM Express (citando a McKinsey).
 - **O imposto da interrupção:** Verificamos o email com frequência. Algumas estimativas sugerem [a cada 6 minutos](https://www.ppm.express/blog/checking-emails)! Cada interrupção não é apenas uma olhada rápida; leva em média [23 a 25 minutos](https://www.ppm.express/blog/checking-emails) para recuperar totalmente o foco na tarefa original.
-- **Trabalho de baixo valor:** Uma parte significativa desse tempo de email é gasta em atividades de baixo impacto. Um estudo sugeriu que o trabalhador médio passa [51% do dia de trabalho](https://lifehackmethod.com/blog/time-management-statistics/) em tarefas com pouco impacto, com o email como um dos principais contribuintes.![Foto de um profissional visivelmente estressado sentado a uma mesa cheia de papéis, sobrecarregado ao olhar para a ecrã do computador exibindo emails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
+- **Trabalho de baixo valor:** Uma parte significativa desse tempo de email é gasta em atividades de baixo impacto. Um estudo sugeriu que o trabalhador médio passa [51% do dia de trabalho](https://lifehackmethod.com/blog/time-management-statistics/) em tarefas com pouco impacto, com o email como um dos principais contribuintes.
+
+![Foto de um profissional visivelmente estressado sentado a uma mesa cheia de papéis, sobrecarregado ao olhar para a ecrã do computador exibindo emails](/blog/images/Javd7cEfisxeNM3SgBjQacQQw9Y.png)
 A sobrecarga de emails é uma grande fonte de estresse e perda de produtividade para profissionais ocupados.
 O efeito acumulado? Mais estresse, menor capacidade de trabalho profundo, prazos perdidos e possível burnout. Claramente, encontrar formas de gerir emails com mais eficiência não é apenas algo desejável; é um imperativo estratégico para qualquer pessoa séria sobre produtividade e bem-estar. A automação é a chave.
 ## Nível 1: dominando as ferramentas nativas de automação do Gmail
@@ -27,12 +29,16 @@ Filtros são a sua primeira linha de defesa contra o caos da caixa de entrada. E
 - Marcar com estrela.
 - Excluir.
 - Encaminhar.
-**Como começar:** Na barra de busca do Gmail, clique no ícone de definições (parece controles deslizantes) para abrir as opções de pesquisa. Insira os seus critérios, teste a busca, clique em "Criar filtro" e escolha as suas ações. Consulte o guia oficial do Google sobre [criação de regras de filtro](https://support.google.com/mail/answer/6579?hl=en) para ver etapas detalhadas.![Captura de ecrã mostrando a janela de criação de filtros do Gmail com campos para De, Para, Assunto, Contém as palavras e opções como Aplicar marcador e Pular a caixa de entrada](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
+**Como começar:** Na barra de busca do Gmail, clique no ícone de definições (parece controles deslizantes) para abrir as opções de pesquisa. Insira os seus critérios, teste a busca, clique em "Criar filtro" e escolha as suas ações. Consulte o guia oficial do Google sobre [criação de regras de filtro](https://support.google.com/mail/answer/6579?hl=en) para ver etapas detalhadas.
+
+![Captura de ecrã mostrando a janela de criação de filtros do Gmail com campos para De, Para, Assunto, Contém as palavras e opções como Aplicar marcador e Pular a caixa de entrada](/blog/images/DoQDhzWNOqJR6wW6fpQ4L1jgRRo.png)
 Use filtros do Gmail para classificar automaticamente emails recebidos com base em critérios como remetente ou palavras-chave.
 ### Modelos (respostas prontas): responda mais rápido a perguntas comuns
 O utilizador se pega digitando respostas parecidas repetidamente? Respondendo FAQs, enviando agradecimentos, fornecendo instruções padrão? O recurso Modelos do Gmail (antes conhecido como Respostas prontas) permite guardar essas mensagens comuns e inseri-las com poucos cliques.
 **Como funciona:** Primeiro, ative Modelos nas definições do Gmail (`Definições` > `Ver todas as definições` > `Avançado` > `Modelos` > `Ativar`). Depois, escreva o seu email modelo, clique nos três pontos na janela de composição, vá em `Modelos` e escolha `Guardar rascunho como modelo`. Para usar, clique nos três pontos em um novo email, vá em `Modelos` e selecione o modelo salvo.
-Isso poupa bastante tempo e garante consistência nas comunicações de rotina. Pode até [combinar filtros e modelos](https://hiverhq.com/blog/gmail-filters) para enviar automaticamente uma resposta pronta com base em certos critérios de email.![Captura de ecrã mostrando como inserir um modelo salvo (resposta pronta) na janela de composição do Gmail pelo menu de três pontos](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
+Isso poupa bastante tempo e garante consistência nas comunicações de rotina. Pode até [combinar filtros e modelos](https://hiverhq.com/blog/gmail-filters) para enviar automaticamente uma resposta pronta com base em certos critérios de email.
+
+![Captura de ecrã mostrando como inserir um modelo salvo (resposta pronta) na janela de composição do Gmail pelo menu de três pontos](/blog/images/I7TFtOS14E1stD9650A6BBvA5Qw.png)
 Poupe tempo em respostas repetitivas a usar Modelos do Gmail (respostas prontas).
 ### Adiar e agendar envio: assumindo o controle do tempo
 Esses dois funcionalidades ajudam o utilizador a gerir *quando* lidar com emails:
@@ -71,16 +77,20 @@ A automação é poderosa, mas use com critério. Alguns princípios importantes
 - **Personalização importa:** Mesmo com modelos ou rascunhos de IA, reserve um momento para adicionar um toque pessoal quando apropriado, especialmente para contactos importantes.
 ## Escolhendo a sua estratégia de automação
 Com vários níveis de automação disponíveis, por onde começar? Considere as suas necessidades, orçamento e nível de conforto técnico.
+
 | Recurso | Ferramentas nativas do Gmail | Extensões de terceiros | Assistentes de email com IA |
 | --------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Custo** | Gratuito | Freemium (básico gratuito, upgrades pagos) | Principalmente assinaturas pagas (alguns testes ou planos gratuitos limitados) |
 | **Complexidade** | Baixa (configuração básica) | Baixa a média (instalar extensão, configurar ajustes) | Média (exige configuração, ajustes e possível curva de aprendizado) |
 | **Principal benefício** | Organização básica, controle de tempo | Adiciona funcionalidades específicos ausentes (rastreamento, agendamento avançado, CRM, ferramentas de equipa) | Reduz carga cognitiva, priorização inteligente, resumos, redação mais rápida |
 | **Melhor para** | Quem está começando, necessidades básicas de classificação | Utilizadores que precisam de funções específicas, como emails recorrentes, integração com CRM ou rastreamento robusto | Utilizadores com alto volume de emails, profissionais que buscam máxima produtividade e eficiência, pessoas sobrecarregadas pela caixa de entrada |
+
 Compare diferentes abordagens de automação de emails para encontrar a melhor opção para as suas necessidades.
 Uma abordagem sensata é começar pelo nível 1. Domine filtros, marcadores e modelos. Se encontrar limitações, explore extensões de nível 2 que resolvam um ponto de dor específico. Se a sobrecarga de emails continuar sendo um grande dreno de produtividade apesar desses esforços, investir em um assistente de IA de nível 3 pode trazer o maior retorno ao mudar fundamentalmente a forma como o utilizador interage com a caixa de entrada.
 ## Conclusão: recupere a sua caixa de entrada
 Email não precisa ser fonte de medo diário. Ao implementar automação estrategicamente, seja com ferramentas nativas do Gmail, extensões especializadas ou assistentes sofisticados de IA, pode reduzir significativamente o tempo e a energia mental gastos gerenciando a caixa de entrada. O utilizador sai do modo reativo, apagando incêndios, para um controle proativo, garantindo que mensagens importantes recebam atenção enquanto as distrações diminuem.
-O objetivo não é apenas uma caixa de entrada vazia, mas um dia de trabalho mais focado, produtivo e menos estressante. Começar pequeno, experimente as ferramentas que mais combinam com as suas necessidades e recupere o seu tempo para o trabalho que realmente importa.![Foto de um profissional relaxado a trabalhar com eficiência em um laptop, com um leve sorriso e uma mesa limpa](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
+O objetivo não é apenas uma caixa de entrada vazia, mas um dia de trabalho mais focado, produtivo e menos estressante. Começar pequeno, experimente as ferramentas que mais combinam com as suas necessidades e recupere o seu tempo para o trabalho que realmente importa.
+
+![Foto de um profissional relaxado a trabalhar com eficiência em um laptop, com um leve sorriso e uma mesa limpa](/blog/images/yddiVLBc1ajK7mUHKtkMl9aKc.png)
 Recupere o seu tempo e reduza o estresse com emails por meio de uma automação eficaz.
 Pronto para dominar a sua caixa de entrada? Experimente criar filtros hoje, explore uma extensão para uma necessidade específica ou veja como um assistente de IA como [**Chiefy**](https://chiefy.com/pt-PT) pode automatizar de forma inteligente a triagem, os resumos e a redação para transformar o seu fluxo de trabalho.

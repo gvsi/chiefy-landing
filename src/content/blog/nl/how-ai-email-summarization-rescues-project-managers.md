@@ -116,7 +116,9 @@ Oké, dus AI kan e-mails condenseren met behulp van verschillende technieken. Ma
 
 6. **Verminder de cognitieve belasting en vergroot de focus:** Stop met proberen mentaal te jongleren met de details van tientallen actieve e-mailthreads. Door de taak van het condenseren en extraheren van belangrijke informatie aan AI uit te besteden, komen uw waardevolle cognitieve bronnen vrij. Hierdoor kunt u meer mentale energie besteden aan strategisch denken, het oplossen van complexe problemen, risicoanalyse en het leiden van uw team – het hoogwaardige werk dat de rol van een PM echt definieert.
 
-   - **PM-gebruiksvoorbeeld:** Samenvattingen gebruiken om updatethreads met een lagere prioriteit snel te verwerken en te archiveren tijdens speciale 'e-mailtijd', waarbij mentale bandbreedte wordt behouden voor het aanpakken van de complexe, kritieke problemen.![Infographic van de voordelen van AI-e-mailsamenvatting voor PM's](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+   - **PM-gebruiksvoorbeeld:** Samenvattingen gebruiken om updatethreads met een lagere prioriteit snel te verwerken en te archiveren tijdens speciale 'e-mailtijd', waarbij mentale bandbreedte wordt behouden voor het aanpakken van de complexe, kritieke problemen.
+
+![Infographic van de voordelen van AI-e-mailsamenvatting voor PM's](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 AI-e-mailsamenvattingen bieden tastbare voordelen, waardoor projectmanagers tijd kunnen besparen, belangrijke informatie kunnen bijhouden en mentale vermoeidheid kunnen verminderen
 

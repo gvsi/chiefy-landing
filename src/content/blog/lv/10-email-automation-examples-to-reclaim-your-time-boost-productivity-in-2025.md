@@ -111,7 +111,9 @@ Tādi rīki kā [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-
 
 Vai strādājat ar gariem e-pasta pavedieniem vai ziņojumiem? Mākslīgais intelekts pārveido to, kā mēs patērējam šo informāciju. Mākslīgā intelekta rīki var automātiski apkopot garus e-pastus vai veselus pavedienus, izvelkot galvenos punktus, lēmumus un darbības. [Superhuman](https://superhuman.com/ai) piedāvā automātiskas kopsavilkuma funkciju, un tādi rīki kā Microsoft Copilot platformā Outlook arī nodrošina kopsavilkumu veidošanu. Tādas platformas kā [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) un [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) piedāvā īpašus mākslīgā intelekta kopsavilkumus.
 
-Tas ietaupa milzīgu laiku, iepazīstoties ar sarežģītām sarunām. [Chiefy apvieno **Smart Summarization** ar kontekstuālās izpratnes funkciju](https://chiefy.com/lv/lv), kas nozīmē, ka tas ne tikai saīsina garus pavedienus, bet arī atceras iepriekš minēto projektu un attiecību detaļas, nodrošinot, ka kopsavilkumi ir ļoti atbilstoši un praktiski izmantojami.![Ekrānuzņēmums, kurā redzama Chiefy viedā e-pasta kopsavilkuma funkcija, kas garu e-pasta pavedienu saīsina galvenajos punktos un darbību vienumos.](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
+Tas ietaupa milzīgu laiku, iepazīstoties ar sarežģītām sarunām. [Chiefy apvieno **Smart Summarization** ar kontekstuālās izpratnes funkciju](https://chiefy.com/lv/lv), kas nozīmē, ka tas ne tikai saīsina garus pavedienus, bet arī atceras iepriekš minēto projektu un attiecību detaļas, nodrošinot, ka kopsavilkumi ir ļoti atbilstoši un praktiski izmantojami.
+
+![Ekrānuzņēmums, kurā redzama Chiefy viedā e-pasta kopsavilkuma funkcija, kas garu e-pasta pavedienu saīsina galvenajos punktos un darbību vienumos.](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
 ## Automatizācijas spēks: skaitļos
 

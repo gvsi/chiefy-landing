@@ -18,7 +18,9 @@ Sähköpostin valtava määrä on hämmästyttävä. Tutkimusyhtiö The Radicati
 
 Tutkimukset osoittavat jatkuvasti, että ammattilaiset käyttävät suuren osan työviikkostaan ​​sähköpostiin. Arviot vaihtelevat [noin 6,4 tunnista viikossa](https://www.deel.com/blog/workplace-statistics/) (Deelin vuoden 2025 työpaikkatilastot) huikeaan [11 tuntiin viikossa](https://www.emailtooltester.com/en/blog/email-usage-statistics/), joka käytettiin vain sähköpostien hallintaan ja järjestämiseen, kuten EmailTooltesterin mainitsemassa Microsoft-tutkimuksessa havaittiin. Tämä on potentiaalisesti 28 % postilaatikon niellystä työviikosta!
 
-Vaikutus ylittää menetetyn ajan. Jatkuva sähköpostin tarkistus hajottaa painopisteemme ja pakottaa kalliin kontekstin vaihtamisen syvätyön ja postilaatikon erottelun välillä. Tämä digitaalinen kitka lisää stressiä, vaikeuttaa päätöksentekoa tärkeiden viestien hautautuessa ja voi jopa johtaa loppuunuuttumiseen. [DragAppin mainitsemassa Forbes-tutkimuksessa](https://www.dragapp.com/blog/effects-of-email-overload/) havaittiin, että kolmasosa työntekijöistä mainitsi sähköpostin ylikuormituksen tekijänä, joka johtaisi työstään. On selvää, että perinteinen lähestymistapa sähköpostin hallintaan on kestämätön nykyaikaisille ammattilaisille.![Infografiikka, joka näyttää tilastot sähköpostien ylikuormituksesta, mukaan lukien päivittäin vastaanotettujen sähköpostien keskimääräinen määrä, sähköpostin hallintaan käytetyt tunnit viikossa ja vaikutus tuottavuuteen](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
+Vaikutus ylittää menetetyn ajan. Jatkuva sähköpostin tarkistus hajottaa painopisteemme ja pakottaa kalliin kontekstin vaihtamisen syvätyön ja postilaatikon erottelun välillä. Tämä digitaalinen kitka lisää stressiä, vaikeuttaa päätöksentekoa tärkeiden viestien hautautuessa ja voi jopa johtaa loppuunuuttumiseen. [DragAppin mainitsemassa Forbes-tutkimuksessa](https://www.dragapp.com/blog/effects-of-email-overload/) havaittiin, että kolmasosa työntekijöistä mainitsi sähköpostin ylikuormituksen tekijänä, joka johtaisi työstään. On selvää, että perinteinen lähestymistapa sähköpostin hallintaan on kestämätön nykyaikaisille ammattilaisille.
+
+![Infografiikka, joka näyttää tilastot sähköpostien ylikuormituksesta, mukaan lukien päivittäin vastaanotettujen sähköpostien keskimääräinen määrä, sähköpostin hallintaan käytetyt tunnit viikossa ja vaikutus tuottavuuteen](/blog/images/trmVx9kf8sUEbqcBIv96kQKn54c.png)
 
 Sähköpostin ylikuormitus ei ole vain havaintoa; tiedot osoittavat, että se heikentää merkittävästi tuottavuutta ja hyvinvointia
 
@@ -54,7 +56,9 @@ Ajattele NLP:tä moottorina, jonka avulla tietokoneet voivat ymmärtää ihmiste
 
 LLM:t, kuten OpenAI:n GPT-sarja tai Google:n Gemini-mallit, ovat sukupolven takana oleva voimanpesä. Nämä mallit on koulutettu valtaviin tietokokonaisuuksiin – biljooniin sanoihin verkkosivustoilta, kirjoista ja muista tekstilähteistä. Tämän koulutuksen avulla he voivat oppia monimutkaisia ​​kielimalleja, kielioppia, kontekstia ja jopa erilaisia ​​kirjoitustyylejä. Kun annat kehotteen (esim. "Kirjoita kohtelias seurantasähköposti, jossa pyydetään raporttia") tai olemassa olevan sähköpostiketjun kontekstin, LLM ennustaa koulutuksensa avulla todennäköisimmän sanasarjan muodostaakseen asiaankuuluvan ja yhtenäisen vastauksen.
 
-Tärkeintä on, että monet AI-sähköpostikirjoittajat sisältävät myös oppimismekanismin. Analysoimalla *lähettämiäsi* sähköposteja (etenkin luonnoksiin tekemiäsi muokkauksia) AI voi vähitellen oppia haluamasi sanamuodot, allekirjoitukset ja yleisen kommunikaatiotyylin, jolloin ehdotuksista tulee ajan mittaan yksilöllisempiä. Tämä tapahtuu usein saumattomasti Chrome-laajennuksen kautta, joka integroituu suoraan Gmail-käyttöliittymään ja siirtää AI:n tehon juuri sinne, missä sitä tarvitset.![Kaavio, joka havainnollistaa AI-sähköpostikirjoittimen toimintaa: Käyttäjän syöttö (kehote/konteksti) menee AI-malliin (NLP/LLM), joka tuottaa sitten sähköpostitulosteen (luonnos/yhteenveto)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
+Tärkeintä on, että monet AI-sähköpostikirjoittajat sisältävät myös oppimismekanismin. Analysoimalla *lähettämiäsi* sähköposteja (etenkin luonnoksiin tekemiäsi muokkauksia) AI voi vähitellen oppia haluamasi sanamuodot, allekirjoitukset ja yleisen kommunikaatiotyylin, jolloin ehdotuksista tulee ajan mittaan yksilöllisempiä. Tämä tapahtuu usein saumattomasti Chrome-laajennuksen kautta, joka integroituu suoraan Gmail-käyttöliittymään ja siirtää AI:n tehon juuri sinne, missä sitä tarvitset.
+
+![Kaavio, joka havainnollistaa AI-sähköpostikirjoittimen toimintaa: Käyttäjän syöttö (kehote/konteksti) menee AI-malliin (NLP/LLM), joka tuottaa sitten sähköpostitulosteen (luonnos/yhteenveto)](/blog/images/OAKyTY10jdvjEj5OwP3Gr3Tck.png)
 
 AI-sähköpostikirjoittajat käyttävät NLP:tä ymmärtääkseen pyyntösi, ja LLM:t ovat koulutettuja valtavan datan avulla luodakseen ihmismäistä tekstiä.
 
@@ -151,7 +155,9 @@ AI:n nopea käyttöönotto työpaikalla on kiistaton. [McKinseyn vuoden 2024 tut
 
 Tämä trendi ei korvaa ihmisten välistä viestintää; kyse on kitkan ja tehottomuuden poistamisesta, jotka häiritsevät sitä. Tavoitteena on automatisoida toistuvia, aikaa vieviä tehtäviä, jolloin vapautuu arvokasta henkistä energiaa ja aikaa työhön, joka vaatii ainutlaatuisen inhimillisiä taitoja: strategista ajattelua, monimutkaista ongelmanratkaisua, empatiaa ja ihmissuhteiden rakentamista.
 
-AI sähköpostikirjoittimet Gmailissa ovat merkittävä askel tähän suuntaan. Ne tarjoavat tehokkaan tavan hallita digitaalisen viestinnän säälimätöntä virtaa ja muuttaa postilaatikon stressin lähteestä hallittavammaksi ja tuottavammaksi työkaluksi.![Graafinen lainaus tai tilasto siitä, kuinka AI-toteutus parantaa työpaikan tuottavuutta](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
+AI sähköpostikirjoittimet Gmailissa ovat merkittävä askel tähän suuntaan. Ne tarjoavat tehokkaan tavan hallita digitaalisen viestinnän säälimätöntä virtaa ja muuttaa postilaatikon stressin lähteestä hallittavammaksi ja tuottavammaksi työkaluksi.
+
+![Graafinen lainaus tai tilasto siitä, kuinka AI-toteutus parantaa työpaikan tuottavuutta](/blog/images/ccgzJZqdVy94GsfVr5LrOPcQhS8.png)
 
 AI-työkaluja nähdään yhä useammin välttämättöminä työpaikan tuottavuuden ja tehokkuuden parantamiseksi.
 

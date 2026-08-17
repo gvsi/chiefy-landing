@@ -59,7 +59,7 @@ El problema fonamental és que el disseny del correu electrònic (missatges line
 ### El cost real de la sobrecàrrega de correu electrònic per als gestors de projectes
 
 | Àrea d'impacte | Estadística/Conclusió clau | Implicació per als PM |
-| ------------------------ | -------------------------------------------------------------------- -------------------------------------------------------------------- -------------------------------------------------------------------- --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| --- | --- | --- |
 | **Drenatge del temps** | >40% jornada laboral per correu electrònic; Mitjana 13 h/setmana; Fins al 23% del dia | Menys temps per a la planificació estratègica, gestió de riscos, lideratge d'equips |
 | **Pèrdua de productivitat** | 16-23 min temps de reenfocament després de la interrupció; Cost de la indústria de 650 milions de dòlars anuals; 2,1 milions de dòlars/org de mitjana cost | Reducció de la producció, tasques endarrerides, dificultat per complir els terminis |
 | **Problemes de col·laboració** | obstacle número 1 ([52% dels enquestats](https://blog.planview.com/2018-survey-reports-emails-exacerbate-project-management-hurdles/)); Informació en silos, caos de control de versions | Mala comunicació, esforç duplicat, presa de decisions més lenta |
