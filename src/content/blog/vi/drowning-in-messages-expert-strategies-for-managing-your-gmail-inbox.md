@@ -189,11 +189,11 @@ Không có viên đạn ma thuật nào để quản lý email hoàn hảo. Truy
 
 **Tìm số dư của bạn:**
 
-1.**Tự đánh giá:** Đánh giá trung thực hoàn cảnh của bạn. Khối lượng email trung bình hàng ngày của bạn là bao nhiêu? Điểm khó khăn lớn nhất của bạn là gì – cảm thấy choáng ngợp trước những con số quá lớn, gặp khó khăn trong việc sắp xếp thứ tự ưu tiên, dành quá nhiều thời gian để soạn thảo câu trả lời, bỏ lỡ các bước theo dõi? Hiểu những thách thức cụ thể của bạn là bước đầu tiên.
+1. **Tự đánh giá:** Đánh giá trung thực hoàn cảnh của bạn. Khối lượng email trung bình hàng ngày của bạn là bao nhiêu? Điểm khó khăn lớn nhất của bạn là gì – cảm thấy choáng ngợp trước những con số quá lớn, gặp khó khăn trong việc sắp xếp thứ tự ưu tiên, dành quá nhiều thời gian để soạn thảo câu trả lời, bỏ lỡ các bước theo dõi? Hiểu những thách thức cụ thể của bạn là bước đầu tiên.
 
-2.**Xây dựng nền tảng:** Thực hiện các thói quen thủ công cốt lõi. Cam kết** xử lý hàng loạt**- chỉ kiểm tra email vào thời gian đã lên lịch. Tắt** thông báo**gây mất tập trung bên ngoài các khối đó. Sử dụng** nhãn và bộ lọc đơn giản, tiện dụng**cho tổ chức thiết yếu (ví dụ: các dự án quan trọng, khách hàng, "Đang chờ") nhưng tránh quá phức tạp. Nắm vững nút** Lưu trữ**.
+2. **Xây dựng nền tảng:** Thực hiện các thói quen thủ công cốt lõi. Cam kết** xử lý hàng loạt**- chỉ kiểm tra email vào thời gian đã lên lịch. Tắt** thông báo**gây mất tập trung bên ngoài các khối đó. Sử dụng** nhãn và bộ lọc đơn giản, tiện dụng**cho tổ chức thiết yếu (ví dụ: các dự án quan trọng, khách hàng, "Đang chờ") nhưng tránh quá phức tạp. Nắm vững nút** Lưu trữ**.
 
-3.**Lớp trong AI Một cách chiến lược:** Xác định nơi AI có thể mang lại lợi tức đầu tư lớn nhất cho các nhu cầu cụ thể của bạn.
+3. **Lớp trong AI Một cách chiến lược:** Xác định nơi AI có thể mang lại lợi tức đầu tư lớn nhất cho các nhu cầu cụ thể của bạn.
 
    -_Bạn đang gặp khó khăn về số lượng và không biết bắt đầu từ đâu?_Công cụ**AI Triage** có thể tự động hiển thị các mục quan trọng.
 

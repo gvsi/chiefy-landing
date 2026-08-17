@@ -15,7 +15,7 @@ Om detta låter bekant är du definitivt inte ensam. Den genomsnittliga proffsen
 
 Men tänk om du kunde få en intelligent assistent omedelbart att destillera de vidsträckta konversationerna till koncisa, handlingsbara sammanfattningar? Ange AI-e-postsammanfattning. Denna snabbt utvecklande teknik erbjuder projektledare ett kraftfullt sätt att skära igenom bruset i inkorgen, återvinna värdefull tid och behålla kontrollen över projektkommunikationen. I det här inlägget kommer vi att dyka djupt in i det specifika e-kaoset som PM möter, utforska hur AI-sammanfattningen fungerar som sin magi, avslöja de påtagliga fördelarna för din roll och titta på hur dessa verktyg kan hjälpa dig att äntligen erövra din inkorg.
 
-##Project Manager's Inbox Nightmare: More Than Just Volume
+## Project Manager's Inbox Nightmare: More Than Just Volume
 
 Det är inte bara _antal_ e-postmeddelanden som träffar din inkorg; det är projektkommunikationens _natur_ som förvandlar e-post från ett användbart verktyg till ett produktivitetsminfält. jektledare kämpar ständigt mot specifika utmaningar inbakade i e-postformatet:
 

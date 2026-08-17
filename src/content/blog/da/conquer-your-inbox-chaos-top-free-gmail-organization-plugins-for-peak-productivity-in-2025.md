@@ -41,7 +41,7 @@ Vi har undersøgt mulighederne for at fremhæve nogle af de mest effektive, vela
 
 **Gratis plan begrænsninger:** Gratis planens begrænsninger er væsentlige for løbende brug. Du er begrænset til kun 4 lister pr. bord, maksimalt 50 ufuldstændige opgaver på tværs af dit team (20 pr. liste), og kritisk kun en **30-dages aktivitetshistorik**. Dette gør det svært at spore fremskridt på alt ud over meget kortsigtede opgaver. Desuden mangler den gratis plan alle teamsamarbejdsfunktioner (såsom delte tavler eller delte postkasser), brugerdefinerede felter og tilbyder meget begrænsede automatiseringsmuligheder. Mobilappoplevelsen rapporteres også at være mindre funktionel end desktopversionen, og du skal stadig manuelt trække e-mails ind på tavler; der er ingen automatiske filtreringsmuligheder til at gøre dette. I det væsentlige giver den gratis plan en stærk visuel smag, men er bedst egnet til grundlæggende, individuel opgavestyring afledt af nylige e-mails.
 
-###Todoistfor Gmail: Gør e-mails til handlingsrettede opgaver
+### Todoistfor Gmail: Gør e-mails til handlingsrettede opgaver
 
 **Koncept:** For dem, der lever efter deres to-do-liste, erTodoistfor Gmail integration et populært valg. Den forbinder Gmail direkte til den kraftfuldeTodoistopgavestyringsapp, så du hurtigt kan konvertere handlingsrettede e-mails til opgaver i ditTodoistsystem.
 
@@ -55,7 +55,7 @@ Vi har undersøgt mulighederne for at fremhæve nogle af de mest effektive, vela
 
 **Begrænsninger for gratis plan (Todoist& Integration):** Den største ulempe ligger i begrænsningerne af selve den _gratisTodoistplan_. Det begrænser dig til 5 projekter og 5 samarbejdspartnere, tilbyder kun én uges aktivitetshistorik og, vigtigst af alt, **inkluderer ikke påmindelser**. Dette påvirker i høj grad dets anvendelighed til tidsfølsomme opgaver, der stammer fra e-mails.Gmail integrationen er, selvom den er praktisk til optagelse, også ret grundlæggende. Brugeranmeldelser nævner ofte manglende evne til at tilføje etiketter, tildele opgaver til specifikke projektsektioner, angive præcise forfaldsdatoer (ud over de grundlæggende muligheder) eller tilføje kommentarer direkte fra Gmail-grænsefladen - ofte kræver det, at du åbner hovedappenTodoistfor at udfylde opgavedetaljerne. Nogle brugere rapporterer også lejlighedsvise fejl eller træg ydeevne med selve integrationen. Derfor fungerer den gratis integration primært som en hurtig indfangningsmekanisme, der skubber det faktiske organiserings- og ledelsesarbejde (og dets begrænsninger) ind på hovedplatformenTodoist.
 
-###Right Inbox(Gratis niveau): Mastertiming med planlægning og påmindelser
+### Right Inbox(Gratis niveau): Mastertiming med planlægning og påmindelser
 
 **Koncept:**Right Inboxfokuserer på at forbedre Gmail med funktioner centreret omkring timing, opfølgning og effektivitet. Det tilføjer funktioner som planlægning af e-mails til senere afsendelse, indstilling af påmindelser om vigtige beskeder, brug af e-mailskabeloner og grundlæggende e-mail-sporing. Dette er især nyttigt for sælgere, der koordinerer på tværs af tidszoner, freelancere, der administrerer kundens forventninger, eller alle, der ønsker bedre kontrol over, hvornår e-mails lander, og sikre, at vigtige samtaler ikke bliver glemt.
 

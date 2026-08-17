@@ -156,6 +156,6 @@ Međutim, „besplatno“ često dolazi sa kompromisima. Imajte na umu ograniče
 
 Najbolji pristup? Identifikujte svoju najveću frustraciju putem e-pošte – da li je to vizuelizacija? Praćenje zadataka? Tajming? Decluttering? – i eksperimentišite sa najrelevantnijim besplatnim alatom sa naše liste. Pogledajte da li to čini razliku u vašem svakodnevnom toku rada.
 
-Učinite prvi korak ka zdravlju prijemnog sandučeta danas tako što ćete isprobati jedan od ovih besplatnih organizatora. Ako otkrijete da vam je potrebna dublja automatizacija, zaista inteligentno određivanje prioriteta i besprekorni asistent koji uči vaš jedinstveni stil kako bi vam pomogao da povratite sate svake nedelje, istražite kako rešenja zasnovana na AI kao što je [**Chiefy**](https://chiefy.com/sr) (⟪P0000va⟫ vam omogućava da se fokusirate na upravljanje e-poštom) stvari.
+Učinite prvi korak ka zdravlju prijemnog sandučeta danas tako što ćete isprobati jedan od ovih besplatnih organizatora. Ako otkrijete da vam je potrebna dublja automatizacija, zaista inteligentno određivanje prioriteta i besprekorni asistent koji uči vaš jedinstveni stil kako bi vam pomogao da povratite sate svake nedelje, istražite kako rešenja zasnovana na AI kao što je [**Chiefy**](https://chiefy.com/sr) mogu unaprediti vaše upravljanje e-poštom i omogućiti vam da se fokusirate na posao koji je zaista važan.
 
 Da li vam je ovaj vodič pomogao? Podelite ga sa kolegama ili prijateljima koji se takođe bore protiv e-pošte!

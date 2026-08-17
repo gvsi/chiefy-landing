@@ -7,7 +7,7 @@ tags: ["IA", "Gmail", "Productivitate", "Instrumente"]
 draft: false
 ---
 
-Introducere
+## Introducere
 
 Oare inbox-ul profesionistului modern seamănă mai puțin cu un instrument de comunicare și mai mult cu o bandă de alergare digitală, care solicită în permanență atenție? Lupta cu supraîncărcarea cu e-mailuri este o experiență aproape universală în lumea afacerilor. Statisticile prezintă o imagine sumbră: un angajat mediu de birou petrece peste două ore zilnic doar citind și răspunzând la mesaje, verificând adesea e-mailurile de 15 ori pe zi [(Forbes, Timeular, Timewatch)](https://lifehackmethod.com/blog/time-management-statistics/). Pe lângă asta, un [sondaj Mailbird](https://www.getmailbird.com/email-overload-survey/) a dezvăluit că, pentru mulți profesioniști, doar 10% sau mai puțin din volumul săptămânal de e-mailuri este de fapt critic pentru afacere. Această ineficiență se traduce printr-o pierdere semnificativă de timp, putând costa peste 10 ore de muncă productivă în fiecare săptămână per angajat. Aceasta nu este doar o mică problemă; reprezintă o pierdere substanțială a productivității și o sursă recunoscută de stres la locul de muncă. În schimb, cercetările indică faptul că productivitatea angajaților înregistrează o creștere semnificativă, cu până la 20-25%, în organizațiile care promovează comunicarea și conexiunea eficientă [(McKinsey & Company)](https://www.oak.com/blog/internal-communications-statistics/).
 

@@ -211,6 +211,12 @@ const publishedContentLeftoverPatterns = [
     // so a recurrence needs a per-file English cross-check, never a blind
     // replace. Leading zeros vary (ZXQ0001QXZ, ZXQ00001QXZ).
     /ZXQ\d+QXZ/u,
+    // Sibling generator sentinels found in review of #33 (round 1): `<[Enate DUETAIKE]>0`
+    // replaced a citation link in da/nb/sv; `⟪P0002…⟫` / `…0⟫` replaced URLs and spans in sr;
+    // an escaped link opener `\[Shortwave](…)` un-linked a Turkish anchor.
+    /<\[[^\]\n]+\]>\d+/u,
+    /[⟪⟫]/u,
+    /\\\[[^\]\n]{1,80}\]\(/u,
 ]
 
 function escapeRegex(value) {
@@ -392,12 +398,38 @@ function assertBlogImagePathParity(relativePath, content, englishContent) {
     if (local.length !== english.length || local.some((p, i) => p !== english[i])) {
         fail(`Blog image paths differ from English (must be identical, unlocalized /blog/images/… paths) in ${relativePath}: ${JSON.stringify(local)} vs ${JSON.stringify(english)}`)
     }
-    // Images are block-level figures: markup glued to the preceding sentence (`…text.![alt](…)`)
-    // renders inline or not at all. English never does this; 280 localized images did.
-    const glued = content.match(/\S!\[(?:[^[\]]|\[[^[\]]*\])*\]\(\/blog\/images\//u)
+    // Images are block-level figures: every line that carries image markup must be exactly one
+    // standalone image. Catches glue on either side (`text.![…](…)` / `![…](…)caption`) and
+    // markup split across lines. English satisfies this for all 26 images; 280+ localized ones did not.
+    const STANDALONE_IMAGE = /^!\[(?:[^[\]]|\[[^[\]]*\])*\]\([^)\s]+(?:\s+"[^"]*")?\)$/u
+    content.split("\n").forEach((line, idx) => {
+        if (line.includes("![") && !STANDALONE_IMAGE.test(line.trim())) {
+            fail(`Blog image markup must occupy its own line (no glued text, not split across lines) in ${relativePath}:${idx + 1}: ${line.trim().slice(0, 80)}`)
+        }
+    })
+}
+
+// Headings are the document outline (SEO, a11y). The 2026-05 batch glued headings onto the
+// preceding sentence (`…dashboard).### Next`), let a heading swallow its following paragraph,
+// or dropped the marker entirely. Level sequence must match English; a heading line more than
+// 4× its English counterpart has swallowed prose (legit max across 47 locales is 2.9×, ta).
+function assertBlogHeadingParity(relativePath, content, englishContent) {
+    const glued = content.match(/[^\s#]#{2,4}\s\S/u)
     if (glued) {
-        fail(`Blog image markup glued to preceding text (needs a blank line before it) in ${relativePath}: …${glued[0].slice(0, 60)}`)
+        fail(`Heading glued to preceding text (needs a blank line before it) in ${relativePath}: …${glued[0]}`)
     }
+    const headings = (md) => [...md.matchAll(/^(#{1,6})[ \t]+(.*\S)[ \t]*$/gmu)].map((m) => ({ level: m[1].length, text: m[2] }))
+    const local = headings(content)
+    const english = headings(englishContent)
+    const seq = (h) => h.map((x) => x.level).join("")
+    if (seq(local) !== seq(english)) {
+        fail(`Heading structure differs from English (${local.length} vs ${english.length}: ${seq(local)} vs ${seq(english)}) in ${relativePath}`)
+    }
+    local.forEach((h, i) => {
+        if (h.text.length > 4 * Math.max(english[i].text.length, 12)) {
+            fail(`Heading is ${h.text.length} chars vs ${english[i].text.length} in English — it has swallowed the following paragraph — in ${relativePath}: ${h.text.slice(0, 60)}…`)
+        }
+    })
 }
 
 function assertNoPublishedContentPlaceholdersInValue(relativePath, value) {
@@ -1320,6 +1352,7 @@ async function assertSourceContentFiles({ complete }) {
                 assertMarkdownTableParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
             }
             assertBlogImagePathParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
+            assertBlogHeadingParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
             assertNoProtectedTermGlue(locale, relativePath, markdownContent)
             assertNoLongEnglishRuns(locale, relativePath, markdownContent)
             const { frontmatter: englishFrontmatter } = parseMarkdownFrontmatter(readText(`src/content/blog/en/${file}`), `src/content/blog/en/${file}`)
@@ -1338,6 +1371,7 @@ async function assertSourceContentFiles({ complete }) {
 
     // Known table-content gaps must (a) exist and (b) still fail — otherwise the entry is stale.
     for (const gap of TABLE_PARITY_KNOWN_GAPS) {
+        if (!locales.includes(gap.slice(0, gap.indexOf("/")))) continue // out of --locales scope this run
         if (!tableParityGapsSeen.has(gap)) fail(`TABLE_PARITY_KNOWN_GAPS entry does not match any locale/blog file: ${gap}`)
         const file = gap.slice(gap.indexOf("/") + 1)
         let stillBroken = false

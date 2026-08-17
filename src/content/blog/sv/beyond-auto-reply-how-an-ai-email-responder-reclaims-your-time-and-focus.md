@@ -53,7 +53,7 @@ Detta är kanske den mest effektfulla funktionen för alla som drunknar i e-post
 
 - **Behavioral Learning (ML):** Den observerar hur du hanterar liknande e-postmeddelanden – vilka du öppnar först, flaggar, arkiverar eller delegerar. Sedna framhåller att AI[ **lär sig dina kommunikationsmönster och prioriteringar**](https://sedna.com/email-triage).
 
-- **Kategorisering och routing:** Baserat på sin analys kan AI automatiskt kategorisera e-postmeddelanden (t.ex. "Kräver åtgärd", "Beslut behövs", "FYI"), filtrera bort lågprioriterade meddelanden (nyhetsbrev, kampanjer) och ibland även dirigera e-postmeddelanden till rätt teammedlem i scenarier med delad inkorg (<[Enate DUETAIKE]>0).
+- **Kategorisering och routing:** Baserat på sin analys kan AI automatiskt kategorisera e-postmeddelanden (t.ex. "Kräver åtgärd", "Beslut behövs", "FYI"), filtrera bort lågprioriterade meddelanden (nyhetsbrev, kampanjer) och ibland även dirigera e-postmeddelanden till rätt teammedlem i scenarier med delad inkorg ([Enate AI beskriver denna funktion](https://www.enate.io/blog/email-classification-ai)).
 
 Resultatet? Istället för att möta en vägg av odifferentierade meddelanden ser du en kurerad bild av vad som faktiskt kräver din uppmärksamhet nu. Detta minskar drastiskt sorteringstiden och beslutströttheten. Det är här verktyg som[ **Chiefy**](https://chiefy.com/sv) lyser, och erbjuder en AI Triage-funktion som visar brådskande föremål som behöver åtgärder eller beslut direkt på en fokuserad instrumentpanel.
 

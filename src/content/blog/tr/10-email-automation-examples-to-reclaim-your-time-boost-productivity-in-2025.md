@@ -115,7 +115,7 @@ Bu, karmaşık konuşmaları anlamak için gereken zamandan büyük ölçüde ta
 
 ![Chiefy'in uzun bir e-posta dizisini önemli noktalara ve eylem maddelerine dönüştüren akıllı e-posta özetleme özelliğini gösteren ekran görüntüsü](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
-Otomasyonun Gücü: Rakamlarla
+## Otomasyonun Gücü: Rakamlarla
 
 E-posta otomasyonunun etkisi sadece anekdotlarla sınırlı değil; veriler önemli verimlilik artışlarını gösteriyor:
 
@@ -139,7 +139,7 @@ Bu rakamlar, otomasyonun benimsenmesinin sadece kolaylık sağlamakla ilgili olm
 
 Doğru seçim, asıl amacınıza bağlıdır. Eğer amacınız kampanyaları yönetmekse, MAP'lere bakın. Eğer amacınız kişisel gelen kutunuzu düzene sokmak ve zaman kazanmaksa, AI asistanlarını ve verimlilik araçlarını inceleyin.
 
-Etkili E-posta Otomasyonu için En İyi Uygulamalar
+## Etkili E-posta Otomasyonu için En İyi Uygulamalar
 
 Otomasyon güçlüdür, ancak uygulama önemlidir. Şu en iyi uygulamaları izleyin:
 

@@ -53,7 +53,7 @@ Dette er måske den mest virkningsfulde funktion for alle, der drukner i e-mail.
 
 - **Behavioural Learning (ML):** Det observerer, hvordan du håndterer lignende e-mails - hvilke du åbner først, markerer, arkiverer eller uddelegerer. Sedna fremhæver, at AI[ **lærer dine kommunikationsmønstre og prioriteter**](https://sedna.com/email-triage).
 
-- **Kategorisering og routing:** Baseret på sin analyse kan AI'en automatisk kategorisere e-mails (f.eks. "Kræver handling", "Beslutning påkrævet", "FYI"), frafiltrere beskeder med lav prioritet (nyhedsbreve, kampagner) og nogle gange endda dirigere e-mails til det korrekte teammedlem i scenarier med delt indbakke (<[Enate DUETAIKE]>0).
+- **Kategorisering og routing:** Baseret på sin analyse kan AI'en automatisk kategorisere e-mails (f.eks. "Kræver handling", "Beslutning påkrævet", "FYI"), frafiltrere beskeder med lav prioritet (nyhedsbreve, kampagner) og nogle gange endda dirigere e-mails til det korrekte teammedlem i scenarier med delt indbakke ([Enate AI beskriver denne funktion](https://www.enate.io/blog/email-classification-ai)).
 
 Resultatet? I stedet for at stå over for en mur af udifferentierede beskeder, ser du et kurateret syn på, hvad der faktisk kræver din opmærksomhed nu. Dette reducerer sorteringstiden og beslutningstrætheden drastisk. Det er her værktøjer som[ **Chiefy**](https://chiefy.com/da) skinner og tilbyder en AI Triage-funktion, der viser presserende emner, der kræver handling eller beslutninger, direkte på et fokuseret dashboard.
 

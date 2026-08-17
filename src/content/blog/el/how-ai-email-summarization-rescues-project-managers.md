@@ -194,8 +194,7 @@ draft: false
 
 
 
-![Infographic των πλεονεκτημάτων σύνοψης email AI για PM
-](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
+![Infographic των πλεονεκτημάτων σύνοψης email AI για PM](/blog/images/uHM9LvMkmefJuElisc9ImHStE0.png)
 
 Η σύνοψη ηλεκτρονικού ταχυδρομείου AI προσφέρει απτά οφέλη, βοηθώντας τους διαχειριστές έργων να εξοικονομούν χρόνο, να παρακολουθούν βασικές πληροφορίες και να μειώνουν την ψυχική κόπωση
 

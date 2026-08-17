@@ -111,6 +111,7 @@ Umesto da samo sortiraju poštu u fascikle (kao što je SaneBox) ili se oslanjaj
 
 Uskakanje u nit od 20 poruka može biti zastrašujuće. AI alati za sumiranje sažimaju ove razgovore u sažete tačke ili kratke pasuse, ističući ključne odluke, stavke akcije i suštinski kontekst. Ovo štedi ogromno vreme i osigurava da brzo shvatite situaciju bez ponovnog čitanja čitave istorije.
 
+#### 3. AI Nacrt (koji zvuči kao vi)
 
 Ovde AI zaista sija u uštedi vremena. Umesto da samo nude unapred pripremljene odgovore, napredni AI crtači mogu da generišu kontekstualno relevantne opcije odgovora. Najbolji alati idu korak dalje, uče vaš jedinstveni stil pisanja – vaš ton, rečnik, željene pozdrave i odjave – analizom vaših prošlih poslatih poruka. Ovo im omogućava da kreiraju nacrte koji zvuče istinski kao *vi*, drastično smanjujući vreme uređivanja i održavajući autentičnost vaše komunikacije. Kao što alati poput [Spark Mail-a „Moj stil pisanja“](https://sparkmailapp.com/blog/my-writing-style) pokazuju, cilj je da nacrti generisani AI zahtevaju minimalno podešavanje.
 

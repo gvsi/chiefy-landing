@@ -60,7 +60,7 @@ Brzo odgovaranje često znači žrtvovanje osobnosti, što dovodi do generičkih
 
 Svi smo se suočili s groznom niti višestrukih odgovora koja se pomiče po stranicama. AI sažimanje izravno se bavi time, sažimajući duge razgovore u sažete točke ili kratke odlomke, ističući ključne odluke, radnje i ključne detalje. Alati poput Superhuman, Shortwave i [Canary Mail](https://canarymail.io/) nude varijacije ove značajke. Brzo dobivanje konteksta ključno je, osobito kada se vraćate na složene projekte. AI sažeci značajno štede vrijeme. Neki alati, kao što je [**Chiefy**](https://chiefy.com/hr), idu dalje održavajući kontekstualnu svijest kroz niti, pamteći detalje projekta i odnose kako bi pružili još relevantnije sažetke i nacrte prijedloga.
 
-![Primjer koji prikazuje dugačku nit e-pošte koju A](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png) sažima u ključne grafičke oznake
+![Primjer koji prikazuje dugačku nit e-pošte koju AI sažima u ključne grafičke oznake](/blog/images/Q8MVyz3N80qxgrQ4QcSrc9lCGM.png)
 
 AI sažimanje na Chiefy brzo izvlači ključne točke iz dugih niti e-pošte, štedeći dragocjeno vrijeme
 

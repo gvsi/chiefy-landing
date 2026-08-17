@@ -53,7 +53,7 @@ Chiefy AI destekli önceliklendirme, kritik e-postaları ortaya çıkararak sır
 
 ### **Orijinal AI Taslak Hazırlama: Sesiniz Güçlendirildi**
 
-Hızlı yanıt vermek genellikle kişiliği feda etmek anlamına gelir ve bu da kişisel olmayan, genel yanıtlara yol açabilir.18 Yeni nesil AI taslak oluşturucuları, daha önce gönderdiğiniz e-postalardan doğrudan benzersiz iletişim tarzınızı – tonunuzu, kelime dağarcığınızı, ifade biçiminizi ve hatta tercih ettiğiniz resmiyet düzeyini – öğrenerek bu sorunu ele alıyor. Superhuman'ın ["benim sesimle yaz"](https://superhuman.com/ai) özelliği bunun en iyi örneğidir ve özgünlüğü hedefleyen benzer özellikler [Canary Mail](https://canarymail.io/) ve \[Shortwave](https://www.shortwave.com) gibi araçlarda da bulunur.
+Hızlı yanıt vermek genellikle kişiliği feda etmek anlamına gelir ve bu da kişisel olmayan, genel yanıtlara yol açabilir.18 Yeni nesil AI taslak oluşturucuları, daha önce gönderdiğiniz e-postalardan doğrudan benzersiz iletişim tarzınızı – tonunuzu, kelime dağarcığınızı, ifade biçiminizi ve hatta tercih ettiğiniz resmiyet düzeyini – öğrenerek bu sorunu ele alıyor. Superhuman'ın ["benim sesimle yaz"](https://superhuman.com/ai) özelliği bunun en iyi örneğidir ve özgünlüğü hedefleyen benzer özellikler [Canary Mail](https://canarymail.io/) ve [Shortwave](https://www.shortwave.com) gibi araçlarda da bulunur.
 Hedef sadece hız değil, özgün hızdır. Kısa metin parçaları yardımcı olsa da, AI tarafından oluşturulan yanıtlarda gerçekten _siz_ gibi ses çıkarmak, ilişkileri sürdürmek için çok önemlidir. [**Chiefy**](/tr/) gibi asistanların temel gücü, özgün ses öğrenimine odaklanmaktır ve bu sayede verimliliğin kişilikten ödün verilmemesi sağlanır.
 
 ### **Anlık Özetler ve Bağlam: Uykunuzdan Kaçmadan Bilgi Edinin**

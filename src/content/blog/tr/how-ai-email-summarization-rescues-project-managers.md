@@ -15,7 +15,7 @@ E-posta, proje iletişimi için vazgeçilmez bir kanal olsa da, doğrusal ve kro
 
 Peki ya akıllı bir asistanınız bu uzun ve karmaşık konuşmaları anında özlü ve uygulanabilir özetlere dönüştürebilseydi? İşte karşınızda AI e-posta özetleme. Hızla gelişen bu teknoloji, proje yöneticilerine gelen kutusu karmaşasını ortadan kaldırmak, değerli zaman kazanmak ve proje iletişimlerinin kontrolünü elinde tutmak için güçlü bir yol sunuyor. Bu yazıda, proje yöneticilerinin karşılaştığı e-posta karmaşasına derinlemesine ineceğiz, AI özetlemenin nasıl çalıştığını keşfedeceğiz, rolünüz için somut faydalarını ortaya çıkaracağız ve bu araçların gelen kutunuzu nihayet nasıl kontrol altına almanıza yardımcı olabileceğine bakacağız.
 
-Proje Yöneticisinin Gelen Kutusu Kabusu: Sadece Miktar Değil
+## Proje Yöneticisinin Gelen Kutusu Kabusu: Sadece Miktar Değil
 
 Gelen kutunuza düşen e-postaların _sayısı_ tek başına yeterli değil; e-postayı faydalı bir araç olmaktan çıkarıp verimlilik mayın tarlasına dönüştüren şey, proje iletişiminin _doğasıdır_. Proje yöneticileri sürekli olarak e-posta formatına özgü zorluklarla mücadele ediyor:
 

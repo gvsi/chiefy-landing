@@ -25,7 +25,7 @@ Her e-posta bildirimi, gelen kutunuza her hızlı bakış, konsantrasyonunuzu al
 
 Bu sadece e-posta okumaya veya yazmaya harcanan zamanla ilgili değil; asıl üretkenliği öldüren, bu kontroller arasındaki birikmiş toparlanma süresidir. Diğer zorlu işlerle uğraşırken e-postaları da aynı anda yönetebileceğimiz inancı bir efsanedir. Bu şekilde aynı anda birden çok işi yapmaya çalışmak aslında üretkenliği %40'a kadar düşürür ve bireysel görevleri tamamlamak için gereken süreyi artırır. İlerleme kaydetmek yerine, dikkat dağılması ve toparlanma döngüsüne takılıp kalırsınız. Gelen mesajların yoğunluğundan kaynaklanan bu sürekli tepki hali, stratejik düşünme ve yenilikçilik için gerekli olan derin, odaklanmış çalışmayı engeller; bu faaliyetler profesyonel gelişim ve iş başarısı için çok önemlidir.
 
-Artan Stres ve Tükenmişlik: Psikolojik Bedel
+### Artan Stres ve Tükenmişlik: Psikolojik Bedel
 
 Sürekli gelen e-postalar, iş yerinde stresin önemli bir kaynağıdır. Çalışmalar, çalışanların önemli bir çoğunluğunun işle ilgili stres yaşadığını ve e-posta talepleriyle sıklıkla artan iş yükünün bunun başlıca nedeni olduğunu ortaya koymaktadır. Nitekim, 2021 yılında yapılan bir çalışma, Amerikalıların %85'inin özellikle e-postalar nedeniyle tükenmişlik hissettiğini ve birçok profesyonelin e-postayı işlerinin en stresli yönü olarak tanımladığını göstermiştir.
 

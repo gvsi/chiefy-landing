@@ -145,7 +145,7 @@ David Allen'ın GTD metodolojisi, görevleri ve taahhütleri zihninizden çıkar
 
 GTD, hiçbir şeyin gözden kaçmamasını sağlayan sağlam bir çerçeve sunarak e-postaları daha büyük bir verimlilik sistemi içinde eyleme geçirilebilir görevlere dönüştürür.
 
-Toplu İşlemenin Gücü
+### Toplu İşlemenin Gücü
 
 Gelen her e-posta bildirimine yanıt vermek yerine, toplu işlem, e-postaları belirli, planlanmış zaman dilimlerinde kontrol etmeyi ve işlemeyi içerir. Örneğin, sabah 10, öğleden sonra 2 ve akşam 4'te 30-60 dakika boyunca e-postalarınızı kontrol edebilir ve geri kalan zamanlarda e-postalarınızı kapalı tutabilirsiniz.
 

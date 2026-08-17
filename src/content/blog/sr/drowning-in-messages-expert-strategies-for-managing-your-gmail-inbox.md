@@ -129,7 +129,7 @@ Cilj ovih asistenata nije samo da rade stvari _brže_, već da ih rade _pametnij
 
 ### Isečak pitanja i odgovora: „Da li su AI pomoćnici za e-poštu bezbedni i privatni?“
 
-To je opravdana zabrinutost: dopuštanje alatki AI da pristupi vašoj e-pošti potencijalno otkriva osetljive informacije. Rizici su stvarni, uključujući kršenje podataka, nenamerno korišćenje vaših privatnih e-poruka za obuku AI modela bez saglasnosti, potencijalnu zloupotrebu za profilisanje i nepoštovanje propisa o privatnosti kao što su [GDPR](https://gdpr-info.eu/) ili [CCPPA]0(⟫0)).
+To je opravdana zabrinutost: dopuštanje alatki AI da pristupi vašoj e-pošti potencijalno otkriva osetljive informacije. Rizici su stvarni, uključujući kršenje podataka, nenamerno korišćenje vaših privatnih e-poruka za obuku AI modela bez saglasnosti, potencijalnu zloupotrebu za profilisanje i nepoštovanje propisa o privatnosti kao što su [GDPR](https://gdpr-info.eu/) ili [CCPA](https://oag.ca.gov/privacy/ccpa).
 
 Međutim, renomirani provajderi pomoćnika za e-poštu AI shvataju ove brige ozbiljno i primenjuju robusne mere bezbednosti i privatnosti. Kada procenjujete alat, potražite:
 
@@ -162,7 +162,7 @@ AI pomoćnici za e-poštu prevazilaze jednostavnu automatizaciju; oni nude intel
 
 **Problem Pro:**Upoznavanje sa dugom, krivudavom e-porukom ili slaganje gustog PDF priloga može se osećati kao istraživački projekat sam po sebi. Ključne odluke i akcije često se gube u obimu.
 
-**Rešenje AI:**AI rezimiranje koristi sofisticirane tehnike NLP (i [izdvajanje ključnih rečenica](https://aws.amazon.com/what-is/extractive-text-summarization/) i [generisanje novih, sažetih fraza](01⟪P0) čak i dužina e-pošte do 1⟪P0) priložene dokumente u lako svarljive sažetke. Identifikuje i ističe osnovnu poruku, ključne donete odluke i izvanredne akcije, razumejući kontekst razgovora.
+**Rešenje AI:**AI rezimiranje koristi sofisticirane tehnike NLP (i [izdvajanje ključnih rečenica](https://aws.amazon.com/what-is/extractive-text-summarization/) i [generisanje novih, sažetih fraza](https://aws.amazon.com/what-is/abstractive-text-summarization/)) da sažme duge niti e-pošte, pa čak i priložene dokumente, u lako svarljive sažetke. Identifikuje i ističe osnovnu poruku, ključne donete odluke i izvanredne akcije, razumejući kontekst razgovora.
 
 **Prednost:**Ovo štedi ogromnu količinu vremena za čitanje, omogućavajući vam da shvatite suštinu složene rasprave za nekoliko sekundi. Smanjuje kognitivno opterećenje, sprečava nesporazume izazvane skimmingom i obezbeđuje da imate neophodan kontekst da efikasno reagujete bez ponovnog čitanja čitave istorije.
 

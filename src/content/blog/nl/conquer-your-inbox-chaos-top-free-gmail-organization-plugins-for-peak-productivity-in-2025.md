@@ -41,7 +41,7 @@ We hebben de opties doorgenomen om enkele van de meest effectieve, gewaardeerde 
 
 **Beperkingen van het gratis abonnement:** De beperkingen van het gratis abonnement zijn aanzienlijk voor doorlopend gebruik. U bent beperkt tot slechts vier lijsten per bord, een maximum van 50 onvoltooide taken voor uw team (20 per lijst) en, cruciaal, slechts een **activiteitengeschiedenis van 30 dagen**. Dit maakt het moeilijk om de voortgang bij te houden bij alles wat verder gaat dan taken op zeer korte termijn. Bovendien mist het gratis abonnement alle functies voor teamsamenwerking (zoals gedeelde borden of gedeelde mailboxen), aangepaste velden en biedt het zeer beperkte automatiseringsmogelijkheden. Er wordt ook gerapporteerd dat de mobiele app-ervaring minder functioneel is dan de desktopversie, en je moet nog steeds e-mails handmatig naar borden slepen; er zijn geen automatische filteropties om dit te doen. In wezen biedt het gratis abonnement een sterke visuele smaak, maar is het het meest geschikt voor eenvoudig, individueel taakbeheer dat is afgeleid van recente e-mails.
 
-###Todoist voor Gmail: zet e-mails om in bruikbare taken
+### Todoist voor Gmail: zet e-mails om in bruikbare taken
 
 **Concept:** Voor degenen die zich aan hun takenlijst houden, is deTodoist voor Gmail integratie een populaire keuze. Het verbindt Gmail rechtstreeks met de krachtigeTodoistapp voor taakbeheer, zodat u snel bruikbare e-mails kunt omzetten in taken binnen uwTodoistsysteem.
 
@@ -55,7 +55,7 @@ We hebben de opties doorgenomen om enkele van de meest effectieve, gewaardeerde 
 
 **Beperkingen van het gratis abonnement (Todoisten integratie):** Het belangrijkste nadeel ligt in de beperkingen van het _gratisTodoistplan zelf_. Het beperkt u tot 5 projecten en 5 bijdragers, biedt slechts één week aan activiteitengeschiedenis en, belangrijker nog, **bevat geen herinneringen**. Dit heeft een aanzienlijke invloed op het nut ervan voor tijdgevoelige taken die uit e-mails voortkomen. De Gmail-integratie is weliswaar handig voor vastleggen, maar ook vrij eenvoudig. In gebruikersrecensies wordt vaak melding gemaakt van het onvermogen om labels toe te voegen, taken toe te wijzen aan specifieke projectsecties, precieze vervaldatums in te stellen (buiten de basisopties) of opmerkingen rechtstreeks toe te voegen vanuit de Gmail-interface – waarbij u vaak de hoofdappTodoistmoet openen om de taakdetails uit te werken. Sommige gebruikers melden ook af en toe bugs of trage prestaties bij de integratie zelf. Daarom fungeert de vrije integratie in de eerste plaats als een snel registratiemechanisme, waardoor het daadwerkelijke organisatie- en managementwerk (en de beperkingen ervan) naar het hoofdTodoistplatform wordt verplaatst.
 
-###Right Inbox(Gratis niveau): Master Timing met planning en herinneringen
+### Right Inbox(Gratis niveau): Master Timing met planning en herinneringen
 
 **Concept:**Right Inboxricht zich op het verbeteren van Gmail met functies rond timing, follow-up en efficiëntie. Het voegt mogelijkheden toe zoals het plannen van e-mails om later te verzenden, het instellen van herinneringen voor belangrijke berichten, het gebruik van e-mailsjablonen en het bijhouden van eenvoudige e-mails. Dit is met name handig voor verkoopprofessionals die in verschillende tijdzones coördineren, freelancers die de verwachtingen van klanten beheren, of iedereen die meer controle wil over wanneer e-mails binnenkomen en ervoor wil zorgen dat belangrijke gesprekken niet worden vergeten.
 

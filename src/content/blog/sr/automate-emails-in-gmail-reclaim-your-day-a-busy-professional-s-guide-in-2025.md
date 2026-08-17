@@ -16,7 +16,7 @@ Pre nego što uđemo u rešenja, hajde da kvantifikujemo problem. E-pošta nije 
 
 - **Dnevna poplava:**Prosečan kancelarijski radnik prima oko [121-126 e-poruka *po danu*](https://blocksender.io/how-many-emails-are-sent-and-received-daily-statistics-on-email-overload/), sa milijardama koje prolaze internetom širom sveta.
 
-- **Ponor vremena:**Profesionalci troše otprilike [2,6 do 3,1 sat dnevno](https://www.maestrolabs.com/blog-detail/ai-email-assistants-for-gmail) na upravljanje e-poštom, što iznosi skoro [28% prosečne radne nedelje](https://www.ppm.express/blog/checking-emails) prema istraživanju na koje upućuje 0ci1⟫ McKinsey).
+- **Ponor vremena:**Profesionalci troše otprilike [2,6 do 3,1 sat dnevno](https://www.maestrolabs.com/blog-detail/ai-email-assistants-for-gmail) na upravljanje e-poštom, što iznosi skoro [28% prosečne radne nedelje](https://www.ppm.express/blog/checking-emails) prema istraživanju na koje upućuje PPM Express (citirajući McKinsey).
 
 - **Porez na prekide:**Često proveravamo našu e-poštu – neke procene sugerišu [svakih 6 minuta](https://www.ppm.express/blog/checking-emails)! Svaki prekid nije samo trenutni pogled; potrebno je u proseku [23-25 ​​minuta](https://www.ppm.express/blog/checking-emails) da biste u potpunosti vratili fokus na svoj prvobitni zadatak.
 

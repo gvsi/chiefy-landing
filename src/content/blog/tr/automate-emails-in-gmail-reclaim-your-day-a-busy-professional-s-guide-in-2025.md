@@ -127,7 +127,7 @@ Uzun bir e-posta zincirine dalmak dedektiflik yapmaya benzeyebilir. AI özetleme
 
 AI e-posta alanı hızla gelişiyor ve [MailMaestro](https://www.maestrolabs.com/), [SaneBox](https://www.sanebox.com/) ve diğerleri gibi çok sayıda araç, bu akıllı özelliklerin çeşitli kombinasyonlarını sunuyor ve bunlar genellikle uzantılar veya ayrı uygulamalar aracılığıyla doğrudan Gmail'e entegre ediliyor.
 
-Etkili E-posta Otomasyonu için En İyi Uygulamalar
+## Etkili E-posta Otomasyonu için En İyi Uygulamalar
 
 Otomasyon güçlüdür, ancak onu akıllıca kullanın. Aklınızda tutmanız gereken birkaç ilke şunlardır:
 
