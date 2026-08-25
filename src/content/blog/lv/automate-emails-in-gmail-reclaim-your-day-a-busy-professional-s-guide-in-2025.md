@@ -113,7 +113,7 @@ Mākslīgā intelekta asistenti izmanto mašīnmācīšanos un dabiskās valodas
 
 ### Ar mākslīgo intelektu darbināta triāža: signāla atrašana troksnī
 
-Vai jūtaties nomākts par ziņojumu apjomu? Mākslīgā intelekta triāža darbojas kā virtuāls asistents, pārskatot jūsu iesūtni, lai atklātu, kam patiešām jāpievērš uzmanība. Analizējot dažādus signālus, šie rīki automātiski kategorizē un piešķir prioritāti ziņojumiem, pārvietojot zemas prioritātes vienumus (piemēram, informatīvos biļetenus vai paziņojumus) malā un izceļot steidzamus pieprasījumus vai svarīgu saziņu. Tādi rīki kā [Emilio](https://getemil.io/blog/ai-email-triage/) vai [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/) aprakstītā sistēma ir šīs pieejas piemērs. Šeit tādi rīki kā [**Chiefy**](https://chiefy.com/lv/lv) var būt pārveidojoši, izmantojot savu AI Triage, lai analizētu steidzamību un nepieciešamās darbības, attēlojot tās Focused Dashboard formātā, lai jūs uzreiz redzētu, kam jāpievērš uzmanība, ievērojami samazinot kārtošanas laiku.
+Vai jūtaties nomākts par ziņojumu apjomu? Mākslīgā intelekta triāža darbojas kā virtuāls asistents, pārskatot jūsu iesūtni, lai atklātu, kam patiešām jāpievērš uzmanība. Analizējot dažādus signālus, šie rīki automātiski kategorizē un piešķir prioritāti ziņojumiem, pārvietojot zemas prioritātes vienumus (piemēram, informatīvos biļetenus vai paziņojumus) malā un izceļot steidzamus pieprasījumus vai svarīgu saziņu. Tādi rīki kā [Emilio](https://getemil.io/blog/ai-email-triage/) vai [Mailmodo](https://www.mailmodo.com/guides/ai-email-triage/) aprakstītā sistēma ir šīs pieejas piemērs. Šeit tādi rīki kā [**Chiefy**](https://chiefy.com/lv) var būt pārveidojoši, izmantojot savu AI Triage, lai analizētu steidzamību un nepieciešamās darbības, attēlojot tās Focused Dashboard formātā, lai jūs uzreiz redzētu, kam jāpievērš uzmanība, ievērojami samazinot kārtošanas laiku.
 
 ### Smart Summarization: Garu pavedienu satveršana acumirklī
 
@@ -164,4 +164,4 @@ Mērķis nav tikai tukša iesūtne, bet gan koncentrētāka, produktīvāka un m
 
 Atgūstiet savu laiku un samaziniet e-pasta radīto stresu, izmantojot efektīvu automatizāciju.
 
-Vai esat gatavs iekarot savu iesūtni? Izmēģiniet filtru ieviešanu jau šodien, izpētiet paplašinājumu konkrētai vajadzībai vai uzziniet, kā mākslīgā intelekta palīgs, piemēram, [**Chiefy**](https://chiefy.com/lv/lv), var inteliģenti automatizēt triāžu, apkopošanu un melnrakstu veidošanu, lai pārveidotu jūsu darbplūsmu.
+Vai esat gatavs iekarot savu iesūtni? Izmēģiniet filtru ieviešanu jau šodien, izpētiet paplašinājumu konkrētai vajadzībai vai uzziniet, kā mākslīgā intelekta palīgs, piemēram, [**Chiefy**](https://chiefy.com/lv), var inteliģenti automatizēt triāžu, apkopošanu un melnrakstu veidošanu, lai pārveidotu jūsu darbplūsmu.
