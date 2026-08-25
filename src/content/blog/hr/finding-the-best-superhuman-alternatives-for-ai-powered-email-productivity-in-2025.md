@@ -21,7 +21,7 @@ Ovaj post će smanjiti buku. Pogledat ćemo što je Superhuman učinilo mjerilom
 
 Nemoguće je razgovarati o premium klijentima e-pošte bez priznavanja utjecaja. Izbio je na scenu obećavajući – i uglavnom pružajući – ["najbrže iskustvo e-pošte ikada napravljeno"](https://superhuman.com/). Njegova osnovna privlačnost leži u munjevito brzom sučelju optimiziranom za tipkovničke prečace (poznati pristup Command-K svemu), minimalističkom, estetski ugodnom dizajnu i značajkama dizajniranim za napredne korisnike: Split Inbox za kategorizaciju, isječci za pripremljene odgovore, podsjetnici za praćenje i kontroverzni, ali korisni statusi čitanja.
 
-Prepoznajući AI val, Superhuman nije stajao na mjestu. Integrirao je značajne AI mogućnosti, uključujući duge niti, ["Pišite s AI"](https://superhuman.com/ai) koji uči i oponaša vaš jedinstveni stil pisanja, prijedloge za trenutni odgovor i značajku pretraživanja prirodnog jezika ["Pitaj AI"](https://superhuman.com/). Za mnoge koji se bave velikom količinom e-pošte, Superhuman je po prvi put učinio e-poštom lako upravljivom, čak i moćnom.
+Prepoznajući AI val, Superhuman nije stajao na mjestu. Integrirao je značajne AI mogućnosti, uključujući duge niti, ["Pišite s AI"](https://superhuman.com/ai) koji uči i oponaša vaš jedinstveni stil pisanja, prijedloge za trenutni odgovor i značajku pretraživanja prirodnog jezika ["Pitaj AI"](https://superhuman.com/ai). Za mnoge koji se bave velikom količinom e-pošte, Superhuman je po prvi put učinio e-poštom lako upravljivom, čak i moćnom.
 
 Međutim, sami čimbenici koji definiraju Superhuman također stvaraju razloge za korisnike da traže drugdje.
 
@@ -54,7 +54,7 @@ Chiefy Trijaža pokretana umjetnom inteligencijom otkriva kritične e-poruke, sm
 ### **Autentična AI izrada: Vaš glas, pojačan**
 
 Brzo odgovaranje često znači žrtvovanje osobnosti, što dovodi do generičkih odgovora koji se mogu činiti neosobnima.18 Sljedeća generacija AI sastavljača rješava to tako što uči vaš jedinstveni komunikacijski stil – vaš ton, vokabular, fraze, pa čak i željenu razinu formalnosti – izravno iz vaših prethodno poslanih e-poruka. Sposobnost Superhuman ["piši mojim glasom"](https://superhuman.com/ai) odličan je primjer, a slične značajke usmjerene na autentičnost nalaze se u alatima kao što su [Canary Mail](https://canarymail.io/) i \
-[Shortwave](https://superhuman.com/ai). Cilj nije samo brzina, već autentična brzina. Iako isječci pomažu, zvučanje kao _vi_ u odgovorima koje je generirala umjetna inteligencija ključno je za održavanje odnosa. Ovaj fokus na autentično glasovno učenje ključna je snaga pomoćnika kao što je [**Chiefy**](https://canarymail.io/), čime se osigurava da učinkovitost ne dolazi po cijenu osobnosti.
+[Shortwave](https://www.shortwave.com). Cilj nije samo brzina, već autentična brzina. Iako isječci pomažu, zvučanje kao _vi_ u odgovorima koje je generirala umjetna inteligencija ključno je za održavanje odnosa. Ovaj fokus na autentično glasovno učenje ključna je snaga pomoćnika kao što je [**Chiefy**](https://chiefy.com/hr), čime se osigurava da učinkovitost ne dolazi po cijenu osobnosti.
 
 ### **Trenutni sažeci i kontekst: nadoknadite bez hvatanja Z**
 
