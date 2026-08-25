@@ -432,6 +432,84 @@ function assertBlogHeadingParity(relativePath, content, englishContent) {
     })
 }
 
+// Link targets rotated against link text in the 2026-05 batch (chiefy-landing #34):
+// [Chiefy] CTAs pointed at competitors and whole URL sequences were permuted.
+// Hard rules per post: (LABEL) a link label must not swallow the links after it;
+// (A) chiefy.com targets must be the bare origin or this locale's landing path;
+// (B) a non-image link whose label mentions Chiefy must target a Chiefy property;
+// (C) the full link sequence — with chiefy.com targets collapsed to a CHIEFY
+// sentinel so rotations under translated labels are still visible — must keep
+// English's relative order for every link shared with English (LCS: a greedy
+// subsequence check false-positives on posts that merely insert an extra copy
+// of a repeated URL, e.g. ja/finding-the-best-superhuman-alternatives).
+// Multiset parity with English (dropped/extra citations AND dropped Chiefy
+// CTAs — ro/tr have zero CTAs left) is a known pre-existing gap: reported as a
+// warning and pinned by LINK_MULTISET_GAP_PIN so it can only move deliberately.
+const BLOG_HTTP_LINK = /(!?)\[((?:[^[\]]|\[[^[\]]*\])*)\]\((https?:\/\/[^)\s]+)(?:\s+"[^"]*")?\)/gu
+const CHIEFY_URL = /^https?:\/\/(?:www\.)?chiefy\.com(?:[/?#]|$)/u
+// Rule B admits first-party destinations beyond the marketing apex so a future
+// [Install Chiefy](chrome web store) link does not break CI. The CWS host is
+// multi-tenant, so only Chiefy's own extension id qualifies (Footer.astro).
+const CHIEFY_PROPERTY = /^https:\/\/(?:(?:www|app)\.)?chiefy\.com(?:[/?#]|$)|^https:\/\/app\.duetmail\.com(?:[/?#]|$)|^https:\/\/chromewebstore\.google\.com\/detail\/(?:[^/?#]+\/)?aiigdjghdodkbipkkcjacnhednmlhemo(?:[/?#]|$)/u
+
+function blogHttpLinks(content) {
+    return [...content.matchAll(BLOG_HTTP_LINK)]
+        .filter((match) => match[1] !== "!")
+        .map((match) => ({ label: match[2], url: match[3] }))
+}
+
+// Longest common subsequence length (posts have ≤ ~60 links; O(n·m) is fine).
+function urlSequenceAligned(localUrls, englishUrls) {
+    const dp = Array.from({ length: localUrls.length + 1 }, () => new Array(englishUrls.length + 1).fill(0))
+    for (let i = 1; i <= localUrls.length; i++) {
+        for (let j = 1; j <= englishUrls.length; j++) {
+            dp[i][j] = localUrls[i - 1] === englishUrls[j - 1]
+                ? dp[i - 1][j - 1] + 1
+                : Math.max(dp[i - 1][j], dp[i][j - 1])
+        }
+    }
+    return dp[localUrls.length][englishUrls.length]
+}
+
+const linkMultisetGaps = []
+
+function assertBlogLinkTargetParity(locale, defaultLocale, relativePath, content, englishContent) {
+    const links = blogHttpLinks(content)
+    const allowedChiefy = locale === defaultLocale
+        ? /^https:\/\/chiefy\.com\/?$/u
+        : new RegExp(`^https://chiefy\\.com(?:/(?:${escapeRegex(locale)}/?)?)?$`, "u")
+    for (const { label, url } of links) {
+        // A stray unclosed "[" makes the label swallow the following links, hiding
+        // their targets from every rule below — 3 such labels shipped in the 2026-05
+        // batch (max legitimate label is 168 chars; a swallowed link always leaves
+        // "](" inside the label, so this is a deterministic corruption signal).
+        if (label.includes("](")) {
+            fail(`Corrupted link label swallows following links (unclosed '[') in ${relativePath}: [${label.slice(0, 60)}…`)
+        }
+        if (CHIEFY_URL.test(url) && !allowedChiefy.test(url)) {
+            fail(`chiefy.com link must be https://chiefy.com/ or the /${locale} landing path in ${relativePath}: ${url}`)
+        }
+        if (label.includes("Chiefy") && !CHIEFY_PROPERTY.test(url)) {
+            fail(`Chiefy-labelled link targets a foreign site in ${relativePath}: [${label.slice(0, 40)}](${url})`)
+        }
+    }
+    const sentinel = (url) => (CHIEFY_URL.test(url) ? "CHIEFY" : url)
+    const local = links.map((link) => sentinel(link.url))
+    const english = blogHttpLinks(englishContent).map((link) => sentinel(link.url))
+    const englishCounts = new Map()
+    for (const url of english) englishCounts.set(url, (englishCounts.get(url) ?? 0) + 1)
+    const localCounts = new Map()
+    for (const url of local) localCounts.set(url, (localCounts.get(url) ?? 0) + 1)
+    let shared = 0
+    for (const [url, count] of localCounts) shared += Math.min(count, englishCounts.get(url) ?? 0)
+    if (urlSequenceAligned(local, english) < shared) {
+        fail(`Link order differs from English (rotated targets — restore per-link targets from src/content/blog/en) in ${relativePath}`)
+    }
+    if (local.length !== english.length || shared !== english.length) {
+        linkMultisetGaps.push(relativePath)
+    }
+}
+
 function assertNoPublishedContentPlaceholdersInValue(relativePath, value) {
     visitStringValues(value, (content, keyPath) => {
         assertNoPublishedContentPlaceholders(`${relativePath}:${keyPath.join(".")}`, content)
@@ -1353,6 +1431,7 @@ async function assertSourceContentFiles({ complete }) {
             }
             assertBlogImagePathParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
             assertBlogHeadingParity(relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
+            assertBlogLinkTargetParity(locale, localeSource.default_locale, relativePath, markdownContent, readText(`src/content/blog/en/${file}`))
             assertNoProtectedTermGlue(locale, relativePath, markdownContent)
             assertNoLongEnglishRuns(locale, relativePath, markdownContent)
             const { frontmatter: englishFrontmatter } = parseMarkdownFrontmatter(readText(`src/content/blog/en/${file}`), `src/content/blog/en/${file}`)
@@ -1381,6 +1460,23 @@ async function assertSourceContentFiles({ complete }) {
             stillBroken = true
         }
         if (!stillBroken) fail(`Stale TABLE_PARITY_KNOWN_GAPS entry — tables now match English, remove it: ${gap}`)
+    }
+
+    // Pinned on 2026-08-25 after the #34 repair. Counts posts whose link multiset
+    // differs from English: dropped/extra citations plus the ro/tr/sk/lt/lv
+    // Chiefy-CTA deficit (~193 missing CTAs — follow-up issue referenced in the
+    // #34 PR). If your change legitimately closes gaps, lower the pin; never
+    // raise it without restoring intent — this ratchet stops silent regrowth.
+    // A --locales-scoped run sees a subset of posts, so only the full run checks.
+    const LINK_MULTISET_GAP_PIN = 235
+    if (linkMultisetGaps.length > 0) {
+        console.warn(`warning: ${linkMultisetGaps.length} blog posts differ from English in link multiset (known citation/CTA gap, chiefy-landing #34 — order and Chiefy targets are enforced; multiset parity is not)`)
+    }
+    if (localeScope === undefined && linkMultisetGaps.length !== LINK_MULTISET_GAP_PIN) {
+        fail(`Blog link multiset gap population is ${linkMultisetGaps.length}, pinned at ${LINK_MULTISET_GAP_PIN} — ` +
+            (linkMultisetGaps.length > LINK_MULTISET_GAP_PIN
+                ? "new posts lost or gained links vs English; restore them or (deliberately) update the pin (chiefy-landing #34)"
+                : "gaps were closed; lower the pin to match"))
     }
 
     const distPath = path.join(repoRoot, "dist")
