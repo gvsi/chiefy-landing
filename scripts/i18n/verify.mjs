@@ -1462,21 +1462,28 @@ async function assertSourceContentFiles({ complete }) {
         if (!stillBroken) fail(`Stale TABLE_PARITY_KNOWN_GAPS entry — tables now match English, remove it: ${gap}`)
     }
 
-    // Pinned on 2026-08-25 after the #34 repair. Counts posts whose link multiset
-    // differs from English: dropped/extra citations plus the ro/tr/sk/lt/lv
-    // Chiefy-CTA deficit (~193 missing CTAs — follow-up issue referenced in the
-    // #34 PR). If your change legitimately closes gaps, lower the pin; never
-    // raise it without restoring intent — this ratchet stops silent regrowth.
+    // Pinned on 2026-08-25 after the #34 repair: the exact set of posts whose
+    // link multiset differs from English — dropped/extra citations plus the
+    // ro/tr/sk/lt/lv/et Chiefy-CTA deficit (~194 missing CTAs, tracked in
+    // chiefy-landing #38). Pinning identities (not a count) means a net-zero
+    // swap — one gap closed while another post regresses — still fails, and a
+    // trip names the offending posts. Closing gaps (e.g. #38 work) removes
+    // lines from the fixture; a post may be added only with restore intent.
     // A --locales-scoped run sees a subset of posts, so only the full run checks.
-    const LINK_MULTISET_GAP_PIN = 235
+    const LINK_MULTISET_GAP_FIXTURE = "scripts/i18n/fixtures/link-multiset-gaps.txt"
     if (linkMultisetGaps.length > 0) {
-        console.warn(`warning: ${linkMultisetGaps.length} blog posts differ from English in link multiset (known citation/CTA gap, chiefy-landing #34 — order and Chiefy targets are enforced; multiset parity is not)`)
+        console.warn(`warning: ${linkMultisetGaps.length} blog posts differ from English in link multiset (known citation/CTA gap, chiefy-landing #38 — order and Chiefy targets are enforced; multiset parity is not)`)
     }
-    if (localeScope === undefined && linkMultisetGaps.length !== LINK_MULTISET_GAP_PIN) {
-        fail(`Blog link multiset gap population is ${linkMultisetGaps.length}, pinned at ${LINK_MULTISET_GAP_PIN} — ` +
-            (linkMultisetGaps.length > LINK_MULTISET_GAP_PIN
-                ? "new posts lost or gained links vs English; restore them or (deliberately) update the pin (chiefy-landing #34)"
-                : "gaps were closed; lower the pin to match"))
+    if (localeScope === undefined) {
+        const pinnedGaps = new Set(readText(LINK_MULTISET_GAP_FIXTURE).split("\n").filter(Boolean))
+        const currentGaps = new Set(linkMultisetGaps)
+        const gained = [...currentGaps].filter((post) => !pinnedGaps.has(post)).sort()
+        const closed = [...pinnedGaps].filter((post) => !currentGaps.has(post)).sort()
+        if (gained.length > 0 || closed.length > 0) {
+            fail(`Blog link multiset gap set drifted from ${LINK_MULTISET_GAP_FIXTURE} (chiefy-landing #38):` +
+                (gained.length > 0 ? `\n  gained gaps (posts lost or grew links vs English — restore them, or add to the fixture only with restore intent): ${gained.join(", ")}` : "") +
+                (closed.length > 0 ? `\n  closed gaps (remove these lines from the fixture): ${closed.join(", ")}` : ""))
+        }
     }
 
     const distPath = path.join(repoRoot, "dist")
