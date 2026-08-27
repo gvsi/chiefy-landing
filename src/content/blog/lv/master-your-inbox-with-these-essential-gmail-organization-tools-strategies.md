@@ -209,7 +209,7 @@ Iedomājieties iesūtni, kas automātiski zina, kas ir steidzams. Mākslīgā in
 
 **Ieguvumi:** Ievērojami samazina manuālās šķirošanas laiku, atklāj kritiskus ziņojumus, kas varētu palikt nepamanīti, samazina uzmanības novēršanu no zemas prioritātes pasta un novērš nogurumu no lēmumu pieņemšanas, veicot sākotnējo “svarīgu/nesvarīgu” novērtējumu jūsu vietā. Tādi rīki kā [**SaneBox**](https://www.sanebox.com/) un [**Superhuman**](https://superhuman.com/) ir pazīstami ar savām mākslīgā intelekta darbinātajām šķirošanas iespējām.
 
-Šī viedā kārtošana ir tieši tas, kam paredzēti tādi rīki kā [Chiefy](https://chiefy.com/lv/lv). Tās AI Triage analizē ienākošos pastus, lai noteiktu to steidzamību un nepieciešamās darbības, un attēlo tos Focused Dashboard formātā, lai jūs uzreiz redzētu, kam jāpievērš uzmanība, novēršot tradicionālās hronoloģiskās iesūtnes troksni.
+Šī viedā kārtošana ir tieši tas, kam paredzēti tādi rīki kā [Chiefy](https://chiefy.com/lv). Tās AI Triage analizē ienākošos pastus, lai noteiktu to steidzamību un nepieciešamās darbības, un attēlo tos Focused Dashboard formātā, lai jūs uzreiz redzētu, kam jāpievērš uzmanība, novēršot tradicionālās hronoloģiskās iesūtnes troksni.
 
 ### Tūlītēja izpratne: mākslīgā intelekta nodrošināta kopsavilkšana
 
@@ -253,7 +253,7 @@ Patiesība ir tāda, ka **nav vienas pareizās atbildes**. Vislabākā Gmail org
 
 4. **Izpētiet risinājumus:** Meklējiet trešo pušu vai mākslīgā intelekta rīkus, kas īpaši novērš jūsu lielāko vājo vietu.
 
-5. **Apsveriet integrētu mākslīgo intelektu:** Ja vairākas mākslīgā intelekta funkcijas (šķirošana, kopsavilkums, izstrāde) šķiet pievilcīgas, izpētiet tādas platformas kā [Chiefy](https://chiefy.com/lv/lv), kas apvieno šīs iespējas vienotai pieredzei, potenciāli vienkāršojot jūsu rīku komplektu.
+5. **Apsveriet integrētu mākslīgo intelektu:** Ja vairākas mākslīgā intelekta funkcijas (šķirošana, kopsavilkums, izstrāde) šķiet pievilcīgas, izpētiet tādas platformas kā [Chiefy](https://chiefy.com/lv), kas apvieno šīs iespējas vienotai pieredzei, potenciāli vienkāršojot jūsu rīku komplektu.
 
 6. **Pilnveidojiet:** Nepārtraukti uzlabojiet savu sistēmu. Tas, kas darbojās pagājušajā mēnesī, var būt jāpielāgo, mainoties jūsu lomai vai projektiem.
 
@@ -263,4 +263,4 @@ E-pasta pārslodze ir izplatīta problēma mūsdienu darba vietā, taču tā nav
 
 Galvenais mērķis ir pavadīt mazāk laika e-pasta _pārvaldībā_ un vairāk laika darbā, kam patiešām ir nozīme. Neatkarīgi no tā, vai sākat ar dažu galveno filtru iestatīšanu, apņemšanos izmantot partijveida apstrādi vai mākslīgā intelekta palīga izmantošanu, speriet soli jau šodien pretī mierīgākai un organizētākai digitālajai dzīvei.
 
-Vai esat gatavs izbaudīt mākslīgā intelekta vadītas e-pasta organizācijas jaudu, kas apgūst jūsu stilu un prioritātes? [**Uzziniet, kā Chiefy**](https://chiefy.com/lv/lv) var pārveidot jūsu attiecības ar iesūtni un katru nedēļu atdot jums stundas atpakaļ. Izmēģiniet to jau šodien!
+Vai esat gatavs izbaudīt mākslīgā intelekta vadītas e-pasta organizācijas jaudu, kas apgūst jūsu stilu un prioritātes? [**Uzziniet, kā Chiefy**](https://chiefy.com/lv) var pārveidot jūsu attiecības ar iesūtni un katru nedēļu atdot jums stundas atpakaļ. Izmēģiniet to jau šodien!

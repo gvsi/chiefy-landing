@@ -99,7 +99,7 @@ Tehisintellekti oma meilidest kokkuvõtte tegemine kõlab fantastiliselt, kuid n
 
 - **Privaatsusprobleemid:** kuigi Google rõhutab Workspace andmeturvet, hõlmab protsess AI analüüsi teie meili sisu. Mõned kasutajad jäävad vaatamata Google kinnitustele andmete käitlemise, säilitamise (ülevaadatud andmeid võib säilitada aastaid) ja https://mashable.com/article/google-gemini-privacy-concernsi https://mashable.com/article/google-gemini-privacy-concernsi potentsiaali suhtes andmetöötluse, säilitamise (ülevaadatud andmeid võib säilitada) suhtes ettevaatlikud.
 
-- **Piiratud juhtimine ja kohandamine:** Üldiselt ei saa te Gmail kokkuvõtete *kuidas* (nt pikkus, fookus) täpselt häälestada. Lisaks nõuab nupu „Summeeri” keelamine sageli [laiemate "nutikate funktsioonide"](https://mashable.com/article/google-gemini-privacy-concerns) väljalülitamist, mis võib eemaldada muud teie jaoks kasulikud funktsioonid.
+- **Piiratud juhtimine ja kohandamine:** Üldiselt ei saa te Gmail kokkuvõtete *kuidas* (nt pikkus, fookus) täpselt häälestada. Lisaks nõuab nupu „Summeeri” keelamine sageli [laiemate "nutikate funktsioonide"](https://ca.news.yahoo.com/latest-gmail-includes-1-risky-221406536.html) väljalülitamist, mis võib eemaldada muud teie jaoks kasulikud funktsioonid.
 
 - **Liigse usaldamise potentsiaal:** ainult kokkuvõtetele tuginemine ilma aeg-ajalt üksikasjadesse süvenemata võib aja jooksul põhjustada arusaamatusi või kriitilise konteksti puudumise.
 
@@ -123,21 +123,21 @@ Seega on teil juurdepääs kasutaja Gmail kokkuvõttele. Kuidas saate seda tõhu
 
 Kuigi lõime otsene kokkuvõte on peamine funktsioon, laieneb Gemini mõju teistele kasulikele (ja seotud) funktsioonidele Gmail is:
 
-- **Kontekstipõhised nutikad vastused:** põhilise nutika vastuse edasiarendus. See funktsioon [kasutab Gemini meili konteksti analüüsimiseks](https://ca.news.yahoo.com/latest-gmail-includes-1-risky-221406536.html) ning pakub üksikasjalikumaid, nüansirikkamaid ja terviklikumaid vastusevalikuid. Võite näha soovitusi sildiga "Taotlege lisateavet", "Kinnita ajakava" või "Viisakalt keelduda".
+- **Kontekstipõhised nutikad vastused:** põhilise nutika vastuse edasiarendus. See funktsioon [kasutab Gemini meili konteksti analüüsimiseks](https://blog.google/products/gmail/how-to-use-gemini-gmail-app/) ning pakub üksikasjalikumaid, nüansirikkamaid ja terviklikumaid vastusevalikuid. Võite näha soovitusi sildiga "Taotlege lisateavet", "Kinnita ajakava" või "Viisakalt keelduda".
 
 - **Aidake mul kirjutada:** See võimaldab teil esitada viipa ja Gemini koostab teie eest terve meili. See võib aidata ka teie enda mustandeid täpsustada (nt muuta ametlikumaks, lühendada, täpsustada). Kasulik, kuid jällegi kaldub kõlama üldisena, kui seda pole hoolikalt läbi vaadatud ja isikupärastatud.
 
 - **Gmail Küsimused ja vastused (mobiil):** Saate esitada Gemini ile otse oma postkasti kohta küsimusi, näiteks "Mis kell on minu lend?" või "Otsi e-kirju saatjalt \[saatja] \[projekti] kohta." See otsib teie meilidest vastuseid.
 
-- **Kokkuvõttekaardid:** need on veidi erinevad. Need kuvatakse automaatselt teie postkasti ülaosas teatud tüüpi meilisõnumite jaoks, nagu [tellimused, reisid, sündmused või arved](https://blog.google/products/gmail/how-to-use-gemini-gmail-app/), tõmbavad välja peamised andmed (nt jälgimisnumbrid või lennuajad) ja pakuvad toimingunuppe. See on rohkem andmete eraldamine kui põhiteksti kokkuvõte.
+- **Kokkuvõttekaardid:** need on veidi erinevad. Need kuvatakse automaatselt teie postkasti ülaosas teatud tüüpi meilisõnumite jaoks, nagu [tellimused, reisid, sündmused või arved](https://support.google.com/mail/answer/15195630?hl=en), tõmbavad välja peamised andmed (nt jälgimisnumbrid või lennuajad) ja pakuvad toimingunuppe. See on rohkem andmete eraldamine kui põhiteksti kokkuvõte.
 
 ## Võistlusmaastik: Gmail vs Outlook vs. spetsiaalsed tööriistad
 
-Gmail ei ole AI-d e-posti tootlikkuse suurendamiseks üksi. Microsoft Copilot pakub sarnaseid kokkuvõtete tegemise ja joonistamise võimalusi nii Outlook is kui ka laiemas Microsoft 365 komplektis. Võrdlustes tuuakse sageli esile, et [Copilotil võib praegu olla veidi küpsem integratsioon *kõigi* Office'i rakenduste](https://support.google.com/mail/answer/15195630?hl=en), samas kui Gemini saab kasu Google tohutust andmeökosüsteemist ja tehisintellekti uurimisest. Parim valik sõltub sageli sellest, millises ökosüsteemis (Google Workspace vs Microsoft 365) te peamiselt tegutsete.
+Gmail ei ole AI-d e-posti tootlikkuse suurendamiseks üksi. Microsoft Copilot pakub sarnaseid kokkuvõtete tegemise ja joonistamise võimalusi nii Outlook is kui ka laiemas Microsoft 365 komplektis. Võrdlustes tuuakse sageli esile, et [Copilotil võib praegu olla veidi küpsem integratsioon *kõigi* Office'i rakenduste](https://plusai.com/blog/microsoft-copilot-vs-google-gemini), samas kui Gemini saab kasu Google tohutust andmeökosüsteemist ja tehisintellekti uurimisest. Parim valik sõltub sageli sellest, millises ökosüsteemis (Google Workspace vs Microsoft 365) te peamiselt tegutsete.
 
-Lisaks nendele integreeritud hiiglastele eksisteerib kasvav turg kolmandate osapoolte tehisintellekti meiliassistentide jaoks. Sellised tööriistad nagu [Superhuman, Shortwave, SaneBox ja teised](https://plusai.com/blog/microsoft-copilot-vs-google-gemini) pakuvad erinevaid lähenemisviise, keskendudes mõnikord konkreetsetele niššidele, nagu äärmuslik kiirus, täiustatud filtreerimine, meeskonnatöö või täiustatud privaatsusfunktsioonid.
+Lisaks nendele integreeritud hiiglastele eksisteerib kasvav turg kolmandate osapoolte tehisintellekti meiliassistentide jaoks. Sellised tööriistad nagu [Superhuman, Shortwave, SaneBox ja teised](https://zapier.com/blog/best-ai-email-assistant/) pakuvad erinevaid lähenemisviise, keskendudes mõnikord konkreetsetele niššidele, nagu äärmuslik kiirus, täiustatud filtreerimine, meeskonnatöö või täiustatud privaatsusfunktsioonid.
 
-See on koht, kus lahendused nagu [Chiefy](https://zapier.com/blog/best-ai-email-assistant/) eraldavad oma ruumi. Kuigi algtööriistad pakuvad põhilist kokkuvõtet, võib neil puududa keeruliste töövoogude jaoks või tõeliselt isikliku kontakti säilitamiseks vajalik rafineeritus. Pühendunud assistendid keskenduvad sageli konkreetsete valupunktide lahendamisele, mida integreeritud tööriistad võivad vaid osaliselt lahendada.
+See on koht, kus lahendused nagu [Chiefy](https://chiefy.com/et) eraldavad oma ruumi. Kuigi algtööriistad pakuvad põhilist kokkuvõtet, võib neil puududa keeruliste töövoogude jaoks või tõeliselt isikliku kontakti säilitamiseks vajalik rafineeritus. Pühendunud assistendid keskenduvad sageli konkreetsete valupunktide lahendamisele, mida integreeritud tööriistad võivad vaid osaliselt lahendada.
 
 ## Kas teie jaoks piisab Gmail omakeelsest kokkuvõttest?
 

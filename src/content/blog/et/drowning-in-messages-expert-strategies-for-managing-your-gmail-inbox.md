@@ -74,17 +74,17 @@ Gmail ise pakub mitmeid funktsioone, mis on loodud kaose korraldamiseks, moodust
 
 - **Arhiveerimine:** oluline harjumus on arhiveerida meilid, millega olete tegelenud või mida te kohe ei vaja. See eemaldab need sisendkausta põhivaatest, vähendades segadust, kuid jätab need otsitavaks edaspidiseks kasutamiseks. Filtreid saab seadistada teatud tüüpi kirjade automaatseks arhiveerimiseks.
 
-- **Muud kasulikud funktsioonid:** Ärge unustage selliseid tööriistu nagu [Snooze](https://support.google.com/mail/answer/7465027?hl=en\&co=GENIE.Platform%3DDesktop) (e-kirjade hilisemaks kuvamiseks), [Vaigista vestlus](https://support.google.com/mail/answer/6588?hl=en\&co=GENIE.Platform%3DDesktop) (mürarikaste lõimede vaigistamiseks), [Mallid / valmisvastused](https://support.google.com/mail/answer/109594?hl=en\&co=GENIE.Platform%3DDesktop) (korduvate vastuste jaoks), [Ajasta saatmine](https://support.google.com/mail/answer/9214606?hl=en\&co=GENIE.Platform%3DDesktop) (e-kirjade ajastamiseks) ja [Undo Send](https://support.google.com/mail/answer/9214606?hl=en\&co=GENIE.Platform%3DDesktop) (vigade tagasivõtmiseks).
+- **Muud kasulikud funktsioonid:** Ärge unustage selliseid tööriistu nagu [Snooze](https://support.google.com/mail/answer/7465027?hl=en\&co=GENIE.Platform%3DDesktop) (e-kirjade hilisemaks kuvamiseks), [Vaigista vestlus](https://support.google.com/mail/answer/6588?hl=en\&co=GENIE.Platform%3DDesktop) (mürarikaste lõimede vaigistamiseks), [Mallid / valmisvastused](https://support.google.com/mail/answer/109594?hl=en\&co=GENIE.Platform%3DDesktop) (korduvate vastuste jaoks), [Ajasta saatmine](https://support.google.com/mail/answer/9214606?hl=en\&co=GENIE.Platform%3DDesktop) (e-kirjade ajastamiseks) ja [Undo Send](https://support.google.com/mail/answer/29420?hl=en\&co=GENIE.Platform%3DDesktop) (vigade tagasivõtmiseks).
 
 Kuigi see on võimas, võib väga detailse siltide ja filtrite süsteemi loomine ja hooldamine muutuda aeganõudvaks haldusülesandeks, mis võib potentsiaalselt takistada aja säästmise eesmärki, kui seda ei rakendata pragmaatiliselt.
 
 ### Aja blokeerimine ja e-posti hulgi töötlemine
 
-Selle asemel, et lasta meilil oma päeva dikteerida, annavad aja blokeerimine ja ülesannete komplekteerimine teile taas kontrolli. [Aja blokeerimine](https://support.google.com/mail/answer/29420?hl=en\&co=GENIE.Platform%3DDesktop) hõlmab teie kalendris konkreetsete ajaplokkide ajastamist spetsiaalsete ülesannete jaoks. [Task pakkimine](https://todoist.com/productivity-methods/time-blocking) tähendab sarnaste väikeste ülesannete rühmitamist ja nende kõigi korraga tegemist.
+Selle asemel, et lasta meilil oma päeva dikteerida, annavad aja blokeerimine ja ülesannete komplekteerimine teile taas kontrolli. [Aja blokeerimine](https://todoist.com/productivity-methods/time-blocking) hõlmab teie kalendris konkreetsete ajaplokkide ajastamist spetsiaalsete ülesannete jaoks. [Task pakkimine](https://hbr.org/2017/07/stop-switching-between-tasks-all-day-long) tähendab sarnaste väikeste ülesannete rühmitamist ja nende kõigi korraga tegemist.
 
-**Rakendamine:** rakendage seda meilidele, ajastades ainult [2–3 konkreetset piiratud plokki päevas](https://hbr.org/2017/07/stop-switching-between-tasks-all-day-long) ainult postkasti kontrollimiseks ja töötlemiseks. Väljaspool neid planeeritud aegu hoidke oma meilid suletuna ja märguanded välja lülitatuna.
+**Rakendamine:** rakendage seda meilidele, ajastades ainult [2–3 konkreetset piiratud plokki päevas](https://hbr.org/2012/07/stop-letting-email-control-your-life) ainult postkasti kontrollimiseks ja töötlemiseks. Väljaspool neid planeeritud aegu hoidke oma meilid suletuna ja märguanded välja lülitatuna.
 
-**Eelised:** see vähendab dramaatiliselt kulukaid kontekstivahetusi, võimaldades pikaajalist põhjalikku ja keskendunud tööd oma peamiste prioriteetide kallal. See sunnib tahtlikku e-kirjade aega ja aitab katkestada reaktsioonitsükli, kus postkast määrab teie päevakorra. Meilidele juurdepääsu piiramine on isegi [vähendab stressitaset](https://hbr.org/2012/07/stop-letting-email-control-your-life). E-kirjade lõpetamine fokuseeritud partiidena on üldiselt tõhusam kui hajutatud kontrollimine päeva jooksul.
+**Eelised:** see vähendab dramaatiliselt kulukaid kontekstivahetusi, võimaldades pikaajalist põhjalikku ja keskendunud tööd oma peamiste prioriteetide kallal. See sunnib tahtlikku e-kirjade aega ja aitab katkestada reaktsioonitsükli, kus postkast määrab teie päevakorra. Meilidele juurdepääsu piiramine on isegi [vähendab stressitaset](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work). E-kirjade lõpetamine fokuseeritud partiidena on üldiselt tõhusam kui hajutatud kontrollimine päeva jooksul.
 
 ### Analüüs: kas käsitsi meetoditest piisab suure mahuga postkastide jaoks?
 
@@ -109,9 +109,9 @@ Kui manuaalsed strateegiad tunduvad nagu kaotatud võitlus meilivoolu vastu, võ
 
 ### Teie postkasti lisaseadmed: Gmail laiendused ja spetsiaalsed kliendid
 
-Turg on üle ujutatud tööriistadega, mis on loodud Gmail i natiivsete võimete suurendamiseks. Chrome'i laiendused, nagu [Right Inbox](https://www.researchgate.net/publication/264449618_Reducing_Email_Use_Does_It_Reduce_Stress_and_Increase_Focused_Work), [Streak](https://www.rightinbox.com/), [Gmelius](https://www.streak.com/), [Todoist for Gmail](https://gmelius.com/) ja [Boomerang](https://todoist.com/integrations/apps/gmail) lisavad konkreetseid funktsioone otse [[D7,Ring]dulliidesesse [[D7,Ring] meilid, integreeritud ülesannete haldus, CRM-i funktsioonid või täiustatud mallid.
+Turg on üle ujutatud tööriistadega, mis on loodud Gmail i natiivsete võimete suurendamiseks. Chrome'i laiendused, nagu [Right Inbox](https://www.rightinbox.com/), [Streak](https://www.streak.com/), [Gmelius](https://gmelius.com/), [Todoist for Gmail](https://todoist.com/integrations/apps/gmail) ja [Boomerang](https://www.boomeranggmail.com/) lisavad konkreetseid funktsioone otse [D7,Ring]dulliidesesse [D7,Ring] meilid, integreeritud ülesannete haldus, CRM-i funktsioonid või täiustatud mallid.
 
-Alternatiivina pakuvad spetsiaalsed meilikliendid nagu [Microsoft Outlook](https://www.boomeranggmail.com/), [Spark](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Mailbird](https://sparkmailapp.com/) või [Superhuman](https://www.getmailbird.com/) täiesti erinevaid liideseid ja kasutuskogemusi. Need keskenduvad sageli konkreetsetele vajadustele, nagu Outlook i "[Focused Inbox](https://superhuman.com/)" prioritiseerimiseks, Sparki disain suurte helitugevuste haldamiseks või Superhumani kiirus ja otseteedel põhinev töövoog.
+Alternatiivina pakuvad spetsiaalsed meilikliendid nagu [Microsoft Outlook](https://www.microsoft.com/en-us/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook), [Spark](https://sparkmailapp.com/), [Mailbird](https://www.getmailbird.com/) või [Superhuman](https://superhuman.com/) täiesti erinevaid liideseid ja kasutuskogemusi. Need keskenduvad sageli konkreetsetele vajadustele, nagu Outlook i "[Focused Inbox](https://support.microsoft.com/en-us/office/focused-inbox-for-outlook-f445ad7f-02f4-4294-a82e-71d8964e3978)" prioritiseerimiseks, Sparki disain suurte helitugevuste haldamiseks või Superhumani kiirus ja otseteedel põhinev töövoog.
 
 Kuigi need tööriistad on abiks, tegelevad need sageli pigem konkreetsete valupunktidega kui tervikliku väljakutsega, milleks on suure mahuga postkastide tõhus haldamine. Laiendused võivad lisada segadust või keerukust ning teisele meilikliendile üleminek tähendab tuttavast Gmail keskkonnast lahkumist. Nende arvukate tööriistade olemasolu ja populaarsus rõhutavad põhipunkti: paljude võimsate kasutajate jaoks ei piisa ainult natiivsest Gmail ist, et hallata kaasaegse e-posti nõudeid, mistõttu tekib selge vajadus integreeritumate ja intelligentsemate lahenduste järele.
 
@@ -130,7 +130,7 @@ Nende assistentide eesmärk ei ole mitte ainult teha asju _kiiremalt_, vaid teha
 
 ### Küsimuste ja vastuste väljavõte: "Kas tehisintellekti meiliassistendid on turvalised ja privaatsed?"
 
-See on tõsine mure: tehisintellekti tööriistal teie meilile juurdepääsu lubamine võib paljastada tundlikku teavet. Riskid on reaalsed, sealhulgas andmetega seotud rikkumised, teie privaatsete e-kirjade kasutamine ilma nõusolekuta AI mudelite koolitamiseks, võimalik väärkasutus profiilide koostamiseks ja privaatsuseeskirjade, nagu [GDPR](https://support.microsoft.com/en-us/office/focused-inbox-for-outlook-f445ad7f-02f4-4294-a82e-71d8964e3978) või [CCPA](https://gdpr-info.eu/) mittejärgimine.
+See on tõsine mure: tehisintellekti tööriistal teie meilile juurdepääsu lubamine võib paljastada tundlikku teavet. Riskid on reaalsed, sealhulgas andmetega seotud rikkumised, teie privaatsete e-kirjade kasutamine ilma nõusolekuta AI mudelite koolitamiseks, võimalik väärkasutus profiilide koostamiseks ja privaatsuseeskirjade, nagu [GDPR](https://gdpr-info.eu/) või [CCPA](https://oag.ca.gov/privacy/ccpa) mittejärgimine.
 
 Mainekad tehisintellekti e-posti abipakkujad võtavad neid muresid aga tõsiselt ning rakendavad tugevaid turva- ja privaatsusmeetmeid. Tööriista hindamisel otsige:
 
@@ -138,7 +138,7 @@ Mainekad tehisintellekti e-posti abipakkujad võtavad neid muresid aga tõsiselt
 
 - **Selged andmekasutuseeskirjad:** kas neis on sõnaselgelt öeldud, et teie meili sisu _ei_ kasutata nende üldiste AI-mudelite koolitamiseks ilma teie nõusolekuta?
 
-- **Vastavussertifikaadid:** kas need järgivad tunnustatud turbe- ja privaatsusstandardeid, nagu [SOC 2](https://oag.ca.gov/privacy/ccpa) või GDPR?
+- **Vastavussertifikaadid:** kas need järgivad tunnustatud turbe- ja privaatsusstandardeid, nagu [SOC 2](https://www.aicpa.org/topic/audit-assurance/audit-and-assurance-offerings/soc-reporting) või GDPR?
 
 - **Läbipaistvus:** kas nende privaatsuspoliitika ja andmetöötluse tavad on selged ja kergesti arusaadavad?
 
@@ -157,13 +157,13 @@ AI e-posti assistendid liiguvad kaugemale lihtsast automatiseerimisest; need pak
 
 **Kasu:** selle asemel, et hunnikusse kaevata, toob tehisintellekt automaatselt esile meilid, mis nõuavad viivitamatut tegutsemist. See vähendab drastiliselt sorteerimisaega, tagab, et kriitilised üksused ei jää vahele, vähendab postkasti ülekoormusest tulenevat stressi ja võimaldab teil suunata oma energia mõjukale tööle, mitte postkasti haldamisele.
 
-**Chiefy Link (kontekstuaalne):** _See intelligentne sortimine on täpselt see, mida hõivatud professionaalid vajavad. Seal paistavad silma sellised tööriistad nagu _[_Chiefy_](https://www.aicpa.org/topic/audit-assurance/audit-and-assurance-offerings/soc-reporting)_, mis kasutavad kiireloomulisuse, vajalike toimingute ja otsuste analüüsimiseks **AI Triage**, esitades need selgelt **Focused Dashboardil**, et saaksite kohe teada, mis vajab tähelepanu._
+**Chiefy Link (kontekstuaalne):** _See intelligentne sortimine on täpselt see, mida hõivatud professionaalid vajavad. Seal paistavad silma sellised tööriistad nagu _[_Chiefy_](https://chiefy.com/et)_, mis kasutavad kiireloomulisuse, vajalike toimingute ja otsuste analüüsimiseks **AI Triage**, esitades need selgelt **Focused Dashboardil**, et saaksite kohe teada, mis vajab tähelepanu._
 
 ### Nutikas kokkuvõte: pikkade lõimede ja manuste mõistmine koheselt
 
 **Probleem:** Pika ja keerulise meilivestlusega kursis olemine või tiheda PDF-manuse seedimine võib tunduda omaette uurimisprojektina. Võtmeotsused ja tegevusüksused lähevad sageli mahus kaduma.
 
-**AI lahendus:** AI kokkuvõtete tegemisel kasutatakse keerukaid NLP tehnikaid (nii [võtmelausete eraldamine](https://chiefy.com/et) kui ka [uue, kokkuvõtliku fraasi loomine](https://aws.amazon.com/what-is/extractive-text-summarization/)), et koondada pikad meililõimed ja isegi lisatud dokumendid kergesti seeditavateks kokkuvõteteks. See tuvastab ja tõstab esile põhisõnumi, tehtud võtmeotsuseid ja silmapaistvaid tegevusüksusi, mõistes vestluse konteksti.
+**AI lahendus:** AI kokkuvõtete tegemisel kasutatakse keerukaid NLP tehnikaid (nii [võtmelausete eraldamine](https://aws.amazon.com/what-is/extractive-text-summarization/) kui ka [uue, kokkuvõtliku fraasi loomine](https://aws.amazon.com/what-is/abstractive-text-summarization/)), et koondada pikad meililõimed ja isegi lisatud dokumendid kergesti seeditavateks kokkuvõteteks. See tuvastab ja tõstab esile põhisõnumi, tehtud võtmeotsuseid ja silmapaistvaid tegevusüksusi, mõistes vestluse konteksti.
 
 **Kasu:** säästab tohutult lugemisaega, võimaldades mõista keeruka arutelu olemust sekunditega. See vähendab kognitiivset koormust, hoiab ära näpunäidetest põhjustatud arusaamatusi ja tagab, et teil on vajalik kontekst, et tõhusalt reageerida ilma terveid ajalugu uuesti lugemata.
 
@@ -217,4 +217,4 @@ Tehnoloogia, eriti intelligentsete tehisintellekti meiliassistentide kasv, pakub
 
 Oma Gmail valdamine ei seisne ainult korras digitaalse ruumi saavutamises. See seisneb töökohastressi olulises vähendamises, iga nädala tundide väärtusliku aja taaskasutamises, teie võime kaitsmises keskenduda sügavale, sisukale tööle ning lõppkokkuvõttes teie üldise tõhususe ja heaolu suurendamisele. Segades läbimõeldult distsiplineeritud harjumused intelligentsete tööriistade strateegilise kasutamisega, saate muuta oma postkasti hirmuallikast hallatavaks suhtluskeskuseks.
 
-Kas olete valmis kogema, kuidas AI võib teie suhet meiliga muuta? Astu esimene samm rahulikuma ja produktiivsema tööpäeva suunas. Uurige, kuidas [Chiefy](https://aws.amazon.com/what-is/abstractive-text-summarization/) kasutab tehisintellekti triaaži, nutikat kokkuvõtet ja autentset joonistamist, et aidata hõivatud professionaalidel nagu teie postkasti vallutada.
+Kas olete valmis kogema, kuidas AI võib teie suhet meiliga muuta? Astu esimene samm rahulikuma ja produktiivsema tööpäeva suunas. Uurige, kuidas [Chiefy](https://chiefy.com/et) kasutab tehisintellekti triaaži, nutikat kokkuvõtet ja autentset joonistamist, et aidata hõivatud professionaalidel nagu teie postkasti vallutada.

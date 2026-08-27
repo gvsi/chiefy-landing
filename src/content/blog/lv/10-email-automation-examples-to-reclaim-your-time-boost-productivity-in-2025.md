@@ -35,7 +35,7 @@ Lai gan šo noteikumu iestatīšana ir vienkārša, tā sniedz tūlītēju atvie
 
 Gatavs pacelties nākamajā līmenī? Mākslīgā intelekta e-pasta asistenti paceļ šķirošanu pilnīgi jaunā dimensijā. Tādi rīki kā [SaneBox](https://www.sanebox.com/) izmanto mākslīgā intelekta algoritmus, lai analizētu jūsu e-pasta paradumus un automātiski filtrētu nesvarīgus e-pastus atsevišķās mapēs (piemēram, “SaneLater”), saglabājot galveno iesūtni rezervētu kritiski svarīgiem ziņojumiem. Tie var arī atgādināt, ka ir jāseko līdzi e-pastiem, uz kuriem nav saņemta atbilde.
 
-Vēl sarežģītāki risinājumi sniedzas tālāk. Šeit izceļas tādi rīki kā [Chiefy](https://chiefy.com/lv/lv) ar **AI Triage**. Tā vietā, lai tikai filtrētu, Chiefy analizē ienākošos e-pastus, lai noteiktu steidzamību, nepieciešamās darbības vai lēmumus, un šos kritiskos vienumus attēlo fokusētā informācijas panelī. Tas nozīmē, ka jūs uzreiz redzat, kam jāpievērš uzmanība, manuāli nepārbaudot visu, ievērojami samazinot kārtošanas laiku un nodrošinot, ka svarīga saziņa netiek aprakta.
+Vēl sarežģītāki risinājumi sniedzas tālāk. Šeit izceļas tādi rīki kā [Chiefy](https://chiefy.com/lv) ar **AI Triage**. Tā vietā, lai tikai filtrētu, Chiefy analizē ienākošos e-pastus, lai noteiktu steidzamību, nepieciešamās darbības vai lēmumus, un šos kritiskos vienumus attēlo fokusētā informācijas panelī. Tas nozīmē, ka jūs uzreiz redzat, kam jāpievērš uzmanība, manuāli nepārbaudot visu, ievērojami samazinot kārtošanas laiku un nodrošinot, ka svarīga saziņa netiek aprakta.
 
 ## Gudrāka komunikācija: automatizētas un ar mākslīgo intelektu atbalstītas atbildes
 
@@ -59,7 +59,7 @@ Vienkārši ievietojiet veidni, nedaudz personalizējiet to, ja nepieciešams, u
 
 Īstais revolucionārais risinājums ir mākslīgais intelekts, kas palīdz *rakstīt* jūsu e-pastus. Tādi rīki kā [Flowrite](https://flowrite.com/) var pārvērst īsas instrukcijas nosūtīšanai gatavos e-pastos. Citi mākslīgā intelekta palīgi, piemēram, [Compose AI](https://www.compose.ai/) vai Gmail viedā rakstīšana, piedāvā viedu automātisko pabeigšanu un ieteikumus rakstīšanas laikā.
 
-Tomēr vismodernākie rīki apgūst jūsu unikālo komunikācijas stilu. [Chiefy Authentic AI Drafting](https://chiefy.com/lv/lv) analizē jūsu iepriekš nosūtītās ziņas, lai izprastu jūsu specifisko toni, vārdu krājumu un formulējumu. Kad jums ir jāatbild, tas piedāvā vairākas kontekstam atbilstošas melnraksta iespējas, kas patiesi atbilst *jūsu* stilam. Tas ievērojami paātrina atbildes laiku, vienlaikus saglabājot personisko pieskārienu, kas ir ļoti svarīgs profesionālām attiecībām.
+Tomēr vismodernākie rīki apgūst jūsu unikālo komunikācijas stilu. [Chiefy Authentic AI Drafting](https://chiefy.com/lv) analizē jūsu iepriekš nosūtītās ziņas, lai izprastu jūsu specifisko toni, vārdu krājumu un formulējumu. Kad jums ir jāatbild, tas piedāvā vairākas kontekstam atbilstošas melnraksta iespējas, kas patiesi atbilst *jūsu* stilam. Tas ievērojami paātrina atbildes laiku, vienlaikus saglabājot personisko pieskārienu, kas ir ļoti svarīgs profesionālām attiecībām.
 
 ## Nekad nepalaidiet garām ritmu: automatizācija plānošanai un turpmākai rīcībai
 
@@ -111,7 +111,7 @@ Tādi rīki kā [Gmelius](https://gmelius.com/blog/benefits-of-email-automation-
 
 Vai strādājat ar gariem e-pasta pavedieniem vai ziņojumiem? Mākslīgais intelekts pārveido to, kā mēs patērējam šo informāciju. Mākslīgā intelekta rīki var automātiski apkopot garus e-pastus vai veselus pavedienus, izvelkot galvenos punktus, lēmumus un darbības. [Superhuman](https://superhuman.com/ai) piedāvā automātiskas kopsavilkuma funkciju, un tādi rīki kā Microsoft Copilot platformā Outlook arī nodrošina kopsavilkumu veidošanu. Tādas platformas kā [Hiver](https://hiverhq.com/blog/ai-email-summarizer-tools) un [Mailbutler](https://www.mailbutler.io/blog/news/smart-summarize/) piedāvā īpašus mākslīgā intelekta kopsavilkumus.
 
-Tas ietaupa milzīgu laiku, iepazīstoties ar sarežģītām sarunām. [Chiefy apvieno **Smart Summarization** ar kontekstuālās izpratnes funkciju](https://chiefy.com/lv/lv), kas nozīmē, ka tas ne tikai saīsina garus pavedienus, bet arī atceras iepriekš minēto projektu un attiecību detaļas, nodrošinot, ka kopsavilkumi ir ļoti atbilstoši un praktiski izmantojami.
+Tas ietaupa milzīgu laiku, iepazīstoties ar sarežģītām sarunām. [Chiefy apvieno **Smart Summarization** ar kontekstuālās izpratnes funkciju](https://chiefy.com/lv), kas nozīmē, ka tas ne tikai saīsina garus pavedienus, bet arī atceras iepriekš minēto projektu un attiecību detaļas, nodrošinot, ka kopsavilkumi ir ļoti atbilstoši un praktiski izmantojami.
 
 ![Ekrānuzņēmums, kurā redzama Chiefy viedā e-pasta kopsavilkuma funkcija, kas garu e-pasta pavedienu saīsina galvenajos punktos un darbību vienumos.](/blog/images/UthcCfnGr6tGwT6uc3SMBiO0Y3A.jpg)
 
@@ -135,7 +135,7 @@ Uzņēmumi, kas izmanto mārketinga automatizāciju, ievērojami palielina kvali
 
 - **Mārketinga automatizācijas platformas (MAP):** Tādi rīki kā Mailchimp, ActiveCampaign, HubSpot, Klaviyo, Brevo u. c. ir jaudīgi liela mēroga e-pasta mārketinga kampaņu vadīšanai, klientu ceļojumu pārvaldībai, potenciālo klientu vērtēšanai un bieži vien ietver CRM iespējas. Tie ir lieliski piemēroti mārketinga un pārdošanas komandām, taču var būt pārspīlēti vai mazāk koncentrēti uz individuālu iesūtnes produktivitāti.
 
-- **Mākslīgā intelekta e-pasta asistenti un produktivitātes rīki:** Tādi rīki kā SaneBox, Flowrite, Gmelius, Superhuman un [Chiefy](https://chiefy.com/lv/lv) ir īpaši izstrādāti, lai uzlabotu individuālo vai komandas e-pasta produktivitāti. Tie koncentrējas uz iesūtnes pārvaldības problēmu risināšanu, piemēram, triāžu, rakstīšanas, apkopošanas, sadarbības un darbplūsmas integrāciju e-pasta vidē. Tie bieži vien ir labāk piemēroti aizņemtiem profesionāļiem, ārštata darbiniekiem un zināšanu darbiniekiem, kuri ikdienā slīkst e-pastā.
+- **Mākslīgā intelekta e-pasta asistenti un produktivitātes rīki:** Tādi rīki kā SaneBox, Flowrite, Gmelius, Superhuman un [Chiefy](https://chiefy.com/lv) ir īpaši izstrādāti, lai uzlabotu individuālo vai komandas e-pasta produktivitāti. Tie koncentrējas uz iesūtnes pārvaldības problēmu risināšanu, piemēram, triāžu, rakstīšanas, apkopošanas, sadarbības un darbplūsmas integrāciju e-pasta vidē. Tie bieži vien ir labāk piemēroti aizņemtiem profesionāļiem, ārštata darbiniekiem un zināšanu darbiniekiem, kuri ikdienā slīkst e-pastā.
 
 Pareizā izvēle ir atkarīga no jūsu galvenā mērķa. Ja tas ir kampaņu pārvaldība, apsveriet MAP. Ja tas ir personīgās iesūtnes iekarošana un laika atgūšana, izpētiet mākslīgā intelekta palīgus un produktivitātes rīkus.
 
@@ -161,4 +161,4 @@ E-pastam nav jābūt jūsu laika un enerģijas tērēšanai. Stratēģiski ievie
 
 Sākot ar ziņojumu automātisku kārtošanu un prioritāšu noteikšanu un beidzot ar atbilžu rakstīšanu balsī, garu pavedienu apkopošanu un savlaicīgu turpmāko atbildu nodrošināšanu, iespējas ir plašas. Sāciet, nosakot savas lielākās e-pasta problēmu zonas, un ieviesiet vienu vai divus automatizācijas piemērus no šī saraksta. Jūs varētu būt pārsteigts, cik ātri atgūsiet kontroli un koncentrēšanos.
 
-Vai esat gatavs izbaudīt stresa nesaturošu e-pasta pārvaldību, ko nodrošina mākslīgais intelekts? Izpētiet, kā tādi rīki kā [Chiefy](https://chiefy.com/lv/lv) var vienkāršot jūsu iesūtni, izmantojot inteliģentu atlasi, autentiskus ziņojumus un viedus kopsavilkumus, palīdzot jums atgūt vērtīgo laiku tam, kas patiešām ir svarīgs.
+Vai esat gatavs izbaudīt stresa nesaturošu e-pasta pārvaldību, ko nodrošina mākslīgais intelekts? Izpētiet, kā tādi rīki kā [Chiefy](https://chiefy.com/lv) var vienkāršot jūsu iesūtni, izmantojot inteliģentu atlasi, autentiskus ziņojumus un viedus kopsavilkumus, palīdzot jums atgūt vērtīgo laiku tam, kas patiešām ir svarīgs.
