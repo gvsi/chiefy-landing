@@ -9,17 +9,17 @@ It is a static site built with **Astro** and **Tailwind CSS**, hosted on **Cloud
 
 ## Design Guidelines
 
-See `../DESIGN_SYSTEM.md` for comprehensive design guidelines including:
-- Brand identity (colors, typography, design philosophy)
-- UI patterns and components (buttons, layout, spacing)
-- Editorial/blog styling (`.duet-prose` patterns)
-- Glassmorphism, gradients, and visual effects
-- Accessibility and performance standards
+The `chiefy-design` system is the source of truth for brand identity, tokens, type,
+components, and assets — use its tokens via `var(--chiefy-*)`, never hard-code hex or
+fonts. See `../chiefy-design/project/README.md`, or the `chiefy-design` skill.
+Craft and speed standards (including the landing LCP ≤ 2.0s budget) live in
+`../CONSTITUTION.md`.
 
 **Landing-specific constraints:**
 - Zero-JavaScript by default (HTML/CSS first)
 - Static images (AVIF/WebP) with explicit dimensions
-- Simple static links to `app.chiefy.com`
+- Links point at `app.chiefy.com` (primary); `app.duetmail.com` remains a dual-homed
+  alias, so don't treat an existing `duetmail.com` link as a bug on sight
 
 ## Tech Stack
 - **Framework:** Astro (Static Site Generation)
