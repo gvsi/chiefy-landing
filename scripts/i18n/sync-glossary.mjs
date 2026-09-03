@@ -9,7 +9,18 @@ const localSourcePath = path.join(repoRoot, "src/i18n/glossary.source.json")
 const args = new Set(process.argv.slice(2))
 const rootArg = process.argv.find((arg) => arg.startsWith("--root="))
 
-const providerTerms = ["Gmail", "Outlook", "Google", "Microsoft", "Stripe"]
+const providerTerms = [
+    "Gmail",
+    "Outlook",
+    "Google",
+    "Microsoft",
+    "Stripe",
+    "Amazon Web Services",
+    "AWS",
+    "Amazon ElastiCache",
+    "Amazon EBS",
+    "Amazon S3",
+]
 const claimSensitiveTerms = ["billing", "compliance", "pricing", "privacy", "security", "trial"]
 const lockedTermOrder = [
     "Duet Mail",

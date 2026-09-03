@@ -10,14 +10,32 @@
     "Smart Drafts",
     "Stripe",
     "Pro",
-    "Chiefy"
+    "AWS Bedrock",
+    "AWS Fargate",
+    "AWS Key Management Service (AWS KMS)",
+    "Amazon EBS",
+    "Amazon ElastiCache",
+    "Amazon S3",
+    "Amazon Web Services (AWS)",
+    "Auto Labels",
+    "Calendar Integration",
+    "Chiefy",
+    "Connected Mailboxes",
+    "Smart Summaries",
+    "us-east-1",
+    "us-east-2"
   ],
   "provider_terms": [
     "Gmail",
     "Outlook",
     "Google",
     "Microsoft",
-    "Stripe"
+    "Stripe",
+    "Amazon Web Services",
+    "AWS",
+    "Amazon ElastiCache",
+    "Amazon EBS",
+    "Amazon S3"
   ],
   "claim_sensitive_terms": [
     "billing",
