@@ -166,6 +166,15 @@
 <p>Email content and any data derived from Your mailbox are never used for advertising, are never sold, and are never
   transferred to advertising platforms or data brokers. See the &quot;Google API Services User Data Policy &mdash;
   Limited Use&quot; section below.</p>
+<p>We use Amazon Web Services (AWS) today for artificial-intelligence model inference through AWS Bedrock and for
+  encrypted storage of email-derived vector data and snapshots on Amazon EBS and Amazon S3 in the US East (Ohio)
+  Region. As part of Our infrastructure migration, We will also use AWS Fargate in US East (Ohio) for application
+  compute, Amazon ElastiCache for operational caching, and AWS Key Management Service (AWS KMS) for encryption-key
+  management. AWS Bedrock may process model inputs in other AWS regions when We use a cross-region or global inference
+  profile.</p>
+<p>Email-derived vector data includes numerical embeddings and pseudonymous account and message metadata used to find
+  relevant conversations. The vector index does not contain raw email text, subjects, email addresses, or attachments.
+  We nevertheless treat embeddings as Personal Data because information about source text may be inferred from them.</p>
 <p>When You invoke Chiefy from ChatGPT, the information needed to answer Your request or complete Your requested
   action may be transmitted to OpenAI so ChatGPT can display results, help You reason about Your email, or help create
   drafts. OpenAI's processing of information inside ChatGPT is governed by OpenAI's own terms and privacy policy.</p>
@@ -314,6 +323,9 @@
   where the parties involved in the processing are located. It means that this information may be transferred to — and
   maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where
   the data protection laws may differ than those from Your jurisdiction.</p>
+<p>Our primary AWS region for application compute, operational caching, encryption-key management, and email-derived
+  vector storage is <strong>US East (Ohio), <code>us-east-2</code></strong>. AWS Bedrock model inference may use other
+  AWS regions when We select a cross-region or global inference profile.</p>
 <p>Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that
   transfer.</p>
 <p>The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance
@@ -348,9 +360,15 @@
 <p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet,
   or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your
   Personal Data, We cannot guarantee its absolute security.</p>
+<p>We use client-side field-level encryption for stored mailbox content and OAuth credentials. Before AWS application
+  compute handles user data, We will move custody of the customer master key that wraps the data-encryption key from
+  Google Cloud KMS to a customer-managed AWS KMS key in US East (Ohio). This change does not re-encrypt or copy mailbox
+  records. Email-derived vector data is stored on encrypted Amazon EBS volumes and in server-side encrypted Amazon S3
+  snapshots with public access blocked.</p>
 <h2>Detailed Information on the Processing of Your Personal Data</h2>
-<p>The Service Providers We use may have access to Your Personal Data. These third-party vendors collect, store, use,
-  process and transfer information about Your activity on Our Service in accordance with their Privacy Policies.</p>
+<p>The Service Providers We use may have access to Your Personal Data. These third-party vendors may collect, store,
+  use, process and transfer Personal Data only as needed to provide their contracted services to Us and in accordance
+  with their applicable privacy and data-protection terms.</p>
 <h3>Analytics</h3>
 <p>We may use third-party Service providers to monitor and analyze the use of our Service.</p>
 <ul>
@@ -500,6 +518,17 @@
 <h3>Usage, Performance and Miscellaneous</h3>
 <p>We may use third-party Service Providers to maintain and improve our Service.</p>
 <ul>
+  <li>
+    <p><strong>Amazon Web Services (AWS)</strong></p>
+    <p>We use AWS Bedrock today for artificial-intelligence model inference and use Amazon EBS and Amazon S3 in US East
+      (Ohio) to store encrypted email-derived vector data and snapshots. As part of Our infrastructure migration, We
+      will also use AWS Fargate in US East (Ohio) for application hosting and compute, Amazon ElastiCache for operational
+      caching, and AWS KMS for encryption-key management. These services may process mailbox content, account
+      information, and data derived from mailbox content as necessary to provide and secure the Service. AWS Bedrock may
+      process model inputs in other AWS regions when We use a cross-region or global inference profile.</p>
+    <p>AWS’s Privacy Notice can be viewed at <a href="https://aws.amazon.com/privacy/"
+        rel="external nofollow noopener" target="_blank">https://aws.amazon.com/privacy/</a></p>
+  </li>
   <li>
     <p><strong>OpenAI</strong></p>
     <p>Their Privacy Policy can be viewed at <a href="https://openai.com/policies/row-privacy-policy/"
